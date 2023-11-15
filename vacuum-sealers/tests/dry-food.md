@@ -49,3 +49,7 @@ Sealing time is measured by the timer that starts from the time the sealer’s v
 *   25-30 seconds - 6 points
 *   30-35 seconds - 5 points
 *   Above 35 seconds - 0 point
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-vacuum-sealer-dry-food-test-clozj7zo500022k8899ev6o04.jpg" alt="The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds." width="640" height="427">
+
+The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds.
