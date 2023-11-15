@@ -1,7 +1,7 @@
 Overall Verdict
 ---------------
 
-Overall Score: **84.25**
+Overall Score: **8.4**
 
 *   Performance (50%) - **8.7**/10
     
@@ -37,7 +37,7 @@ The only thing to be nitpicky about this oven is that it doesn’t offer many co
 Performance
 -----------
 
-performance Scores: **87.2**
+performance Scores: **8.7**
 
 *   Toast (40%) - **8.1**/10
     
@@ -205,7 +205,7 @@ Our chef gave it an 8.7/10 for taste.
 Design: Simple but Effective
 ----------------------------
 
-design Scores: **91.5**
+design Scores: **9.2**
 
 *   Exterior (20%) - **9.0**/10
     
@@ -402,7 +402,7 @@ The build of the Cuisinart TOA-60 nails simplicity and durability from the mater
 Usability
 ---------
 
-usability Scores: **71.0**
+usability Scores: **7.1**
 
 *   User Control (30%) - **7.0**/10
     
