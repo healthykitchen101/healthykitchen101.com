@@ -1,7 +1,7 @@
 Overall Verdict
 ---------------
 
-Overall Score: **86.3**
+Overall Score: **8.6**
 
 *   Performance (50%) - **8.8**/10
     
@@ -33,7 +33,7 @@ Although a variety of Braun products have been on the market for more than 70 ye
 Performance: More Than a Little Surprised
 -----------------------------------------
 
-performance Scores: **87.6**
+performance Scores: **8.8**
 
 *   Hot Soup Purée (35%) - **8.5**/10
     
@@ -117,7 +117,7 @@ Compared to the rivals, our Braun MultiQuick-5 was 30 seconds faster at creating
 Design: Fine for the Price
 --------------------------
 
-design Scores: **80.5**
+design Scores: **8.1**
 
 *   Blending Shaft (30%) - **7.5**/10
     
@@ -259,7 +259,7 @@ To blend, just press and hold the appropriate speed button until the perfect tex
 Usability: Not Perfect but Great Enough
 ---------------------------------------
 
-usability Scores: **87.1**
+usability Scores: **8.7**
 
 *   Ease of Use (60%) - **8.6**/10
     
