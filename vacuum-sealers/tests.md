@@ -45,19 +45,19 @@ Following the evaluation of sealing performance, our team of reviewers thoroughl
 
 We focus on assessing four key components:
 
-### Build Quality (50%)
+### 1\. Build Quality (50%)
 
 We evaluate the overall construction and design of the sealer, looking for any design-related issues that could potentially impact its long-term durability.
 
-### Control Panel (20%)
+### 2\. Control Panel (20%)
 
 The control panel of the sealer, including buttons and indicator lights, is carefully assessed. We consider the layout's intuitiveness and ease of use.
 
-### Lid (20%)
+### 3\. Lid (20%)
 
 The lid is a crucial part of the sealer's functionality. Our reviewers examine its construction and the effectiveness of the locking mechanism.
 
-### Extra Features (10%)
+### 4\. Extra Features (10%)
 
 For mid-to-high-end models, extra features can enhance usability. If a model includes such features, our reviewers take them into account during the evaluation.
 
