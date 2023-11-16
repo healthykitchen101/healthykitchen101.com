@@ -20,9 +20,9 @@ Scoring Metrics
 
 The total score that the sealer gets in the dry food test is the sum of two sub-scores — performance and sealing time — divided by two.
 
-### Performance
+### Suction Strength
 
-Performance is measured by the vacuum pressure gauge in kPA.
+Suction strength is measured by the vacuum pressure gauge in kPA.
 
 *   Above 70 kPA - 10 points
 *   70-65 kPA - 9 points
