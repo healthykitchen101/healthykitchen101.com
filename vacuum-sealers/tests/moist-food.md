@@ -9,13 +9,13 @@ Testing Procedure
 
 We’ll fill a bag with 12.4 ounces (about 350 grams) of fresh mango slices, vacuum it, and seal it. The bag will be connected via an air hose with a vacuum pressure gauge, which measures the pressure in kPA. A timer is placed next to the sealer to count the time it takes for the sealer to finish a working session.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/fresh-mango-slices-for-vacuum-sealer-test-clozfj2rw0001ll88cvg3hlhm.jpg" alt="Fresh mango slices that will be used in the vacuum sealer performance test, weighing 12.4 ounces (350 grams.)" width="640" height="427">
-
-Fresh mango slices that will be used in the vacuum sealer performance test, weighing 12.4 ounces (350 grams.)
-
 Two measurements are taken for each model, and the results are averaged.
 
 The lower the pressure reading (in negative kPA,) the more air that has been removed from the bag. The time indicates how quickly the vacuum sealer can evacuate the air and seal the bag. Faster times are better for efficiency.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
+
+The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
 
 Scoring Metrics
 ---------------
@@ -49,10 +49,6 @@ Sealing time is measured by the timer that starts from when the sealer’s vacuu
 *   30-35 seconds - 6 points
 *   35-40 seconds - 5 points
 *   Below 40 seconds - 0 point
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
-
-The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
 
 References
 ----------
