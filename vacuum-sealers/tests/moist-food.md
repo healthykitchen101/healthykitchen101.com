@@ -1,6 +1,6 @@
-High-moisture foods like fruit slices have a short fridge life, typically a few days, according to the [USDA](https://ask.usda.gov/s/article/How-long-can-you-store-fruits-and-vegetables). By vacuum-sealing the food, which removes the air around it, extends freshness significantly.
-
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/moist-food-vacuum-sealer-test-cloziowrn00002k88ci4fd3wz.jpg" alt="Vacuum sealers arranged around a bag of fresh fruit slices and testing instruments, which include a vacuum gauge, timer, and a noise level meter." width="360" height="240">
+
+High-moisture foods like fruit slices have a short fridge life, typically a few days, according to the [USDA](https://ask.usda.gov/s/article/How-long-can-you-store-fruits-and-vegetables). By vacuum-sealing the food, which removes the air around it, extends freshness significantly.
 
 To find the best vacuum sealer, we tested various models, focusing on fresh mango slices. While moist foods need less suction power for a complete vacuum compared to dry foods like rice, the key remains effective air evacuation and fast operation.
 
