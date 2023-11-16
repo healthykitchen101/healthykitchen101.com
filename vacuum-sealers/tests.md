@@ -53,6 +53,8 @@ We evaluate the overall construction and design of the sealer, looking for any d
 
 The control panel of the sealer, including buttons and indicator lights, is carefully assessed. We consider the layout's intuitiveness and ease of use.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-vacuum-sealer-control-panel-cloxt79sp000dfi887smkfqvd.jpg" alt="The Nesco VS-12 vacuum sealer’s control panel includes a transparent window that looks into the bag roll compartment inside the sealer." width="360" height="240">
+
 ### 3\. Lid (20%)
 
 The lid is a crucial part of the sealer's functionality. Our reviewers examine its construction and the effectiveness of the locking mechanism.
@@ -60,8 +62,6 @@ The lid is a crucial part of the sealer's functionality. Our reviewers examine i
 ### 4\. Extra Features (10%)
 
 For mid-to-high-end models, extra features can enhance usability. If a model includes such features, our reviewers take them into account during the evaluation.
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-vacuum-sealer-control-panel-cloxt79sp000dfi887smkfqvd.jpg" alt="The Nesco VS-12 vacuum sealer’s control panel includes a transparent window that looks into the bag roll compartment inside the sealer." width="640" height="427">
 
 Usability (30%)
 ---------------
