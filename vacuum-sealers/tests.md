@@ -22,13 +22,17 @@ The performance of a vacuum sealer is closely linked to the strength of its suct
 
 The Inkbird Plus INK-VS01 performing a dry food test by packaging a bag of black rice grains. It achieved 62 kPA in 33 seconds, with a noise level of 57.5 dBA.
 
-*   **Dry Food Test (60%):** In our initial test, we use dry food, specifically black rice grains. We load a bag with 2.2 pounds (1 kilogram) of rice, vacuum it, and seal it. The bag is connected to a vacuum pressure gauge, which measures the pressure in kPA. We also time how quickly each sealing session is completed. We repeat this process twice for each model and then calculate the average results.
+### Dry Food Test (60%):
+
+In our initial test, we use dry food, specifically black rice grains. We load a bag with 2.2 pounds (1 kilogram) of rice, vacuum it, and seal it. The bag is connected to a vacuum pressure gauge, which measures the pressure in kPA. We also time how quickly each sealing session is completed. We repeat this process twice for each model and then calculate the average results.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-during-moist-food-test-cloxt5cmf000cfi88369c9f3o.jpg" alt="The Anova Precision Pro during a moist food test. The vacuum gauge shows a peak suction of 45 kPA after a 41-second test session. Noise level, according to the meter, s 77.6 dBA." width="360" height="240">
 
 The Anova Precision Pro during a moist food test. The vacuum gauge shows a peak suction of 45 kPA after a 41-second test session. Noise level, according to the meter, s 77.6 dBA.
 
-*   **Moist Food Test (40%):** The second test involves moist food and follows a similar procedure. We pack a plastic food bag with 12.4 ounces (350 grams) of fresh mango slices. The bag is inserted into the vacuum sealer, vacuumed, and sealed. A vacuum pressure gauge records the sealer's strength in kPA, and we use a timer to measure the duration of each operating session.
+### Moist Food Test (40%):
+
+The second test involves moist food and follows a similar procedure. We pack a plastic food bag with 12.4 ounces (350 grams) of fresh mango slices. The bag is inserted into the vacuum sealer, vacuumed, and sealed. A vacuum pressure gauge records the sealer's strength in kPA, and we use a timer to measure the duration of each operating session.
 
 Design (20%)
 ------------
