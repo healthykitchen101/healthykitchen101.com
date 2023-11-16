@@ -53,7 +53,7 @@ We evaluate the overall construction and design of the sealer, looking for any d
 
 The control panel of the sealer, including buttons and indicator lights, is carefully assessed. We consider the layout's intuitiveness and ease of use.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-vacuum-sealer-control-panel-cloxt79sp000dfi887smkfqvd.jpg" alt="The Nesco VS-12 vacuum sealer’s control panel includes a transparent window that looks into the bag roll compartment inside the sealer." width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-vacuum-sealer-control-panel-cloxt79sp000dfi887smkfqvd.jpg" alt="The Nesco VS-12 vacuum sealer’s control panel includes a transparent window that looks into the bag roll compartment inside the sealer." width="640" height="427">
 
 ### 3\. Lid (20%)
 
