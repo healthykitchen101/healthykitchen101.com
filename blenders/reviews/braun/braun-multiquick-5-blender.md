@@ -119,9 +119,9 @@ Design: Fine for the Price
 
 design Scores: **8.1**
 
-*   Blending Shaft (30%) - **7.5**/10
-    
 *   Build Quality (60%) - **8.0**/10
+    
+*   Blending Shaft (30%) - **7.5**/10
     
 *   Power Cord (5%) - **10**/10
     
