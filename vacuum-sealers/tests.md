@@ -1,4 +1,4 @@
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/how-we-test-vacuum-sealers-clozfbwkr0000ll8836ue9dvg.jpg" alt="Vacuum sealers we’ve tested in the lab, along with the testing instruments (vacuum gauge, timer, noise level meter) and vacuum-packed bags of fruit slices and grains" width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/how-we-test-vacuum-sealers-clozfbwkr0000ll8836ue9dvg.jpg" alt="Vacuum sealers we’ve tested in the lab, along with the testing instruments (vacuum gauge, timer, noise level meter) and vacuum-packed bags of fruit slices and grains" width="640" height="427">
 
 A vacuum sealer is a valuable tool for meal planning. It allows you to purchase ingredients in advance, seal them in vacuum bags, and store them in the fridge for later use. When you vacuum-pack your food and store it in the fridge, [it can stay fresh for 10-15 days](https://www.researchgate.net/publication/311982505_Effect_of_Vacuum_Packaging_Method_on_Shelf_Life_of_Chicken), compared to only 8-10 days without vacuum sealing under the same storage conditions.
 
