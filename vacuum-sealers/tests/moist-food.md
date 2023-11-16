@@ -13,14 +13,14 @@ Two measurements are taken for each model, and the results are averaged.
 
 The lower the pressure reading (in negative kPA,) the more air that has been removed from the bag. The time indicates how quickly the vacuum sealer can evacuate the air and seal the bag. Faster times are better for efficiency.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
-
-The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
-
 Scoring Metrics
 ---------------
 
 The total score that the sealer gets in the moist food test is the sum of two sub-scores — performance and sealing time — divided by two.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
+
+The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
 
 ### Performance 
 
