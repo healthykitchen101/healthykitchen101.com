@@ -38,10 +38,6 @@ Performance is measured by the vacuum pressure gauge in kPA.
 *   5-10 kPA - 1 point
 *   Below 5 kPA - 0 point
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs0100-during-moist-food-test-cloz51zij000lfi883lkb37c1.jpg" alt="The FoodSaver VS0100 vacuum sealer vacuum-packaging a bag of yellow mango slices. To the left is a vacuum gauge reading 45 kPA." width="640" height="427">
-
-The FoodSaver VS0100 during a moist food test. According to the vacuum gauge, the sealer reached a peak suction of 45 kPA. As a result, it received a performance score of 8/10 in this test.
-
 ### Sealing Time
 
 Sealing time is measured by the timer that starts from when the sealer’s vacuum activates to when it turns off and the bag is sealed.
