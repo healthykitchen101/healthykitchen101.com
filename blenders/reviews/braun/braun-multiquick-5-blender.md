@@ -132,6 +132,18 @@ The Braun MultuQuick-5 has a friendly-user design. Its 300-watt motor powers a r
 
 It, however, cannot run continuously more than a batch. To avoid being damaged, make sure you let your machine cool down for a couple of minutes between its operations.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckypkt0su0000935014to0sxr.jpg" alt="The package, motor body, blending shaft, plastic beaker, user manual, and whisk attachment of the Braun MultiQuick-5 Immersion Blender on a yellow table." width="300px" height="200px">
+
+*   Motor body 
+*   Blending shaft 
+*   Whisk attachment
+*   20-oz beaker 
+*   User manual
+
+The Braun MultiQuick-5 set includes 4 pieces: a blender motor body, a blending wand, a whisk attachment, and a 20-ounce beaker. Given more accessories than most other brands do, we supposed Braun is attempting to go head-to-head with its rivals, not just in blending performance, but with the overall versatility.
+
 ### Dimensions
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl6g8mk210017ek886zedalb7.jpg" alt="The Braun MQ505 standing on top of its blending shaft on a yellow table, with the length of the blending shaft being noted to the side as 6.7 inches, and the total length of the unit as 15 inches." width="300px" height="200px">
@@ -219,18 +231,6 @@ Dishwasher Safe: Yes
 Removable: Yes
 
 The Braun MultiQuick-5 is among a few hand blenders on the market that are shipped with a whisk attachment. This special add-on means to promote greater versatility, saving you from buying a hand mixer for beating egg-whites and emulsifying sauces.
-
-### In the Box
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckypkt0su0000935014to0sxr.jpg" alt="The package, motor body, blending shaft, plastic beaker, user manual, and whisk attachment of the Braun MultiQuick-5 Immersion Blender on a yellow table." width="300px" height="200px">
-
-*   Motor body 
-*   Blending shaft 
-*   Whisk attachment
-*   20-oz beaker 
-*   User manual
-
-The Braun MultiQuick-5 set includes 4 pieces: a blender motor body, a blending wand, a whisk attachment, and a 20-ounce beaker. Given more accessories than most other brands do, we supposed Braun is attempting to go head-to-head with its rivals, not just in blending performance, but with the overall versatility.
 
 ### Speed and Controls
 
