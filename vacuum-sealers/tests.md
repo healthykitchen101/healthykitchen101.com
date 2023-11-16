@@ -18,17 +18,17 @@ Performance (50%)
 
 The performance of a vacuum sealer is closely linked to the strength of its suction motor. A stronger motor is preferable as it can effectively remove more air from the bag, resulting in a tighter seal.
 
-*   **Dry Food Test (60%):** In our initial test, we use dry food, specifically black rice grains. We load a bag with 2.2 pounds (1 kilogram) of rice, vacuum it, and seal it. The bag is connected to a vacuum pressure gauge, which measures the pressure in kPA. We also time how quickly each sealing session is completed. We repeat this process twice for each model and then calculate the average results.
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-plus-ink-vs01-performing-dry-food-test-cloxt3eyp000bfi884g671b27.jpg" alt=" by packaging a bag of black rice grains. It achieved 62 kPA in 33 seconds, with a noise level of 57.5 dBA." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-plus-ink-vs01-performing-dry-food-test-cloxt3eyp000bfi884g671b27.jpg" alt=" by packaging a bag of black rice grains. It achieved 62 kPA in 33 seconds, with a noise level of 57.5 dBA." width="360" height="240">
 
 The Inkbird Plus INK-VS01 performing a dry food test by packaging a bag of black rice grains. It achieved 62 kPA in 33 seconds, with a noise level of 57.5 dBA.
 
-*   **Moist Food Test (40%):** The second test involves moist food and follows a similar procedure. We pack a plastic food bag with 12.4 ounces (350 grams) of fresh mango slices. The bag is inserted into the vacuum sealer, vacuumed, and sealed. A vacuum pressure gauge records the sealer's strength in kPA, and we use a timer to measure the duration of each operating session.
+*   **Dry Food Test (60%):** In our initial test, we use dry food, specifically black rice grains. We load a bag with 2.2 pounds (1 kilogram) of rice, vacuum it, and seal it. The bag is connected to a vacuum pressure gauge, which measures the pressure in kPA. We also time how quickly each sealing session is completed. We repeat this process twice for each model and then calculate the average results.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-during-moist-food-test-cloxt5cmf000cfi88369c9f3o.jpg" alt="The Anova Precision Pro during a moist food test. The vacuum gauge shows a peak suction of 45 kPA after a 41-second test session. Noise level, according to the meter, s 77.6 dBA." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-during-moist-food-test-cloxt5cmf000cfi88369c9f3o.jpg" alt="The Anova Precision Pro during a moist food test. The vacuum gauge shows a peak suction of 45 kPA after a 41-second test session. Noise level, according to the meter, s 77.6 dBA." width="360" height="240">
 
 The Anova Precision Pro during a moist food test. The vacuum gauge shows a peak suction of 45 kPA after a 41-second test session. Noise level, according to the meter, s 77.6 dBA.
+
+*   **Moist Food Test (40%):** The second test involves moist food and follows a similar procedure. We pack a plastic food bag with 12.4 ounces (350 grams) of fresh mango slices. The bag is inserted into the vacuum sealer, vacuumed, and sealed. A vacuum pressure gauge records the sealer's strength in kPA, and we use a timer to measure the duration of each operating session.
 
 Design (20%)
 ------------
