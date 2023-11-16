@@ -22,9 +22,9 @@ The total score that the sealer gets in the moist food test is the sum of two su
 
 The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
 
-### Performance 
+### Suction Strength
 
-Performance is measured by the vacuum pressure gauge in kPA.
+Suction strength is measured by the vacuum pressure gauge in kPA.
 
 *   Above 50 kPA - 10 points
 *   45-50 kPA - 9 points
