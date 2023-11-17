@@ -193,7 +193,7 @@ Type: 360°
 
 Cord Storage: Yes
 
-The Amazon Basics has a standard BPA-free plastic 360° swivel base (+2). We found that the kettle fit the base but not very firmly, possibly due to the coupler not completely fitting (+0). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4).
+The Amazon Basics has a standard BPA-free plastic 360° swivel base (+2). We found the kettle’s fit to the base not very firm, possibly due to the coupler not completely fitting (+0). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4).
 
 ### Power Cord
 
@@ -209,7 +209,7 @@ Cord Placement: Base
 
 Cord Length: 29.7" (75.5 cm)
 
-The Amazon Basics has a 29.72-inch flat power cord, which should be plenty enough for household use. A three-pronged plug is typically safer than a two-pronged one by having a grounding wire.
+The Amazon Basics has a 29.72-inch flat power cord, which should be enough for household use. Its three-pronged plug is grounded so typically safer than a two-pronged one.
 
 Usability
 ---------
@@ -223,7 +223,7 @@ usability Scores: **7.5**
 *   Cleaning (20%) - **7.0**/10
     
 
-The Amazon Basics don’t try to be anything more than it is— a standard and easy-to-use electric kettle. Thus, the kettle doesn’t create any unnecessary difficulties in controlling and using it.
+The Amazon Basics doesn’t try to be anything more than it is— a standard and easy-to-use electric kettle. Therefore, the kettle doesn’t create any unnecessary difficulties in controlling and using it.
 
 ### 7.0 - User Control
 
@@ -249,17 +249,17 @@ The Amazon Basics has a standard one-touch switch with no digital display or tem
 
 The power switch is made of clear plastic and is positioned near the bottom of the carafe along the handle. It also acts as the indicator light which will illuminate with a blue LED when the kettle is running (+2).
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+The kettle has an automatic shutoff feature which will activate when the thermal fuse detects that the temperature has reached boiling point (+2). You must keep the lid closed to use this feature, but if you forget to close the lid there is a boil-dry protection feature which turns off the kettle when no water is present (+2).
 
 ### 8.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/amazon-basics-electric-kettle-f-625c-ease-use-clkutkuiu000ku28883w84h0i.jpg" alt="A person in a dark green shirt pouring water from the Amazon Basics Electric Glass and Steel Kettle (F-625C) into a glass." width="300px" height="200px">
 
-The Amazon Basics is extremely simple to use, with only two distinctive buttons—one for power and one for opening the lid (+2).
+The Amazon Basics is extremely simple to use, with only two distinctive buttons—one for power and one for opening the lid (+2). No unpleasant odor was detected during the first boil—a sign of good material quality and upkeep before delivery.
 
-The handle felt good in the hand and seemed sturdy when we picked the kettle up—it was filled with water to the max (+2). It has a good pouring angle between the arm and the kettle, making the action effortless (+1).
+The handle felt good to grip and seemed sturdy when we picked the kettle up—it was filled with water to the max (+2). It has a good angle between the arm and the kettle, so pouring is effortless (+1).
 
-The unobstructed and large opening of 3.54 inches allowed us to comfortably pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
+The unobstructed and large opening of 3.54 inches allowed us to comfortably pour in water from the tap or even a water pitcher (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
 
 Because the kettle didn’t fit firmly onto the base, the whole thing kind of wobbled around when reaching boiling point. It wasn’t to a dangerous degree, but slightly noisy nonetheless (+0).
 
@@ -269,4 +269,4 @@ Due to the flat shape of the cord, it was a bit rigid to wrap around the cord st
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/amazon-basics-electric-kettle-f-625c-cleaning-clo82urqh0001zh88c5ma8noa.jpg" alt="A person in a blue shirt holding the Amazon Basics Electric Glass and Steel Kettle (F-625C) by its handle on one hand and the other hand wiping the carafe interior with a piece of tissue." width="300px" height="200px">
 
-Cleaning the Amazon Basics is very simple and effortless (+2). Its lid doesn’t get in the way and the opening is large enough for an adult hand to fit through and wipe the interior when necessary (+3). The limescale filter is removable for frequent cleaning and maintenance as well (+2).
+Cleaning the Amazon Basics is  effortless and easy (+2). Its lid doesn’t get in the way and the opening is large enough for an adult hand to fit through and wipe the interior (+3). The limescale filter is removable for frequent cleaning and maintenance as well (+2).
