@@ -78,7 +78,7 @@ We used a power meter to measure the Amazon Basics’ total energy consumption t
 
 Noise Level: 75 dB
 
-During boiling, the Amazon Basics’s noise level peaked at 75 dB while reaching a rolling simmer, which was lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result earned the kettle an 8.5/10.
+The [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB limit is for two hours of continuous noise exposure. During boiling, the Amazon Basics’s noise level peaked at 75 dB while reaching a rolling simmer. This result earned the kettle an 8.5/10.
 
 ### Keep Warm
 
