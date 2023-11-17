@@ -75,7 +75,7 @@ Power: 1160 W
 
 Energy Consumption: 158 W
 
-We used a power meter to measure the Bella’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 158 Wh which was our standard for a 6.4/10.
+We used a power meter to measure the Bella’s total energy consumption bringing 1.5 liters of room-temperature water to a rolling boil. The result was 158 Wh which was our standard for a 6.4/10.
 
 ### Noise Level
 
@@ -83,7 +83,7 @@ We used a power meter to measure the Bella’s total energy consumption to bring
 
 Noise Level: 73.1 dB
 
-During boiling, the Bella’s noise level peaked at 73.1 dB while reaching a rolling simmer, which was lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result earned the kettle an 8.7/10.
+The Bella’s noise level peaked at 73.1 dB while reaching a rolling simmer. According to the  [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.), 80 dB for a duration of 2 hours is a threshold level, so there is not much to worry about. This result earned the kettle an 8.7/10.
 
 ### Keep Warm
 
