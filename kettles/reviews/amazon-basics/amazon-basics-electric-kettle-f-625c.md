@@ -54,7 +54,7 @@ Water Volume: 1.5 liters
 
 Boiling Time: 7m 13s
 
-For the common electric kettles (not gooseneck) like the Amazon Basics, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The product took 6 minutes and 57 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+For the common electric kettles (not gooseneck) like the Amazon Basics, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The kettle took 6 minutes and 57 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
 
 This result was quite fast and matched with the kettle’s 1500 W of power, worthy of a 7.8/10.
 
