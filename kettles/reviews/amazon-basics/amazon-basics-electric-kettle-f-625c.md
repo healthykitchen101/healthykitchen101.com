@@ -163,7 +163,7 @@ Materials: BPA-free plastic
 
 Type: Cool-touch
 
-The cool-touch handle is made of BPA-free plastic (+3). Its design is standard, without an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4).
+The cool-touch handle is made of BPA-free plastic (+3). It’s a simple design without an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4).
 
 ### 8.0 - Lid
 
