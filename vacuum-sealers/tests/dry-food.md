@@ -1,4 +1,4 @@
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/dry-food-test-cloxsyj6e000afi88fbsm95df.jpg" alt="A collection of best vacuum sealers and testing instruments on a blue surface. There’s a vacuum gauge, a sound level meter, a timer, and a vacuum sealed bag with black rice grains." width="250" height="167">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/dry-food-test-cloxsyj6e000afi88fbsm95df.jpg" alt="A collection of best vacuum sealers and testing instruments on a blue surface. There’s a vacuum gauge, a sound level meter, a timer, and a vacuum sealed bag with black rice grains." width="360" height="240">
 
 If you want to preserve your food for longer and reduce wastage, there aren’t any better ways than vacuum sealing. Pack up the food in a plastic bag and put it in the fridge. The airtight environment, combined with the coolness of the fridge, will significantly improve the shelf-life of the food (by days, even weeks!)
 
