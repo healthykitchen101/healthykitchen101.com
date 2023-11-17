@@ -17,9 +17,9 @@ We were hoping to recommend this kettle for the senior tea enthusiasts. However,
 **Things We Like**
 
 *   Attractive design
-*   Gooseneck spout for making tea
+*   Gooseneck spout for tea
 *   Rare ceramic carafe
-*   Affordable
+*   Well-priced
 *   Tight lid
 
 **Things We Don’t Like**
