@@ -9,9 +9,9 @@ Testing Procedure
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/weighing-black-rice-for-dry-food-test-clp0qcnhl0000vo88cp95ateh.jpg" alt="Measuring the weight of a bag of black rice grains that would later be used as part of the dry food test for our vacuum sealers." width="640" height="427">
 
-We will begin by filling a bag with 35.2 ounces (1 kilogram) of rice, vacuuming it, and sealing it. The bag will be connected to a vacuum pressure gauge, which measures the pressure in kPA. Additionally, we will time how long each sealing session takes using a timer.
+We will begin by filling a bag with 2.2 pounds (1 kilogram) of rice, vacuuming it, and sealing it. The bag will be connected to a vacuum pressure gauge, which measures the pressure in kPA. Additionally, we will time how long each sealing session takes using a timer.
 
-For each model, we will conduct two measurements, and then we'll calculate the average of the results.
+We perform **two tests for each model** to ensure the data we collect is accurate and reliable. This is a crucial part of our quality control process.
 
 It's important to note that a lower pressure reading on the gauge indicates that more air has been successfully removed from the bag. The gauge will display this result as a negative number to indicate a vacuum. On the other hand, the time it takes to complete the vacuum and seal the bag reflects the efficiency of the vacuum sealer, with shorter times being preferable.
 
