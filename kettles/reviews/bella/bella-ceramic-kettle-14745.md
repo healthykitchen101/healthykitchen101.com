@@ -213,7 +213,7 @@ Cord Placement: Base
 
 Cord Length: 32.7" (83.0 cm)
 
-The Bella has a 32.67-inch flat power cord, which should be plenty enough for household use. Its three-pronged plug is typically safer than a two-pronged one by having a grounding wire.
+The Bella has a 32.67-inch flat power cord, which should be plenty enough for household use. Its three-pronged plug with a grounding wire is typically safer than a two-pronged one.
 
 Usability
 ---------
@@ -227,7 +227,7 @@ usability Scores: **5.7**
 *   Cleaning (20%) - **7.0**/10
     
 
-The limited design features of the Bella Ceramic Gooseneck Electric Kettle also affected its usability. This is exacerbated by the heavy carafe and its smooth handle without any extra grip. The silver lining here is that the kettle is very easy to clean.
+Reflecting the nature and limitations of its design, the Bella Ceramic Gooseneck Electric Kettle did not do so well in terms of its user-friendliness. Key issues were the heavy carafe and its smooth handle lacking additional grip. The silver lining is perhaps how easy it is to clean.
 
 ### 6.0 - User Control
 
@@ -253,7 +253,7 @@ The Bella has a standard one-touch switch with no digital display or temperature
 
 The power switch is made of clear plastic and is positioned at the base of the carafe along the handle. It also acts as the indicator light which will illuminate with a blue LED when the kettle is running (+1). However, the light isn’t the brightest, so it may not be very easy to spot in the dark.
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). If you leave the lid off, this feature will not work, but there is also an overheating and dry-boil protection feature. (+2).
 
 ### 5.0 - Ease of Use
 
