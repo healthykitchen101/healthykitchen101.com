@@ -111,7 +111,7 @@ design Scores: **5.8**
 *   Base (20%) - **6.0**/10
     
 
-The Bella Ceramic Gooseneck Electric Kettle has an aesthetically pleasing design encompassing its practical gooseneck spout. However, its ceramic carafe prevented it from having an LED ring to be seen in the dark and a mesh filter to remove limescale effectively. The kettle also cut some corners with the quality of its base.
+The Bella Ceramic Gooseneck Electric Kettle has an aesthetically pleasing design encompassing its practical gooseneck spout. However, due to the  ceramic material there is no LED ring to light things up  in the dark nor is there a mesh filter to remove limescale. The kettle also cut some corners with the quality of its base.
 
 ### In the Box
 
@@ -123,7 +123,7 @@ The Bella Ceramic Gooseneck Electric Kettle has an aesthetically pleasing design
 *   One user manual
 *   Warranty: 2-year limited
 
-The Bella Ceramic Gooseneck Electric Kettle arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual came in English and Spanish. It was quite detailed with information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Bella Ceramic Gooseneck Electric Kettle arrived boxed in between a foam pad   on the top and the bottom. The instruction manual came in English and Spanish. It was quite detailed with information on the kettle’s parts, user instructions, safeguards, cleaning and maintenance, troubleshooting, and a warranty.
 
 ### Dimensions
 
@@ -159,11 +159,11 @@ Water Level Markings: No
 
 Tea Infuser: No
 
-The Bella Kettle’s entire carafe, including its gooseneck and lid, is made of ceramic (+2). Its capacity is 1.5 L, or 50.72 fl. oz., or 6 cups of water, which is on the smaller side of this line of product.
+The Bella Kettle’s entire carafe, including its gooseneck and lid, is made of ceramic (+2). Its capacity is 1.5 L, or 50.72 fl. oz., or 6 cups of water, which is somewhat smaller than your average household electric kettle. 
 
 The carafe has a large opening, 3.74 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1). Unfortunately, the kettle doesn’t have a limescale mesh filter or a water level window, only a maximum water level indicator at the top of the heating element (+2).
 
-An interesting design choice of this model is that its heating element extends from inside the carafe’s bottom to near the top of the carafe’s interior. We assume this is the reason why the kettle's boiling time is slightly faster than other models with the same power output.
+An interesting design choice of this model is that its heating element extends from inside the carafe’s bottom to near the top of the carafe’s interior. We assume this is the reason why the kettle's boiling time is slightly faster than other models with the same 1350 W power output.
 
 ### 7.0 - Handle
 
