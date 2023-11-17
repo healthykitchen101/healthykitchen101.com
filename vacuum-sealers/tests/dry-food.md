@@ -22,7 +22,9 @@ The sealer's total score in the dry food test is based on two sub-scores: **suct
 
 As mentioned earlier, since we perform **two separate test sessions** to ensure accuracy and reliability, the sub-score you'll see in our review, which contributes to the overall performance score, is **an average of data** from these two tests and is not derived from a single test.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-vacuum-sealer-dry-food-test-clozj7zo500022k8899ev6o04.jpg" alt="The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-cloziwttf00012k88gkrs6udr.jpg" alt="The Geryon E2900-MS vacuum sealer vacuum-packaging a bag of black rice grains. To the left is a vacuum pressure gauge reading 44 kPA." width="640" height="427">
+
+The Geryon E2900-MS vacuum sealer’s second dry food test. It attained a peak suction strength of 44 kPA (equates to 4/10) and a cycle time of 19 seconds (8/10) — resulting in a total score of 5.5/10.
 
 ### Suction Strength
 
