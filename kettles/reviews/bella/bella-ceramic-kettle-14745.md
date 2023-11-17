@@ -91,11 +91,11 @@ The Bella’s noise level peaked at 73.1 dB while reaching a rolling simmer. Acc
 
 After 5 Minutes: 202°F / 95°C
 
-Before going into the test, we had hoped the Bella’s ceramic carafe would be able retain the heat better than glass or plastic. Unfortunately, that wasn’t the case.
+Before actual testing, we had hoped the Bella’s ceramic carafe would be able retain heat better than glass or plastic. Unfortunately, that wasn’t the case.
 
-The result showed that, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
+The result showed that, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our scoring benchmark.
 
-The kettle also doesn’t have temperature control for the Keep Warm feature.
+It’s worth noting that this kettle also doesn’t have temperature control for the Keep Warm feature, and simply switches off after boiling.
 
 Design
 ------
