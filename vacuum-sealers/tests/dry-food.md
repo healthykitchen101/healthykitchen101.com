@@ -57,3 +57,8 @@ Sealing time is measured by the timer that starts from when the sealer’s vacuu
 *   25-29 seconds - 6 points
 *   30-34 seconds - 5 points
 *   Above 35 seconds - 0 point
+
+References
+----------
+
+[https://ask.usda.gov/s/article/How-long-can-you-store-fruits-and-vegetables](https://ask.usda.gov/s/article/How-long-can-you-store-fruits-and-vegetables) - How long can you store fruits and vegetables? - USDA
