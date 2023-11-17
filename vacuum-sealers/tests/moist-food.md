@@ -7,6 +7,10 @@ To find the best vacuum sealer, we tested various models, focusing on fresh mang
 Testing Procedure
 -----------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/fresh-mango-slices-for-vacuum-sealer-test-clozfj2rw0001ll88cvg3hlhm.jpg" alt="Fresh mango slices that will be used in the vacuum sealer performance test, weighing 12.4 ounces (350 grams.)" width="640" height="427">
+
+Fresh mango slices that will be used in the vacuum sealer performance test, weighing 12.4 ounces (350 grams.)
+
 We’ll fill a bag with 12.4 ounces (about 350 grams) of fresh mango slices, vacuum it, and seal it. The bag will be connected via an air hose with a vacuum pressure gauge, which measures the pressure in kPA. A timer is placed next to the sealer to count the time it takes for the sealer to finish a working session.
 
 Two measurements are taken for each model, and the results are averaged.
