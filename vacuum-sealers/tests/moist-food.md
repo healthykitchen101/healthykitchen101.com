@@ -13,14 +13,16 @@ Fresh mango slices that will be used in the vacuum sealer performance test, weig
 
 We’ll fill a bag with 12.4 ounces (about 350 grams) of fresh mango slices, vacuum it, and seal it. The bag will be connected via an air hose with a vacuum pressure gauge, which measures the pressure in kPA. A timer is placed next to the sealer to count the time it takes for the sealer to finish a working session.
 
-Two measurements are taken for each model, and the results are averaged.
+As part of our quality control process, we perform **two tests for each model** to ensure the data we collect is accurate and reliable.
 
 The lower the pressure reading (in negative kPA,) the more air that has been removed from the bag. The time indicates how quickly the vacuum sealer can evacuate the air and seal the bag. Faster times are better for efficiency.
 
 Scoring Metrics
 ---------------
 
-The total score that the sealer gets in the moist food test is the sum of two sub-scores — performance and sealing time — divided by two.
+The total score that the sealer gets in the moist food test is the sum of two sub-scores — **suction strength (60%)** and **cycle time (40%.)**
+
+As mentioned earlier, since we perform **two separate test sessions** to ensure accuracy and reliability, the sub-score you'll see in our review, which contributes to the overall performance score, is **an average of data** from these two tests and is not derived from a single test.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
 
