@@ -257,17 +257,19 @@ The kettle has an automatic shutoff feature which will activate when the thermo 
 
 ### 5.0 - Ease of Use
 
-This Bella ceramic kettle is quite heavy compared to glass and even stainless steel (-1). However, the material means there’s no plastic coming into contact with your water—something many people appreciate (+1). Evidently, we noticed no odd odor during our first boil or any subsequent one.
+This Bella ceramic kettle is quite heavy compared to glass and even stainless steel (-1). However, ceramics means no plastic coming into contact with your water—something many people appreciate (+1). Evidently, we noticed no odd odor during our first boil or thereafter.
 
-Having only the power switch, the Bella is as easy to use as it can be (+2). The large opening of 3.74 inches allowed us to comfortably pour in water from the tap or any container (+1). Thanks to its gooseneck spout, the arm-to-kettle pouring angle is very precise, especially when you’re trying to steep your tea (+1).
+Having only the power switch, the Bella is as easy to use as it can be (+2). The large opening of 3.74 inches allowed us to comfortably pour in water from the tap or any container (+1).
 
-The carafe doesn’t have a water level window, only markings on the inside which can be quite tricky to get the exact volume of water you desire. Nonetheless, it should not be too much of a problem as long as you keep the water level below maximum (+0).
+Thanks to its gooseneck spout, the arm-to-kettle pouring angle is very precise (+1). This means if you’re steeping tea leaf directly inside the kettle, it’s easy to pour straight off the top. 
 
-The handle feels good in the hand and seems sturdy when we pick the kettle up, including when it’s filled with water to the max (+2). However, be careful and make sure your hand isn’t wet when handling the kettle because its polished surface is very smooth throughout (-1).
+The carafe doesn’t have a water level window, only markings on the inside which can be quite tricky if you need an exact measurement of water. Nonetheless, it shouldn’t be a problem as long as you keep the water level below maximum (+0).
 
-This old-school lid may require a bit of force though to remove due to how tightly it closes (+0). We think this feature is good for minimizing heat loss but can be cumbersome for seniors to use. You don’t have to worry about accidentally scalding yourself, however, as long as you hold the lid by its handle and don’t touch the flat surface.
+The handle feels good to grip and seemed sturdy when we picked the kettle up, including when it was filled to the max (+2). However, be mindful if your hands are wet because its polished surface is very smooth (-1).
 
-The power base fits below its carafe so the entire thing doesn’t wobble around during boiling but it doesn’t have the sturdiest structure (+0). Due to the flat shape of the cord, it was impossible for us to wrap it tightly around storage (+0). After wrapping, the cord still stuck out quite a bit—10 inches, including the plug.
+This old-school lid may require a bit of force though to remove due to how tightly it closes (+0). We think this feature is good for minimizing heat loss but can be cumbersome for seniors to use. You don’t have to worry about accidentally scalding yourself, however, as long as you hold the lid by its nob and don’t touch the flat surface.
+
+The carafe fits neatly onto the power base and  doesn’t wobble during boiling but it’s not the sturdiest of structures (+0). Due to the flat shape of the cord, it was difficult to wrap it tightly around storage (+0). After wrapping, the cord still stuck out quite a bit—10 inches, including the plug.
 
 ### 7.0 - Cleaning
 
