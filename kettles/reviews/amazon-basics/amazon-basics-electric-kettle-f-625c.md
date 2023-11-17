@@ -149,9 +149,9 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
-The carafe is made of glass and has a capacity of 1.7 L, or 57.48 fl. oz, or 7 cups of water (+2). It has a large opening, 3.54 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
+The carafe is made of glass and holds 1.7 L (57.48 fl. oz.) which is around 7 cups of water (+2). It has a large opening, 3.54 inches in diameter, so you can comfortably pour in water from your tap or any container (+1).
 
-The plastic spout of the Amazon Basics has a standard V shape whose angle is ? There are water level markings in the middle of the carafe (+1). The limescale filter is positioned by the spout and is removable (+2).
+The plastic spout of the Amazon Basics has a standard V-shape. There are water level markings in the middle of the carafe (+1). The limescale filter is positioned by the spout and is removable (+2).
 
 Similar to many other cordless electric kettles, the Amazon Basics’ heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
