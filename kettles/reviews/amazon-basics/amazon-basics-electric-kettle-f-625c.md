@@ -86,7 +86,7 @@ The [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.h
 
 After 5 Minutes: 202°F / 95°C
 
-The glass carafe of the Amazon Basics doesn’t have the best material for heat retention. The kettle also doesn’t have temperature control for the Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
+The glass carafe of the Amazon Basics doesn’t have the best material for heat retention. The kettle also doesn’t have temperature control or the Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
 
 Design
 ------
@@ -102,7 +102,7 @@ design Scores: **7.5**
 *   Base (20%) - **6.0**/10
     
 
-The Amazon Basics has a standard design, and we don’t mean it as a criticism. All the features of its carafe, spout, handle, lid, base, and power cord accomplish well what they set out to do. The only thing subpar about the kettle is the slightly wobbly kettle-to-base assembly.
+The Amazon Basics has a standard design, and we don’t mean that as a criticism. All the features of its carafe, spout, handle, lid, base, and power cord do well what they are meant to do. The only thing subpar about the kettle is the slightly wobbly kettle-to-base assembly.
 
 ### In the Box
 
@@ -111,9 +111,9 @@ The Amazon Basics has a standard design, and we don’t mean it as a criticism. 
 *   One cordless kettle
 *   One corded power base
 *   One user manual
-*   Warranty: 1-year limited in the US
+*   Warranty: 1-year US limited
 
-The Ovente Electric Glass Kettle arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual was standard, having basic information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Amazon Basics arrived between a foam pad on the top and one on the bottom inside a carton box. The instruction manual had basic information on the kettle’s parts, how to use, safeguards, cleaning and maintenance, troubleshooting, and warranty.
 
 ### Dimensions
 
