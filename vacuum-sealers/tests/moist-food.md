@@ -34,27 +34,27 @@ Suction strength is measured by the vacuum pressure gauge in kPA.
 
 *   Above 50 kPA - 10 points
 *   45-50 kPA - 9 points
-*   40-45 kPA - 8 points
-*   35-40 kPA - 7 points
-*   30-35 kPA - 6 points
-*   25-30 kPA - 5 points
-*   20-25 kPA - 4 points
-*   15-20 kPA - 3 points
-*   10-15 kPA - 2 points
-*   5-10 kPA - 1 point
+*   40-44 kPA - 8 points
+*   35-39 kPA - 7 points
+*   30-34 kPA - 6 points
+*   25-29 kPA - 5 points
+*   20-24 kPA - 4 points
+*   15-19 kPA - 3 points
+*   10-14 kPA - 2 points
+*   5-9 kPA - 1 point
 *   Below 5 kPA - 0 point
 
-### Sealing Time
+### Cycle Time
 
-Sealing time is measured by the timer that starts from when the sealer’s vacuum activates to when it turns off and the bag is sealed.
+Cycle time is measured by the timer that starts from when the sealer’s vacuum activates to when it turns off and the bag is sealed.
 
 *   Under 15 seconds - 10 points
-*   15-20 seconds - 9 points
-*   20-25 seconds - 8 points
-*   25-30 seconds - 7 points
-*   30-35 seconds - 6 points
-*   35-40 seconds - 5 points
-*   Below 40 seconds - 0 point
+*   15-19 seconds - 9 points
+*   20-24 seconds - 8 points
+*   25-29 seconds - 7 points
+*   30-34 seconds - 6 points
+*   35-39 seconds - 5 points
+*   Above 40 seconds - 0 point
 
 References
 ----------
