@@ -163,7 +163,7 @@ Materials: BPA-free plastic
 
 Type: Cool-touch
 
-The cool-touch handle is made of BPA-free plastic (+3). It’s a simple design without an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4).
+The cool-touch handle is made of BPA-free plastic (+3). Its design is standard, without an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4).
 
 ### 8.0 - Lid
 
@@ -175,9 +175,13 @@ Type: Hinged
 
 Open Mechanism: Push-button pop-up
 
-The Amazon Basics has a hinged lid that pop-ups to an 85° angle with a single push of a button located on the handle (+5). Its exterior is plastic with a stainless steel coating. The lid isn’t entirely cool-touch, only a small black area.
+The Amazon Basics has a hinged lid that pop-ups to an 85° angle with a single push of a button on the handle (+5). It has a silicone band around the circumference to make sure it’s tightly sealed when closed (+2).
 
-The interior is simply plastic which can be undesirable for someone who doesn’t like their water coming into contact with plastic material (+1). Nonetheless, we found no odd odor during the first boil. It has a silicone band around the circumference to make sure it’s tightly sealed when closed (+2).
+The exterior is plastic with a stainless steel coating. The lid isn’t entirely cool-to-touch, only a small black area.
+
+The interior is plastic which may be undesirable for those wanting to avoid water coming into contact with plastic material (+1). Nonetheless, we found no odd odor during the first boil.
+
+.
 
 ### 6.0 - Base
 
