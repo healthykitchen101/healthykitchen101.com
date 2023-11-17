@@ -277,4 +277,4 @@ The carafe fits neatly onto the power base and  doesn’t wobble during boiling
 
 Wiping the interior of the Bella Ceramic Gooseneck Electric Kettle 14745.
 
-Cleaning the Bella is very straightforward and we recommend doing it weekly, especially on the inside as the kettle doesn’t have a limescale mesh filter (+3). In addition to the lid being removable, the opening is large enough for an adult hand to fit through and wipe the interior when necessary (+4).
+Cleaning the Bella is very straightforward and we recommend doing it weekly, especially on the inside as the kettle doesn’t have a limescale mesh filter (+3). In addition to the removable lid , the opening is large enough for an adult hand to fit through and easily wipe the interior(+4).
