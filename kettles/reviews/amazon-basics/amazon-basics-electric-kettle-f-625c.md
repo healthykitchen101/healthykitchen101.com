@@ -10,7 +10,7 @@ Overall Score: **7.7**
 *   Usability (35%) - **7.5**/10
     
 
-The Amazon Basics Electric Kettle has just the right features to be simple and easy to use. Besides a glass carafe, it doesn’t do anything fancy with its design. Despite all that, its performance scores are actually quite high across the board, making it a good and cheap choice.
+The Amazon Basics has just the right features to be a simple and easy-to-use electric kettle. Besides a glass carafe, there’s nothing fancy about its design. Nevertheless, its performance scores are actually quite high across the board, making it a good and low-cost choice.
 
 **Things We Like**
 
@@ -42,7 +42,7 @@ performance Scores: **7.9**
 *   Keep Warm (10%) - **7.0**/10
     
 
-For such a standard kettle as the Amazon Basics, its performance is what we should be focusing on. Looking at the scores, we’d say it delivered just fine with its boiling time, energy consumption, noise level, and ability to hold temperature.
+For such a standard kettle as the Amazon Basics, performance is what you should be focused on. Looking at the scores, we’d say it delivered well on boiling time, energy consumption, noise level, and heat retention.
 
 ### Boiling Time
 
