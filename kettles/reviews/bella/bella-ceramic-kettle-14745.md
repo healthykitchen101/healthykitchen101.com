@@ -53,15 +53,15 @@ The Bella Ceramic Gooseneck Electric Kettle showed a good performance all things
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/bella-ceramic-kettle-14745-boiling-time-clniaikeu000118880zepcy8y.jpg" alt="1.5 liter of water boiling inside the Bella Ceramic Gooseneck Electric Kettle (14745). The digital timer displays 8 minutes and 14 seconds." width="300px" height="200px">
 
-Room Temperature: 80°F / 26.7°C
+Room Temperature: 80°F (26.7°C)
 
-Water Volume: 1.5 liters
+Water Volume: 50.72 fl. oz. (1.5 liters)
 
 Boiling Time: 8m 14s
 
-Although the Bella has a gooseneck spout, it still has the same capacity as the common electric kettle. Thus, we still evaluate the time it takes to boil 1.5 liters of water. The product took 8 minutes and 14 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+Although the Bella has a gooseneck spout, it still has the same capacity as the common electric kettle. Thus, we still evaluate the time it takes to boil 1.5 liters of water as per a standard kettle. The kettle took 8 minutes and 14 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
 
-White this result wasn’t very fast, it was actually quite good for the kettle’s 1350 W of power. Compared to all of our tested kettles, it deserved a 6.8/10.
+White this result wasn’t very fast, it was actually quite good for the kettle’s 1350 W of power whereas most other kettles tend to have 1500 W or more. Compared to all of our tested kettles, it deserved a 6.8/10 score.
 
 ### Energy Consumption
 
