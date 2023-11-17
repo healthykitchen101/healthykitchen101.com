@@ -30,6 +30,8 @@ The Geryon E2900-MS vacuum sealer first dry food test. It achieved a peak suctio
 
 The Geryon E2900-MS vacuum sealer’s second dry food test. It attained a peak suction strength of 44 kPA (equates to 4/10) and a cycle time of 19 seconds (8/10) — resulting in a total score of 5.5/10.
 
+_**Resulting in a total score of 5.5/10.**_
+
 ### Suction Strength
 
 Suction strength is measured by the vacuum pressure gauge in kPA.
