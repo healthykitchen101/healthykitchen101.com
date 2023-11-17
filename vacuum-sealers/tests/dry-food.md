@@ -20,6 +20,8 @@ Scoring Metrics
 
 The total score that the sealer gets in the dry food test is the sum of two sub-scores — performance and sealing time — divided by two.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-vacuum-sealer-dry-food-test-clozj7zo500022k8899ev6o04.jpg" alt="The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds." width="640" height="427">
+
 ### Suction Strength
 
 Suction strength is measured by the vacuum pressure gauge in kPA.
@@ -36,10 +38,6 @@ Suction strength is measured by the vacuum pressure gauge in kPA.
 *   25-30 kPA - 1 point
 *   Below 25 kPA - 0 point
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-cloziwttf00012k88gkrs6udr.jpg" alt="The Geryon E2900-MS vacuum sealer vacuum-packaging a bag of black rice grains. To the left is a vacuum pressure gauge reading 44 kPA." width="640" height="427">
-
-The Geryon E2900-MS vacuum sealer during a dry food test. According to the vacuum gauge, it reached a peak suction of 44 kPA, giving it a 4/10 in the test.
-
 ### Sealing Time
 
 Sealing time is measured by the timer that starts from the time the sealer’s vacuum activates and to the time it turns off and the bag is sealed.
@@ -51,7 +49,3 @@ Sealing time is measured by the timer that starts from the time the sealer’s v
 *   25-30 seconds - 6 points
 *   30-35 seconds - 5 points
 *   Above 35 seconds - 0 point
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-pro-vacuum-sealer-dry-food-test-clozj7zo500022k8899ev6o04.jpg" alt="The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds." width="640" height="427">
-
-The Anova Precision Pro and the vacuum-packed bag of black rice grains that it packed as part of our dry food test. It reached a peak suction of 67 kPA in 14 seconds.
