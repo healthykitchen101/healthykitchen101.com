@@ -23,10 +23,10 @@ The Amazon Basics Electric Kettle has just the right features to be simple and e
 
 **Things We Don’t Like**
 
-*   Waddling kettle on base
+*   Kettle waddles on base
 *   Cord rigid to wrap
 
-With our electric kettle series in hand, we bought the Amazon Basics Electric Glass and Steel Kettle (F-625C) for 29.60$ for reviewing. Our first impressions upon unboxing and doing a test run was that the kettle had a pretty fast boiling time but it waddled around the base quite a bit. Without further ado, check out our real tests and detailed assessments below.
+With our electric kettle series in hand, we bought the Amazon Basics Electric Glass and Steel Kettle (F-625C) for 29.63$ to review. Our first impression upon unboxing and doing a test run were mixed. The kettle had a pretty fast boiling time but it waddled around the base quite a bit. Without further ado, check out the standardized  test results and detailed assessments below.
 
 Performance
 -----------
