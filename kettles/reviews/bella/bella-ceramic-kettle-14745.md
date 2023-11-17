@@ -29,9 +29,9 @@ We were hoping to recommend this kettle for the senior tea enthusiasts. However,
 *   Loose cord wrap
 *   No water-level markings
 
-The next contestant in our electric kettle series is the Bella Ceramic Gooseneck Electric Kettle 14745 that we bought for $42.35. We chose the black floral pattern but this 1.5-liter ceramic model also comes in blue Aztec and silver tile.
+Another contestant in our electric kettle series is the Bella Ceramic Gooseneck Electric Kettle 14745 and we bought it for $42.35. We chose the black floral pattern, but this 1.5-liter ceramic model also comes in blue Aztec and silver tile.
 
-Our first impression was that the Bella Kettle has an attractive design but not a very fast boiling time. The kettle’s rare ceramic carafe and gooseneck spout piqued our interest hoping it would be a great choice for that afternoon tea.
+The Bella Kettle caught our eye with its attractive design. The kettle’s rare ceramic carafe and gooseneck spout seemed  a great choice for  afternoon tea. Our tests proved the boiling time to be a little slow, but there are other pros and cons you may want to consider.
 
 Performance
 -----------
