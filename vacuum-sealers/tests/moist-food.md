@@ -24,9 +24,9 @@ The total score that the sealer gets in the moist food test is the sum of two su
 
 As mentioned earlier, since we perform **two separate test sessions** to ensure accuracy and reliability, the sub-score you'll see in our review, which contributes to the overall performance score, is **an average of data** from these two tests and is not derived from a single test.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs0100-during-moist-food-test-cloz51zij000lfi883lkb37c1.jpg" alt="The FoodSaver VS0100 vacuum sealer vacuum-packaging a bag of yellow mango slices. To the left is a vacuum gauge reading 45 kPA." width="640" height="427">
 
-The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds, giving it a score of 8/10.
+The FoodSaver VS0100 vacuum sealer’s first moist food test. It achieved a peak suction strength of 45 kPA (equates to 9/10) and a cycle time of 39 seconds (5/10.)
 
 ### Suction Strength
 
