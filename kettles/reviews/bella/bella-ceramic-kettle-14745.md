@@ -173,7 +173,7 @@ Materials: Ceramic
 
 Type: Cool-touch
 
-The handle is also ceramic and is designed to be cool-touch (+3). It doesn’t have an anti-slip feature but feels secure and comfortable on the write nonetheless (+4).
+The handle is also ceramic and is designed to be cool-to-touch (+3). It doesn’t have an anti-slip feature but feels secure and comfortable on the wrist nonetheless (+4).
 
 ### 7.0 - Lid
 
@@ -185,7 +185,7 @@ Type: Removable
 
 Open Mechanism: Remove by hand
 
-This lid doesn’t have a hinge, you have to grab its handle and remove it by hand. It has a silicone band around the circumference to make sure it’s tightly sealed when closed.
+This lid doesn’t have a hinge, you have to completely remove the handle by hand. It has a silicone band around the circumference to make sure it’s tightly sealed when closed.
 
 ### 6.0 - Base
 
@@ -197,7 +197,7 @@ Type: Swivel 360°
 
 Cord Storage: Yes
 
-The Bella has a standard BPA-free plastic 360° swivel base (+2). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4). We found that the base fit well enough but its plastic is a bit too thin to feel sturdy enough for such a heavy kettle (+0).
+The Bella has a standard BPA-free plastic 360° swivel base (+2). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4). Although the carafe fitted well to the base, the plastic is a bit too thin to feel sturdy enough for such a heavy kettle (+0).
 
 ### Power Cord
 
