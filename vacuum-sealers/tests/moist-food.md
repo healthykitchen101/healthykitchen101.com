@@ -20,7 +20,7 @@ The total score that the sealer gets in the moist food test is the sum of two su
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-during-moist-food-test-cloz53kc6000mfi8886voabiv.jpg" alt="The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA." width="640" height="427">
 
-The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds. The sound level was 79.6 dBA.
+The Geryon E2900-MS vacuum-packed a bag of yellow mango slices with suction of 24 kPA in 24 seconds, giving it a score of 8/10.
 
 ### Suction Strength
 
