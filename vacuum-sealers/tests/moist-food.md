@@ -32,7 +32,7 @@ The FoodSaver VS0100 vacuum sealer’s first moist food test. It achieved a peak
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs0100-during-moist-food-test-1-clp2e1gor0001hc88ei44967j.jpg" alt="The FoodSaver VS0100 vacuum sealer’s second moist food test. It attained a peak suction strength of 58 kPA (equates to 10/10) and a cycle time of 33 seconds (6/10) — resulting in a total score of 7.9/10." width="640" height="427">
 
-The FoodSaver VS0100 vacuum sealer’s second moist food test. It attained a peak suction strength of 58 kPA (equates to 10/10) and a cycle time of 33 seconds (6/10) — resulting in a total score of 7.9/10.
+The FoodSaver VS0100 vacuum sealer’s second moist food test. It attained a peak suction strength of 58 kPA (equates to 10/10) and a cycle time of 33 seconds (6/10)
 
 ### Suction Strength
 
