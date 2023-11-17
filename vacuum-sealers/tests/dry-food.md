@@ -24,11 +24,11 @@ As mentioned earlier, since we perform **two separate test sessions** to ensure 
 
 ### Suction Strength
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-1-clp2dfnvd0000hc8876p9d690.jpg" alt="The Geryon E2900-MS vacuum sealer first dry food test. It achieved a peak suction strength of 46 kPA (equates to 5/10) and a cycle time of 20 seconds (8/10.)" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-1-clp2dfnvd0000hc8876p9d690.jpg" alt="The Geryon E2900-MS vacuum sealer first dry food test. It achieved a peak suction strength of 46 kPA (equates to 5/10) and a cycle time of 20 seconds (8/10.)" width="640" height="427">
 
 The Geryon E2900-MS vacuum sealer first dry food test. It achieved a peak suction strength of 46 kPA (equates to 5/10) and a cycle time of 20 seconds (8/10.)
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-cloziwttf00012k88gkrs6udr.jpg" alt="The Geryon E2900-MS vacuum sealer vacuum-packaging a bag of black rice grains. To the left is a vacuum pressure gauge reading 44 kPA." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-e2900-ms-vacuum-sealer-dry-food-test-cloziwttf00012k88gkrs6udr.jpg" alt="The Geryon E2900-MS vacuum sealer vacuum-packaging a bag of black rice grains. To the left is a vacuum pressure gauge reading 44 kPA." width="640" height="427">
 
 The Geryon E2900-MS vacuum sealer’s second dry food test. It attained a peak suction strength of 44 kPA (equates to 4/10) and a cycle time of 19 seconds (8/10) — resulting in a total score of 5.5/10.
 
