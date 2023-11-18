@@ -7,7 +7,7 @@ Overall Score: **7.3**
     
 *   Design (20%) - **8.9**/10
     
-*   Ease of Use (30%) - **8.2**/10
+*   Usability (30%) - **8.2**/10
     
 
 The Brita Aluna S0500 is a compact, stylish, and user-friendly water filter pitcher. It’s highly effective against chlorine and is certified to reduce amounts of numerous other dangerous contaminants, producing water that tastes and smells crisp.
