@@ -7,7 +7,7 @@ Overall Score: **6.6**
     
 *   Design (20%) - **7.2**/10
     
-*   Ease of Use (30%) - **7.5**/10
+*   Usability (30%) - **7.5**/10
     
 
 The LifeStraw 7-cup water filter pitcher features an excellent system of filters that passed our chlorine reduction and taste and smell tests with flying colors. Its design is not only elegant, but also more secure and sturdy than any other we’ve tested thus far, and we’ve tested a dozen water pitcher filters.
