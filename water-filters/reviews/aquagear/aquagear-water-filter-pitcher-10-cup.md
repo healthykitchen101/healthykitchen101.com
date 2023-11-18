@@ -7,7 +7,7 @@ Overall Score: **8.3**
     
 *   Design (20%) - **7.0**/10
     
-*   Ease of Use (30%) - **7.2**/10
+*   Usability (30%) - **7.2**/10
     
 
 Despite the lack of NSF certifications, the Aquagear water filter pitcher proved to have an exceptional filter, excelling in both chlorine removal and flow rate tests. Crafted from quality materials, its performance is commendable. Nevertheless, some parts and especially the handle, need improving overall. The pitcher is generally user-friendly; however, assembly can prove challenging due to its unintuitive design. 
