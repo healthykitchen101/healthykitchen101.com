@@ -7,7 +7,7 @@ Overall Score: **9.1**
     
 *   Design (20%) - **9.0**/10
     
-*   Ease of Use (30%) - **8.9**/10
+*   Usability (30%) - **8.9**/10
     
 
 The Waterdrop Chubby filter pitcher impressed with its outstanding performance of reducing chlorine by over 90% at an excellent flow rate. It delivered crisp and pleasant-tasting water while preserving mineral content. The design strikes a fine balance between aesthetics and functionality, with meticulous craftsmanship evident in each part. Furthermore, easy assembly and disassembly add to the overall positive experience.
