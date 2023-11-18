@@ -7,7 +7,7 @@ Overall Score: **6.6**
     
 *   Design (20%) - **8.1**/10
     
-*   Ease of Use (30%) - **7.7**/10
+*   Usability (30%) - **7.7**/10
     
 
 The ZeroWater 23 water filter dispenser features a substantial filter piece that certifiably does a great job at removing chlorine. True to its name, the filter was able to reduce the Total Dissolved Solid (TDS) down to 0 ppm. However, this performance comes with a cost: the filter’s less-than-stellar flow rate. While the material quality and design are nothing to write home about, it is easy to use as a whole. Its biggest shortcoming is at the spigot, which has an unusual design that can easily lead to spillage during dispensing.
