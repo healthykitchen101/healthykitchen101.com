@@ -7,7 +7,7 @@ Overall Score: **8.0**
     
 *   Design (20%) - **9.2**/10
     
-*   Ease of Use (30%) - **9.4**/10
+*   Usability (30%) - **9.4**/10
     
 
 The Brita Style filter pitcher, featuring the Maxtra+ filter, performed exceptionally well in reducing chlorine taste and odor and improving water quality.This high degree of effectiveness came at the cost of a slightly reduced flow rate. The pitcher stands out as an exception to Brita's typical basic design, boasting a sleek and stylish appearance. The pitcher's compact size and manageable weight make it user-friendly, allowing anyone to handle it even when filled to capacity.
@@ -26,7 +26,7 @@ We recommend it for individuals or small households seeking a combination of sty
 *   Filter leakage
 *   Slow flow rate
 
-The Brita Style was love at first sight for us. Its graceful design and refrigerator door-bin-fitting body makes it an attractive choice for small households. Its Maxtra+ filter core had performed exceptionally well in our chlorine tests with previous Brita models—albeit with the usual slower than average flow rate. 
+The Brita Style was love at first sight for us. Its graceful design and refrigerator door-bin-fitting body makes it an attractive choice for small households. Its Maxtra+ filter core had performed exceptionally well in our chlorine tests with previous Brita models—albeit with the usual slower than average flow rate.
 
 The pitcher and filter performed just as expected. Here are the details of how it fared in our tests.
 
