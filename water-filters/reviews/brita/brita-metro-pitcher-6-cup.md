@@ -7,7 +7,7 @@ Overall Score: **8.5**
     
 *   Design (20%) - **7.7**/10
     
-*   Ease of Use (30%) - **8.3**/10
+*   Usability (30%) - **8.3**/10
     
 
 The Brita Metro is effective against chlorine and is quick to deliver crisp, good-tasting water. On one hand, the pitcher can be a little challenging to disassemble for filter replacement and cleaning. However, its simple design and other convenient features make everyday use a breeze. Thanks to its compact size, the 6-cup Metro is a good choice for a personal filter pitcher. The compromise seems to be the black particles in the filtered water that you will, unfortunately, have to ignore.
