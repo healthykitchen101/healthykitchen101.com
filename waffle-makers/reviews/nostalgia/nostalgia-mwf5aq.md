@@ -30,8 +30,8 @@ Unfortunately, the Nostalgia lacks a control panel, which limits its flexibility
 
 The Nostalgia MWF5AQ MyMini, similar to the likes of the [DASH Mini](https://healthykitchen101.com/waffle-makers/reviews/dash/dash-dmw001aq-mini/), is the perfect choice for people needing a low-cost, [portable waffle maker](https://healthykitchen101.com/waffle-makers/reviews/best/mini-waffle-makers/). You can have this model for around $10, and its small size is appealing for hikers and RV-ers who want freshly-baked waffles on the go. The small, palm-sized waffles it can make are also great for small children and snacking.
 
-Performance: Great, As Far As Mini Waffle Makers Goa
-----------------------------------------------------
+Performance: Great, As Far As Mini Waffle Makers Go
+---------------------------------------------------
 
 performance Scores: **6.3**
 
