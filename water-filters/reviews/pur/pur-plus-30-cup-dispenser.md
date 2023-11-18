@@ -7,7 +7,7 @@ Overall Score: **7.0**
     
 *   Design (20%) - **8.6**/10
     
-*   Ease of Use (30%) - **8.4**/10
+*   Usability (30%) - **8.4**/10
     
 
 The PUR Plus 30 cup water filter dispenser features a well-built and effective filter. Its slow flow may be frustrating to some, but if you refill it in time, the spacious reservoir ensures you will have clean water when you need it. Though there are no whistles and bells, its function-oriented design makes the dispenser easy to work with. Assembling, refilling, dispensing, cleaning, and filter replacement each takes less than a few minutes.
