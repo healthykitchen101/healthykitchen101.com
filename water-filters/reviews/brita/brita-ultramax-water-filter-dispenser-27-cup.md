@@ -7,7 +7,7 @@ Overall Score: **8.6**
     
 *   Design (20%) - **7.9**/10
     
-*   Ease of Use (30%) - **8.3**/10
+*   Usability (30%) - **8.3**/10
     
 
 The Brita UltraMax 27 cup water filter dispenser comes with a powerful Elite filter that is well-built and lasts longer than most. It could easily filter out high concentrations of chlorine while maintaining an excellent flow rate. What’s more, the filter doesn’t leak material—a problem affecting many pitchers and dispensers of this type. While there is some room for improvement in its design, the Brita UltraMax is generally easy to work with. If you’re a small family or household (up to five people) looking for a fridge-fitting water dispenser that doesn’t require constant refilling, the UltraMax is a good choice.
