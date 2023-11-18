@@ -7,7 +7,7 @@ Overall Score: **5.7**
     
 *   Design (20%) - **7.5**/10
     
-*   Ease of Use (30%) - **6.7**/10
+*   Usability (30%) - **6.7**/10
     
 
 The ZeroWater filter pitcher has a good filter. The filtration flow rate is slower than some, but it did bring the TDS level to zero in our tests, which is rare. Other than the spigot, which is an uncommon but much appreciated feature on a 10-cup pitcher, the ZeroWater 10 fails miserably in overall design. The filter reservoir felt flimsy and had considerable excess plastic or flash that we wondered if it had skipped quality control. Refilling water, pouring, and replacement all require more effort than other filter pitchers.
