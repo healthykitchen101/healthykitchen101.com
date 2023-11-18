@@ -7,7 +7,7 @@ Overall Score: **7.7**
     
 *   Design (20%) - **7.0**/10
     
-*   Ease of Use (30%) - **7.9**/10
+*   Usability (30%) - **7.9**/10
     
 
 The Brita Everyday filter pitcher lives up to its reputation. While not as good as others in removing chlorine in our tests, its [NSF-certified filter](https://www.nsf.org/consumer-resources/articles/standards-water-treatment-systems) did the job. The pitcher has an average capacity but excellent flow rate, which allows it to produce more clean water than most other similar capacity pitchers. It may not be the most stylish pitcher, but the Brita build quality is good and looks decent enough on your countertop. Some people may find its lack of convenience features such as a refilling trap door, spigot, or filter life indicator a dealbreaker. However, others will appreciate it as a basic water filter pitcher that does a good job.
