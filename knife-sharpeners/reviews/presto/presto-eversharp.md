@@ -207,8 +207,6 @@ The Presto EverSharp comes with a standard 1-year limited warranty. It’s been 
 
 You can find minor replacement parts such as plugs and suction cup feet online. More major parts are harder to find, though.
 
-### How It Works
-
 The Presto EverSharp Compared to Other Electric Sharpeners 
 -----------------------------------------------------------
 
