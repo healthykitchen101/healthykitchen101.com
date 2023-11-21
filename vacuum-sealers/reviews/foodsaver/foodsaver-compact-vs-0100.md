@@ -61,6 +61,8 @@ It also impressed our reviewers with its speedy performance by completing a full
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-moist-food-test-clp7q8tpm0005mm8832kk841x.jpg" alt="The FoodSaver VS-0100 during the moist food test. It achieved a peak suction of 45 kPA within a 39-second working cycle. The motor was quite noisy at 81.6 dBA." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-moist-food-test-1-clp7q9gd80006mm88fkoq7p3a.jpg" alt="The FoodSaver VS-0100 during the second moist food test. Its suction is lower than the first test at 58 kPA within a 33-second working cycle. Motor noise is also less loud at 80.1 dBA." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Moist
