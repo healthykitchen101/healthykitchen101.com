@@ -91,6 +91,10 @@ The FoodSaver VS-0100 stands out with its metallic top piece. Its sleek and eleg
 
 ### 10 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-build-quality-clp7qejlt0008mm886dr3bced.jpg" alt="An interior shot of the FoodSaver VS-0100 vacuum sealer. A green protective bar covers the vacuum channel." width="300px" height="200px">
+
+The interior of the FoodSaver VS-0100
+
 The FoodSaver VS-0100 is mostly made of plastic, which keeps it both affordable and lightweight. However, the top piece has a metallic sheen, which gives it a premium appearance and feel despite the price tag.
 
 Inside the sealer, the vacuum channel is protected by a green plastic bar. We strongly recommend keeping this bar and putting it back into the vacuum channel when the sealer is not in use. It’ll keep dust from building inside the sealer while it’s in storage.
