@@ -119,6 +119,8 @@ Above the “Vacuum” and “Seal” buttons are indicator lights. These lights
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-lid-1-clp7qnxo5000cmm887cjk6jm8.jpg" alt="The slider to the side of the FoodSaver VS-0100 that you can use to engage the storage locks." width="300px" height="200px">
+
 Lid Lock: Latch lock
 
 The lid of the VS-0100 is very well-constructed. The hinges remained rock-solid even when we shook it during our test, showing no signs of wobbling. When we applied pressure to close the lid, the locks engaged effortlessly without requiring much force.
