@@ -103,6 +103,8 @@ All components, including the heat bar and the foam seal around the vacuum chann
 
 ### 10 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-control-panel-clp7qkvyo000bmm886l2w9g28.jpg" alt="A close-up shot of the buttons and the indicator lights on the FoodSaver VS-0100." width="300px" height="200px">
+
 Button Type: Physical
 
 Numberof Buttons: 3
