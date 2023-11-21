@@ -45,6 +45,8 @@ The FoodSaver VS-0100 delivers exceptional performance, ranking among the top pe
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-dry-food-test-clp7q745p0003mm88bzjw7ofk.jpg" alt="FoodSaver VS-0100 vacuum sealer hooked to a bag of black rice. A vacuum gauge to the right measures 62 kPA and a timer marks 11 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-dry-food-test-1-clp7q7p7y0004mm881d5h4jyi.jpg" alt="FoodSaver VS-0100 vacuum sealer hooked to a bag of black rice. A vacuum gauge to the right measures 63 kPA and a timer marks 11 seconds." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Dry
