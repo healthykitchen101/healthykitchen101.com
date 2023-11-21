@@ -119,7 +119,7 @@ Above the “Vacuum” and “Seal” buttons are indicator lights. These lights
 
 ### 10 - Lid
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-lid-1-clp7qnxo5000cmm887cjk6jm8.jpg" alt="The slider to the side of the FoodSaver VS-0100 that you can use to engage the storage locks." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-lid-clp7qs45t000dmm8831t1a3mt.jpg" alt="The interior of the FoodSaver VS-0100 with the green protective plastic bar removed from the vacuum channel." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-lid-1-clp7qnxo5000cmm887cjk6jm8.jpg" alt="The slider to the side of the FoodSaver VS-0100 that you can use to engage the storage locks." width="300px" height="200px">
 
 Lid Lock: Latch lock
 
