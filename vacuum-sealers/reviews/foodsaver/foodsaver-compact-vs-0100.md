@@ -155,6 +155,8 @@ The VS-0100 is on the quieter end when compared to other models we've tested. We
 
 ### 7.0 - Indicator Lights and Chime
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-indicator-lights-clp7r87y0000emm88239afrw8.jpg" alt="The FoodSaver VS-0100 vacuum sealer’s control panel with the indicator lights lit up. The light will pulse depending on what phase of the working cycle it’s performing at the moment." width="300px" height="200px">
+
 Numberof Indicators: 2
 
 Progress Bar: No
