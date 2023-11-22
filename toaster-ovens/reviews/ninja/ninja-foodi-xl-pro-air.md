@@ -32,7 +32,7 @@ The oven showed a high build quality from its buttons and digital display to its
 *   No safety mechanism for the door
 *   Faulty interior light upon received
 
-The stainless steel Ninja DT201 Foodi XL Pro Air Oven is, for all of its intended purposes, an [air fryer toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/air-fryer-toaster-ovens/). We were intrigued by the machine’s impressive capacity, advertised true surround convection, plethora of cooking functions and accessories, and especially the ‘2-level even cooking’ feature.
+The stainless steel Ninja DT201 Foodi XL Pro Air Oven is, for all of its intended purposes, an [air fryer toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/air-fryer-toaster-ovens/). We were intrigued by the machine’s impressive capacity, advertised true surround convection, plethora of cooking functions and accessories, and especially the **2-level even cooking** feature.
 
 As a result, we had no choice but to purchase and test it for ourselves. At the time of writing, the price is $299.99, which we considered reasonable from our first impressions of the product.
 
