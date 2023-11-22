@@ -30,7 +30,7 @@ Of course, compared to [our top choices](https://healthykitchen101.com/toaster-o
 *   No internal lighting
 *   No safety mechanism for the door
 
-The polished stainless steel Black+Decker TO1760SS 4-Slice Natural Convection Countertop Toaster Oven is a lightweight and small-sized unit at an inexpensive price of 49.99$. In addition to being easy to use and clean, it saves energy thanks to its two quartz heating elements and low power output. As with all units in the [same size category](https://healthykitchen101.com/toaster-ovens/reviews/best/small-toaster-ovens/), its performance varies, depending on the food cooked in it.
+The polished stainless steel Black+Decker TO1760SS 4-Slice Natural Convection Countertop Toaster Oven is a lightweight and small-sized unit at an inexpensive price of 51.90$. In addition to being easy to use and clean, it saves energy thanks to its two quartz heating elements and low power output. As with all units in the [same size category](https://healthykitchen101.com/toaster-ovens/reviews/best/small-toaster-ovens/), its performance varies, depending on the food cooked in it.
 
 Performance: Varied Results
 ---------------------------
