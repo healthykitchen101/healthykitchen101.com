@@ -34,6 +34,12 @@ The only thing to be nitpicky about this oven is that it doesn’t offer many co
 *   A bit heavier and taller than other same-type ovens
 *   Not very budget-friendly
 
+Our first impression of the Cuisinart TOA-60 Air Fryer Toaster Oven is that it’s 100% analog, which means it should be as straightforward as can be to use. Moreover, it has a brush stainless steel aesthetic which fits well in any kitchen.
+
+Even though the oven has convection and an air fryer basket, we were curious about the price of $235 (at the time of writing). Nonetheless, it’s featured as one of the best products on the homepage of the Cuisinart Store. So naturally, we had to purchase it and check out its cooking performance.
+
+The Cuisinart TOA-60 Air Fryer Toaster Oven was introduced in 2016. It’s the current #3 best seller in convection ovens with over 27 thousand ratings on Amazon, 74% of which are 5-star.
+
 Performance
 -----------
 
