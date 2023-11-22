@@ -24,7 +24,7 @@ That said, we think the unit that we have could use some more time in the oven. 
 
 **Things We Don’t Like**
 
-Can be loud
+*   Can be loud
 
 The L3200 is one of the most basic medium-built garbage disposals (or food waste disposers) you could find. Its design utilizes a 3/4-hp permanent magnet motor and stainless steel grinder components to pulverize food scraps—a combination that has been proven effective over the years.
 
