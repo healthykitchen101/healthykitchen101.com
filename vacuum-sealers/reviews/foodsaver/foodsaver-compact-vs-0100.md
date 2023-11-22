@@ -143,6 +143,8 @@ The FoodSaver VS-0100 is highly user-friendly. We didn't encounter any difficult
 
 ### 10 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-ease-use-clp959htn000fmm881tit717y.jpg" alt="The lid of the FoodSaver VS-0100 doesn’t require a lot of force to click close." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0100-vacuum-sealer-ease-use-1-clp95a6in000gmm88ewvcgfzo.jpg" alt="Despite not having bag hooks, feeding a new plastic bag into the FoodSaver VS-0100 and aligning it with the vacuum channel is quite easy." width="300px" height="200px">
+
 The handling experience of the FoodSaver VS-0100 can be best described as "seamless," according to our reviewers. The control panel is user-friendly, and the lid requires minimal effort to operate. As a result, our reviewers unanimously gave the FoodSaver VS-0100 the highest score in this segment.
 
 ### 8.0 - Safety & Noise
