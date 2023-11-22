@@ -32,7 +32,7 @@ As proof of good design, the accessories fit perfectly minimizing inconvenience 
 *   Touchscreen digital displays need more contrast
 *   The master-control knob can be confusing
 
-The silver stainless steel Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven is an ideal smart kitchen gadget to add to your cooking arsenal. The oven features a clever design, smart programs, and all the necessary cooking functions (and more) at a price of around $250 (at the time of writing).
+The silver stainless steel Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven is an ideal smart kitchen gadget to add to your cooking arsenal. The oven features a clever design, smart programs, and all the necessary cooking functions (and more) at a price of around $233.55 (at the time of writing).
 
 Performance
 -----------
