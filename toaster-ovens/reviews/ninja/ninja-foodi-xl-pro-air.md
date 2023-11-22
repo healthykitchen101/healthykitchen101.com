@@ -38,8 +38,6 @@ As a result, we had no choice but to purchase and test it for ourselves. At the 
 
 Introduced in 2020, the Ninja DT201 Foodi XL Pro Air Oven is currently the #5 best seller in convection oven on Amazon, with nearly 11 thousand ratings (over 80% 5-star). There’s another model that shows the current internal temperature of the oven and has an incorporated meat thermometer.
 
-The machines are products of the long-accredited SharkNinja Operating LLC. They are America’s #1 brand in small kitchen appliances according to the NPD Group/Retail Tracking Service based on brand-level dollar sales from 2020 to 2022. The brand specializes in kitchenware from countertop appliances like juicers, waffle makers, grills, to cookware and cutlery.
-
 Performance: Outstanding for Large Servings
 -------------------------------------------
 
