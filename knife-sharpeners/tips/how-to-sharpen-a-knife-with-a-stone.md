@@ -8,8 +8,8 @@ We’re here to rectify that oversight. Today we’ll examine a few different ty
 
 Note that these stones are different from sharpening rods, sharpening steels, and handheld or tabletop [**pull-through sharpeners**](https://healthykitchen101.com/knife-sharpeners/reviews/best/). There are a lot of products out there made to keep your knives in good condition. Stones are simply some of the many good options.
 
-**Stone vs Wet Stone vs Whetstone**
------------------------------------
+Stone vs Wet Stone vs Whetstone
+-------------------------------
 
 First things first: not every rock is a sharpening stone. 
 
@@ -27,15 +27,15 @@ Well…no. The word “whet,” quite simply, means “to sharpen.” Whetstone 
 
 Don’t worry, though, there are more ways we can confuse the issue! 
 
-**...vs Water Stones vs Oil Stones**
-------------------------------------
+...vs Water Stones vs Oil Stones
+--------------------------------
 
 Some styles of whetstone are known as “water stones” and “oil stones.” These are indeed intended to get “wet.” They’re meant to be used with a lubricant that keeps the tiny metal shavings out of pores in the rock. 
 
 Realistically, oil lubricants can be used on water stones and water on oil stones. The word in the name is simply the recommended lubricant. Other whetstones may come with a manufacturer’s recommendation against the use of lubricants. There’s a lot of variety out there.
 
-**Swarf**
----------
+Swarf
+-----
 
 Now, whether you use a lubricant or not, you’ll end up with lots of nearly microscopic shavings of metal on the surface of your stone. This is the material that’s been taken off your knife to give it a new edge. In metalsmith circles, this debris is called “swarf.”
 
@@ -45,8 +45,8 @@ If there’s too much debris, it can reduce the stone’s effectiveness. The swa
 
 You probably won’t get too much swarf build-up from sharpening one knife, but if you’re doing a whole set, it could become an issue. If your whetstone calls for lubricants, the debris will at least be a bit easier to wash off. If not, though, give your stone a rinse every so often.
 
-**How to Sharpen a Knife with a Whetstone**
--------------------------------------------
+How to Sharpen a Knife with a Whetstone
+---------------------------------------
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl4ozo7zh000fjl886wfl4qae.jpg" alt="How to Sharpen a Knife with a Whetstone" width="768" height="512">
 
@@ -60,8 +60,8 @@ Here are the basics of sharpening your knife using a whetstone:
 6.  Switch to the fine stone and repeat the process. This will polish and fine-tune the edge.
 7.  Always rinse off your knife and stone when you’re done. You don’t want swarf in your food!
 
-**Refining Your Technique**
----------------------------
+Refining Your Technique
+-----------------------
 
 The procedure above is not the only way to use a whetstone. Feel free to explore the internet and find the technique that works best for you.
 
