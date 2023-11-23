@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.2**
+Overall Score: **8.5**
 
 *   Performance (50%) - **7.6**/10
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **9.0**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **9.6**/10
     
 
 The Anova Precision Vacuum Sealer Pro is one of our top picks for vacuum sealers in 2023 because it performs well, looks great, and is easy to use. However, when compared to some other options like the Nesco VS-12, it may not be the absolute best choice in terms of performance and durability.
@@ -78,13 +78,13 @@ Despite not crushing the fruit slices to the point of them leaking out the juice
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **9.0**
 
 *   Build Quality (50%) - **10**/10
     
 *   Control Panel (20%) - **10**/10
     
-*   (20%) - **0**/10
+*   Lid (20%) - **10**/10
     
 
 The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
@@ -109,32 +109,48 @@ In the center, you'll find the second group of buttons, which are designed for m
 
 Finally, on the far right side, there's the "External Pulse Vacuum" button, which comes in handy when you want to vacuum-pack using an air hose adapter.
 
-### Lid
+### 10 - Lid
 
-Lid Lock:
+Lid Lock: Handle lock
+
+The lid of the Anova Precision Pro is really well-made. We checked the lid hinges thoroughly, and they are as solid as a rock. Even when we moved the lid from side to side, it didn't shift or wobble.
+
+You'll notice a handle at the front of the unit, and it's used to work the locking system. To unlock the lid, just lift the handle. When you're ready to close the lid, push down the handle to secure the locks. This handle lock feature makes operating the sealer super easy, even if you use it with just one hand.
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **9.6**
 
-*   (70%) - **0**/10
+*   Ease of Use (70%) - **10**/10
     
-*   (15%) - **0**/10
+*   Safety & Noise (15%) - **8.0**/10
     
-*   (15%) - **0**/10
+*   Indicator Lights and Chime (15%) - **9.5**/10
     
 
-### Easeof Use
+The Anova Precision Pro excels in usability. Its user-friendly control panel is complemented by thoughtful safety features, such as the handle lock and a visible warning strip on the hot heating bar. However, it could benefit from an audible chime for added ease of use.
 
-### Safetyand Noise
+### 10 - Ease of Use
 
-Maximum Noise Level:
+The Anova Precision Pro is incredibly user-friendly. You won't need to dig into the user manual because the control panel is straightforward, with well-labeled buttons. Using the sealer is a breeze, thanks to the handy handle lock that makes opening and closing the lid quick and easy. Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
 
-### Indicator Lightsand Chime
+### 8.0 - Safety & Noise
 
-Numberof Indicators:
+Maximum Noise Level: 83.4 dBA
 
-Progress Bar:
+Above the hot heating bar, there's a noticeable bright orange sticker. This serves as a clear warning for new users, indicating the location of the hot heating bar to help them avoid accidental contact. Given the sealer's sleek all-black design, without this sticker, it would be challenging for users to identify the heating bar's position.
 
-Chime:
+When it comes to noise, the Anova Precision Pro is on par with other sealers we've tested. It reached a peak noise level of 83 dBA during a dry food test.
+
+### 9.5 - Indicator Lights and Chime
+
+Numberof Indicators: 9
+
+Progress Bar: Yes
+
+Chime: No
+
+The Anova Precision Pro's control panel has buttons with indicator lights that light up and blink to show your selected food or mode. Unfortunately, these lights are quite dim, making them hard to see in our well-lit lab. If your kitchen gets a lot of sunlight, it could be a challenge to read what the control panel says.
+
+This model doesn’t come with an audible chime, so you have to rely entirely on the lights to know when it’s finished its working cycle.
