@@ -1,6 +1,6 @@
 _The ranger hummed a soft tune from his youth as he slid the stone ritually along the edge of his blade. The steel sang back to him in its own high pitch, and reflected the flickering campfire light up to the stars._
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl4ozme4e000ejl88078ucubw.jpg" alt="How to Sharpen a Knife with a Stone" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl4ozme4e000ejl88078ucubw.jpg" alt="How to Sharpen a Knife with a Stone" width="360" height="240">
 
 If you were fond of fantasy books growing up, you may be familiar with scenes like this. But florid prose doesn’t actually teach you how to sharpen a knife with a stone. 
 
