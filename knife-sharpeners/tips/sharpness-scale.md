@@ -2,12 +2,12 @@ Every cook wants their knives to be sharp. But what counts as _sharp_?
 
 Forget the thumbnail test. There are safer, more accurate ways — and more convenient ways — to measure knife sharpness.
 
+The REST Standards for Measuring Knife Sharpness
+------------------------------------------------
+
 <img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cldmqr5aq0002pb881dwt3ieq.jpg" alt="Close-up image of the knife edge after sharpening with the Work Sharp Ken Onion " width="360" height="240">
 
 Close-up image of the knife edge after sharpening with the Work Sharp Ken Onion
-
-The REST Standards for Measuring Knife Sharpness
-------------------------------------------------
 
 For industrial or technical purposes, CATRA’s [Razor Edge Sharpness Tester (REST)](https://www.catra.org/testing-equipment/knives-blades-cutting-edges/sharpness-tester-2/) is commonly used to determine sharpness. 
 
