@@ -40,7 +40,7 @@ How to Sharpen a Pocket Knife with a Stone
 
 Professional whetstones— especially the artificially produced ones— haven’t been around forever. Various types of stone have been used as sharpening tools for as long as metal blades have existed.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl59fezih0001dq884k7t5u9h.jpg" alt="When professional whetstones are not available" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl59fezih0001dq884k7t5u9h.jpg" alt="When professional whetstones are not available" width="640" height="427">
 
 If you’re out camping, or otherwise without access to a good sharpening tool, you can try using a river rock. Try to find one with a relatively large, flat surface. You may have to modify the whetstone procedure a little, but the basics remain the same.
 
