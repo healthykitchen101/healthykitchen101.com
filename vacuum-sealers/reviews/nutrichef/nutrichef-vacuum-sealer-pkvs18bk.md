@@ -19,6 +19,11 @@ Performance
 
 performance Scores: **0.0**
 
+*   (60%) - **0**/10
+    
+*   (40%) - **0**/10
+    
+
 ### Dry Food Test
 
 Suction Mode:
@@ -44,6 +49,13 @@ Design
 
 design Scores: **0.0**
 
+*   (50%) - **0**/10
+    
+*   (20%) - **0**/10
+    
+*   (20%) - **0**/10
+    
+
 ### Build Quality
 
 ### Control Panel
@@ -62,6 +74,13 @@ Usability
 ---------
 
 usability Scores: **0.0**
+
+*   (70%) - **0**/10
+    
+*   (15%) - **0**/10
+    
+*   (15%) - **0**/10
+    
 
 ### Easeof Use
 
