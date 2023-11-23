@@ -1,9 +1,9 @@
 The handy pocket knife is one of the most versatile tools: use it to cut fruit in the kitchen, scotch tape or strops in the garage, or as a hunting and camping knife outdoors. As such, it’s important to learn **how to sharpen a pocket knife**, especially if you’re the type who carries one around on a regular basis.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl59fbx7h0000dq8885m06fr1.jpg" alt="Pocket knives typically have a larger bevel angle than kitchen knives" width="640" height="427">
-
 The Best Way to Sharpen a Pocket Knife
 --------------------------------------
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl59fbx7h0000dq8885m06fr1.jpg" alt="Pocket knives typically have a larger bevel angle than kitchen knives" width="640" height="427">
 
 You may have guessed that not all [**kitchen knife sharpeners**](https://healthykitchen101.com/knife-sharpeners/reviews/best/) are ideal for pocket knives, but why not?
 
