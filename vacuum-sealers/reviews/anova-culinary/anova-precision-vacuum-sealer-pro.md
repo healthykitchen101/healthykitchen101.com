@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.8**
+Overall Score: **5.2**
 
 *   Performance (50%) - **7.6**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **7.0**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -78,24 +78,36 @@ Despite not crushing the fruit slices to the point of them leaking out the juice
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **7.0**
 
-*   (50%) - **0**/10
+*   Build Quality (50%) - **10**/10
+    
+*   Control Panel (20%) - **10**/10
     
 *   (20%) - **0**/10
     
-*   (20%) - **0**/10
-    
 
-### Build Quality
+The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
 
-### Control Panel
+### 10 - Build Quality
 
-Button Type:
+Even though the Anova Precision Pro is built entirely from plastic, it neither looks nor feels cheap. Painted all-black from top to bottom, its exterior is a mix of premium-looking matte and glossy plastic, which gives it a fairly expensive look.
 
-Numberof Buttons:
+### 10 - Control Panel
 
-Numberof Modes:
+Button Type: Physical
+
+Numberof Buttons: 7
+
+Numberof Modes: 2
+
+The control panel of the Anova Precision Pro has a sleek and simple design. It features just seven buttons arranged in a row, organized into three distinct groups based on their functions.
+
+Starting from the left, the first group includes the "Vacuum & Seal" button, along with two additional buttons that let you select the specific food mode for sealing.
+
+In the center, you'll find the second group of buttons, which are designed for more specialized tasks. The "Seal" button allows you to seal the bag using the heating bar without vacuuming it. Alternatively, you can engage the "Pulse Vacuum" mode by pressing and holding the button, giving you the flexibility to control the vacuum process. Simply release your finger from the button whenever you want to stop the vacuum.
+
+Finally, on the far right side, there's the "External Pulse Vacuum" button, which comes in handy when you want to vacuum-pack using an air hose adapter.
 
 ### Lid
 
