@@ -1,6 +1,6 @@
 If you read us regularly you know there are many options to help sharpen your dull blades. But those are usually for the chef’s knife variety. One thing that is more rarely covered, both here on Healthy Kitchen 101 and elsewhere, is how to sharpen a serrated knife.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl4jepv9u0001jl8806tt3ifo.jpg" alt="How to Sharpen a Serrated Knife" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl4jepv9u0001jl8806tt3ifo.jpg" alt="How to Sharpen a Serrated Knife" width="360" height="240">
 
 We’re all aware that serrated knives are often the best option when cutting bread, tomatoes, and a range of other foods. But why is that?
 
