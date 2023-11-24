@@ -3,6 +3,10 @@ A portable ice maker has a built-in water reservoir and therefore no need for an
 How We Test Countertop Ice Makers
 ---------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable ice makers on a countertop surrounded by equipment for ice quality testing. From the far left is a ZeroWater filter pitcher, a bundle of plastic ice scoops, two ice scoops in front of each machine with a TDS meter on top, and two ice baskets on the far right." width="640" height="427">
+
+Two bullet ice makers getting readied for testing
+
 Most portable bullet ice makers claim to make up to 26 lbs or 12 kg of ice in one day. We have never substantiated such claims since there are many variables that can affect the working rhythm and quality of ice your machine makes.
 
 Our ice capacity test focuses on practical concerns that affect users.
