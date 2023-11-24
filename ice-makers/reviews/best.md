@@ -100,3 +100,123 @@ Overall, this machine produced good chunky ice bullets with an average weight of
 Regardless, the Silonn has a refreshing and spacious design for its control panel and we also liked the large view window. The ice basket is very generic, made from a lower quality type of plastic, and identical to the AGLucky.
 
 If you like the color choice, it’s not a bad machine. Also, not many portable ice makers have a model with [a smart app](https://play.google.com/store/apps/details?id=com.smart.life.regineer&hl=en&gl=US&pli=1) which can be used to set a timer, select ice bullet size, run auto clean, and get status notifications.
+
+### Comparison of Our Best 3 Countertop Bullet Ice Makers
+
+Here is a comparison table to visualize more clearly the key performance differences between our top three picks for the best countertop ice maker:
+
+|  | 1. Frigidaire | 2. AGLucky | 3. Silonn |
+| --- | --- | --- | --- |
+| Time per basket | 103 min | 90 min | 94 min |
+| Average weight | 555 g | 456 g | 427 g |
+| Net bullet weight | 6.2 g | 6.3 g | 5.6 g |
+| Waste ice | 1.8% | 2% | 4% |
+| Capacity per hr | 323 g | 304 g | 273 g |
+| Capacity per 24 hr | 7.8 kg | 7.3 kg | 6.5 kg |
+
+From a design viewpoint, the Frigidaire is the most modern-looking with good internal visibility. The AGLucky has the smallest view window but a nicely raised control panel, while the Silonn has the most user-friendly interface. Of the three machines, the Silonn showed the best insulation while the Frigidaire fared the worst.
+
+Although there is not a big performance difference between the Frigidaire and the AGLucky, the Frigidaire is better for ice capacity. The design differences are between a modern look versus a better control panel. The Silonn, despite its average performance, has slightly more choice in colors compared to the AGLucky and a smart app model.
+
+What is a portable countertop ice maker? 
+-----------------------------------------
+
+A portable countertop ice maker has an internal water tank or holding reservoir. This means it does not need an in-line water connection. Therefore, you can place them anywhere—in your kitchen, in a pantry, or even an RV home.
+
+Some portable ice-makers can also include the option of an in-line water connection. These ice makers tend to be for making pebble or nugget ice. They are often more expensive and may have built-in refrigerated ice storage.
+
+What kinds of ice can a countertop ice maker produce? 
+------------------------------------------------------
+
+A portable ice maker will generally only make one type of ice. Bullet ice makers are more affordable and usually include the option of small and large bullet sizes. However, many people prefer pellet or nugget ice, and a few portable machines can make ice cubes.
+
+**Large ice bullets:**
+
+*   Between 5 and 7 grams.
+*   Best for ice teas, smoothies, sodas, and similar beverages.
+
+**Small ice bullets:** 
+
+*   Between 2 and 5 grams.
+*   Best of ice beds for seafood, beer, or other beverage containers.
+
+**Nugget ice:** 
+
+*   Easily chewable.
+*   Absorbs beverage flavors.
+*   Best ice for cocktails, smoothies, teas, and more.
+*   Can be used for ice beds for seafood and beverage containers.
+
+**Cube Ice:** 
+
+*   Similar to ice made in traditional ice trays.
+*   Preferred for some types of beverages.
+
+Often, the key choice is whether to go with a countertop bullet ice maker or a nugget ice maker. This handy comparison table can help you understand the choice better:
+
+| Bullet Ice | Nugget Ice |
+| --- | --- |
+| Usually only portable. | Portable and / or uses a water-line. |
+| Usually no freezer compartment. | Usually has a freezer compartment. |
+| More affordable. | Pricier. |
+| Small and large bullets. | Small sized nuggets. |
+| Good for ice teas, smoothies, sodas. | Good for most drinks, esp. cocktails. |
+| More versatile than ice cubes. | Chewable and absorb beverage flavor. |
+| Small bullets can be used for ice beds. | Suitable for ice beds. |
+
+Troubleshooting Your Portable Bullet Ice Maker
+----------------------------------------------
+
+Portable ice makers, as convenient as they are, can be temperamental! Here are a few common issues we came across during testing, and tips to keep the ice flowing.
+
+### 1\. Why are my Ice bullets so small?
+
+If the (large) ice bullets continually come out too small (<5g average) the problem could be the machine isn’t selecting the correct ice type even though you select large. Remember, it usually takes around 8 cycles to reach 5g or more.
+
+**Solution:** Hold down the start button to run the self-cleaning function. This will flush the system and probably clear the settings. Switch the machine off for about 3 minutes and then restart.
+
+### 2\. Why does my ice maker say ‘FULL’ when it’s not?
+
+Sometimes the FULL alert will display, but the ice basket is not full. This could be due to the fit of the ice basket or other interference with the infrared sensors. 
+
+**Solution:** Make sure the ice basket is secure by pressing it down more firmly into place. Wipe the sensors to remove any mineral deposits and check to see if light refraction isn’t affecting the interior of the machine.
+
+### 3\. Why does my ice maker say ‘ADD WATER’ when there is water?
+
+A more common problem we encountered was the ADD WATER alert popping on even though the tank had enough water. There could be a number of reasons for this such as maybe an air blockage or dirt in the system.
+
+**Solution:** Usually, if you long-press the start button to run the self-cleaning function the problem will sort itself out. An additional trick is to drain some water out the machine and the pressure could move the air block. Failing this, we fixed one ice maker by cleaning the machine with a solution of white vinegar and water. Grime under the water guard could also be an issue.
+
+### 4\. Why does it take so long to make ice (often poor quality)?
+
+There could be an ice blockage in the system. Sometimes this is a result of the water being too cold and / or the room temperature too low. Alternatively, it could mean you have a problem with the ice making coolant.
+
+**Solution:** Switch off the machine for at least an hour to melt any ice that may be trapped and then restart using fresh water. Use water of over 15℃, lower your room temperature, or place the machine in a cooler location.
+
+### 5\. Why is my ice always so cloudy?
+
+This has nothing to do with how your ice maker or if it’s not working properly. The clearness of your ice will vary according to the quality of water you use for your ice maker.
+
+**Solution:** If you want clear-looking ice then you need to lower the total dissolved solids (TSD) of your water. Use filtered water, or even better use a TDS zero water filter or distilled water. If you are happy with cloudy ice, then remember to descale your machine more often to reduce mineral deposits.
+
+Our Expertise
+-------------
+
+Your product guide, Roger Shitaki, has developed expertise in refrigeration and water related appliances such as water cooler dispensers, mini refrigerators, and refrigerator water filters. These include numerous in-depth articles, buying guides, and test-based reviews.
+
+He actively participated in both the test design and implementation phases of this ice maker series. Each ice maker went through at least 36 hours of ice making including preliminary and actual test phases.
+
+During this time, our team became familiar with each machine’s working pattern and encountered various troubleshooting issues along the way. We checked the working of sensors, and experimented with different grades of water and the effects of temperature.
+
+FAQ
+---
+
+**1\. Do countertop ice makers keep ice frozen?**
+
+**2\. Can I leave my countertop ice maker on all the time?**
+
+**3\. What to look for when buying an ice maker?**
+
+**4\. What is the best type of ice maker?**
+
+**5\. What is the difference between an ice maker and an ice machine?**
