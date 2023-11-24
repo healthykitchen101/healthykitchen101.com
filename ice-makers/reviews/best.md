@@ -213,10 +213,20 @@ FAQ
 
 **1\. Do countertop ice makers keep ice frozen?**
 
+Typically, more affordable portable ice makers do not have a refrigerated compartment. They can maintain ice to varying degrees of quality for up to 8 hours. Over time, ice will melt back into the water reservoir below the basket.
+
 **2\. Can I leave my countertop ice maker on all the time?**
+
+Yes, you can. Eventually, ice will melt and if it drops away from the ‘Ice Full’ sensor, ice production will resume. Some countertop ice makers, especially for nugget ice, have a refrigerated compartment to preserve ice quality.
 
 **3\. What to look for when buying an ice maker?**
 
+First, decide whether you need bullet ice, nugget ice, or ice cubes. Portable bullet and cube ice makers are the cheapest and use a built-in water reservoir. Nugget ice makers often need a water line connection, but some are portable. Ice making capacity per hour is a good quality indicator as are good lid joinings and clear visibility into the machine.
+
 **4\. What is the best type of ice maker?**
 
+It depends on what kind of ice you prefer, how much ice you need per hour, and your budget spend. Generally, ice makers with a refrigerated ice compartment are more convenient. Ice makers with a water line inlet like typical nugget ice makers produce more ice per hour than cheaper portable ones.
+
 **5\. What is the difference between an ice maker and an ice machine?**
+
+Largely it is a question of semantics. However, an ice maker usually refers to an ice making mechanism in a refrigerator. Ice machines tend to be stand alone appliances, sometimes quite large or even built into a kitchen cabinet. Small, countertop or portable machines are often referred to as ice makers.
