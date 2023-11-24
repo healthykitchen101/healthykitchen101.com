@@ -3,7 +3,7 @@ A portable ice maker has a built-in water reservoir and therefore no need for an
 How We Test Countertop Ice Makers
 ---------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable ice makers on a countertop surrounded by equipment for ice quality testing. From the far left is a ZeroWater filter pitcher, a bundle of plastic ice scoops, two ice scoops in front of each machine with a TDS meter on top, and two ice baskets on the far right." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable bullet ice makers on a countertop with a ZeroWater pitcher to the left, a bundle of ice scoops, an ice scoop with a TDS meter in front of each machine and two empty ice baskets to the right side." width="640" height="427">
 
 Two bullet ice makers getting readied for testing
 
@@ -37,6 +37,10 @@ While testing popular machines is always important, we also select machines base
 
 Things That Affect Good Ice Makin
 ---------------------------------
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/close-up-two-countertop-ice-makers-with-full-ice-baskets-clpc2eh5f000lmm889k1kh3fs.jpg" alt="A close up of two countertop ice makers with full baskets of ice. The one to the right has clear ice made from zero TDS water, the one to right has cloudy ice made from tap water." width="640" height="427">
+
+Left: Clear zero TDS ice; Right: TDS 0.45 ppm tap water ice
 
 Regardless of what portable ice maker you buy, there are a few things that will affect the quality of your ice and your machine’s production capacity. 
 
