@@ -65,6 +65,8 @@ Overall, the Anova received an impressive score of 8.85 out of 10 in this portio
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-moist-food-test-clpgacw5i0012mm883qr1eiee.jpg" alt="The Anova Precision Pro as it’s performing the first moist food test. It achieved a peak suction of 45 kPA in a working cycle lasting 41 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-moist-food-test-1-clpgadxvf0013mm88hmnwbjuf.jpg" alt="The Anova Precision Pro as it is performing the second moist food test. It achieved a peak 43 kPA suction power in a working cycle lasting 39 seconds." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Moist
