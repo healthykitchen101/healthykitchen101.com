@@ -97,6 +97,8 @@ Inside, the sealer is built from sturdy plastic. Near the front is the heat bar,
 
 ### 10 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-control-panel-clpgk880r001pmm882rkz8375.jpg" alt="The control panel at the top of the Nesco VS-12" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-control-panel-1-clpgk92ci001qmm88a820gz3p.jpg" alt="Compared to single sealing, which is suitable for dry food, double sealing gives the bag a stronger seam to prevent leakage." width="300px" height="200px">
+
 Button Type: Physical
 
 Numberof Buttons: 6
