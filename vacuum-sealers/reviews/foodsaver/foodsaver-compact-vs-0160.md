@@ -119,7 +119,7 @@ Above the “Vacuum” and “Seal” buttons are indicator lights. These lights
 
 ### 10 - Lid
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-lid-clpchc84f000wmm88fhcs0lug.jpg" alt="The interior of the FoodSaver VS-0160 with the green protective plastic bar removed from the vacuum channel." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-lid-1-clpchcqr5000xmm885ldacmpv.jpg" alt="The slider to the side of the FoodSaver VS-0160 that you can use to engage the storage locks." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-lid-clpchc84f000wmm88fhcs0lug.jpg" alt="The interior of the FoodSaver VS-0160 with the green protective plastic bar removed from the vacuum channel." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-lid-1-clpchcqr5000xmm885ldacmpv.jpg" alt="The slider to the side of the FoodSaver VS-0160 that you can use to engage the storage locks." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-lid-2-clpgl5w8c001xmm88f7dz7q6m.jpg" alt="The locking mechanism built into the lid of the FoodSaver VS-0160. Shown here is also the storage slider." width="300px" height="200px">
 
 Lid Lock: Latch lock
 
