@@ -25,7 +25,7 @@ These factors are precisely why the Nesco VS-12 has secured the number one spot 
 
 *   Doesn’t come with a chime
 
-At a brief glance, the elaborate control panel and the hefty size of the Nesco VS-12 alone is already indicative of its potentials. So when we put it to the test in the lab, we weren’t very surprised when the Nesco VS-12 excelled in virtually all categories, from performance to design and usability.
+At a brief glance, the elaborate control panel and the hefty size of the Nesco VS-12 alone are already indicative of its potential. So when we put it to the test in the lab, we weren’t very surprised when the Nesco VS-12 excelled in virtually all categories, from performance to design and usability.
 
 For a comprehensive overview, feel free to explore our complete test report in this article!
 
