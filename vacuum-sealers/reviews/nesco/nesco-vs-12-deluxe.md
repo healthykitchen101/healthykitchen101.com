@@ -89,6 +89,8 @@ The Nesco VS-12 stands out thanks to its sturdy design, which earned it high pra
 
 ### 10 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-build-quality-clpgk5ml4001nmm884h0nbkjy.jpg" alt="The housing of the Nesco VS-12 is on full display. Note the parts that are plated in metal to protect the sealer from damage." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-build-quality-1-clpgk6at0001omm88b5d3blvz.jpg" alt="Inside the Nesco VS-12. You can see the vacuum channel and the vacuum bag roll holder. Towards the front is the heating bar with a high-vis orange strip." width="300px" height="200px">
+
 The Nesco VS-12 boasts outstanding build quality, earning a perfect score in this assessment from our reviewers. Its housing is mostly crafted from lightweight black plastic, but the sealer featured metallic plating on the top lid and front section—areas most susceptible to impacts and physical damage. This design choice gives us quite a lot of confidence in the Nesco VS-12's long-term durability.
 
 Inside, the sealer is built from sturdy plastic. Near the front is the heat bar, responsible for sealing the bags. It performs well and has a high-visibility orange sticker strung across as a safety precaution.
