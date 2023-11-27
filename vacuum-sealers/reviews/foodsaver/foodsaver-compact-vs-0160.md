@@ -27,7 +27,7 @@ If you want a no-frills vacuum sealer that gets the job done, the FoodSaver VS-0
 *   Safety could be improved with stickers that warn new users about the heat bar.
 *   No extra feature.
 
-The FoodSaver VS-0160, an affordable choice within the FoodSaver product range, ranks among the top-rated vacuum sealers available today. The fact that FoodSaver is a very well-regarded brand in the market only adds to its appeal.
+The FoodSaver VS-0160, an affordable choice within the FoodSaver product range, ranks among the [top-rated vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) available today. The fact that FoodSaver is a very well-regarded brand in the market only adds to its appeal.
 
 We've bought a unit and thoroughly tested it in our lab to see how well it performs and evaluate its design and ease of use. See for yourself if it's the right choice for you!
 
