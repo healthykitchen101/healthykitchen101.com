@@ -97,6 +97,8 @@ The Anova Precision Pro vacuum sealer stands out with its sleek black plastic de
 
 ### 10 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-clpgaltdj0015mm884u1k2xqy.jpg" alt="The interior of the Anova Precision Pro is all-black, except for the high-vis orange sticker that marks where the heating bar is." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-1-clpgamjq20016mm882cu78y5g.jpg" alt="All of the components in the interior of the sealer are very well-built." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-2-clpgao1io0017mm88bsime7dx.jpg" alt="The underside of the Anova Precision Pro. It has non-slip feet in all four corners, as well as a small compartment near the back to tuck the power cord inside for easier storage." width="300px" height="200px">
+
 Even though the Anova Precision Pro is built entirely from plastic, it neither looks nor feels cheap. Painted all-black from top to bottom, its exterior is a mix of premium-looking matte and glossy plastic, which gives it a fairly expensive look.
 
 ### 10 - Control Panel
