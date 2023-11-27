@@ -161,6 +161,8 @@ When it comes to noise, the Anova Precision Pro is on par with other sealers we'
 
 ### 9.5 - Indicator Lights and Chime
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-indicator-lights-clpgd7wr9001imm88a3a62xc2.jpg" alt="The indicator lights are built into the individual button. The Dry vacuuming mode is on at the moment." width="300px" height="200px">
+
 Numberof Indicators: 9
 
 Progress Bar: Yes
