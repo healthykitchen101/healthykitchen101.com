@@ -117,6 +117,8 @@ Furthermore, if you have unique sealing needs, such as sealing through an access
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-lid-clpgka9rx001rmm88dc1zbkv3.jpg" alt="The lid of the Nesco VS-12 can be locked and unlocked by working the handle at the top." width="300px" height="200px">
+
 Lid Lock: Handle lock
 
 The Nesco VS-12's lid is solid and easy to use. There's a handle at the front that you lift to unlock and open the lid, and when it's time to seal, simply bring the lid down and push it to lock it securely in place. This handle lock feature makes using the sealer one-handed a breeze.
