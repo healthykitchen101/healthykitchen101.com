@@ -151,6 +151,10 @@ Because of these factors, our reviewers gave the Nesco VS-12 an outstanding scor
 
 ### 8.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-noise-clpgkeeki001vmm88cz2cdtn4.jpg" alt="The Nesco VS-12 is on the louder side. According to our noise level meter, the suction motor could get as loud as 83.4 dBA, like during this dry food test." width="300px" height="200px">
+
+The Nesco VS-12 is on the louder side. According to our noise level meter, the suction motor could get as loud as 83.4 dBA, like during this dry food test.
+
 Maximum Noise Level: 83.4 dBA
 
 Safety is a top priority with the Nesco VS-12. The heating bar, which can get quite hot after a few cycles, is covered by a bright orange sticker for clear visibility, serving as a warning to users. Moreover, there's a "Hot Surface" label on the front of the machine for added caution.
@@ -158,6 +162,8 @@ Safety is a top priority with the Nesco VS-12. The heating bar, which can get qu
 In terms of noise, it registers at 83.4 dBA during the dry food test. While it's on the louder side compared to other models in our database, it's still within the normal range.
 
 ### 9.5 - Indicator Lights and Chime
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-indicator-lights-clpgkfg2h001wmm88bjwv528i.jpg" alt="The small LED screen that indicates the sealer’s progress on the control panel." width="300px" height="200px">
 
 Numberof Indicators: 9
 
