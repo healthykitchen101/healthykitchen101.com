@@ -19,18 +19,18 @@ Performance
 
 performance Scores: **0.0**
 
-*   (35%) - **0**/10
+*   Hot Soup Purée (35%) - **0**/10
     
-*   (30%) - **0**/10
+*   Frozen Fruit Smoothie (30%) - **0**/10
     
-*   (15%) - **0**/10
+*   Mayonnaise (15%) - **0**/10
     
-*   (15%) - **0**/10
+*   Almond Milk (15%) - **0**/10
     
-*   (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/10
     
 
-### Puree Soup
+### Hot Soup Purée
 
 Pureeing Time:
 
@@ -38,7 +38,7 @@ Result:
 
 Suction:
 
-### Frozen Smoothie
+### Frozen Fruit Smoothie
 
 Blending Time:
 
@@ -62,7 +62,7 @@ Result:
 
 Suction:
 
-### Whipped Egg Whites
+### Whipped Egg-Whites
 
 Beating Time:
 
@@ -75,16 +75,16 @@ Design
 
 design Scores: **0.0**
 
-*   (60%) - **0**/10
+*   Build Quality (60%) - **0**/10
     
-*   (30%) - **0**/10
+*   Blending Shaft (30%) - **0**/10
     
-*   (5%) - **0**/10
+*   Power Cord (5%) - **0**/10
     
-*   (5%) - **0**/10
+*   Beaker (5%) - **0**/10
     
 
-### In The Box
+### In the Box
 
 ### Dimensions
 
@@ -98,7 +98,7 @@ Shaft Length:
 
 ### Build Quality
 
-### Speed And Controls
+### Speed and Controls
 
 Activation:
 
@@ -114,7 +114,7 @@ Digital Display:
 
 Pulse Mode:
 
-### Blades
+### Blending Shaft
 
 Material:
 
@@ -128,7 +128,7 @@ Removable:
 
 Dishwasher Safe:
 
-### Main Jar
+### Beaker
 
 Material:
 
@@ -150,7 +150,7 @@ Type:
 
 Detachable:
 
-### Accessories
+### Extra Accessories
 
 Material:
 
@@ -163,16 +163,16 @@ Usability
 
 usability Scores: **0.0**
 
-*   (60%) - **0**/10
+*   Ease of Use (60%) - **0**/10
     
-*   (10%) - **0**/10
+*   Blade Assembly (10%) - **0**/10
     
-*   (20%) - **0**/10
+*   Handling (20%) - **0**/10
     
-*   (10%) - **0**/10
+*   Cleanability (10%) - **0**/10
     
 
-### Easeof Use
+### Ease of Use
 
 ### Blade Assembly
 
