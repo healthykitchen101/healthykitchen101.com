@@ -121,6 +121,8 @@ Finally, on the far right side, there's the "External Pulse Vacuum" button, whic
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-lid-clpgaygl3001amm88hag2hnc8.jpg" alt="The handle lock of the Anova Precision Pro in the “Open” position. When raised, you can open and close the lid as normal." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-lid-1-clpgb0dbs001bmm88dgc09m6g.jpg" alt="The handle lock of the Anova Precision Pro in the “Locked” position. The lid is solidly anchored to the housing and can no longer be opened." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-lid-2-clpgb2kf5001cmm882xqfebpy.jpg" alt="The locks on either side of the Anova Precision Pro’s lid. These can be operated by lifting or pressing down on the handle above." width="300px" height="200px">
+
 Lid Lock: Handle lock
 
 The lid of the Anova Precision Pro is really well-made. We checked the lid hinges thoroughly, and they are as solid as a rock. Even when we moved the lid from side to side, it didn't shift or wobble.
