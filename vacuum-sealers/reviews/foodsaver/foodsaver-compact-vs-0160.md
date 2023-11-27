@@ -149,6 +149,10 @@ The handling experience of the FoodSaver VS-0160 can be best described as "seaml
 
 ### 8.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-noise-clpgp63nm001zmm88e0526pf2.jpg" alt="During a dry food test, we measured a peak loudness of 77.9 dBA for the FoodSaver VS-0160 vacuum sealer." width="300px" height="200px">
+
+During a dry food test, we measured a peak loudness of 77.9 dBA for the FoodSaver VS-0160 vacuum sealer.
+
 Maximum Noise Level: 77.9 dBA
 
 Safety could be enhanced with the addition of a warning sticker to caution new users that it can get hot after use. Currently, there are no warnings inside the sealer, and all safety information is in the user manual, which some users may not read.
