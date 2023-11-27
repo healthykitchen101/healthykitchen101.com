@@ -43,6 +43,8 @@ The Nesco VS-12 achieved one of the highest performance ratings in our vacuum se
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-dry-food-test-clpge8itg001jmm884lfo38ef.jpg" alt="The Nesco VS-12 in the first dry test session, achieving a suction power of 78 kPA according to our vacuum gauge in a work cycle lasting 29 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-dry-food-test-1-clpge9bl2001kmm88c0bz51te.jpg" alt="The Nesco VS-12 in the second dry food test. We recorded a peak suction of 80 kPA in 27 seconds." width="300px" height="200px">
+
 Suction Mode: Normal
 
 Food Mode: Dry
