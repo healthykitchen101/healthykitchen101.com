@@ -157,7 +157,7 @@ Maximum Noise Level: 77.9 dBA
 
 Safety could be enhanced with the addition of a warning sticker to caution new users that it can get hot after use. Currently, there are no warnings inside the sealer, and all safety information is in the user manual, which some users may not read.
 
-The VS-0160 is on the quieter end when compared to other models we've tested. We recorded a sound level of approximately 75-77 dBA during testing. In contrast, many models we've tested had surpassed 80 dBA in noise output.
+The VS-0160 is relatively quiet compared to other models we've tested. In our dry food test, we measured a peak loudness of 77.9 dBA.
 
 ### 7.0 - Indicator Lights and Chime
 
