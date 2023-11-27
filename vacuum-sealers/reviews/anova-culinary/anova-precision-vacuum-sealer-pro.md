@@ -149,7 +149,7 @@ The Anova Precision Pro is incredibly user-friendly. You won't need to dig into 
 
 ### 8.0 - Safety & Noise
 
-Maximum Noise Level: 83.4 dBA
+Maximum Noise Level: 83 dBA
 
 Above the hot heating bar, there's a noticeable bright orange sticker. This serves as a clear warning for new users, indicating the location of the hot heating bar to help them avoid accidental contact. Given the sealer's sleek all-black design, without this sticker, it would be challenging for users to identify the heating bar's position.
 
