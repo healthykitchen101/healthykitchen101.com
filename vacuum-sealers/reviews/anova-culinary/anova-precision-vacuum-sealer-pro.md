@@ -103,6 +103,8 @@ Even though the Anova Precision Pro is built entirely from plastic, it neither l
 
 ### 10 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-control-panel-clpgatm9c0018mm88hcuu2oui.jpg" alt="The indicator lights of the Anova Precision Pro can be a little bit dim if you place the sealer under harsh light sources or direct sunlight through a window." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-control-panel-1-clpgaubb30019mm886gxw4189.jpg" alt="The control panel of the Anova Precision Pro, with function buttons arranged neatly in a row in three distinct groupings." width="300px" height="200px">
+
 Button Type: Physical
 
 Numberof Buttons: 7
