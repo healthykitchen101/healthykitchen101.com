@@ -19,6 +19,17 @@ Performance
 
 performance Scores: **0.0**
 
+*   (35%) - **0**/10
+    
+*   (30%) - **0**/10
+    
+*   (15%) - **0**/10
+    
+*   (15%) - **0**/10
+    
+*   (5%) - **0**/10
+    
+
 ### Puree Soup
 
 Pureeing Time:
