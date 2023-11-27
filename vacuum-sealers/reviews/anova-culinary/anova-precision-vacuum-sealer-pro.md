@@ -143,6 +143,8 @@ The Anova Precision Pro excels in usability. Its user-friendly control panel is 
 
 ### 10 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-clpgd11sy001fmm88ddzn92ha.jpg" alt="The lid and the handle lock are easy to operate with just one hand." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-1-clpgd1z7e001gmm883pi68tvf.jpg" alt="The Anova Precision Pro has a handle lock, which greatly simplifies the operation of the sealer and enables one-handed lid locking and release." width="300px" height="200px">
+
 The Anova Precision Pro is incredibly user-friendly. You won't need to dig into the user manual because the control panel is straightforward, with well-labeled buttons. Using the sealer is a breeze, thanks to the handy handle lock that makes opening and closing the lid quick and easy. Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
 
 ### 8.0 - Safety & Noise
