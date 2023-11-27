@@ -45,6 +45,10 @@ The Anova Precision Pro sealer shines in terms of performance. It excelled in th
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-dry-food-test-clpgabkbn0011mm886iqh5jxh.jpg" alt="The Anova Precision Pro performing the second dry test. Peak suction was still at 67 kPA according to our vacuum gauge and the sealer finished its working cycle in precisely 14 seconds like before." width="300px" height="200px">
+
+The Anova Precision Pro performing the second dry test. Peak suction was still at 67 kPA according to our vacuum gauge and the sealer finished its working cycle in precisely 14 seconds like before.
+
 Suction Mode: N/A
 
 Food Mode: Dry
