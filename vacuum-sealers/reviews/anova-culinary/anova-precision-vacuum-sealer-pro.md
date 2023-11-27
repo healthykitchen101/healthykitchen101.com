@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **8.4**
 
 *   Performance (50%) - **7.6**/10
     
 *   Design (20%) - **9.0**/10
     
-*   Usability (30%) - **9.6**/10
+*   Usability (30%) - **9.4**/10
     
 
 The Anova Precision Vacuum Sealer Pro is one of our top picks for vacuum sealers in 2023 because it performs well, looks great, and is easy to use. However, when compared to some other options like the Nesco VS-12, it may not be the absolute best choice in terms of performance and durability.
@@ -130,13 +130,13 @@ You'll notice a handle at the front of the unit, and it's used to work the locki
 Usability
 ---------
 
-usability Scores: **9.6**
+usability Scores: **9.4**
 
 *   Ease of Use (70%) - **10**/10
     
-*   Safety & Noise (15%) - **8.0**/10
+*   Safety & Noise (15%) - **9.0**/10
     
-*   Indicator Lights and Chime (15%) - **9.5**/10
+*   Indicator Lights and Chime (15%) - **7.0**/10
     
 
 The Anova Precision Pro excels in usability. Its user-friendly control panel is complemented by thoughtful safety features, such as the handle lock and a visible warning strip on the hot heating bar. However, it could benefit from an audible chime for added ease of use.
@@ -147,7 +147,7 @@ The Anova Precision Pro excels in usability. Its user-friendly control panel is 
 
 The Anova Precision Pro is incredibly user-friendly. You won't need to dig into the user manual because the control panel is straightforward, with well-labeled buttons. Using the sealer is a breeze, thanks to the handy handle lock that makes opening and closing the lid quick and easy. Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
 
-### 8.0 - Safety & Noise
+### 9.0 - Safety & Noise
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-noise-clpgd66ua001hmm88fype0m1d.jpg" alt="Anova has thoughtfully included a bright, high-vis orange sticker across the heating bar as a safety precaution." width="300px" height="200px">
 
@@ -159,7 +159,7 @@ Above the hot heating bar, there's a noticeable bright orange sticker. This serv
 
 When it comes to noise, the Anova Precision Pro is on par with other sealers we've tested. It reached a peak noise level of 83 dBA during a dry food test.
 
-### 9.5 - Indicator Lights and Chime
+### 7.0 - Indicator Lights and Chime
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-indicator-lights-clpgd7wr9001imm88a3a62xc2.jpg" alt="The indicator lights are built into the individual button. The Dry vacuuming mode is on at the moment." width="300px" height="200px">
 
