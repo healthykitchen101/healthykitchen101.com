@@ -12,7 +12,7 @@ Overall Score: **9.0**
 
 The Nesco VS-12 is undoubtedly one of the best vacuum sealers you can find for your money. Not only does it deliver strong sealing performance, but it also boasts a robust build and a range of built-in features, including a convenient internal bag holding compartment and an integrated cutter. Despite its control panel looking somewhat complex with numerous functions and buttons, it's surprisingly user-friendly.
 
-These factors are precisely why the Nesco VS-12 has secured the number one spot on our list of the best vacuum sealers!
+These factors are precisely why the Nesco VS-12 has secured the number one spot on our [list of the best vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/)!
 
 **Things We Like**
 
