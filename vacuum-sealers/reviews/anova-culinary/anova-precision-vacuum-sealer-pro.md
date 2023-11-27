@@ -149,6 +149,10 @@ The Anova Precision Pro is incredibly user-friendly. You won't need to dig into 
 
 ### 8.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-noise-clpgd66ua001hmm88fype0m1d.jpg" alt="Anova has thoughtfully included a bright, high-vis orange sticker across the heating bar as a safety precaution." width="300px" height="200px">
+
+Anova has thoughtfully included a bright, high-vis orange sticker across the heating bar as a safety precaution.
+
 Maximum Noise Level: 83 dBA
 
 Above the hot heating bar, there's a noticeable bright orange sticker. This serves as a clear warning for new users, indicating the location of the hot heating bar to help them avoid accidental contact. Given the sealer's sleek all-black design, without this sticker, it would be challenging for users to identify the heating bar's position.
