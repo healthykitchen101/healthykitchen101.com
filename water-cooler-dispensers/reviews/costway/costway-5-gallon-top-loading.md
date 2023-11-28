@@ -114,7 +114,7 @@ design Scores: **5.1**
 
 *   Build Quality (45%) - **4.9**/10
     
-*   Panel and Indicators (25%) - **6.0**/10
+*   Panel & Indicators (25%) - **6.0**/10
     
 *   Water Inlet Controls (20%) - **6.0**/10
     
@@ -169,7 +169,7 @@ Although made from a flexible plastic, the body joinings are good and there are 
 
 One is the drip tray, another the rear drainage plug, and the water baffle. The fact that our test machine had a leak also raised questions about adequate quality control as well as proper shipping and packing.
 
-### 6.0 - Panel and Indicators
+### 6.0 - Panel & Indicators
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-bottle-dispenser-panel-indicators-clezdgi7i000aip88cxjdbg3d.jpg" alt="A close up of the control panel of costway 5-gallon water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-bottle-dispenser-panel-indicators-1-clezdhy1b000bip881inb6qsf.jpg" alt="The faucets and control panel of the Costway freestanding water cooler dispenser pictured together." width="300px" height="200px">
 
