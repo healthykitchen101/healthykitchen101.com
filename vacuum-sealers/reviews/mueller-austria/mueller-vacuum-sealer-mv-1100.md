@@ -87,11 +87,11 @@ One notable feature is the embossed interior, which adds a fascinating texture t
 
 ### 8.5 - Control Panel
 
-Button Type:
+Button Type: Touch-sensitive
 
-Numberof Buttons:
+Numberof Buttons: 5
 
-Numberof Modes:
+Numberof Modes: 4
 
 The Mueller sealer has a control panel with five touch-sensitive buttons.
 
