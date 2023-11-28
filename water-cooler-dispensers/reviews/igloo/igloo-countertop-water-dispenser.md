@@ -273,7 +273,7 @@ usability Scores: **6.1**
     
 *   Hot Water Safety (15%) - **6.0**/10
     
-*   Bottle/Filter Changing (15%) - **7.5**/10
+*   Bottle / Filter Changing (15%) - **7.5**/10
     
 *   Cleaning (30%) - **6.2**/10
     
@@ -310,7 +310,7 @@ Mechanism: Mounted lever
 
 The design of the hot water safety mechanism appears standard for a button dispensing machine. However, the red lever was difficult to slide across unless you pushed from behind. Furthermore, the button pressed down at an uneven angle and the stiff traction didn’t help either. The design, at least, is functional.
 
-### 7.5 - Bottle/Filter Changing
+### 7.5 - Bottle / Filter Changing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-bottle-filter-changing-clf2672qi0047ip88d3oq4i71.jpg" alt="A water bottle loaded onto the Igloo hot and cold water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-bottle-filter-changing-1-clf267ilm0048ip88aot4e0qo.jpg" alt="Top down view of a countertop water cooler dispenser showing the water guard and water needle. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-bottle-filter-changing-2-clf267wdy0049ip881dx5fy6v.jpg" alt="A close up of the water guard and water needle of a top-loading water cooler dispenser." width="300px" height="200px">
 
