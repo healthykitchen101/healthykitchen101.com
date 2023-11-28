@@ -107,7 +107,7 @@ design Scores: **8.4**
 
 *   Build Quality (45%) - **9.0**/10
     
-*   Panel and Indicators (25%) - **8.5**/10
+*   Panel & Indicators (25%) - **8.5**/10
     
 *   Water Inlet Controls (20%) - **8.0**/10
     
@@ -154,7 +154,7 @@ The most stand-out feature of this Frigedaire is its more rounded design rather 
 
 The hard plastic front panel and dispensing booth do not gather fingerprints at all. One oversight is the sharp edges of the rear metal grate, but an ad hoc plastic cover helps protect careless fingers.
 
-### 8.5 - Panel and Indicators
+### 8.5 - Panel & Indicators
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/frigidaire-stainless-steel-water-cooler-dispenser-panel-indicators-cld2tw3d8005s3p88155l2h0y.jpg" alt="Close up view of the control panel of the Frigidaire EFWC519 water cooler dispenser showing Cooling, Heating, and Power indicators." width="300px" height="200px">
 
