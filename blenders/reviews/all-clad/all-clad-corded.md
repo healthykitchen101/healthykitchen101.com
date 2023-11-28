@@ -120,7 +120,7 @@ design Scores: **9.1**
     
 *   Blending Shaft (30%) - **9.5**/10
     
-*   Power cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/10
     
 *   Beaker (5%) - **0**/10
     
@@ -211,7 +211,7 @@ Dishwasher Safe: N/A
 
 This All-Clad doesn’t come with a blending container, but you can easily use any one you find that’s the right size.
 
-### 10 - Power cord
+### 10 - Power Cord
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cla3nsphy001g6s88cb0c3sjh.jpg" alt="The All-Clad Immersion Blender on a white table with its power cord that features a 2-prong plug rolled up next to it." width="300px" height="200px">
 
