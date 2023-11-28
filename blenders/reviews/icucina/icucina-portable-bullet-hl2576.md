@@ -219,7 +219,7 @@ Usability: Less than Intuitive to Assemble
 
 usability Scores: **9.3**
 
-*   Hand-Free Operation (60%) - **10**/10
+*   Hands-Free Operation (60%) - **10**/10
     
 *   Assembly (20%) - **8.0**/10
     
@@ -228,7 +228,7 @@ usability Scores: **9.3**
 
 Locking the cup with the blade attached in the motor base may be disruptive and requires a bit of practice. Otherwise, the iCucina doesn’t disappoint too much when it comes to ease of use. Cleaning it is also not much of an issue especially when the cups, lids, and blade assembly are all dishwasher-safe.
 
-### 10 - Hand-Free Operation
+### 10 - Hands-Free Operation
 
 We like the smooth and non-intrusive operation of this blender. In particular, your iCucina will blend much more like a full-sized model since it doesn’t require you to press and hold the power button or the blending cup throughout the whole process like many rivals. Most impressively, food doesn’t too often get lodged under the blade and demands your intervention to resolve. Those suggest that you can possibly take your eyes off your blender to do other things while it is operating.
 
