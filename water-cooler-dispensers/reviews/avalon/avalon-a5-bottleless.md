@@ -108,7 +108,7 @@ design Scores: **8.7**
 
 *   Build Quality (45%) - **9.0**/10
     
-*   Panel and Indicators (25%) - **9.0**/10
+*   Panel & Indicators (25%) - **9.0**/10
     
 *   Water Inlet Controls (20%) - **8.0**/10
     
@@ -161,7 +161,7 @@ Height: 41.0" (104.1 cm)
 
 Weight: 35.0 lbs (15.9 kg)
 
-### 9.0 - Panel and Indicators
+### 9.0 - Panel & Indicators
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a5-bottleless-water-cooler-dispenser-panel-indicators-cld2t9wqn003t3p8864r1diyd.jpg" alt="Stainless steel panel with working indicators shown on a water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a5-bottleless-water-cooler-dispenser-panel-indicators-1-cld2ta79k003u3p885pepay96.jpg" alt="Side view of the display panel and dispensing booth of the Avalon A5 water cooler dispenser." width="300px" height="200px">
 
@@ -253,7 +253,7 @@ Extra Features: Hook for PE tubing
 
 Since the drip tray is attached to the door, and there is no pocket handle on the side, the best way to open the cabinet is from the bottom. There’s a hook inside where you can hang any extra PE tubing. On the left side of the ceiling you’ll see the Filter Reset button. The filter bracket and attachments come fully installed. There’s a water collection pool on the bottom with an additional drainage plug, but we never experienced any leakage.
 
-### Cord and Plug
+### Cord & Plug
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a5-bottleless-water-cooler-dispenser-cord-plug-cld2tihx0004j3p88233uaewn.jpg" alt="Close up of the three-pronged plug found on the Avalon A5 water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a5-bottleless-water-cooler-dispenser-cord-plug-1-cld2tk4fw004q3p8851lea322.jpg" alt="Man holding the electric cord across the body of a water cooler dispenser mounted sideways on a table." width="300px" height="200px">
 
