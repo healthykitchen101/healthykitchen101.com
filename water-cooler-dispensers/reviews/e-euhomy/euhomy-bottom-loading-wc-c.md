@@ -299,7 +299,7 @@ usability Scores: **7.8**
     
 *   Hot Water Safety (15%) - **7.0**/10
     
-*   Bottle/Filter Changing (15%) - **9.0**/10
+*   Bottle / Filter Changing (15%) - **9.0**/10
     
 *   Cleaning (30%) - **8.0**/10
     
@@ -330,7 +330,7 @@ Mechanism: Push button on the front
 
 The hot water safety mechanism requires at least two fingers, or the thumb and a finger to operate. It was not the most comfortable mechanism we have come across. As such, it didn’t compensate for the weaker-than-average flow rate. While the Euhomy has some nice design features, the button design didn’t make the list.
 
-### 9.0 - Bottle/Filter Changing
+### 9.0 - Bottle / Filter Changing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/euhomy-bottom-loading-wc-c-bottle-filter-changing-clf0wsjtg0021ip882rcwfpp0.jpg" alt="A bottle with a water straw inserted inside the cabinet of a bottom-loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/euhomy-bottom-loading-wc-c-bottle-filter-changing-1-clf0wta8a0022ip8878rpenhc.jpg" alt="A gloved hand holding a partly removed silicone bottle cap from a 5-gallon jug of a bottom-loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/euhomy-bottom-loading-wc-c-bottle-filter-changing-2-clf0wu1320023ip889sqa8wn3.jpg" alt="A gloved hand inserting or removing a water straw for a 5-gallon jug of a bottom-loading water cooler dispenser." width="300px" height="200px">
 
