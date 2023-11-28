@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.6**
+Overall Score: **5.8**
 
 *   Performance (50%) - **5.8**/10
     
-*   Design (20%) - **4.7**/10
+*   Design (20%) - **5.5**/10
     
 *   Usability (30%) - **6.0**/10
     
@@ -70,13 +70,13 @@ In this test, the sealer outperformed the dry food test but still has room for i
 Design
 ------
 
-design Scores: **4.7**
+design Scores: **5.5**
 
 *   Build Quality (50%) - **6.0**/10
     
 *   Control Panel (20%) - **8.5**/10
     
-*   Lid (20%) - **0**/10
+*   Lid (20%) - **4.0**/10
     
 
 The design of the Mueller is fitting for the price tag, i.e. it’s unspectacular. Although the company tried to incorporate features like having a metallic top lid and touch-sensitive buttons, it’s still clear from the stiff lid locks and the lack of extra features that it’s a budget-friendly model. Fortunately, we didn’t find any significant design flaws that would affect the unit’s long-term durability.
@@ -101,7 +101,7 @@ The first two adjust vacuum and food modes, while the other three control sealin
 
 The mode-changing buttons have corresponding lights, and the “Seal” and “Vac Seal” buttons light up when pressed. However, the touch-sensitive buttons can be occasionally unresponsive, requiring longer presses to register. Overall, the control panel is well-arranged and user-friendly.
 
-### Lid
+### 4.0 - Lid
 
 Lid Lock: Latch lock
 
