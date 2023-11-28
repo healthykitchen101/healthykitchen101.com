@@ -284,7 +284,7 @@ Ease of Use
 
 usability Scores: **8.8**
 
-*   Cold Water Dispensing (40%) - **8.5**/10
+*   Dispensing Water (40%) - **8.5**/10
     
 *   Hot Water Safety (15%) - **9.0**/10
     
@@ -297,7 +297,7 @@ The Avalon A8 countertop hot and cold water dispenser was easy to set up with mi
 
 On the downside, the drip tray is particularly narrow. This helps, however, to limit the footprint for the extra depth required for the attached filters at the rear. Also, considering the limited space available on such a compact machine, the tank drainage port is a little cumbersome to work with.
 
-### 8.5 - Cold Water Dispensing
+### 8.5 - Dispensing Water
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a8-countertop-bottleless-water-cooler-dispensing-water-cles9ugax000hbk887qnl52hw.jpg" alt="A gloved hand dispensing cold water from a water cooler dispenser into a part cup by pushing a blue lever." width="300px" height="200px">
 
