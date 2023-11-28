@@ -79,6 +79,8 @@ design Scores: **4.7**
 *   Lid (20%) - **0**/10
     
 
+The design of the Mueller is fitting for the price tag, i.e. it’s unspectacular. Although the company tried to incorporate features like having a metallic top lid and touch-sensitive buttons, it’s still clear from the stiff lid locks and the lack of extra features that it’s a budget-friendly model. Fortunately, we didn’t find any significant design flaws that would affect the unit’s long-term durability.
+
 ### 6.0 - Build Quality
 
 The Mueller vacuum sealer offers impressive build quality at an affordable price. The lid features a sleek metal component that enhances the overall luxurious look of the sealer. The control panel buttons are conveniently designed for easy clicking.
@@ -117,7 +119,11 @@ usability Scores: **6.0**
 *   Indicator Lights and Chime (15%) - **9.0**/10
     
 
+The Mueller MV-1100's user-friendliness could use some improvement. Firstly, the lid locks are quite problematic as they tend to be unreliable and require a considerable amount of force to securely lock. Additionally, the touch-sensitive buttons are overly sensitive and can sometimes misinterpret commands. However, despite these concerns, the unit performs well in terms of safety, noise level, and indicator light brightness, making it a solid choice overall.
+
 ### 5.0 - Ease of Use
+
+The Mueller's handling is poor due to two issues: the lid and the unreliable control panel. As mentioned in the Design section, one side of the lid on our unit doesn't lock in tandem with the other. As a result, we always have to double-check to ensure both locks are engaged when we press down on the lid.
 
 ### 8.0 - Safety & Noise
 
@@ -129,10 +135,12 @@ While the Mueller is not the noisiest model in the latest batch of vacuum sealer
 
 ### 9.0 - Indicator Lights and Chime
 
-Numberof Indicators:
+Numberof Indicators: 6
 
-Progress Bar:
+Progress Bar: Yes
 
-Chime:
+Chime: No
 
 All indicator lights are decently bright and visible even under harsh studio lighting. The Mueller doesn’t come with an audible chime, which is to be expected at this price point.
+
+It comes with a progress bar at the top, which you can use to conveniently track the sealer’s working cycle.
