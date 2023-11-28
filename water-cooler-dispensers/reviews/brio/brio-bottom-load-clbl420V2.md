@@ -281,7 +281,7 @@ usability Scores: **6.8**
     
 *   Hot Water Safety (15%) - **7.5**/10
     
-*   Bottle/Filter Changing (15%) - **8.0**/10
+*   Bottle / Filter Changing (15%) - **8.0**/10
     
 *   Cleaning (30%) - **6.3**/10
     
@@ -310,7 +310,7 @@ Mechanism: Mounted lever
 
 Although the hot water safety mechanism is similar in appearance to other types of button operated machines, the experience was not so ideal. In our testing, the hot safety clip required more force to push sideways and the downward movement was not so smooth. The design is functional, but doesn’t demonstrate good technical design.
 
-### 8.0 - Bottle/Filter Changing
+### 8.0 - Bottle / Filter Changing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/brio-bottom-load-water-dispenser-bottle-filter-changing-clf227oaf0033ip8820m5b1i5.jpg" alt="The inside of a bottom loading water cooler dispenser with the water straw with a bottle cap resting against the side." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/brio-bottom-load-water-dispenser-bottle-filter-changing-1-clf2284wh0034ip888ae55udv.jpg" alt="A water straw being placed into a 5-gallon water bottle in front of a bottom-loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/brio-bottom-load-water-dispenser-bottle-filter-changing-2-clf228ndd0035ip889q9t9t3f.jpg" alt="Close up of a plastic bottle cap being placed onto a bottom-loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/brio-bottom-load-water-dispenser-bottle-filter-changing-3-clf2294fd0036ip886b2l9zlz.jpg" alt="Close up of a bottle cap on a 5-gallon water jug of a bottom-loading water cooler dispenser." width="300px" height="200px">
 
