@@ -42,7 +42,7 @@ performance Scores: **7.4**
 
 *   Hot Water Test (40%) - **6.7**/10
     
-*   Cold Water (60%) - **7.8**/10
+*   Cold Water Test (60%) - **7.8**/10
     
 
 Both hot water and cold water tests revealed different quirks of the Euhomy. Cold water was the better performer, yet it failed to measure up to the temperature standards of other machines. Likewise, the hot water temperature was not in line with the normal average. While temperature is more an issue of personal preference, the slower flow rate was an indicator of poorer mechanical design.
@@ -97,7 +97,7 @@ For a free-standing machine with buttons, the flow rate of the Euhomy was one of
 
 We felt the poor flow rate was another indication of overall lower-quality mechanics in the design. The serving capacity for hot and cold water, however, is not bad.
 
-### Cold Water
+### Cold Water Test
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/euhomy-bottom-loading-wc-c-cold-water-test-clhvn05cc0007ey88cfar5nff.jpg" alt="Water temperature being measured as cold water flows out the nozzle of a water cooler dispenser." width="300px" height="200px">
 
