@@ -38,7 +38,7 @@ performance Scores: **8.9**
 
 *   Hot Water Test (40%) - **8.7**/10
     
-*   Cold Water Test (60%) - **9.0**/10
+*   Cold Water Test (60%) - **9.0**/10
     
 
 The Avalon A4 bottom loading water dispenser hit the top of the charts in a number of tests we ran. For hot water, it measured one of the highest constant flow temperatures, and also had a perfect flow rate score. On the downside, the hot water heating took longer than average, but the single draw capacity was enough for three cups.
@@ -93,7 +93,7 @@ This temperature pushed the limit of 200 ℉, above which is not the safest for 
 
 The Avalon A4 also clocked a perfect flow rate of 1.15 fl. oz. (34 ml) / sec in our flow rate test. Water dispenses speedily and efficiently which makes it a really nice machine for heavy use. If you’re upgrading from an older or lower performing machine, it’s best to take care with the hot water until you get accustomed to the flow rate.
 
-### Cold Water Test
+### Cold Water Test
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a4-bottom-loading-water-cooler-cold-water-test-clhvmnsf60003ey883ox1ajus.jpg" alt="A paper cup filled with water resting on a drip tray below the cold water outlet on a water cooler dispenser." width="300px" height="200px">
 
