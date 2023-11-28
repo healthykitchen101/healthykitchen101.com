@@ -278,7 +278,7 @@ usability Scores: **6.0**
     
 *   Hot Water Safety (15%) - **5.5**/10
     
-*   Bottle/Filter Changing (15%) - **7.5**/10
+*   Bottle / Filter Changing (15%) - **7.5**/10
     
 *   Cleaning (30%) - **6.8**/10
     
@@ -315,7 +315,7 @@ Mechanism: Clip faucet
 
 The hot water safety mechanism is a kind of clip faucet. You have to press the two parts together and push them down. Unlike the cold water faucet, if you lift it up it won’t dispense. Also, if you adjust the position while dispensing the safety clip locks again. Other times the clips don’t quite connect on the first try. Despite these incidents, the simplistic design does serve its purpose.
 
-### 7.5 - Bottle/Filter Changing
+### 7.5 - Bottle / Filter Changing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-cooler-dispenser-bottle-filter-changing-clezfg0c6000tip880dycf2eu.jpg" alt="A bottle being loaded onto a top-loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-cooler-dispenser-bottle-filter-changing-1-clezfh27y000uip883d199x84.jpg" alt="The water needle and water guard of a top-loading water cooler dispenser seen from above." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-cooler-dispenser-bottle-filter-changing-2-clezfhvfy000vip8821rxdeci.jpg" alt="Close-up of a water needle of a top-loading water cooler dispenser." width="300px" height="200px">
 
