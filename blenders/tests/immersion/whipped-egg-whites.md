@@ -52,8 +52,7 @@ Here’s how our scoring breakdown was designed: 
 *   **3 mins 31 secs ≤  3 mins 45 secs**: 3 points 
 *   **3 mins 45 secs ≤ 4 mins**: 2 points 
 *   **4 mins 1 sec ≤ 4 mins 15 secs**: 1 point
-
-**\> 4 mins 15 secs**: 0 points
+*   **\> 4 mins 15 secs**: 0 points
 
 Test Results
 ------------
