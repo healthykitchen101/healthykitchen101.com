@@ -122,7 +122,7 @@ design Scores: **8.7**
     
 *   Blending Shaft (30%) - **7.5**/10
     
-*   Power cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/10
     
 *   Beaker (5%) - **10**/10
     
@@ -224,7 +224,7 @@ The beaker has clearly marked measurements for convenience. It is almost twice t
 
 For storage, the cup comes with a lid, which then snaps onto the bottom of the cup to keep the container from moving on the countertop when you’re blending. And for some operations, such as making a smoothie, the handle on the jar gave us a good grip.
 
-### 10 - Power cord
+### 10 - Power Cord
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl9phhun0000fq588es4v0lke.jpg" alt="The Breville Immersion Blender on a white table with its power cord that features a 2-prong plug rolled up next to it." width="300px" height="200px">
 
