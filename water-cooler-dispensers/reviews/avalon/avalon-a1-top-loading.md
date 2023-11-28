@@ -105,7 +105,7 @@ design Scores: **8.6**
     
 *   Panel & Indicators (25%) - **7.8**/10
     
-*   Water Inlet Control (20%) - **8.3**/10
+*   Water Inlet Controls (20%) - **8.3**/10
     
 *   Drip Tray (10%) - **7.5**/10
     
@@ -175,7 +175,7 @@ The Avalon A1 has three unobtrusive indicators. The power indicator remains on w
 
 During our tests, the indicators worked flawlessly. With clearly visible color-coded dispensers, there are no additional icons on the machine.
 
-### 8.3 - Water Inlet Control
+### 8.3 - Water Inlet Controls
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a1-top-loading-water-cooler-dispenser-water-inlet-controls-2-cld2sgf77001u3p88bith4yzt.jpg" alt="The water baffle removed from its tank and resting on the partly detached water guard on a water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a1-top-loading-water-cooler-dispenser-water-inlet-controls-1-cld2shcho001w3p884v5h8k52.jpg" alt="A hand holding a water guard that has been removed from a top loading water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a1-top-loading-water-cooler-dispenser-water-inlet-controls-cld2si9cy00203p882q39938o.jpg" alt="A top view of a water cooler dispensing showing the water guard and the water needle inside." width="300px" height="200px">
 
