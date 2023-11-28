@@ -38,7 +38,7 @@ performance Scores: **5.7**
     
 *   Fibrous Greens (20%) - **0**/10
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/10
     
 
 The BELLA is finely capable of preparing protein shakes and frozen fruit smoothies, but comes up short in liquifying leafy greens and pulverizing ice cues. For those that can make such compromises, this blender is the easy choice considering its price and the long list of extra accessories. Otherwise, we suggest considering the [KOIOS Pro](https://healthykitchen101.com/blenders/reviews/koios/koios-850w-bullet/), which is similarly priced but offers more advanced capabilities.
@@ -79,7 +79,7 @@ Upon conducting a 20-second blending cycle, we found the BELLA couldn’t perfor
 
 On the contrary, some other blenders, like the Ninja Fit and the Ninja BN401, produced a smoother outcome with a significantly smaller volume of visible flakes. As such, our conclusion is that your BELLA is not well equipped to handle high-fiber foods and may fall short of the desired performance criteria for such applications.
 
-### Crushed Ice
+### Crushed Ice Cubes
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cle2hvv2v0045de88g3ywefo2.jpg" alt="Bella 12 Piece Rocket Blender Crushed Ice Test" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cle2j7ffa004ede8815d5h27n.jpg" alt="A black tray of crushed ice produced by the BELLA being on a table." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cle2j895i004fde88cwc23g5f.jpg" alt="The amount of unblended ice cubes (4.73 oz) of the BELLA single-serve blender displayed on a scale’s screen." width="300px" height="200px">
 
