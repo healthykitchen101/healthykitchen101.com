@@ -39,7 +39,7 @@ performance Scores: **6.8**
     
 *   Fibrous Greens (20%) - **8.5**/10
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/10
     
 
 In our test, the 300-watt motor of this blender was just sufficient for smooth blends of frozen fruit smoothies and fibrous mixtures. It didn’t mix protein shake as evenly as the counterparts. It also fell short in crushing ice cubes, though this appears to be the case with most mid-powered personal blenders. If you want more capabilities than what the La Reveuse offers, there are the [Ninja Fit](https://healthykitchen101.com/blenders/reviews/ninja/ninja-qb3001ss-fit/), [NutriBullet](https://healthykitchen101.com/blenders/reviews/nutribullet/nutribullet-900-watt-pro/), and the [Ninja BN401 Nutri](https://healthykitchen101.com/blenders/reviews/ninja/ninja-bn401-nutri-pro/).
@@ -82,7 +82,7 @@ More than a surprise, the La Reveuse was among the top-performing blenders, chur
 
 Our fibrous mixture got a vibrant green color with just a small smattering of pulp left behind. It would be more impressive if we let the blender work for longer. Considering this, the La Reveuse is sure to hit the spot whether you're a health-conscious individual or simply like to enjoy high-quality green smoothies everyday.
 
-### Crushed Ice
+### Crushed Ice Cubes
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cldshfdw9000yiy8812fe8sn0.jpg" alt="La Reveuse Personal Blender Crushed Ice Test" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cldsclig5000hiy884nqb29zl.jpg" alt="The La Reveuse left behind 5.13 oz unblended ice (Cre: Nguyen Ntk/HealthyKitchen101)" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cldscmh0n000iiy888w4cgz5v.jpg" alt="A black tray of crushed ice produced by the La Reveuse Personal Blender being on a table." width="300px" height="200px">
 
