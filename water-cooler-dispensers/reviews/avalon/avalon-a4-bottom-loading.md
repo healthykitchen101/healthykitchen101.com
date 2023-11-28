@@ -112,7 +112,7 @@ design Scores: **8.5**
 
 *   Build Quality (45%) - **8.5**/10
     
-*   Panel and Indicators (25%) - **9.0**/10
+*   Panel & Indicators (25%) - **9.0**/10
     
 *   Water Inlet Controls (20%) - **8.0**/10
     
@@ -168,7 +168,7 @@ The sides of the machine are black colored metal sheeting with ventilation slits
 
 We did, however, feel the shiny black color of the plastic gives the machine a more ‘budget look’. The plastic tends to scratch easily and fingerprints are prone to stick. The cabinet door plastic lacks a quality feel despite the silver coloring.
 
-### 9.0 - Panel and Indicators
+### 9.0 - Panel & Indicators
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a4-bottom-loading-water-cooler-dispenser-panel-indicators-clddy7lve00803p882o2abjli.jpg" alt="Close up of the control panel and spouts on a water cooler dispenser with dispensing buttons seen on the top of the machine." width="300px" height="200px">
 
