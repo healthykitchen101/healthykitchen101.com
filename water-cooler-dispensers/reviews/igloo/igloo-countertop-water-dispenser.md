@@ -109,7 +109,7 @@ design Scores: **6.2**
 
 *   Build Quality (45%) - **5.3**/10
     
-*   Panel and Indicators (25%) - **7.2**/10
+*   Panel & Indicators (25%) - **7.2**/10
     
 *   Water Inlet Controls (20%) - **6.5**/10
     
@@ -164,7 +164,7 @@ On a high note, the Igloo has adjustable feet stabilizing on an uneven surface. 
 
 Overall, the build quality of the body is not too bad for the price. It’s more that the button design, slow flow rate, and dispensing area could be better.
 
-### 7.2 - Panel and Indicators
+### 7.2 - Panel & Indicators
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-panel-indicators-clf25fzip003mip88hoen6p6x.jpg" alt="A close up of the working panel of the Igloo countertop water cooler dispenser." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-panel-indicators-1-clf25gg1m003nip88gcp0cf7j.jpg" alt="A close up of the icons of a small water cooler dispenser." width="300px" height="200px">
 
