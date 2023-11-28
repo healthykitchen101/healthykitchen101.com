@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.8**
+Overall Score: **5.6**
 
 *   Performance (50%) - **5.8**/10
     
 *   Design (20%) - **4.7**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **6.0**/10
     
 
 The Mueller MV-1100 is a vacuum sealer that falls somewhat short in various aspects. However, among the sealers we've tested in its price range, it performs quite well and stands out as [one of the top performers](https://healthykitchen101.com/vacuum-sealers/reviews/best/). There are areas for improvement beyond its performance, though. For instance, the lid locks are somewhat uneven, making the sealer a bit awkward to use. Additionally, the control panel can be unreliable, which affects its overall usability score.
@@ -108,25 +108,31 @@ The lid isn’t as well-crafted as we had hoped. The lock on one side of the sea
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **6.0**
 
-*   (70%) - **0**/10
+*   Ease of Use (70%) - **5.0**/10
     
-*   (15%) - **0**/10
+*   Safety & Noise (15%) - **8.0**/10
     
-*   (15%) - **0**/10
+*   Indicator Lights and Chime (15%) - **9.0**/10
     
 
-### Easeof Use
+### 5.0 - Ease of Use
 
-### Safetyand Noise
+### 8.0 - Safety & Noise
 
-Maximum Noise Level:
+Maximum Noise Level: 81.2
 
-### Indicator Lightsand Chime
+Safety could be improved if the heat bar, which can get very hot after several working cycles, was marked with something more permanent than a peelable warning sticker. Even though the heating bar shouldn't get hot enough to cause injuries, new users who are not yet familiar with how vacuum sealers work could be startled if they accidentally touch it.
+
+While the Mueller is not the noisiest model in the latest batch of vacuum sealers, it is on the louder side at 81 dBA.
+
+### 9.0 - Indicator Lights and Chime
 
 Numberof Indicators:
 
 Progress Bar:
 
 Chime:
+
+All indicator lights are decently bright and visible even under harsh studio lighting. The Mueller doesn’t come with an audible chime, which is to be expected at this price point.
