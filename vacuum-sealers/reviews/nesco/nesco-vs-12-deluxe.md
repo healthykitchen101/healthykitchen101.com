@@ -57,9 +57,7 @@ As of November 2023, there’s no other vacuum sealer in our database able to ac
 
 ### Moist Food Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-moist-food-test-1-clpgjuifn001lmm88e9cgeqwl.jpg" alt="The Nesco VS-12 during a moist food test packaging fresh mango slices. The peak suction strength recorded was 70 kPA in 36 seconds." width="300px" height="200px">
-
-The Nesco VS-12 during a moist food test packaging fresh mango slices. The peak suction strength recorded was 70 kPA in 36 seconds.
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-moist-food-test-clphq8jmy0021mm889u412txd.jpg" alt="The Nesco VS-12 during the first moist food test, achieving a peak suction power of 52 kPA according to our vacuum gauge in a work cycle of 38 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-moist-food-test-1-clpgjuifn001lmm88e9cgeqwl.jpg" alt="The Nesco VS-12 during a moist food test packaging fresh mango slices. The peak suction strength recorded was 70 kPA in 36 seconds." width="300px" height="200px">
 
 Suction Mode: Gentle
 
