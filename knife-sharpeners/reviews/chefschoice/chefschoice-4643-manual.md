@@ -176,7 +176,7 @@ usability Scores: **8.4**
     
 *   Pulling Through (10%) - **8.5**/10
     
-*   Stability on Clean Surface (40%) - **9.5**/10
+*   Stability on a Clean Surface (40%) - **9.5**/10
     
 *   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
     
@@ -211,7 +211,7 @@ That being said, there’s some room for the knife to jig sideways; when it does
 
 As its discs are placed deep down in the slots, the knife kept nicking into the frame, leaving lots of marks and scratches.
 
-### 9.5 - Stability on Clean Surface
+### 9.5 - Stability on a Clean Surface
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cl57yfurr000925883lhn0z32.jpg" alt="2 hands holding and sharpening a kitchen knife with the Chef's Choice sharpener" width="300px" height="200px">
 
