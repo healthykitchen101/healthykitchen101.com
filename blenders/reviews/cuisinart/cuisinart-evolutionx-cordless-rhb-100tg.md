@@ -83,8 +83,6 @@ design Scores: **6.1**
     
 *   Blending Shaft (30%) - **0**/10
     
-*   Power Cord (5%) - **0**/10
-    
 *   Battery (5%) - **10**/10
     
 *   Beaker (5%) - **10**/10
@@ -169,14 +167,6 @@ Charger Adapter Pin:
 Capacity:
 
 Charger Length:
-
-### Power Cord
-
-Cord Length:
-
-Type:
-
-Detachable:
 
 ### Extra Accessories: Whisk Attachment
 
