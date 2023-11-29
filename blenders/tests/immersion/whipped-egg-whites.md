@@ -43,7 +43,7 @@ It is important to note that while blenders typically have a recommended working
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj975ys0027mm883vyg3a7l.jpg" alt="A person performs a stiffness test on whipped egg whites by tilting a beaker sideways, with an All-Clad immersion blender and a smartphone showing a stopwatch at 2 minutes and 0.85 seconds in the background." width="360" height="240">
 
-Failed Whipped Egg Whites of the All-Clad Immersion Blender Cre: Nguyen Ntk/HealthyKitchen101)
+Failed Whipped Egg Whites of the All-Clad Immersion Blender
 
 Stopping the blender prematurely, in adherence to the recommended working time, might not allow the egg whites to achieve the necessary structure, leading to inconclusive or inaccurate results.
 
