@@ -29,7 +29,7 @@ It’s affordable, but there are better sharpeners in the same price range.
 
 Mini suction cup sharpeners are affordable and great for small spaces, but they have a lot of limitations compared to [other sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/). They can only handle medium to small knives, and their stability tends to depend too much on the type of countertop or table surface. The [SunrisePro](https://healthykitchen101.com/knife-sharpeners/reviews/sunrisepro/sunrisepro-supreme-manual/) can serve as a prime example of this.
 
-Compared to the SunrisePro, the Sharpal 191H has a larger size but more lightweight body. It’s also one of the best-selling products from a brand that specializes in sharpeners, whetstones, and honing rods. Will all that save it from those issues? 
+Compared to the SunrisePro, the Sharpal 191H has a larger size but more lightweight body. It’s also one of the best-selling products from a brand that specializes in sharpeners, whetstones, and honing rods. Will all that save it from those issues?
 
 We tested it and here’s our take on the results.
 
