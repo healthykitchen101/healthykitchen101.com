@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.9**
+Overall Score: **3.9**
 
 *   Performance (50%) - **5.7**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **5.0**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -62,27 +62,37 @@ All in all, the Nutrichef PKVS18BK may not be the best choice if a great dry foo
 
 ### Moist Food Test
 
-Suction Mode:
+Suction Mode: Gentle
 
-Food Mode:
+Food Mode: Moist
 
-Recorded Suction:
+Recorded Suction: 30 kPA (1) - 28 kPA (2)
 
-Suction Time:
+Suction Time: 16s (1) - 15s (2)
+
+Interestingly, when we switched the suction mode to "Gentle," we didn't see a significant drop in suction power. In the first test, it reached 30 kPA, only 3 kPA less than the "Normal" mode. The cycle time was similar, taking just 16 seconds.
+
+In the second test, there was a more noticeable difference. It reached 28 kPA with a shorter 15-second cycle time. We tested it with fresh mango slices, and while there were a few air bubbles left, the fruit slices weren't squished, which was a success.
 
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **5.0**
 
-*   (50%) - **0**/10
+*   Build Quality (50%) - **10**/10
     
 *   (20%) - **0**/10
     
 *   (20%) - **0**/10
     
 
-### Build Quality
+Our team’s quite happy with the Nutrichef's design, which has a sleek black-and-white housing that looks elegant and high-end. The build quality is excellent, with every part being solidly built, and there were no obvious design or manufacturing flaws anywhere on the unit. The touch-sensitive control panel is user-friendly but could be more responsive. The only major drawback is that the unit lacks extra features, which, to be fair to Nutrichef, is to be expected in a sealer at this price range. Overall, the Nutrichef PKVS18Bk received a 7.7/10 in this section.
+
+### 10 - Build Quality
+
+The Nutrichef PKVS18BK boasts excellent overall build quality, with a securely attached lid to the base through robust hinges. After rigorous tugging and shaking tests, there's no hint of flimsiness. The lid's top features a glossy material that initially looks great when the sealer is first unboxed. However, over time, this part of the lid tends to accumulate smudges from fingerprints and light scratches, so you’ll have to regularly clean the sealer if you want to maintain its look.
+
+On the unit's bottom, you'll find white anti-slip feet that ensure stability during use. The interior is well-constructed with a patterned plastic inner plate. The foam strip surrounding the vacuum channel does a great job of forming a tight seal when the lid is closed to aid with the vacuum-packing process.
 
 ### Control Panel
 
