@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **0.0**
+Overall Score: **4.8**
 
-*   Performance (50%) - **0.0**/10
+*   Performance (50%) - **7.1**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **6.1**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -17,130 +17,158 @@ Overall Score: **0.0**
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **7.1**
 
-*   Hot Soup Purée (35%) - **0**/10
+*   Hot Soup Purée (35%) - **6.0**/10
     
-*   Frozen Fruit Smoothie (30%) - **0**/10
+*   Frozen Fruit Smoothie (30%) - **6.0**/10
     
-*   Mayonnaise (15%) - **0**/10
+*   Mayonnaise (15%) - **9.5**/10
     
-*   Almond Milk (15%) - **0**/10
+*   Almond Milk (15%) - **8.3**/10
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **10**/10
     
 
 ### Hot Soup Purée
 
-Pureeing Time:
+Pureeing Time: 30 seconds
 
-Result:
+Result: Chunky
 
-Suction:
+Suction: No
 
 ### Frozen Fruit Smoothie
 
-Blending Time:
+Blending Time: 2 minutes
 
-Result:
+Result: Smooth
 
-Suction:
+Suction: No
+
+While the Cuisinart EvolutionX RHB-100TG didn't burst onto the scene with an overwhelming power during our frozen fruit smoothie test, it eventually triumphed over the challenge. 
+
+The blender initially grappled with the dense kale, taking its time to fully liquify the leafy greens. As we progressed to the frozen fruit layers, the challenge persisted. It demanded for a more assertive user intervention, as without applying some downward pressure, the blender seemed to find it difficult to generate enough force to process the icy fruits. Only when the fruits began to thaw slightly, the blending became more fluid and consistent. As such, the entire process took up to two minutes.
 
 ### Mayonnaise
 
-Emulsifying Time:
+Emulsifying Time: 1 min 24 secs
 
-Result:
+Result: Velvety
 
-Suction:
+Suction: No
 
 ### Almond Milk
 
-Grinding Time:
+Grinding Time: 1 min 10 secs
 
-Result:
+Result: Very Fine
 
-Suction:
+Suction: No
 
 ### Whipped Egg-Whites
 
-Beating Time:
+Beating Time: 1 min 45 secs
 
-Result:
+Result: Stiff
 
-Suction:
+Suction: No
 
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **6.1**
 
-*   Build Quality (60%) - **0**/10
+*   Build Quality (60%) - **8.5**/10
     
 *   Blending Shaft (30%) - **0**/10
     
 *   Power Cord (5%) - **0**/10
     
-*   Beaker (5%) - **0**/10
+*   Battery (5%) - **10**/10
+    
+*   Beaker (5%) - **10**/10
     
 
 ### In the Box
 
+*   Motor body 
+*   Blending shaft 
+*   Whisk attachment
+*   Beaker   
+*   Charger
+
 ### Dimensions
 
-Height:
+Height: 16.2" (41.1 cm)
 
-Width:
+Width: 2.4" (6.1 cm)
 
-Weight:
+Weight: 1.4 lbs (0.6 kg)
 
-Shaft Length:
+Shaft Length: 8.3" (21.1 cm)
 
-### Build Quality
+### 8.5 - Build Quality
 
 ### Speed and Controls
 
-Activation:
+Activation: Press-button
 
-Min Speed:
+Min Speed: N/A
 
-Max Speed:
+Max Speed: N/A
 
-Presets:
+Presets: No
 
-Noise Level:
+Noise Level: N/A
 
-Digital Display:
+Digital Display: Yes
 
-Pulse Mode:
+Pulse Mode: No
 
 ### Blending Shaft
 
-Material:
+Material: Stainless steel
 
-Type:
+Type: Sharp Blade
 
-Guard Material:
+Guard Material: Stainless steel
 
-Blade Count:
+Blade Count: 2
 
-Removable:
+Removable: Yes
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
 
-### Beaker
+### 10 - Beaker
 
-Material:
+Material: Plastic
 
-Capacity:
+Capacity: 30 oz
 
-Measurements:
+Measurements: Yes
 
 Weight:
 
 Height:
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
+
+### 10 - Battery
+
+Status Indicator: Yes
+
+Full Charging Time: 2 hours
+
+Quick Charging Time: 15 minutes
+
+Charger Adapter:
+
+Charger Adapter Pin:
+
+Capacity:
+
+Charger Length:
 
 ### Power Cord
 
@@ -150,13 +178,13 @@ Type:
 
 Detachable:
 
-### Extra Accessories
+### Extra Accessories: Whisk Attachment
 
-Material:
+Material: Stainless steel
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
 
-Removable:
+Removable: Yes
 
 Usability
 ---------
