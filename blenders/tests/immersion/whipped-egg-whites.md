@@ -31,9 +31,9 @@ To start, we set the blender to its lowest speed, a strategy aimed at preventing
 
 It is important to note that while blenders typically have a recommended working time, usually about one minute, our test procedure requires a continuous operation until stiff peaks are formed. This is to ensure a comprehensive assessment of the blender's capabilities. Stopping the blender prematurely, in adherence to the recommended working time, might not allow the egg whites to achieve the necessary structure, leading to inconclusive or inaccurate results.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl15snv3z0009gh884f4fbyfn.jpg" alt="The blending wand of the KitchenAid KHBBV53 is immersed in a plastic beaker on a white table containing its failed beaten egg-white." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8vh0r0025mm887e6jdxps.jpg" alt="Putting the 24-oz plastic beaker containing testing beaten egg-white upside down on the table." width="640" height="427">
 
-Failed Whipped Egg Whites of the KitchenAid Cordless Immersion Blender
+Successful Whipped Egg Whites
 
 Scoring Scale
 -------------
