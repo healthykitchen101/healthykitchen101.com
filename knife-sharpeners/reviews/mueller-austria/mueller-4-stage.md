@@ -26,7 +26,7 @@ But if you take pride in keeping a delicate knife edge or plan to pass on the kn
 *   High center of gravity
 *   Harsh on the knife edge
 
-We didn’t have high hopes for the Mueller KS-4ST knife sharpener when we saw it on Amazon: Not only does it have a tall body, which we have found is detrimental to balance, but its slot layout is also different from most other [pull-through sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/manual-knife-sharpeners/) (apart from [the Longzon](https://healthykitchen101.com/knife-sharpeners/reviews/longzon/longzon/), which is basically its twin product). However, it had garnered many positive reviews online, and we figured the affordable price couldn’t be the only incentive. 
+We didn’t have high hopes for the Mueller KS-4ST knife sharpener when we saw it on Amazon: Not only does it have a tall body, which we have found is detrimental to balance, but its slot layout is also different from most other [pull-through sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/manual-knife-sharpeners/) (apart from [the Longzon](https://healthykitchen101.com/knife-sharpeners/reviews/longzon/longzon/), which is basically its twin product). However, it had garnered many positive reviews online, and we figured the affordable price couldn’t be the only incentive.
 
 So we bought it to test out in our lab. Here, we discuss our experience with it.
 
