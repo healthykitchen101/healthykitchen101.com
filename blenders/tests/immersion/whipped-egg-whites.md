@@ -1,8 +1,8 @@
 Whipping might initially appear to be a secondary function for an immersion blender, , often taking a backseat to common uses such as blending or pureeing. However, for those passionate about baking or preparing egg-based dishes, the capability to efficiently whip egg whites is indispensable. Recognizing this essential need, our test was specifically tailored to measure the whipping efficiency of various immersion blenders. 
 
-We thoroughly assessed how well these blenders could whip egg whites into stiff, airy peaks, focusing not only on the speed but also the consistency and stability of the aeration. With our findings, you'll be equipped to choose an immersion blender that not only broadens your cooking capabilities but also ensures excellence in both sweet and savory creations that require whipped ingredients.
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8p0dz0023mm884q6yd728.jpg" alt="Nineteen immersion blenders lying on a table with ingredients and necessary tools for the whipped egg-white test, including eggs contained in a bowl, next to them. " width="768" height="512">
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl7h1yttw00036r88eqwtc6u9.jpg" alt="Nine immersion blenders lying on a table with ingredients and necessary tools for the whipped egg-white test, including eggs contained in a white bowl and a plastic beaker, next to them." width="768" height="512">
+We thoroughly assessed how well these blenders could whip egg whites into stiff, airy peaks, focusing not only on the speed but also the consistency and stability of the aeration. With our findings, you'll be equipped to choose an immersion blender that not only broadens your cooking capabilities but also ensures excellence in both sweet and savory creations that require whipped ingredients.
 
 Why The Test Matters
 --------------------
