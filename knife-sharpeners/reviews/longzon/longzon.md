@@ -28,7 +28,7 @@ Unfortunately, it didn’t perform so well on the sharpening front in our tests.
 *   Slow sharpening
 *   Ineffective slot layout
 
-The Longzon sharpener is a good example of how competitive it has become in the world of [knife sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/): We bought it for under $15 (sale price), and it comes in an attractive box with a pair of cut-resistant gloves. The device itself is well-made with quality materials. 
+The Longzon sharpener is a good example of how competitive it has become in the world of [knife sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/): We bought it for under $15 (sale price), and it comes in an attractive box with a pair of cut-resistant gloves. The device itself is well-made with quality materials.
 
 But a strong and stylish build doesn’t always translate to excellent sharpening results. As our tests revealed, the Longzon sharpener is evidence of this.
 
