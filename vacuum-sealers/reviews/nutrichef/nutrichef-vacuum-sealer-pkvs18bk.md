@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.9**
+Overall Score: **4.3**
 
 *   Performance (50%) - **5.7**/10
     
-*   Design (20%) - **5.0**/10
+*   Design (20%) - **7.0**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -77,11 +77,11 @@ In the second test, there was a more noticeable difference. It reached 28 kPA wi
 Design
 ------
 
-design Scores: **5.0**
+design Scores: **7.0**
 
 *   Build Quality (50%) - **10**/10
     
-*   (20%) - **0**/10
+*   Control Panel (20%) - **10**/10
     
 *   (20%) - **0**/10
     
@@ -94,7 +94,7 @@ The Nutrichef PKVS18BK boasts excellent overall build quality, with a securely a
 
 On the unit's bottom, you'll find white anti-slip feet that ensure stability during use. The interior is well-constructed with a patterned plastic inner plate. The foam strip surrounding the vacuum channel does a great job of forming a tight seal when the lid is closed to aid with the vacuum-packing process.
 
-### Control Panel
+### 10 - Control Panel
 
 Button Type:
 
