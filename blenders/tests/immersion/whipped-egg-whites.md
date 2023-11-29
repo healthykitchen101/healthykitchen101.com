@@ -25,9 +25,13 @@ Megawise Immersion Blender Whipping Egg Whites Test
 Testing Procedure
 -----------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8vh0r0025mm887e6jdxps.jpg" alt="Putting the 24-oz plastic beaker containing testing beaten egg-white upside down on the table." width="360" height="240">
+
+Successful Whipped Egg Whites
+
 The test begins by pouring egg whites into a 24-oz beaker. Considering the diversity in blender models, some are equipped with a whisk attachment, while others come with just the standard blending wand. Accordingly, we use the appropriate tool for each model—either an immersion whisk or a blending shaft.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8vh0r0025mm887e6jdxps.jpg" alt="Putting the 24-oz plastic beaker containing testing beaten egg-white upside down on the table." width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8y5hp0026mm88hi3k6vu9.jpg" alt="Stiff peak egg whites in the 24-oz plastic beaker." width="360" height="240">
 
 Successful Whipped Egg Whites
 
