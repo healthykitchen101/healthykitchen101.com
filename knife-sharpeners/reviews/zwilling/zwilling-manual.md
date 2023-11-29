@@ -26,7 +26,7 @@ The Zwilling 4-stage knife sharpener is more versatile than most, accommodating 
 *   Anti-slip pad doesn’t fully cover the base
 *   Awkward grip
 
-We really wanted the Zwilling knife sharpener to succeed in our tests. For one, it’s from Zwilling, one of the most prestigious knife brands in the world — they _must_ know how to make an [effective sharpener](https://healthykitchen101.com/knife-sharpeners/reviews/best/). The device seems very well made and certainly looks and feels the upscale price to us. 
+We really wanted the Zwilling knife sharpener to succeed in our tests. For one, it’s from Zwilling, one of the most prestigious knife brands in the world — they _must_ know how to make an [effective sharpener](https://healthykitchen101.com/knife-sharpeners/reviews/best/). The device seems very well made and certainly looks and feels the upscale price to us.
 
 But there’s more to it than meets the eye, and in the case of the Zwilling, its performance doesn’t quite catch up with its cost or appearance. 
 
