@@ -35,11 +35,13 @@ To start, we set the blender to its lowest speed, a strategy aimed at preventing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8y5hp0026mm88hi3k6vu9.jpg" alt="Stiff peak egg whites in the 24-oz plastic beaker." width="360" height="240">
 
-Successful Whipped Egg Whites
+Whipped Egg-White Stiffness Demonstration
 
 As the egg whites start to froth and increase in volume, we gradually increase the blender's s. This methodical increase in speed is critical; it helps to create stable air bubbles in the egg whites, preventing them from becoming over-beaten and grainy, and ensuring they reach the desired stiff peak consistency.
 
-It is important to note that while blenders typically have a recommended working time, usually about one minute, our test procedure requires a continuous operation until stiff peaks are formed. This is to ensure a comprehensive assessment of the blender's capabilities. Stopping the blender prematurely, in adherence to the recommended working time, might not allow the egg whites to achieve the necessary structure, leading to inconclusive or inaccurate results.
+It is important to note that while blenders typically have a recommended working time, usually about one minute, our test procedure requires a continuous operation until stiff peaks are formed. This is to ensure a comprehensive assessment of the blender's capabilities.
+
+Stopping the blender prematurely, in adherence to the recommended working time, might not allow the egg whites to achieve the necessary structure, leading to inconclusive or inaccurate results.
 
 Scoring Scale
 -------------
