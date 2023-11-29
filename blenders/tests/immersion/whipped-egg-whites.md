@@ -73,3 +73,6 @@ Cuisinart Cordless Immersion Blender Performance Test Egg-White
 *   **3 mins 45 secs ≤ 4 mins**: 2 points 
 *   **4 mins 1 sec ≤ 4 mins 15 secs**: 1 point
 *   **\> 4 mins 15 secs**: 0 points
+
+Test Results
+------------
