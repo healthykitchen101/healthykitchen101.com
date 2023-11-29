@@ -13,10 +13,14 @@ Achieving this balance is crucial, as it not only affects the volume and structu
 
 For blenders equipped with a whisk attachment, this test is even more critical. It goes beyond merely having an extra feature; it evaluates the effectiveness of this feature in real-world applications. The ability of a blender to whip egg whites to the correct consistency can be a decisive factor for consumers, helping them distinguish between a genuinely versatile appliance and one that merely comes with unnecessary add-ons.
 
-Testing Recipe: 1 Serving 
---------------------------
+Testing Recipe: 1 Serving
+-------------------------
 
 *   100 ml egg white
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8u7yc0024mm88fgvvcp81.jpg" alt="The Megawise immersion blender is tested on 100 ml of egg white in a kitchen setting, with a person in a checkered apron. " width="640" height="427">
+
+Megawise Immersion Blender Whipping Egg Whites Test
 
 Testing Procedure
 -----------------
