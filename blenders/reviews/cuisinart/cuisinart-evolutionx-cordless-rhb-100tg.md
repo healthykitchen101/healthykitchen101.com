@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.8**
+Overall Score: **7.3**
 
 *   Performance (50%) - **7.1**/10
     
 *   Design (20%) - **6.1**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **8.4**/10
     
 
 **Things We Like**
@@ -189,21 +189,21 @@ Removable: Yes
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **8.4**
 
-*   Ease of Use (60%) - **0**/10
+*   Ease of Use (60%) - **8.0**/10
     
-*   Blade Assembly (10%) - **0**/10
+*   Blade Assembly (10%) - **8.5**/10
     
-*   Handling (20%) - **0**/10
+*   Handling (20%) - **9.5**/10
     
-*   Cleanability (10%) - **0**/10
+*   Cleanability (10%) - **8.5**/10
     
 
-### Ease of Use
+### 8.0 - Ease of Use
 
-### Blade Assembly
+### 8.5 - Blade Assembly
 
-### Handling
+### 9.5 - Handling
 
-### Cleanability
+### 8.5 - Cleanability
