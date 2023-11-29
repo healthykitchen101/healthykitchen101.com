@@ -58,6 +58,10 @@ Here’s how our scoring breakdown was designed: 
 
 #### Scoring Breakdown
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj99dbp0028mm880cw80bqn.jpg" alt="The performance of the Cuisinart cordless immersion blender is tested with whipped egg whites, as evidenced by the timer set at 1:45, indicating the duration of the test." width="640" height="427">
+
+Cuisinart Cordless Immersion Blender Performance Test Egg-White
+
 *   **≤ 2 mins**: Our research indicated that 2-minute is an appropriate amount of time for an immersion blender to complete this task. If any machine could ensure that completion time, we awarded it 10 points. 
 *   **2 mins 1 sec ≤ 2 mins 15 secs**: 9 points
 *   **2 mins 16 secs ≤ 2 mins 30 secs**: 8 points
