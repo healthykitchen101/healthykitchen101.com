@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.3**
+Overall Score: **7.3**
 
 *   Performance (50%) - **5.7**/10
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **8.6**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **9.1**/10
     
 
 The Nutrichef PKVS18BK is quite possibly one of the [best-looking vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in the price range. But it doesn’t just excel in terms of design, the sealer also did great in our usability assessment, as well, thanks to its easy-to-use and intuitive control panel. However, while the vacuum sealer receives great scores on design and usability grounds, its mediocre performance does take away quite a lot of the plus points that we gave the sealer in terms of design.
@@ -77,13 +77,13 @@ In the second test, there was a more noticeable difference. It reached 28 kPA wi
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **8.6**
 
 *   Build Quality (50%) - **10**/10
     
 *   Control Panel (20%) - **10**/10
     
-*   (20%) - **0**/10
+*   Lid (20%) - **8.0**/10
     
 
 Our team’s quite happy with the Nutrichef's design, which has a sleek black-and-white housing that looks elegant and high-end. The build quality is excellent, with every part being solidly built, and there were no obvious design or manufacturing flaws anywhere on the unit. The touch-sensitive control panel is user-friendly but could be more responsive. The only major drawback is that the unit lacks extra features, which, to be fair to Nutrichef, is to be expected in a sealer at this price range. Overall, the Nutrichef PKVS18Bk received a 7.7/10 in this section.
@@ -96,38 +96,68 @@ On the unit's bottom, you'll find white anti-slip feet that ensure stability dur
 
 ### 10 - Control Panel
 
-Button Type:
+Button Type: Physical
 
-Numberof Buttons:
+Numberof Buttons: 6
 
-Numberof Modes:
+Numberof Modes: 4
 
-### Lid
+The Nutrichef PKVS18BK's control panel on the lid has five buttons.
 
-Lid Lock:
+There are two mode-switching buttons, "Mode" and "Food," which allow you to adjust suction strength ("Normal" or "Gentle" with the "Mode" button) and select the food type ("Dry" or "Moist" with the "Food" button).
+
+On the right, there's a "Seal" button for sealing without vacuuming, useful for creating sealing strips. The button to the far right is "Vac Seal," which both vacuums and seals the bag.
+
+There's a "Stop" button on the far left side to pause the sealer during a working cycle.
+
+Inside the sealer, there's an extra "Canister" button for use with the included air hose accessory, which connects to the interior port for vacuum-sealing compatible bags or containers.
+
+There’s an LED strip at the top of the control panel that lets you track the working progress of the sealer.
+
+### 8.0 - Lid
+
+Lid Lock: Latch lock
+
+The Nutrichef PKVS18BK comes with a latch lock, meaning you have to press down on the lid to get the lock to click into place. There are two buttons on each side of the lid for releasing the lid.
+
+While the lock works very well, it does demand a significant amount of force to click it closed. Our reviewers found it necessary to use both hands to securely lock the lid into place. This can be a bit cumbersome for one-handed operation of the sealer.
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **9.1**
 
-*   (70%) - **0**/10
+*   Ease of Use (70%) - **9.0**/10
     
-*   (15%) - **0**/10
+*   Safety & Noise (15%) - **9.0**/10
     
-*   (15%) - **0**/10
+*   Indicator Lights and Chime (15%) - **9.5**/10
     
 
-### Easeof Use
+The Nutrichef PKVS18BK is user-friendly with a simple control panel. We didn't have trouble inserting and sealing bags despite the absence of bag hooks. Safety is addressed with a warning sticker about the heating bar, but adding a high-visibility sticker could further improve safety for new users. The sealer lacks an audible chime, though its indicator lights are bright.
 
-### Safetyand Noise
+### 9.0 - Ease of Use
 
-Maximum Noise Level:
+The Nutrichef PKVS18BK is quite user-friendly, thanks to the straightforward control panel. The clear labelings and the small number of function buttons make it easy for both beginners and experienced users to operate without diving too deep into the user manual. Loading bags into the sealer is relatively easy, though having bag hooks to assist with bag alignment would be a helpful addition. Once the sealing process begins, it’s easy to monitor via the indicator bar at the top of the control panel.
 
-### Indicator Lightsand Chime
+One minor drawback is that closing the lid may require a bit more effort, which can be slightly inconvenient when trying to operate the sealer with one hand.
 
-Numberof Indicators:
+### 9.0 - Safety & Noise
 
-Progress Bar:
+Maximum Noise Level: 83.4 dBA
 
-Chime:
+Thanks to the numerous interior safety stickers, our reviewers gave the Nutrichef PKVS18BK a decent safety score. These stickers warn about the hot heating bar and the risk of damaging the sealer with excessive liquid. However, the lack of a high-visibility orange sticker on the heating bar, as seen in some other sealers like the Anova Precision Pro or the Nesco VS-12, can be a hazard for new users.
+
+In terms of noise, the sealer’s on the louder side, reaching a peak of 84.3 dBA during a dry food test.
+
+### 9.5 - Indicator Lights and Chime
+
+Numberof Indicators: 5
+
+Progress Bar: Yes
+
+Chime: No
+
+Apart from the four mode indicators above the "Mode" and "Food" buttons that instantly show your chosen mode, there's a large white progress bar on the control panel. When you select a mode like "Vac Seal," this bar starts flashing and moves from left to right. When the bar’s filled up, the sealer automatically shuts down, indicating that it's time to retrieve your sealed bag. This feature significantly enhances the sealer's user-friendliness.
+
+However, it's worth noting that the Nutrichef PKVS18BK doesn't have a chime, which is common for sealers in this price range.
