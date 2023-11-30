@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **8.3**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.1**/10
     
-*   Design (20%) - **9.0**/10
+*   Design (20%) - **8.8**/10
     
-*   Usability (30%) - **9.3**/10
+*   Usability (30%) - **8.2**/10
     
 
 The FoodSaver VS-0160 is a steal for its price, excelling in both dry and moist food tests. It has a budget-friendly price tag but offers a premium design with a metal top lid. While it lacks extra features like a bag cutter, its outstanding build quality means that it’s guaranteed to last.
@@ -34,11 +34,11 @@ We've bought a unit and thoroughly tested it in our lab to see how well it perfo
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **8.1**
 
 *   Dry Food Test (60%) - **8.3**/10
     
-*   Moist Food Test (40%) - **7.6**/10
+*   Moist Food Test (40%) - **7.9**/10
     
 
 The FoodSaver VS-0160 delivers exceptional performance, ranking among the top performers in our batch with an impressive total performance score of 8.0 in both the dry and moist food tests.
@@ -78,9 +78,9 @@ The sealer operates more slowly in this mode, taking 39 seconds in the first ses
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **8.8**
 
-*   Build Quality (50%) - **10**/10
+*   Build Quality (50%) - **9.5**/10
     
 *   Control Panel (20%) - **10**/10
     
@@ -89,7 +89,7 @@ design Scores: **9.0**
 
 The FoodSaver VS-0160 stands out with its metallic top piece. Its sleek and elegant design earned top marks for build quality from our reviewers. Components such as the control panel and the lid also received perfect scores in our evaluation. However, the VS-0160 lacks extra features, like a bag cutter, which is disappointing.
 
-### 10 - Build Quality
+### 9.5 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-build-quality-clpchalcx000smm88ba4c4ky3.jpg" alt="An interior shot of the FoodSaver VS-0160 vacuum sealer. A green protective bar covers the vacuum channel." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-build-quality-1-clpchaxap000tmm88bv7h75gj.jpg" alt="A close-up shot of the non-slip feet on the underside of the FoodSaver VS-0160 vacuum sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-build-quality-2-clpchb8wx000umm889wsyddy6.jpg" alt="The black heat bar and foam seal installed on the underside of the top lid of the FoodSaver VS-0160 vacuum sealer." width="300px" height="200px">
 
@@ -130,9 +130,9 @@ A unique feature of the FoodSaver VS-0160 that sets it apart is its storage lock
 Usability
 ---------
 
-usability Scores: **9.3**
+usability Scores: **8.2**
 
-*   Ease of Use (70%) - **10**/10
+*   Ease of Use (70%) - **8.5**/10
     
 *   Safety & Noise (15%) - **8.0**/10
     
@@ -141,7 +141,7 @@ usability Scores: **9.3**
 
 The FoodSaver VS-0160 is highly user-friendly. We didn't encounter any difficulties when closing the lid or inserting the bag into the vacuum channel. While there's room for improvement in safety and an audible chime to track the working progress could be a useful addition, there aren't many issues to nitpick in this department.
 
-### 10 - Ease of Use
+### 8.5 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-ease-use-clpchd6c2000ymm88flzy8u56.jpg" alt="The lid of the FoodSaver VS-0160 doesn’t require a lot of force to click close." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-ease-use-1-clpchfynm000zmm88hwxv54te.jpg" alt="Despite not having bag hooks, feeding a new plastic bag into the FoodSaver VS-0160 and aligning it with the vacuum channel is quite easy." width="300px" height="200px">
 
