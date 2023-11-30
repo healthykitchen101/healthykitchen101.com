@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **8.5**
 
-*   Performance (50%) - **7.6**/10
+*   Performance (50%) - **7.7**/10
     
 *   Design (20%) - **9.0**/10
     
@@ -34,9 +34,9 @@ Given its popularity among consumers, our editors were intrigued enough to purch
 Performance
 -----------
 
-performance Scores: **7.6**
+performance Scores: **7.7**
 
-*   Dry Food Test (60%) - **8.8**/10
+*   Dry Food Test (60%) - **8.9**/10
     
 *   Moist Food Test (40%) - **5.8**/10
     
