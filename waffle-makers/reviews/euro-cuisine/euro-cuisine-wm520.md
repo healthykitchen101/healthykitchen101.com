@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **7.0**
 
 *   Performance (50%) - **6.3**/10
     
-*   Design (20%) - **9.8**/10
+*   Design (20%) - **9.3**/10
     
 *   Ease of Use (30%) - **6.6**/10
     
@@ -141,11 +141,11 @@ Though the waffle was still considered mushy, our chef welcomed the soft texture
 Design: Luxurious & Intuitive
 -----------------------------
 
-design Scores: **9.8**
+design Scores: **9.3**
 
 *   Build Quality (60%) - **9.0**/10
     
-*   Waffle Plates (35%) - **10**/10
+*   Waffle Plates (30%) - **10**/10
     
 *   Control Panel (10%) - **9.5**/10
     
