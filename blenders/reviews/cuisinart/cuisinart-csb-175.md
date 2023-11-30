@@ -262,7 +262,7 @@ Usability: Fine and Not Really Impressive
 
 usability Scores: **7.8**
 
-*   Ease Of Use (60%) - **7.6**/10
+*   Ease of Use (60%) - **7.6**/10
     
 *   Blade Assembly (10%) - **9.0**/10
     
@@ -273,7 +273,7 @@ usability Scores: **7.8**
 
 Cuisinart packs its blender with many unique features to create the most enjoyable blending experience for the users, and we appreciate this effort. However, none of its things really impress us, with the exception of the blender’s cleanability.
 
-### 7.6 - Ease Of Use
+### 7.6 - Ease of Use
 
 At first sight, we thought this blender would be very easy to use due to its simple-designed interface.Unexpectedly enough, however, we couldn’t figure out how to activate the device until we consulted the user manual. Not only that, but we also needed quite a lot of practice to operate it smoothly.
 
