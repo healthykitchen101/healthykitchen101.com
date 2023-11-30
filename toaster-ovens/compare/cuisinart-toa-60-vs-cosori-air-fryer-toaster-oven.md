@@ -1,0 +1,7 @@
+The Cuisinart TOA-60 Air Fryer Toaster Oven and the Cosori Air Fryer Toaster Oven (CO130-AO) makes for a truly equal matchup between an analog and a digital contender. Both of them exchange heavy blows, showing their individual strengths and limitations as our best convection toaster oven and best-to-buy unit respectively.
+
+They are evenly matched in their design with their thick casing for heat insulation, nichrome heating elements that are compatible with the added convection fan, ventilation slats, back buffers, and so on. The Cuisinart, however, has a much sturdier build.
+
+Interestingly, the simplistic analog control dials of the Cuisinart were so well-designed that we could still precisely input our desired timer and temperature. Nonetheless, it lacks the convenience of having a bonafide automatic preheat phase, numerous cooking functions, toggle switches, and a digital display that shows the current cooking status that the Cosori has. Moreover, the Cosori has a larger capacity and a cheaper price.
+
+Both ovens have a convection system and high power output to deliver excellent cooking performances. Thus, it was hard to pinpoint why the Cuisinart was slightly better in almost all the tests, including toasting bread, baking pizza, and air-frying fries. The Cosori did manage to score a win in roasting chicken due to having a rotisserie kit—a more suitable accessory for the purpose than an air fryer basket.
