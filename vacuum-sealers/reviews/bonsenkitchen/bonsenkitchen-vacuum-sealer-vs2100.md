@@ -19,6 +19,11 @@ Performance
 
 performance Scores: **0.0**
 
+*   Dry Food Test (60%) - **0**/10
+    
+*   Moist Food Test (40%) - **0**/10
+    
+
 ### Dry Food Test
 
 Suction Mode:
@@ -44,6 +49,13 @@ Design
 
 design Scores: **0.0**
 
+*   Build Quality (50%) - **0**/10
+    
+*   Control Panel (20%) - **0**/10
+    
+*   Lid (20%) - **0**/10
+    
+
 ### Build Quality
 
 ### Control Panel
@@ -63,13 +75,20 @@ Usability
 
 usability Scores: **0.0**
 
-### Easeof Use
+*   Ease of Use (70%) - **0**/10
+    
+*   Safety & Noise (15%) - **0**/10
+    
+*   Indicator Lights and Chime (15%) - **0**/10
+    
 
-### Safetyand Noise
+### Ease of Use
+
+### Safety & Noise
 
 Maximum Noise Level:
 
-### Indicator Lightsand Chime
+### Indicator Lights and Chime
 
 Numberof Indicators:
 
