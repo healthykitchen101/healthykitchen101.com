@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.8**
+Overall Score: **5.9**
 
-*   Performance (50%) - **5.8**/10
+*   Performance (50%) - **6.0**/10
     
 *   Design (20%) - **5.5**/10
     
@@ -34,11 +34,11 @@ For a week, we tested the MV-1100 sealer in our lab, carefully evaluating its pe
 Performance
 -----------
 
-performance Scores: **5.8**
+performance Scores: **6.0**
 
 *   Dry Food Test (60%) - **5.8**/10
     
-*   Moist Food Test (40%) - **6.0**/10
+*   Moist Food Test (40%) - **6.5**/10
     
 
 The performance of the Mueller vacuum sealer is underwhelming. It received mediocre scores in both dry and moist food tests. Although it managed to seal bags of dry food without leaving air bubbles and didn’t crush the fresh mango slices in the moist food test, our reviewers still found its performance lacking.
