@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.0**
+Overall Score: **8.9**
 
 *   Performance (50%) - **8.5**/10
     
 *   Design (20%) - **9.0**/10
     
-*   Usability (30%) - **9.9**/10
+*   Usability (30%) - **9.6**/10
     
 
 The Nesco VS-12 is undoubtedly one of the best vacuum sealers you can find for your money. Not only does it deliver strong sealing performance, but it also boasts a robust build and a range of built-in features, including a convenient internal bag holding compartment and an integrated cutter. Despite its control panel looking somewhat complex with numerous functions and buttons, it's surprisingly user-friendly.
@@ -115,7 +115,7 @@ Furthermore, if you have unique sealing needs, such as sealing through an access
 
 ### 10 - Lid
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-lid-clpgka9rx001rmm88dc1zbkv3.jpg" alt="The lid of the Nesco VS-12 can be locked and unlocked by working the handle at the top." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-lid-clphq9usi0022mm88b2twdhwx.jpg" alt="The lid of the Nesco VS-12 can be locked and unlocked by working the handle at the top." width="300px" height="200px">
 
 Lid Lock: Handle lock
 
@@ -126,9 +126,9 @@ We've tested the hinges thoroughly, and they're strong. The lid stays firmly in 
 Usability
 ---------
 
-usability Scores: **9.9**
+usability Scores: **9.6**
 
-*   Ease of Use (70%) - **10**/10
+*   Ease of Use (70%) - **9.5**/10
     
 *   Safety & Noise (15%) - **10**/10
     
@@ -137,7 +137,7 @@ usability Scores: **9.9**
 
 Despite its advanced control system, the Nesco VS-12 vacuum sealer remains user-friendly with clearly labeled buttons and an LED progress panel. Safety is not an issue with this unit, with warning stickers for hot spots, and its noise level matches competitors with even weaker performance. Bright indicator lights are visible in various lighting conditions.
 
-### 10 - Ease of Use
+### 9.5 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-ease-use-clpgkde0j001umm886l26cs6m.jpg" alt="The grommet at the back of the Nesco VS-12 allows you to wrap and manage the power cord better when you have to store the sealer." width="300px" height="200px">
 
