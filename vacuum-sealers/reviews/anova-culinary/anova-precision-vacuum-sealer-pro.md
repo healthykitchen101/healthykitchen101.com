@@ -3,7 +3,7 @@ Overall Verdict
 
 Overall Score: **8.5**
 
-*   Performance (50%) - **7.7**/10
+*   Performance (50%) - **7.8**/10
     
 *   Design (20%) - **9.0**/10
     
@@ -34,11 +34,11 @@ Given its popularity among consumers, our editors were intrigued enough to purch
 Performance
 -----------
 
-performance Scores: **7.7**
+performance Scores: **7.8**
 
 *   Dry Food Test (60%) - **8.9**/10
     
-*   Moist Food Test (40%) - **5.8**/10
+*   Moist Food Test (40%) - **6.1**/10
     
 
 The Anova Precision Pro sealer shines in terms of performance. It excelled in the dry food test, although it had a somewhat average score in the moist food test. Nevertheless, it earned a respectable total performance score of 8.0/10.
