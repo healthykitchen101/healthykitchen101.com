@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.2**
+Overall Score: **7.0**
 
 *   Performance (50%) - **5.7**/10
     
-*   Design (20%) - **8.6**/10
+*   Design (20%) - **7.7**/10
     
 *   Usability (30%) - **8.7**/10
     
@@ -77,24 +77,24 @@ In the second test, there was a more noticeable difference. It reached 28 kPA wi
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **7.7**
 
-*   Build Quality (50%) - **10**/10
+*   Build Quality (50%) - **9.0**/10
     
-*   Control Panel (20%) - **10**/10
+*   Control Panel (20%) - **8.0**/10
     
 *   Lid (20%) - **8.0**/10
     
 
 Our team’s quite happy with the Nutrichef's design, which has a sleek black-and-white housing that looks elegant and high-end. The build quality is excellent, with every part being solidly built, and there were no obvious design or manufacturing flaws anywhere on the unit. The touch-sensitive control panel is user-friendly but could be more responsive. The only major drawback is that the unit lacks extra features, which, to be fair to Nutrichef, is to be expected in a sealer at this price range. Overall, the Nutrichef PKVS18Bk received a 7.7/10 in this section.
 
-### 10 - Build Quality
+### 9.0 - Build Quality
 
 The Nutrichef PKVS18BK boasts excellent overall build quality, with a securely attached lid to the base through robust hinges. After rigorous tugging and shaking tests, there's no hint of flimsiness. The lid's top features a glossy material that initially looks great when the sealer is first unboxed. However, over time, this part of the lid tends to accumulate smudges from fingerprints and light scratches, so you’ll have to regularly clean the sealer if you want to maintain its look.
 
 On the unit's bottom, you'll find white anti-slip feet that ensure stability during use. The interior is well-constructed with a patterned plastic inner plate. The foam strip surrounding the vacuum channel does a great job of forming a tight seal when the lid is closed to aid with the vacuum-packing process.
 
-### 10 - Control Panel
+### 8.0 - Control Panel
 
 Button Type: Physical
 
