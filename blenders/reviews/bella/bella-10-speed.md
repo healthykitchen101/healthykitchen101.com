@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **7.4**
 
-*   Performance (50%) - **7.4**/10
+*   Performance (50%) - **8.0**/10
     
 *   Design (20%) - **7.5**/10
     
@@ -30,7 +30,7 @@ On paper, this BELLA is designed to make your kitchen work simpler. However, our
 Performance: Competitive Overall Efficiency
 -------------------------------------------
 
-performance Scores: **7.4**
+performance Scores: **8.0**
 
 *   Hot Soup Purée (35%) - **7.5**/10
     
@@ -38,7 +38,7 @@ performance Scores: **7.4**
     
 *   Mayonnaise (15%) - **9.0**/10
     
-*   Almond Milk (5%) - **6.0**/10
+*   Almond Milk (15%) - **6.0**/10
     
 *   Whipped Egg-Whites (5%) - **6.0**/10
     
