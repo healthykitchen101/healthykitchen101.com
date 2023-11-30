@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **8.3**
 
 *   Performance (50%) - **7.8**/10
     
 *   Design (20%) - **9.0**/10
     
-*   Usability (30%) - **9.4**/10
+*   Usability (30%) - **8.7**/10
     
 
 The Anova Precision Vacuum Sealer Pro is one of our [top picks for vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in 2023 because it performs well, looks great, and is easy to use. However, when compared to some other options like the Nesco VS-12, it may not be the absolute best choice in terms of performance and durability.
@@ -130,9 +130,9 @@ You'll notice a handle at the front of the unit, and it's used to work the locki
 Usability
 ---------
 
-usability Scores: **9.4**
+usability Scores: **8.7**
 
-*   Ease of Use (70%) - **10**/10
+*   Ease of Use (70%) - **9.0**/10
     
 *   Safety & Noise (15%) - **9.0**/10
     
@@ -141,7 +141,7 @@ usability Scores: **9.4**
 
 The Anova Precision Pro excels in usability. Its user-friendly control panel is complemented by thoughtful safety features, such as the handle lock and a visible warning strip on the hot heating bar. However, it could benefit from an audible chime for added ease of use.
 
-### 10 - Ease of Use
+### 9.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-clpgd11sy001fmm88ddzn92ha.jpg" alt="The lid and the handle lock are easy to operate with just one hand." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-1-clpgd1z7e001gmm883pi68tvf.jpg" alt="The Anova Precision Pro has a handle lock, which greatly simplifies the operation of the sealer and enables one-handed lid locking and release." width="300px" height="200px">
 
