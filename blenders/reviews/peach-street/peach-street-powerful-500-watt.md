@@ -151,6 +151,8 @@ Thus far, the Peach Street's size has proven to be a non-issue. Its compactness 
 
 ### 7.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3upj0000cbn886hbc7u2p.jpg" alt="A close-up of the Peach Street immersion parts" width="300px" height="200px">
+
 The Peach Street comes across as a budget-friendly option, and certain aspects of its construction affirm this positioning. 
 
 The motor housing primarily features medium-quality plastic. It showed no scratches after our course of testing. So far, we haven’t noticed any damage on the exterior; our blender still looks shiny and brand new. The blending wand, on the other hand, is crafted from stainless steel. It’s quite solid but lacks a premium feel and the high-polish typically associated with professional-grade or higher-end blenders.
