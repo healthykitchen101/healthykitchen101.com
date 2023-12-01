@@ -211,6 +211,8 @@ Dishwasher Safe: N/A
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm40o8e000gbn885k28atud.jpg" alt="A close-up of the Peach Street power cord" width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
