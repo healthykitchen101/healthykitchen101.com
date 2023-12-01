@@ -137,6 +137,8 @@ The Peach Street makes a colorful entrance with six shade options. Our unit, in 
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3twl6000bbn88bzfm3iwq.jpg" alt="The Peach Street Hand Blender stands on top of its blending shaft on a table, with the length of the blending shaft being noted to the side as 8.1 inches, and the total length of the unit as 15.3 inches." width="300px" height="200px">
+
 Height: 15.3" (38.9 cm)
 
 Width: 2.6" (6.6 cm)
