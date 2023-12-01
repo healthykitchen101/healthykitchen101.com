@@ -179,6 +179,8 @@ The Peach Street offers a straightforward control interface, enabling users to t
 
 ### 7.0 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3wyzw000ebn880w0g4lrk.jpg" alt="A close-up of the Peach Street hand blender blades" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3zjv3000fbn88gti725jh.jpg" alt="A close-up of the Peach Street hand blender blending wand" width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
