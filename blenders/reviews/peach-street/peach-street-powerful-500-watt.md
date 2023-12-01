@@ -10,7 +10,7 @@ Overall Score: **7.0**
 *   Usability (30%) - **6.3**/10
     
 
-The Peach Street immersion blender steps into our spotlight with efficiency and capability often associated with low-range immersion blenders. While it wasn’t the perfect contender in any test, it proved capable enough to handle a variety of tasks such as preparing soup, mayonnaise, nut milk, and even frozen fruit smoothies. That being said, a lack of comfort may leave you wanting more. At its peak speed settings, the blender’s motor vibrates noticeably, which leads to a shaky grip and an unsettling hand-feel. The user interface also presents a hurdle, with hard buttons that require a firm press.
+The Peach Street immersion blender steps into our spotlight with efficiency and capability often associated with low-range immersion blenders. While it wasn’t the [perfect contender](https://healthykitchen101.com/blenders/reviews/best/) in any test, it proved capable enough to handle a variety of tasks such as preparing soup, mayonnaise, nut milk, and even frozen fruit smoothies. That being said, a lack of comfort may leave you wanting more. At its peak speed settings, the blender’s motor vibrates noticeably, which leads to a shaky grip and an unsettling hand-feel. The user interface also presents a hurdle, with hard buttons that require a firm press.
 
 **Things We Like**
 
