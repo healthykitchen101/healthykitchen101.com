@@ -43,7 +43,7 @@ performance Scores: **7.4**
 *   Whipped Egg-Whites (5%) - **0**/10
     
 
-During our testing of the Peach Street immersion blender, we found it to be a versatile tool, capable of handling various tasks. While it lacks a whisk attachment for egg whites, its powerful 500-watt motor excels at blending soups, creating smoothies from frozen fruits, and producing mayonnaise and almond milk with acceptable results. 
+During our testing of the Peach Street, we found it to be a [versatile immersion blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/), capable of handling various tasks. While it lacks a whisk attachment for egg whites, its powerful 500-watt motor excels at blending soups, creating smoothies from frozen fruits, and producing mayonnaise and almond milk with acceptable results.
 
 ### Hot Soup Purée
 
