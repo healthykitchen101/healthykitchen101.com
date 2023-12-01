@@ -47,6 +47,8 @@ During our testing of the Peach Street immersion blender, we found it to be a ve
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3le4a0002bn88fyjv3m8d.jpg" alt="Scooping a spoon of pureéd soup produced by the Peach Street from the plastic beaker to check its smoothness." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3m30c0003bn8867mfdv0f.jpg" alt="A batch of soup pureéd by the Peach Street immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Smooth
