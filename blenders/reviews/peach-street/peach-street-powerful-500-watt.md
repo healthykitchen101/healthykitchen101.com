@@ -75,6 +75,8 @@ The final product was a smoothie with a smooth and undiluted consistency, rich i
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3pdql0006bn88b26mh7nm.jpg" alt="A batch mayonnaise made by the Peach Street immersion blender within 2 minutes and 09 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3ptyn0007bn88754n2g8q.jpg" alt="Scooping a spoon of mayonnaise made by the Peach Street immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 2 mins 09 secs
 
 Result: Smooth
