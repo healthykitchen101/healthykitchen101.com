@@ -87,6 +87,8 @@ The process of making mayonnaise with the Peach Street Immersion Blender took 2 
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3qyb50008bn88gugde0dm.jpg" alt="A white plate of almond pulp and a bowl of milk produced by the Peach Street stick blender within 1 minute and 04 seconds." width="300px" height="200px">
+
 Grinding Time: 1 min 04 secs
 
 Result: Fine
