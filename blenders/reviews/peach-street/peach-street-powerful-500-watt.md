@@ -257,6 +257,8 @@ Reattaching the blender is equally hassle-free. All it requires is aligning the 
 
 ### 6.5 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm47td2000hbn8833j0csu7.jpg" alt="Someone is holding the Peach Street’s handle and pressing its button at the same time." width="300px" height="200px">
+
 Designed to fit naturally into the user's hand, the blender’s handle provides a secure and comfortable grip. However, despite the ergonomic design, the overall handling experience leaves much to be desired. The blender’s violent vibration and stiff buttons cause our hands to get tired anyway. 
 
 ### 8.5 - Cleanability
