@@ -159,6 +159,8 @@ The motor housing primarily features medium-quality plastic. It showed no scratc
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3w5ub000dbn881rhiewtq.jpg" alt="A close-up of the Peach Street controlling buttons." width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
