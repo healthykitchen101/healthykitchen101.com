@@ -129,6 +129,8 @@ The Peach Street makes a colorful entrance with six shade options. Our unit, in 
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3szzb000abn884jpx4su1.jpg" alt="The Peach Street immersion blender lying on a table with its paper carton box and a user’s manual." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft   
 *   User manual
