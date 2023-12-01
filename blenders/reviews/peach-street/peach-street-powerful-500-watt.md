@@ -101,6 +101,8 @@ However, the blending process wasn't entirely smooth. The provided blending beak
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3s0do0009bn889egg5b9o.jpg" alt="Someone is tilting the plastic beaker at an angle of 45 degree which contains the failed beaten egg-white of the Peach Street hand blender after the total whipping time of 2 minutes." width="300px" height="200px">
+
 Beating Time: Failed
 
 Result: Failed
