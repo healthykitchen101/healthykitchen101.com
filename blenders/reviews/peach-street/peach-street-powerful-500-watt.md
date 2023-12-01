@@ -34,7 +34,7 @@ performance Scores: **7.4**
 
 *   Hot Soup Purée (35%) - **8.5**/10
     
-*   Frozen Fruit Smoothie (30%) - **7.0**/10
+*   Smoothie (30%) - **7.0**/10
     
 *   Mayonnaise (15%) - **7.3**/10
     
@@ -59,7 +59,9 @@ In this test, our Peach Street managed to perform fairly quickly. It broke down 
 
 Just keep in mind the blender's propensity to create a tight suction at the bottom of the blending cup during operation, which can complicate the blending process as you attempt to maneuver the wand up and down. It also poses a particular risk when blending in a scratch-prone pot, as the blender comes with a metal wand that could easily mar the surface.
 
-### Frozen Fruit Smoothie
+### Smoothie
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3nfal0004bn88dfxzea8f.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Peach Street Hand Blender had completed the test in 1:40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpm3onmd0005bn88960z0z64.jpg" alt="After finishing blending, the green smoothie made by the Peach Street immersion blender was spread evenly throughout a white paper on a gray table to check for solid chunks." width="300px" height="200px">
 
 Blending Time: 1 min 40 secs
 
