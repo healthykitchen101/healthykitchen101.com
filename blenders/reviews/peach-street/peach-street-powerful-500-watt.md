@@ -14,7 +14,7 @@ The Peach Street immersion blender steps into our spotlight with efficiency and 
 
 **Things We Like**
 
-*   It is easy to attach, remove, and clean. 
+*   It is easy to attach, remove, and clean.
 *   The blending wand is dishwasher-safe.
 *   Its 500-watt motor can blend frozen fruits, puree hot soup, and emulsify sauces.
 
