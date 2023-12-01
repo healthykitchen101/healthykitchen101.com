@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **7.9**
 
-*   Performance (60%) - **7.0**/10
+*   Performance (60%) - **7.4**/10
     
 *   Design (25%) - **9.5**/10
     
@@ -34,9 +34,9 @@ The GFC1020N is a bulky machine. It has a tall body and is quite heavy too. From
 Performance: Consistently Stable
 --------------------------------
 
-performance Scores: **7.0**
+performance Scores: **7.4**
 
-*   Scrap Mix (50%) - **7.0**/10
+*   Scrap Mix (50%) - **7.8**/10
     
 *   Raw Fish Scraps (25%) - **7.7**/10
     
@@ -51,9 +51,9 @@ Unfortunately, the disposer’s output quality is acceptable, at best. On one ha
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-black-1hp-scrap-mix-thumbnail-cldmvlq0z000wpb88gmjf7rsl.jpg" alt="GE GFC1020N Continuous Feed Garbage Disposal Scrap Mix Test" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-gfc1020n-continuous-feed-garbage-disposal-scrap-mix-cldmta3k20006pb88fm6897ye.jpg" alt="6.67 ounces of ground products from a garbage disposal, displayed on digital scale, placed on a granite-looking table. Visible fish pin bones in mess of assorted scraps." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-gfc1020n-continuous-feed-garbage-disposal-scrap-mix-1-cldmtaovx0007pb8857qdd2pd.jpg" alt="16.31 ounces of ground products from a garbage disposal, displayed on digital scale, placed on a granite-looking table. Mess of assorted scraps, including fibers, bones, etc." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-gfc1020n-continuous-feed-garbage-disposal-scrap-mix-2-cldmtbipx0008pb88098daqrv.jpg" alt="0.14 ounces of ground products from a garbage disposal, displayed on digital scale, placed on a granite-looking table. Shredded pieces of fish bones and vertebrae." width="300px" height="200px">
 
-Time: 8
+Time: 10
 
-40% \* 8 = 3.2
+40% \* 10 = 4.0
 
 Layer 1: 6.2
 
