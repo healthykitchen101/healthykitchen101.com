@@ -46,6 +46,8 @@ Regrettably, the Nutrichef PKVS18BK didn't perform well in our tests. It scored 
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-dry-food-test-clpqizfnx000kbn8866vc4i9p.jpg" alt="The Nutrichef PKVS18BK during the first dry food test. The suction flow during the 17-second working cycle was measured at 33 kPA by our vacuum pressure gauge." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-dry-food-test-1-clpqj00ai000lbn88bs4pgkr2.jpg" alt="The Nutrichef PKVS18BK sealer during its second dry test, which reported a suction flow of 45 kPA at the end of a 21-second working cycle." width="300px" height="200px">
+
 Suction Mode: Normal
 
 Food Mode: Dry
