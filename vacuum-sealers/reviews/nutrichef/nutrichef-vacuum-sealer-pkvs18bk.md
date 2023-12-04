@@ -94,6 +94,8 @@ Our team’s quite happy with the Nutrichef's design, which has a sleek black-an
 
 ### 8.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-build-quality-clpqj9vzj000qbn883q2tbkch.jpg" alt="The side profile of the Nutrichef PKVS18BK vacuum sealer." width="300px" height="200px">
+
 The Nutrichef PKVS18BK boasts excellent overall build quality, with a securely attached lid to the base through robust hinges. After rigorous tugging and shaking tests, there's no hint of flimsiness. The lid's top features a glossy material that initially looks great when the sealer is first unboxed. However, over time, this part of the lid tends to accumulate smudges from fingerprints and light scratches, so you’ll have to regularly clean the sealer if you want to maintain its look.
 
 On the unit's bottom, you'll find white anti-slip feet that ensure stability during use. The interior is well-constructed with a patterned plastic inner plate. The foam strip surrounding the vacuum channel does a great job of forming a tight seal when the lid is closed to aid with the vacuum-packing process.
