@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **6.8**
 
 *   Performance (50%) - **5.7**/10
     
 *   Design (20%) - **7.2**/10
     
-*   Usability (30%) - **8.0**/10
+*   Usability (30%) - **8.3**/10
     
 
 The Nutrichef PKVS18BK is quite possibly one of the [best-looking vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in the price range. But it doesn’t just excel in terms of design, the sealer also did great in our usability assessment, as well, thanks to its easy-to-use and intuitive control panel. However, while the vacuum sealer receives great scores on design and usability grounds, its mediocre performance does take away quite a lot of the plus points that we gave the sealer in terms of design.
@@ -135,13 +135,13 @@ While the lock works very well, it does demand a significant amount of force to 
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **8.3**
 
 *   Ease of Use (70%) - **8.0**/10
     
 *   Safety & Noise (15%) - **9.0**/10
     
-*   Indicator Lights and Chime (15%) - **7.0**/10
+*   Indicator Lights and Chime (15%) - **9.0**/10
     
 
 The Nutrichef PKVS18BK is user-friendly with a simple control panel. We didn't have trouble inserting and sealing bags despite the absence of bag hooks. Safety is addressed with a warning sticker about the heating bar, but adding a high-visibility sticker could further improve safety for new users. The sealer lacks an audible chime, though its indicator lights are bright.
@@ -162,7 +162,7 @@ Thanks to the numerous interior safety stickers, our reviewers gave the Nutriche
 
 In terms of noise, the sealer’s on the louder side, reaching a peak of 84.3 dBA during a dry food test.
 
-### 7.0 - Indicator Lights and Chime
+### 9.0 - Indicator Lights and Chime
 
 Numberof Indicators: 5
 
