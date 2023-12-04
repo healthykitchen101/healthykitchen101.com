@@ -156,11 +156,11 @@ One minor drawback is that closing the lid may require a bit more effort, which 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-safety-noise-clpqjkq9w000wbn88f36yd82x.jpg" alt="There are numerous safety stickers inside of the sealer." width="300px" height="200px">
 
-Maximum Noise Level: 83.4 dBA
+Maximum Noise Level: 84.5 dBA
 
 Thanks to the numerous interior safety stickers, our reviewers gave the Nutrichef PKVS18BK a decent safety score. These stickers warn about the hot heating bar and the risk of damaging the sealer with excessive liquid. However, the lack of a high-visibility orange sticker on the heating bar, as seen in some other sealers like the Anova Precision Pro or the Nesco VS-12, can be a hazard for new users.
 
-In terms of noise, the sealer’s on the louder side, reaching a peak of 84.3 dBA during a dry food test.
+In terms of noise, the sealer’s on the louder side, reaching a peak of 84.5 dBA during a dry food test.
 
 ### 9.0 - Indicator Lights and Chime
 
