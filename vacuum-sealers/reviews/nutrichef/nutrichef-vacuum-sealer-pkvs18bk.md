@@ -124,6 +124,8 @@ There’s an LED strip at the top of the control panel that lets you track the w
 
 ### 8.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-lid-clpqjhp9o000vbn886b2oda4n.jpg" alt="A locking latch on one side of the sealer. You can also see the button that releases the latch to the side." width="300px" height="200px">
+
 Lid Lock: Latch lock
 
 The Nutrichef PKVS18BK comes with a latch lock, meaning you have to press down on the lid to get the lock to click into place. There are two buttons on each side of the lid for releasing the lid.
