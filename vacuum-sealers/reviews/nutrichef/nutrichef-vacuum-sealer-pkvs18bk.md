@@ -64,6 +64,8 @@ All in all, the Nutrichef PKVS18BK may not be the best choice if a great dry foo
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-moist-food-test-clpqj439a000mbn8834al8c0j.jpg" alt="The Nutrichef PKVS18BK sealer during the first moist food test, during which it reported a vacuum strength of 30 kPA over a working cycle of 17 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-moist-food-test-1-clpqj4gie000nbn88bk8cg916.jpg" alt="The Nutrichef PKVS18BK sealer during the first moist food test, during which it reported a vacuum strength of 28 kPA over a working cycle of 15 seconds." width="300px" height="200px">
+
 Suction Mode: Gentle
 
 Food Mode: Moist
