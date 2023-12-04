@@ -102,6 +102,8 @@ On the unit's bottom, you'll find white anti-slip feet that ensure stability dur
 
 ### 8.0 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-control-panel-clpqjesfv000ubn88gxd19ri3.jpg" alt="The control panel of the Nutrichef PKVS18BK. All of the buttons (five in total) are touch-sensitive. The panel also has four indicator lights, plus a progress bar." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-build-quality-1-clpqjaw26000rbn88dnaz7tvw.jpg" alt="There's an extra button inside the sealer that you can use if you prefer vacuuming through the air hose and adapter included with the sealer." width="300px" height="200px">
+
 Button Type: Physical
 
 Numberof Buttons: 6
