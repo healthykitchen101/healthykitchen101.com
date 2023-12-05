@@ -87,6 +87,8 @@ The design of the Mueller is fitting for the price tag, i.e. it’s unspectacula
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-box-clprtmt6k0004pz88bh64bkmt.jpg" alt="The content of the Mueller MV-1100 vacuum sealer’s shipping box. There’s the sealer itself, sheets and rolls of plastic, air hose and adapter, along with the documentation for the sealer." width="300px" height="200px">
+
 In the shipping box of the Mueller vacuum sealer, other than the product itself, you’ll find the following:
 
 *   Pre-cut and rolls of plastic bags
