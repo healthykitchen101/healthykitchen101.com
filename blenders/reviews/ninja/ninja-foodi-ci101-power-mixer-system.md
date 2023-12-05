@@ -151,6 +151,8 @@ The Ninja Foodi, measuring 16 inches in total height with its 9.5-inch shaft, is
 
 ### 9.5 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4qfik000c2i885a46ddmw.jpg" alt="A close-up of the blending shaft and motor housing of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px">
+
 The Foodi’s exceptional build quality is evident in every aspect, from the careful selection of materials to the precision of its engineering, complemented by its aesthetic appeal and thoughtful ergonomic design.
 
 The main body is crafted from a combination of high-quality plastics and metals, giving it an upscale feel and adequate robustness. The blending shaft is engineered to fit securely into the motor body, guaranteeing stable operation without any unwanted vibrations. Additionally, the blades are crafted from hardened stainless steel, a choice that ensures they maintain their sharpness over time and resist corrosion. 
