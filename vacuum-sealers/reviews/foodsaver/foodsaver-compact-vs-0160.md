@@ -51,9 +51,7 @@ Suction Mode: N/A
 
 Food Mode: Dry
 
-Recorded Suction: 62 kPA (1) - 63 kPA (2)
-
-Suction Time: 11s (1) - 11s (2)
+Suction Strength:
 
 Cycle Time:
 
@@ -69,9 +67,7 @@ Suction Mode: N/A
 
 Food Mode: Moist
 
-Recorded Suction: 45 kPA (1) - 58 kPA (2)
-
-Suction Time: 39s (1) - 33s (2)
+Suction Strength:
 
 Cycle Time:
 
@@ -163,6 +159,10 @@ The Foodsaver VS-0160 doesn’t come with any additional extra feature other tha
 Bag Cutter: No
 
 Bag Holder: No
+
+Bag Hooks:
+
+Removable Drip Ttray:
 
 The Foodsaver VS-0160 comes with a removable drip tray to make vacuum-packing moist food more convenient.
 
