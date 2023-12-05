@@ -49,9 +49,9 @@ Suction Mode: Airtight
 
 Food Mode: Dry
 
-Recorded Suction: 46 kPA (1) - 47 kPA (2)
+Suction Strength: 46 kPA (1) - 47 kPA (2)
 
-Suction Time: 18s (1) - 22s (2)
+Cycle Time: 18s (1) - 22s (2)
 
 The Mueller achieved a consistent suction power of 46-47 kPa in two test sessions, as measured by our vacuum gauge. However, our timer showed a slight discrepancy in working time, with the first session taking 18 seconds and the second session taking 22 seconds. The time difference is insignificant, but it contributed to the Mueller's lower score in this test.
 
@@ -61,9 +61,9 @@ Suction Mode: Gentle
 
 Food Mode: Moist
 
-Recorded Suction: 29 kPA (1) - 30 kPA (2)
+Suction Strength: 29 kPA (1) - 30 kPA (2)
 
-Suction Time: 22s (1) - 25s (2)
+Cycle Time: 22s (1) - 25s (2)
 
 In this test, the sealer outperformed the dry food test but still has room for improvement. The suction ranged from 29 to 30 kPA, and each cycle lasted between 22 to 25 seconds. While it removed most of the air, some air pockets remained. Although the mango slices were not crushed, there was still some juice leakage. Fortunately, it didn’t affect the sealer.
 
@@ -80,6 +80,27 @@ design Scores: **5.5**
     
 
 The design of the Mueller is fitting for the price tag, i.e. it’s unspectacular. Although the company tried to incorporate features like having a metallic top lid and touch-sensitive buttons, it’s still clear from the stiff lid locks and the lack of extra features that it’s a budget-friendly model. Fortunately, we didn’t find any significant design flaws that would affect the unit’s long-term durability.
+
+### In the Box
+
+In the shipping box of the Mueller vacuum sealer, other than the product itself, you’ll find the following:
+
+*   Pre-cut and rolls of plastic bags
+*   Air hose
+*   Wine stopper cork adapter
+*   User manual
+
+### Dimensions
+
+Weight: 2.2 lbs (1.0 kg)
+
+Length: 14.1" (35.8 cm)
+
+Width: 6.0" (15.2 cm)
+
+Height: 3.1" (7.9 cm)
+
+Compared to other vacuum sealers in our database, the Mueller sealer is larger and heavier. As such, it may not be the best choice if you’re seeking a compact sealer. However, at just 2.2 pounds, it's relatively lightweight and easy to carry. If size isn't a concern for you, it shouldn't be too inconvenient.
 
 ### 6.0 - Build Quality
 
@@ -106,6 +127,18 @@ The mode-changing buttons have corresponding lights, and the “Seal” and “V
 Lid Lock: Latch lock
 
 The lid isn’t as well-crafted as we had hoped. The lock on one side of the sealer is noticeably more sensitive than the other. As a result, whenever we try to close the lid, one side always clicks into place first while the other is still slack. We always had to double-check the locks to ensure the lid was firmly locked down before engaging the suction.
+
+### Failed - Extra Features
+
+Bag Cutter: No
+
+Bag Holder: No
+
+Bag Hooks: No
+
+Removable Drip Ttray: No
+
+The Mueller doesn’t come with any extra features.
 
 Usability
 ---------
