@@ -65,7 +65,7 @@ Just keep in mind the blender's propensity to create a tight suction at the bott
 
 Blending Time: 1 min 40 secs
 
-Result:  Smooth
+Result: Smooth
 
 Suction: Slightly
 
