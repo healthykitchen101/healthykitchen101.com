@@ -51,9 +51,9 @@ Suction Mode: N/A
 
 Food Mode: Dry
 
-Suction Strength:
+Suction Strength: 62 kPA (1) - 63 kPA (2)
 
-Cycle Time:
+Cycle Time: 11s (1) - 11s (2)
 
 In the dry food test, the FoodSaver VS-0160 stood out with its high suction power. Our vacuum gauge recorded peak vacuums of 62 kPA and 63 kPA in the two respective tests. The black rice grains we used for testing were tightly packed with no visible air pockets inside.
 
