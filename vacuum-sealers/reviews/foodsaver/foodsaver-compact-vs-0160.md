@@ -100,7 +100,7 @@ In the shipping box of the FoodSaver VS-0160, other than the product itself, you
 *   Rolls and sheets of pre-cut plastic bags
 *   Instruction manual
 
-### Weight & Dimensions
+### Dimensions
 
 Weight: 5.8 lbs (2.6 kg)
 
