@@ -137,6 +137,8 @@ The Ninja CI101 Foodi Power Mixer System combines high performance with a sophis
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4nf9o000b2i88b9cd7cww.jpg" alt="The Ninja Foodi Power Mixer System standing on a table, with the length of its blending shaft being noted to the side as 9.5 inches, and the total length of the unit as 16 inches.  " width="300px" height="200px">
+
 Height: 16.0" (40.6 cm)
 
 Width: 2.9" (7.4 cm)
