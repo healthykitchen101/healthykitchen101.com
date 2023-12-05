@@ -98,6 +98,8 @@ Starting with soaked almonds, we introduced them to our Ninja Foodi along with w
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4a03q00092i881cvn2yly.jpg" alt="The Ninja CI101 Foodi immersion blender stands next to a glass of whipped egg whites forming stiff peaks, with a digital timer showing "1:46" in the foreground." width="300px" height="200px">
+
 Beating Time: 1 min and 45 secs
 
 Result: Stiff
