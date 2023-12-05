@@ -229,6 +229,8 @@ The 5.1 ft power cord provides ample length for easy maneuverability around the 
 
 ### Extra Accessories: Whisk Attachment
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4yvi5000i2i882vr30urx.jpg" alt="Someone is attaching the whisk attachment to the motor housing of the Ninja CI101 Foodi Power Mixer System Power Cord." width="300px" height="200px">
+
 Material: Stainless steel
 
 Dishwasher Safe: Yes
@@ -238,6 +240,8 @@ Removable: Yes
 With the included whisk attachment that works under a range of speed level, your Foodi can precisely control your mixing, from slow stirring of dry goods to quickly whipping creams or egg whites to stiff peaks.
 
 ### Extra Accessories: Beaters
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps55kmt000j2i88hxp7cxrr.jpg" alt="A close-up of the beater of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps55zu2000k2i883ow597g6.jpg" alt="A close-up of the beater of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px">
 
 Material: Plastic and Stainless steel
 
