@@ -199,6 +199,8 @@ The blending arm features a four-pronged blade design. The prongs are complement
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4vv0y000g2i880nkpbh5i.jpg" alt="A close-up of the beaker of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 24 oz
