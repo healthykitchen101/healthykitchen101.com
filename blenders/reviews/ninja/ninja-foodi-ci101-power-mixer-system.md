@@ -58,6 +58,8 @@ Our testing of the Ninja Foodi's pureeing performance delivered exceptional resu
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps42zy800042i88evrthx0f.jpg" alt="Scooping a spoon of frozen fruit smoothie from a full batch in a plastic beaker made by the Ninja CI101 Foodi immersion blender in 2 minutes 40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps43hkp00052i8820gla756.jpg" alt="After finishing blending, the green smoothie made by the Ninja CI101 Foodi immersion blender was spread evenly throughout a white paper to check for solid chunks." width="300px" height="200px">
+
 Blending Time: 2 mins 40 secs
 
 Result: Velvety
