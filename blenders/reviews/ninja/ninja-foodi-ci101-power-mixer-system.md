@@ -86,6 +86,8 @@ In this test, we used the Ninja Foodi's whisk attachment to prepare mayonnaise a
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps48qer00082i887x3fcka0.jpg" alt="The Ninja CI101 Foodi immersion blender beside its bowl of almond milk and the corresponding almond pulp produced in 1 minute 01 second. " width="300px" height="200px">
+
 Grinding Time: 1 min 01 secs
 
 Result: Fine
