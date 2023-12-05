@@ -181,6 +181,8 @@ In blender mode, the Foodi provides a standard speed for routine blending tasks 
 
 ### 9.5 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4unl9000f2i8829gbdtpv.jpg" alt="A close-up of the blades of the Ninja CI101 Foodi Power Mixer System. " width="300px" height="200px">
+
 Material:  Stainless steel
 
 Type: Sharp Blade
