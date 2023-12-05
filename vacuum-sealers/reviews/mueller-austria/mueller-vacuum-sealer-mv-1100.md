@@ -136,6 +136,8 @@ The mode-changing buttons have corresponding lights, and the “Seal” and “V
 
 ### 4.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-lid-clpruafd1000bpz880gm1dma5.jpg" alt="The hinges do a great job at keeping the Mueller MV-1100’s lid aloft, but the locking mechanism is problematic." width="300px" height="200px">
+
 Lid Lock: Latch lock
 
 The lid isn’t as well-crafted as we had hoped. The lock on one side of the sealer is noticeably more sensitive than the other. As a result, whenever we try to close the lid, one side always clicks into place first while the other is still slack. We always had to double-check the locks to ensure the lid was firmly locked down before engaging the suction.
