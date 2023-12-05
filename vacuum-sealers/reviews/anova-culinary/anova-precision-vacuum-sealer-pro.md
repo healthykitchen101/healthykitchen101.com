@@ -51,9 +51,9 @@ Suction Mode: N/A
 
 Food Mode: Dry
 
-Recorded Suction: 67 kPA (1) - 67 kPA (2)
+Suction Strength: 67 kPA (1) - 67 kPA (2)
 
-Suction Time: 14s (1) - 14s (2)
+Cycle Time: 14s (1) - 14s (2)
 
 The Anova Precision Pro performed exceptionally well in the dry food test. We tested its vacuum-sealing capabilities by using it to vacuum-pack a bag of black rice grains.
 
@@ -69,9 +69,9 @@ Suction Mode: N/A
 
 Food Mode: Moist
 
-Recorded Suction: 45 kPA (1) - 43 kPA (2)
+Suction Strength: 45 kPA (1) - 43 kPA (2)
 
-Suction Time: 41s (1) - 39s (2)
+Cycle Time: 41s (1) - 39s (2)
 
 When switched to 'Moist' food mode, the Anova Precision Pro's suction power is halved, and the working cycle significantly lengthens.
 
@@ -92,6 +92,32 @@ design Scores: **9.0**
     
 
 The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
+
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-box-clpgafxg60014mm88d0jf4r6c.jpg" alt="The content of the Anova Precision Pro’s shipping box, which includes a roll of plastic bag, an accessory air hose, and a simple user manual." width="300px" height="200px">
+
+The Anova Precision Pro comes in the box with the following items:
+
+*   A roll of plastic bag
+*   Accessory air hose
+*   User manual
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-dimensions-clphq5ec80020mm88fdi13a5b.jpg" alt="The Anova Precision Pro, being a full-size vacuum sealer, may take up quite a lot of countertop space with a length of 15.5 inches, a width of 7.1 inches, and a height of 4.3 inches." width="300px" height="200px">
+
+Weight: 5.0 lbs (2.3 kg)
+
+Length: 15.5" (39.4 cm)
+
+Width: 7.1" (18.0 cm)
+
+Height: 4.3" (10.9 cm)
+
+Being classified as a "full-size" model in our database, the Anova Precision Pro does come with a substantial size and weight, partly due to the spacious compartment inside for storing the plastic bag roll.
+
+However, when compared to other full-size models like the Nesco VS-12, it’s neither too bulky or heavier than average. But it definitely can’t go toe-to-toe with vacuum sealers like the Megawise VS6621 in terms of compactness.
 
 ### 10 - Build Quality
 
@@ -126,6 +152,22 @@ Lid Lock: Handle lock
 The lid of the Anova Precision Pro is really well-made. We checked the lid hinges thoroughly, and they are as solid as a rock. Even when we moved the lid from side to side, it didn't shift or wobble.
 
 You'll notice a handle at the front of the unit, and it's used to work the locking system. To unlock the lid, just lift the handle. When you're ready to close the lid, push down the handle to secure the locks. This handle lock feature makes operating the sealer super easy, even if you use it with just one hand.
+
+### 8.0 - Extra Features
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-extra-features-clpgb57e2001dmm883vvbe2xb.jpg" alt="Inside the Anova Precision Pro is a large compartment that you can use to store a roll of plastic bag. There is a flip-down cutter for you to cut out any length of bag that you want." width="300px" height="200px">
+
+Bag Cutter: Yes
+
+Bag Holder: Yes
+
+Bag Hooks: Yes
+
+Removable Drip Ttray: No
+
+The Anova Precision Pro includes a handy interior compartment where you can store a roll of plastic bags. Inside this compartment, there's a convenient flip-down cutter that makes it easy for you to cut out sections of the plastic bags as needed.
+
+Unfortunately, the sealer doesn’t come with bag hooks on the vacuum channel, which would make feeding the plastic bag into the sealer a lot easier.
 
 Usability
 ---------
