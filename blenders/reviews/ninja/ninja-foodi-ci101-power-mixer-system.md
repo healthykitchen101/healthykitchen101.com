@@ -46,6 +46,8 @@ The Ninja CI101 Foodi is a decent immersion blender that can provide heavy blend
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps41dto00022i882tdu145f.jpg" alt="Scooping a spoon of pureéd soup from a full batch in a plastic beaker made by the Ninja CI101 Foodi immersion blender in 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps41zjr00032i88fgam871u.jpg" alt="A batch of soup pureéd by the Ninja CI101 Foodi immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Exceptionally Smooth
