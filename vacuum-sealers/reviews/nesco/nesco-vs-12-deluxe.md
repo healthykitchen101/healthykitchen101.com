@@ -85,6 +85,29 @@ design Scores: **9.0**
 
 The Nesco VS-12 stands out thanks to its sturdy design, which earned it high praise from our reviewers. Every other aspect, from the control panel to the lid and the included extras like the cutter and plastic bag roll holder, is exceptionally well-crafted and has received top marks from our reviewers. As a result, the unit achieved an impressive score of 9.0/10 in this category.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-box-clpbzz13f000jmm888njheytd.jpg" alt="Besides the Nesco VS-12 itself, the shipping box also comes with rolls of plastic bags, instruction manual and warranty card." width="300px" height="200px">
+
+The Nesco VS-12 food vacuum sealer comes with the following 
+
+*   Rolls of pre-cut plastic bags
+*   Instruction manual and warranty cards
+
+### Weight & Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-dimensions-clpgjvul7001mmm884a39d632.jpg" alt="The dimensions of the Nesco VS-12 sealer. Its length is 15.8 inches, width is 7.8 inches, and the height is 4.3 inches." width="300px" height="200px">
+
+Weight: 6.0 lbs (2.7 kg)
+
+Length: 15.8" (40.1 cm)
+
+Width: 7.8" (19.8 cm)
+
+Height: 4.3" (10.9 cm)
+
+The Nesco VS-12 sets itself apart from other models in our database due to its size and weight. While this gives it a solid and durable feel, it may pose challenges in terms of storage, especially if you prefer to stow it away when not in use. The Nesco VS-12 is built more to become a permanent fixture on your countertop.
+
 ### 10 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-build-quality-clpgk5ml4001nmm884h0nbkjy.jpg" alt="The housing of the Nesco VS-12 is on full display. Note the parts that are plated in metal to protect the sealer from damage." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-build-quality-1-clpgk6at0001omm88b5d3blvz.jpg" alt="Inside the Nesco VS-12. You can see the vacuum channel and the vacuum bag roll holder. Towards the front is the heating bar with a high-vis orange strip." width="300px" height="200px">
@@ -122,6 +145,16 @@ Lid Lock: Handle lock
 The Nesco VS-12's lid is solid and easy to use. There's a handle at the front that you lift to unlock and open the lid, and when it's time to seal, simply bring the lid down and push it to lock it securely in place. This handle lock feature makes using the sealer one-handed a breeze.
 
 We've tested the hinges thoroughly, and they're strong. The lid stays firmly in place and doesn't wobble even when shaken. You can trust the Nesco VS-12 for stable and reliable sealing.
+
+### 9.0 - Extra Features
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-extra-features-clpgkb72q001smm88bn2353of.jpg" alt="The Nesco VS-12 comes with a roomy compartment inside where you can store a single roll of plastic bag. A flip-down cutter is built-in for you to cut out the correct bag length." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-extra-features-1-clpgkc37k001tmm88dz6kdjb2.jpg" alt="The vacuum channel's two bag hooks simplify the process of correctly aligning the plastic bag's lip, making it easier for you to use." width="300px" height="200px">
+
+Bag Cutter: Yes
+
+Bag Holder: Yes
+
+The Nesco VS-12 has a roomy compartment inside for storing a roll of plastic bags. It's equipped with a built-in cutter for convenient bag cutting. Additionally, it includes a pair of bag hooks that simplify the process of inserting and aligning new plastic bags with the vacuum channel.
 
 Usability
 ---------
