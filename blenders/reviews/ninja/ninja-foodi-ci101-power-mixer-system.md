@@ -217,6 +217,8 @@ The Ninja Foodi includes a handy 3-cup blending cup (24 fl. oz), outfitted with 
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4wub3000h2i885g2d0qdn.jpg" alt="A close-up of the power cord of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
