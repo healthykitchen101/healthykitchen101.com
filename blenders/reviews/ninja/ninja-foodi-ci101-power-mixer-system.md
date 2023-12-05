@@ -126,6 +126,8 @@ The Ninja CI101 Foodi Power Mixer System combines high performance with a sophis
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4b8qp000a2i880mgvbjg9.jpg" alt="The Ninja Foodi Power Mixer System displayed with its box, various attachments including a whisk, beater, and a blending cup, and instructional materials laid out on a gray countertop." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Whisk attachment
