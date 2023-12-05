@@ -285,6 +285,8 @@ When it comes to reassembling, the process is just as user-friendly. The design 
 
 ### 9.0 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps57x3h000l2i88dh5v8dqq.jpg" alt=" Someone is holding the Ninja Foodi Mixer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps58eoc000m2i8899j79bjh.jpg" alt="Someone is holding the Ninja Foodi Immersion Blender." width="300px" height="200px">
+
 We commend the ergonomic design of the Ninja Foodi Immersion Blender for its comfortable grip, which effectively combats the hand fatigue associated with continuous kitchen tasks. The thumb-accessible power button is another plus Yet, Nevertheless, it's worth mentioning that the hefty weight of the blender could be a drawback for those with weaker hand strength. 
 
 ### 8.0 - Cleanability
