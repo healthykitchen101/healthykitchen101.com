@@ -65,7 +65,7 @@ Layer 2: 6.7
 
 Input Load: 90.0 oz (2551 g)
 
-Time: 2 min 28 sec
+Time: 2 min
 
 Layer 1: 7.7 oz (217 g)
 
