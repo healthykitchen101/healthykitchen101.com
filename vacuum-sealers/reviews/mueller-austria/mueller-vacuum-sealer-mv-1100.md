@@ -116,6 +116,8 @@ One notable feature is the embossed interior, which adds a fascinating texture t
 
 ### 8.5 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-control-panel-clpru3d1l0008pz88d8yv8j1k.jpg" alt="The rows of function buttons on the control panel of the Mueller MV-1100 vacuum sealer." width="300px" height="200px">
+
 Button Type: Touch-sensitive
 
 Numberof Buttons: 5
