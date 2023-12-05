@@ -45,6 +45,8 @@ The performance of the Mueller vacuum sealer is underwhelming. It received medio
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-dry-food-test-clprtg40m0000pz88fj6u7px3.jpg" alt="The Mueller MV-1100 vacuum sealer demonstrating peak suction of 46 kPA in an 18-second dry food test." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-dry-food-test-1-clprthtra0001pz887c7ka8ll.jpg" alt="The Mueller MV-1100 vacuum sealer during the second dry food test. It achieved a peak suction power of 47 kPA over a 22-second working cycle." width="300px" height="200px">
+
 Suction Mode: Airtight
 
 Food Mode: Dry
