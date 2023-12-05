@@ -55,6 +55,8 @@ Recorded Suction: 62 kPA (1) - 63 kPA (2)
 
 Suction Time: 11s (1) - 11s (2)
 
+Cycle Time:
+
 In the dry food test, the FoodSaver VS-0160 stood out with its high suction power. Our vacuum gauge recorded peak vacuums of 62 kPA and 63 kPA in the two respective tests. The black rice grains we used for testing were tightly packed with no visible air pockets inside.
 
 It also impressed our reviewers with its speedy performance by completing a full working cycle, including sealing, in just 11 seconds.
@@ -70,6 +72,8 @@ Food Mode: Moist
 Recorded Suction: 45 kPA (1) - 58 kPA (2)
 
 Suction Time: 39s (1) - 33s (2)
+
+Cycle Time:
 
 In moist mode, suction power decreased greatly. During two test sessions, the vacuum sealer achieved peak vacuums of 45 kPA and 58 kPA, respectively. The fresh mango slices we used for testing were gently packed without them being crushed or leaking juice.
 
@@ -88,6 +92,29 @@ design Scores: **8.8**
     
 
 The FoodSaver VS-0160 stands out with its metallic top piece. Its sleek and elegant design earned top marks for build quality from our reviewers. Components such as the control panel and the lid also received perfect scores in our evaluation. However, the VS-0160 lacks extra features, like a bag cutter, which is disappointing.
+
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-box-clpcha8pf000rmm88av1k1ih6.jpg" alt="The content of the FoodSaver VS-0160 shipping box, consisting of the vacuum sealer, three rolls of food bags, and manual." width="300px" height="200px">
+
+The content of the FoodSaver VS-0160’s shipping box.
+
+In the shipping box of the FoodSaver VS-0160, other than the product itself, you’ll find the following:
+
+*   Rolls and sheets of pre-cut plastic bags
+*   Instruction manual
+
+### Weight & Dimensions
+
+Weight: 5.8 lbs (2.6 kg)
+
+Length: 15.7" (39.9 cm)
+
+Width: 6.1" (15.5 cm)
+
+Height: 2.7" (6.9 cm)
+
+The FoodSaver VS-0160 is quite average in this department. It won't hog much of your countertop space. The sealer is also lightweight, making it easy for most people to move around, which is handy if you need to store it away after use.
 
 ### 9.5 - Build Quality
 
@@ -126,6 +153,18 @@ Lid Lock: Latch lock
 The lid of the VS-0160 is very well-constructed. The hinges remained rock-solid even when we shook it during our test, showing no signs of wobbling. When we applied pressure to close the lid, the locks engaged effortlessly without requiring much force.
 
 A unique feature of the FoodSaver VS-0160 that sets it apart is its storage lock. When you’re storing the sealer, you can switch the slider on the side to "Store" mode. This locks up the lid and won't release even when you push the release latches. This design prevents the sealer from accidentally opening during storage, effectively keeping dirt and dust out.
+
+### 1.0 - Extra Features
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-extra-features-clpgp4aae001ymm8872ok8n1l.jpg" alt="The Foodsaver VS-0160 doesn’t come with any additional extra feature other than a removable drip tray, which will help you safely vacuum-pack moist food better." width="300px" height="200px">
+
+The Foodsaver VS-0160 doesn’t come with any additional extra feature other than a removable drip tray, which will help you safely vacuum-pack moist food better.
+
+Bag Cutter: No
+
+Bag Holder: No
+
+The Foodsaver VS-0160 comes with a removable drip tray to make vacuum-packing moist food more convenient.
 
 Usability
 ---------
