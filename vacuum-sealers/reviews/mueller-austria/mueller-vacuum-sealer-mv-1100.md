@@ -176,6 +176,8 @@ The Mueller's handling is poor due to two issues: the lid and the unreliable con
 
 ### 8.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-noise-clprufg8v000fpz88c8uz7g0g.jpg" alt="The sealer can get as loud as 81.2 dBA, like during this dry food test." width="300px" height="200px">
+
 Maximum Noise Level: 81.2
 
 Safety could be improved if the heat bar, which can get very hot after several working cycles, was marked with something more permanent than a peelable warning sticker. Even though the heating bar shouldn't get hot enough to cause injuries, new users who are not yet familiar with how vacuum sealers work could be startled if they accidentally touch it.
