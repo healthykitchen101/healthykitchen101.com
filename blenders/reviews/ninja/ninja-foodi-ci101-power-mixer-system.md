@@ -74,6 +74,8 @@ Nonetheless, we believe that with a blending container more appropriately sized 
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps44joc00062i88bpxhc7id.jpg" alt="A bowl of mayonnaise made by the Braun MQ7035X blender in 1 minute 45 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps45ght00072i885lgb0zwd.jpg" alt="Scooping a spoon of mayonnaise made by the Braun MQ7035X immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 1 min 45 secs
 
 Result: Smooth
