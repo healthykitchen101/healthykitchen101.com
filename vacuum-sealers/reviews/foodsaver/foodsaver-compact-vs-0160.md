@@ -12,7 +12,7 @@ Overall Score: **8.3**
 
 The FoodSaver VS-0160 is a steal for its price, excelling in both dry and moist food tests. It has a budget-friendly price tag but offers a premium design with a metal top lid. While it lacks extra features like a bag cutter, its outstanding build quality means that it’s guaranteed to last.
 
-If you want a no-frills vacuum sealer that gets the job done, the FoodSaver VS-0160 makes for a pretty solid choice.aa
+If you want a no-frills vacuum sealer that gets the job done, the FoodSaver VS-0160 makes for a pretty solid choice.aaa
 
 **Things We Like**
 
