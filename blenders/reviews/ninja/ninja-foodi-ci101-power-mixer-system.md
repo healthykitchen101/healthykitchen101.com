@@ -161,6 +161,8 @@ After a few months of usage, we noticed the white paint along the trim has start
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4rvq2000d2i885l84enw2.jpg" alt="A Close-Up of the Controlling Buttons of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps4sjwv000e2i88dsd976r6.jpg" alt="A Close-Up of the Controlling Buttons of the Ninja CI101 Foodi Power Mixer System." width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
