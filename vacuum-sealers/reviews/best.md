@@ -64,6 +64,15 @@ Our reviewers found the sealer to be extremely user-friendly. Tasks like feeding
 
 3\. Best for Sous Vide: Anova Precision Vacuum Sealer Pro
 
+*   Powerful performance in the dry test
+*   Suction is strong in the moist test, but gentle enough not to crush the mango slices
+*   Rated for liquid
+*   Sleek, elegant design
+*   Comes with extra features (bag compartment and cutter)
+
+*   Relatively dim indicator lights
+*   Doesn’t come with a chime
+
 Love to sous vide on the weekend? The Anova Precision Pro has everything that you need to pack up a prime cut of steak for dipping. The elegant design of the sealer also makes it a nice countertop piece!\[5\] The Anova Precision Pro during a moist test
 
 The Anova Precision Pro was able to suck all air from out a bag of rice in 14-15 seconds using a powerful 67 kPA suction. It maintained a solid 43-45 kPA suction even in moist mode, completing a cycle in just 39 seconds. The sealer was gentle enough not to squish the delicate mango slices we used as test articles. But even if it did, the extra juices in the bag shouldn’t be a problem for the Precision Pro since it was rated to deal with liquid (this is why it comes to highly recommended sous vide cooking!)
