@@ -170,6 +170,8 @@ The Mueller MV-1100's user-friendliness could use some improvement. Firstly, the
 
 ### 5.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-ease-use-1-clpruef15000epz887xjhbyqq.jpg" alt="The lid requires a lot of downward force to click close, so you almost always have to use both hands to shut the lid." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-ease-use-clprudzpj000dpz888219hvfa.jpg" alt="The Mueller’s ease of use could use a lot of improvements, starting with its unreliable lid locks and the overtly-sensitive control panel." width="300px" height="200px">
+
 The Mueller's handling is poor due to two issues: the lid and the unreliable control panel. As mentioned in the Design section, one side of the lid on our unit doesn't lock in tandem with the other. As a result, we always have to double-check to ensure both locks are engaged when we press down on the lid.
 
 ### 8.0 - Safety & Noise
