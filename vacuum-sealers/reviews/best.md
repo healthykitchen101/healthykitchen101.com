@@ -29,6 +29,60 @@ Our Top Picks
 
 In our latest batch of vacuum sealers, our reviewers have singled out three noteworthy models:
 
+1\. Best Overall: Nesco VS-12 Deluxe Vacuum Sealer
+
+*   Strong performance in both dry and moist food tests
+*   Well-built design
+*   Intuitive control panel with an LCD screen for progress tracking
+*   Comes with a bag roll compartment and bag cutter
+
+*   Doesn’t come with a chime
+
+The Nesco VS-12 is hugely popular not just because of its high suction strength but also because of its robust and intuitive design. By looking at the control panel alone, it’s easy to see that it’s a top-of-the-line product.\[3\] The Nesco VS-12 at the end of a moist food test
+
+The Nesco VS-12 did really well in our tests. It had strong suction when sealing both dry food (80 kPA) and moist food (70 kPA). It quickly removed air from dry food bags in just 17 seconds, and moist mode took a bit longer at 38 seconds. But the good news is that the fruit slices we used in the test stayed in good shape and weren't squished by the strong suction.
+
+The Nesco VS-12 also got high marks for how it's built. It looks sturdy, has easy-to-use buttons and a little screen to show you what's happening, and a lid that locks securely with a handle. Inside, it has a place to hold the bag roll and a cutter for cutting bags.
+
+Our reviewers found it easy to use because the buttons are clearly labeled, and the timer on the screen makes it easy to track progress. Safety is great with warning stickers around the heating bar, which can get hot after a few cycles. Even though it has strong suction, it's not much louder than other sealers we tested. It didn’t come with a chime, but the sounds of the lock disengaging and a small hiss of air rushing into the chamber would signal that the sealer had finished working.
+
+2\. Best Runner-up: FoodSaver Compact Vacuum Sealer
+
+*   Decent performance in both dry and moist tests
+*   Beautiful design for the price
+*   Convenient storage lock
+*   User-friendly control panel
+*   Has a removable drip tray
+
+*   Doesn’t have many extra features
+
+Despite being the budget entrant to FoodSaver’s portfolio, the VS0100 doesn’t have the look of a cheap vacuum sealer. And when it’s put to the test, it’s also readily apparent that its performance isn’t to sneeze at, either.\[4\] The FoodSaver VS0100 performing a dry test
+
+The FoodSaver VS-0100 performed well in our tests, although it didn't quite match up to the Nesco VS-12. In the dry food test, it achieved vacuum levels of 62-63 kPA, efficiently removing air from bags of black rice in just 11 seconds. In moist mode, it sealed fresh mango slices without squishing them, reaching a relatively gentle 45-58 kPA within 33-39 seconds.
+
+Our reviewers were impressed with the design and build quality of the VS-0100. With a metallic top piece and a sleek, modern design, it’s quite hard to believe the VS-0100 is a budget pick. The control panel is minimalistic but clearly marked and user-friendly. The robust lid includes a unique storage lock to prevent accidental openings and, most notably, the sealer comes with a removable drip tray, which makes vacuum-packing moist or juicy food more convenient and safer.
+
+Our reviewers found the sealer to be extremely user-friendly. Tasks like feeding the bag and working the lid are effortless. Safety is a minor concern due to the absence of warning stickers on and around the hot heating bar, but the risk isn’t too high. The motor noise, approximately 78 dBA, is acceptable and consistent with competitors. However, it lacks an audible alert when cycles finish, a slight drawback typical for a FoodSaver sealer in this price range.
+
+3\. Best for Sous Vide: Anova Precision Vacuum Sealer Pro
+
+*   Powerful performance in the dry test
+*   Suction is strong in the moist test, but gentle enough not to crush the mango slices
+*   Rated for liquid
+*   Sleek, elegant design
+*   Comes with extra features (bag compartment and cutter)
+
+*   Relatively dim indicator lights
+*   Doesn’t come with a chime
+
+Love to sous vide on the weekend? The Anova Precision Pro has everything that you need to pack up a prime cut of steak for dipping. The elegant design of the sealer also makes it a nice countertop piece!\[5\] The Anova Precision Pro during a moist test
+
+The Anova Precision Pro was able to suck all air from out a bag of rice in 14-15 seconds using a powerful 67 kPA suction. It maintained a solid 43-45 kPA suction even in moist mode, completing a cycle in just 39 seconds. The sealer was gentle enough not to squish the delicate mango slices we used as test articles. But even if it did, the extra juices in the bag shouldn’t be a problem for the Precision Pro since it was rated to deal with liquid (this is why it comes to highly recommended sous vide cooking!)
+
+In addition to its sleek and elegant design, our reviewers were impressed by the user-friendly control panel. There were only six buttons, all clearly labeled and easy to use. The well-built lid with sturdy hinges ensures stability, and the lid lock, which can be operated with one hand by flipping the front handle up and down, adds to the convenience. Inside, there's a nifty compartment for rolls of plastic bags, complete with a handy cutter.
+
+Our reviewers particularly love the Precision Pro for its ease of use. You can perform every task with it using just one hand. Safety is great with warning stickers strategically placed inside the sealer. In terms of noise, the motor isn’t any louder (or quieter) than its peers in class. And while the indicator lights on the buttons are somewhat dim, they remain visible even in well-lit studios. Just remember that the sealer doesn't have a chime, so you'll need to keep an eye out for the flashing buttons to know when a cycle is complete.
+
 The Competition
 ---------------
 
