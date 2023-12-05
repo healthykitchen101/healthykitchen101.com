@@ -186,6 +186,8 @@ While the Mueller is not the noisiest model in the latest batch of vacuum sealer
 
 ### 9.0 - Indicator Lights and Chime
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-indicator-lights-clprusdee000ipz88doii81fn.jpg" alt="Besides the four indicator lights that display vacuuming and food modes, there are also two lights beneath the two function buttons (“Seal” and “Vac Seal”) and the progress bar." width="300px" height="200px">
+
 Numberof Indicators: 6
 
 Progress Bar: Yes
