@@ -110,6 +110,8 @@ Compared to other vacuum sealers in our database, the Mueller sealer is larger a
 
 ### 6.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-1-clpru7oic000apz88gyul5p9f.jpg" alt="The Mueller MV-1100 comes with a glossy, metallic top lid, which made it look slightly more premium." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-clpru7f740009pz88ewst54r1.jpg" alt="The interior of the Mueller MV-1100 is textured." width="300px" height="200px">
+
 The Mueller vacuum sealer offers impressive build quality at an affordable price. The lid features a sleek metal component that enhances the overall luxurious look of the sealer. The control panel buttons are conveniently designed for easy clicking.
 
 One notable feature is the embossed interior, which adds a fascinating texture to the sealer. Although the finishing is generally good, there’s room for improvement in the lid and the locking mechanism. Both felt stiff and difficult to use compared to other models we've tested.
