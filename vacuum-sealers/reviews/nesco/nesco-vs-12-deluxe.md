@@ -49,9 +49,9 @@ Suction Mode: Normal
 
 Food Mode: Dry
 
-Suction Strength:
+Suction Strength: 78 kPA (1) - 80 kPA (2)
 
-Cycle Time:
+Cycle Time: 29s (1) - 27s (2)
 
 As of November 2023, there’s no other vacuum sealer in our database able to achieve higher suction than the Nesco VS-12 in the dry food test. Our vacuum gauge recorded a peak suction between 78 to 80 kPA through two separate tests. Working time is relatively long, lasting from 27 to 29 seconds from session-to-session, but the high performance of the sealer means you’ll always get tightly-packed food every single time.
 
@@ -63,9 +63,9 @@ Suction Mode: Gentle
 
 Food Mode: Moist
 
-Suction Strength:
+Suction Strength: 52 kPA (1) - 70 kPA (2)
 
-Cycle Time:
+Cycle Time: 38s (1) - 36s (2)
 
 Even when set to the "Gentle" suction mode, the Nesco VS-12 consistently outperformed the majority of other models we've evaluated in our moist food test. During two separate test sessions, each lasting 38 and 36 seconds respectively, the VS-12 achieved peak suctions of 52 and 70 kPA.
 
@@ -94,7 +94,7 @@ The Nesco VS-12 food vacuum sealer comes with the following 
 *   Rolls of pre-cut plastic bags
 *   Instruction manual and warranty cards
 
-### Weight & Dimensions
+### Dimensions
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-dimensions-clpgjvul7001mmm884a39d632.jpg" alt="The dimensions of the Nesco VS-12 sealer. Its length is 15.8 inches, width is 7.8 inches, and the height is 4.3 inches." width="300px" height="200px">
 
@@ -154,9 +154,9 @@ Bag Cutter: Yes
 
 Bag Holder: Yes
 
-Bag Hooks:
+Bag Hooks: Yes
 
-Removable Drip Ttray:
+Removable Drip Ttray: No
 
 The Nesco VS-12 has a roomy compartment inside for storing a roll of plastic bags. It's equipped with a built-in cutter for convenient bag cutting. Additionally, it includes a pair of bag hooks that simplify the process of inserting and aligning new plastic bags with the vacuum channel.
 
