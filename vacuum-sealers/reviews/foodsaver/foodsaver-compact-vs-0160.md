@@ -160,9 +160,9 @@ Bag Cutter: No
 
 Bag Holder: No
 
-Bag Hooks:
+Bag Hooks: No
 
-Removable Drip Ttray:
+Removable Drip Ttray: Yes
 
 The Foodsaver VS-0160 comes with a removable drip tray to make vacuum-packing moist food more convenient.
 
