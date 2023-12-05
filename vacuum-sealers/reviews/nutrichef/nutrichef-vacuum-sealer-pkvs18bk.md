@@ -162,9 +162,9 @@ Bag Cutter: No
 
 Bag Holder: No
 
-Bag Hooks:
+Bag Hooks: No
 
-Removable Drip Ttray:
+Removable Drip Ttray: No
 
 The Nutrichef PKVS18BK, an affordable vacuum sealer, doesn’t have any extra features.
 
