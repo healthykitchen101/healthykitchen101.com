@@ -67,9 +67,9 @@ Suction Mode: N/A
 
 Food Mode: Moist
 
-Suction Strength:
+Suction Strength: 45 kPA (1) - 58 kPA (2)
 
-Cycle Time:
+Cycle Time: 39s (1) - 33s (2)
 
 In moist mode, suction power decreased greatly. During two test sessions, the vacuum sealer achieved peak vacuums of 45 kPA and 58 kPA, respectively. The fresh mango slices we used for testing were gently packed without them being crushed or leaking juice.
 
