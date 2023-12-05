@@ -44,7 +44,7 @@ The Nesco VS-12 also got high marks for how it's built. It looks sturdy, has eas
 
 Our reviewers found it easy to use because the buttons are clearly labeled, and the timer on the screen makes it easy to track progress. Safety is great with warning stickers around the heating bar, which can get hot after a few cycles. Even though it has strong suction, it's not much louder than other sealers we tested. It didn’t come with a chime, but the sounds of the lock disengaging and a small hiss of air rushing into the chamber would signal that the sealer had finished working.
 
-2\. Best Runner-up: FoodSaver VS0100 Compact Vacuum Sealer
+2\. Best Runner-up: FoodSaver VS-0160 Compact Vacuum Sealer
 
 *   Decent performance in both dry and moist tests
 *   Beautiful design for the price
@@ -54,24 +54,15 @@ Our reviewers found it easy to use because the buttons are clearly labeled, and 
 
 *   Doesn’t have many extra features
 
-Despite being the budget entrant to FoodSaver’s portfolio, the VS0100 doesn’t have the look of a cheap vacuum sealer. And when it’s put to the test, it’s also readily apparent that its performance isn’t to sneeze at, either.\[4\] The FoodSaver VS0100 performing a dry test
+Despite being the budget entrant to FoodSaver’s portfolio, the VS-0160 doesn’t have the look of a cheap vacuum sealer. And when it’s put to the test, it’s also readily apparent that its performance isn’t to sneeze at, either.\[4\] The FoodSaver VS0100 performing a dry test
 
-The FoodSaver VS-0100 performed well in our tests, although it didn't quite match up to the Nesco VS-12. In the dry food test, it achieved vacuum levels of 62-63 kPA, efficiently removing air from bags of black rice in just 11 seconds. In moist mode, it sealed fresh mango slices without squishing them, reaching a relatively gentle 45-58 kPA within 33-39 seconds.
+The FoodSaver VS-0160 performed well in our tests, although it didn't quite match up to the Nesco VS-12. In the dry food test, it achieved vacuum levels of 62-63 kPA, efficiently removing air from bags of black rice in just 11 seconds. In moist mode, it sealed fresh mango slices without squishing them, reaching a relatively gentle 45-58 kPA within 33-39 seconds.
 
-Our reviewers were impressed with the design and build quality of the VS-0100. With a metallic top piece and a sleek, modern design, it’s quite hard to believe the VS-0100 is a budget pick. The control panel is minimalistic but clearly marked and user-friendly. The robust lid includes a unique storage lock to prevent accidental openings and, most notably, the sealer comes with a removable drip tray, which makes vacuum-packing moist or juicy food more convenient and safer.
+Our reviewers were impressed with the design and build quality of the VS-0160. With a metallic top piece and a sleek, modern design, it’s quite hard to believe the VS-0160 is a budget pick. The control panel is minimalistic but clearly marked and user-friendly. The robust lid includes a unique storage lock to prevent accidental openings and, most notably, the sealer comes with a removable drip tray, which makes vacuum-packing moist or juicy food more convenient and safer.
 
 Our reviewers found the sealer to be extremely user-friendly. Tasks like feeding the bag and working the lid are effortless. Safety is a minor concern due to the absence of warning stickers on and around the hot heating bar, but the risk isn’t too high. The motor noise, approximately 78 dBA, is acceptable and consistent with competitors. However, it lacks an audible alert when cycles finish, a slight drawback typical for a FoodSaver sealer in this price range.
 
 3\. Best for Sous Vide: Anova Precision Vacuum Sealer Pro
-
-*   Powerful performance in the dry test
-*   Suction is strong in the moist test, but gentle enough not to crush the mango slices
-*   Rated for liquid
-*   Sleek, elegant design
-*   Comes with extra features (bag compartment and cutter)
-
-*   Relatively dim indicator lights
-*   Doesn’t come with a chime
 
 Love to sous vide on the weekend? The Anova Precision Pro has everything that you need to pack up a prime cut of steak for dipping. The elegant design of the sealer also makes it a nice countertop piece!\[5\] The Anova Precision Pro during a moist test
 
