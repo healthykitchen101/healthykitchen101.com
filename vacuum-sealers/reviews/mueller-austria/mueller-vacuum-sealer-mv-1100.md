@@ -98,6 +98,8 @@ In the shipping box of the Mueller vacuum sealer, other than the product itself,
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-dimensions-clprtwumx0005pz88gabr7e8e.jpg" alt="The dimensions of the Mueller MV-1100 vacuum sealer. The length is 14.1 inches, the width is 6.0 inches, and the height is 3.1 inches." width="300px" height="200px">
+
 Weight: 2.2 lbs (1.0 kg)
 
 Length: 14.1" (35.8 cm)
@@ -109,8 +111,6 @@ Height: 3.1" (7.9 cm)
 Compared to other vacuum sealers in our database, the Mueller sealer is larger and heavier. As such, it may not be the best choice if you’re seeking a compact sealer. However, at just 2.2 pounds, it's relatively lightweight and easy to carry. If size isn't a concern for you, it shouldn't be too inconvenient.
 
 ### 6.0 - Build Quality
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-1-clpru7oic000apz88gyul5p9f.jpg" alt="The Mueller MV-1100 comes with a glossy, metallic top lid, which made it look slightly more premium." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-clpru7f740009pz88ewst54r1.jpg" alt="The interior of the Mueller MV-1100 is textured." width="300px" height="200px">
 
 The Mueller vacuum sealer offers impressive build quality at an affordable price. The lid features a sleek metal component that enhances the overall luxurious look of the sealer. The control panel buttons are conveniently designed for easy clicking.
 
