@@ -36,7 +36,7 @@ Performance: Consistently Stable
 
 performance Scores: **7.4**
 
-*   Scrap Mix (50%) - **7.8**/10
+*   Scrap Mix (50%) - **7.9**/10
     
 *   Raw Fish Scraps (25%) - **7.7**/10
     
@@ -55,13 +55,13 @@ Time: 10
 
 40% \* 10 = 4.0
 
-Layer 1: 6.2
+Layer 1: 6.24
 
-35% \* 6.2 = 2.2
+35% \* 6.24 = 2.2
 
-Layer 2: 6.7
+Layer 2: 6.74
 
-25% \* 6.7 = 1.7
+25% \* 6.74 = 1.7
 
 Input Load: 90.0 oz (2551 g)
 
