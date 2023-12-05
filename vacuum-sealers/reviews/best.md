@@ -11,6 +11,8 @@ In the **“**[**dry food test**](https://healthykitchen101.com/vacuum-sealers/t
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/how-we-test-vacuum-sealers-clowp39z50008fi885lt78647.jpg" alt="The best vacuum sealers arranged side-by-side with testing instruments (vacuum gauge, sound level meter, timer) and a vacuum-packed bag of black rice grains." width="360" height="240">
 
+The best vacuum sealers arranged side-by-side with testing instruments (vacuum gauge, sound level meter, timer) and a vacuum-packed bag of black rice grains.
+
 In the **“**[**moist food test,**](https://healthykitchen101.com/vacuum-sealers/tests/moist-food/)**”** we vacuum-seal 12.4 ounces (350 grams) of **fresh mango slices**, following a similar process: suction strength and sealing time are tracked for scoring, and noise level is measured for reference.
 
 We also look at how well the sealers are made and how they look. The better they do in this part of the test, the longer they should last. We check things like the **vacuum channel**, **control panel**, **lid**, and any **extra features** they have.
