@@ -52,9 +52,9 @@ Suction Mode: Normal
 
 Food Mode: Dry
 
-Recorded Suction: 33 kPA (1) - 45 kPA (2)
+Suction Strength: 33 kPA (1) - 45 kPA (2)
 
-Suction Time: 17s (1) - 21s (2)
+Cycle Time: 17s (1) - 21s (2)
 
 During our two dry food tests, the Nutrichef PKVS18BK showed rather weak suction performance, ranging from 33 kPA in the first test to a peak of 45 kPA in the second. Even under the most favorable conditions, it only just met the minimum suction strength required for a passing score in our grading chart.
 
@@ -70,9 +70,9 @@ Suction Mode: Gentle
 
 Food Mode: Moist
 
-Recorded Suction: 30 kPA (1) - 28 kPA (2)
+Suction Strength: 30 kPA (1) - 28 kPA (2)
 
-Suction Time: 16s (1) - 15s (2)
+Cycle Time: 16s (1) - 15s (2)
 
 Interestingly, when we switched the suction mode to "Gentle," we didn't see a significant drop in suction power. In the first test, it reached 30 kPA, only 3 kPA less than the "Normal" mode. The cycle time was similar, taking just 16 seconds.
 
@@ -91,6 +91,30 @@ design Scores: **7.2**
     
 
 Our team’s quite happy with the Nutrichef's design, which has a sleek black-and-white housing that looks elegant and high-end. The build quality is excellent, with every part being solidly built, and there were no obvious design or manufacturing flaws anywhere on the unit. The touch-sensitive control panel is user-friendly but could be more responsive. The only major drawback is that the unit lacks extra features, which, to be fair to Nutrichef, is to be expected in a sealer at this price range. Overall, the Nutrichef PKVS18Bk received a 7.7/10 in this section.
+
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-box-clpqj6o3z000obn884vqgcw0i.jpg" alt="The content of the Nutrichef PKVS18BK vacuum sealer shipping box, which includes plastic bags, accessories, and documents such as warranty card and user manuals." width="300px" height="200px">
+
+The Nutrichef PKVS18BK comes in the box with the following:
+
+*   Sheets of pre-cut bags and uncut plastic bag rolls
+*   Air hose and adapter
+*   Warranty card and user manuals
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nutrichef-vacuum-sealer-pkvs18bk-dimensions-clpqj8spr000pbn88f6714cvp.jpg" alt="The dimensions of the Nutrichef PKVS18BK. It is of about average size, measuring 14.1 inches in length, 6 inches in width, and is 3 inches tall." width="300px" height="200px">
+
+Weight: 2.9 lbs (1.3 kg)
+
+Length: 14.1" (35.8 cm)
+
+Width: 6.0" (15.2 cm)
+
+Height: 3.0" (7.6 cm)
+
+The Nutrichef PKVS18BK offers a compact size and reasonable weight for its price range. It won't hog your countertop space, unlike larger sealers like the Anova Precision Pro or the Nesco VS-12. Moreover, it's relatively lightweight, so if you intend to store it in a cupboard when not in use, you won't have any difficulty picking it up and moving it around.
 
 ### 8.0 - Build Quality
 
@@ -131,6 +155,18 @@ Lid Lock: Latch lock
 The Nutrichef PKVS18BK comes with a latch lock, meaning you have to press down on the lid to get the lock to click into place. There are two buttons on each side of the lid for releasing the lid.
 
 While the lock works very well, it does demand a significant amount of force to click it closed. Our reviewers found it necessary to use both hands to securely lock the lid into place. This can be a bit cumbersome for one-handed operation of the sealer.
+
+### Failed - Extra Features
+
+Bag Cutter: No
+
+Bag Holder: No
+
+Bag Hooks:
+
+Removable Drip Ttray:
+
+The Nutrichef PKVS18BK, an affordable vacuum sealer, doesn’t have any extra features.
 
 Usability
 ---------
