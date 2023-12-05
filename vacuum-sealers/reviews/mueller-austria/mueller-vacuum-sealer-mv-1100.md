@@ -59,6 +59,8 @@ The Mueller achieved a consistent suction power of 46-47 kPa in two test session
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-food-test-clprtkgxh0002pz88920c8p0e.jpg" alt="The Mueller MV-1100 vacuum sealer during a moist food test achieves a peak suction of 29 kPA in a 22-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-food-test-1-clprtkxta0003pz885l24gpfo.jpg" alt="The Mueller vacuum sealer during the second moist food test. It achieved a suction peak of 30 kPA over a 25-second working cycle." width="300px" height="200px">
+
 Suction Mode: Gentle
 
 Food Mode: Moist
