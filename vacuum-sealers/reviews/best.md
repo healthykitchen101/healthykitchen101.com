@@ -36,7 +36,7 @@ In our latest batch of vacuum sealers, our reviewers have singled out three note
 
 *   Doesn’t come with a chime
 
-The Nesco VS-12 did really well in our tests. It had strong suction when sealing both dry food (80 kPA) and moist food (70 kPA). It quickly removed air from dry food bags in just 17 seconds, and moist mode took a bit longer at 38 seconds. But the good news is that the fruit slices we used in the test stayed in good shape and weren't squished by the strong suction.
+The Nesco VS-12 did really well in our tests. It had strong suction when sealing both dry food (80 kPA) and moist food (70 kPA). It quickly removed air from dry food bags in just 17 seconds, and moist mode took a bit longer at 38 seconds. But the good news is that the fruit slices we used in the test stayed in good shape and weren't squished by the strong suction.\[3\] The Nesco VS-12 at the end of a moist food test
 
 The Nesco VS-12 also got high marks for how it's built. It looks sturdy, has easy-to-use buttons and a little screen to show you what's happening, and a lid that locks securely with a handle. Inside, it has a place to hold the bag roll and a cutter for cutting bags.
 
