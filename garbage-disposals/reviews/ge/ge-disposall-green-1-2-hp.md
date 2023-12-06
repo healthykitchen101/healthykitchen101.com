@@ -287,7 +287,7 @@ usability Scores: **8.4**
     
 *   Smooth Operation (25%) - **8.0**/10
     
-*   External Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/10
     
 
 The Disposall Green is one of the nicest 1/2-hp disposals we’ve seen so far. It’s capable of consistent performance against common food and may considerably cut down the time as well as the amount of cleanup in the kitchen. 
@@ -308,7 +308,7 @@ _(tips: \*For safety reasons, you should ALWAYS set up to control your garbage d
 
 The Disposall Green runs like a charm from start to finish in our testing phase. Granted, it couldn’t really produce drain-safe output, but the unit itself stood rigid through everything. For a 1/2-hp with minimum special treatment, it’s an option worth keeping in mind.
 
-### Failed - External Unjam Mechanics
+### Failed - Unjam Mechanics
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-disposall-green-1-2-hp-external-unjam-mechanics-clfi2zg9b000ole88ecbu7qek.jpg" alt="Inside view of permanent-magnet garbage disposal showing manual unjam mechanics with wooden stick in flywheel’s opening/gap." width="300px" height="200px">
 
