@@ -154,6 +154,8 @@ As mentioned earlier, the Braun MQ7035X's added weight feels reassuring in hand,
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptimxwe000y2i8809lgayqg.jpg" alt="A close-up of the Braun MQ7035X's single-button." width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
