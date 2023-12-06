@@ -67,7 +67,7 @@ Here are our picks for the best countertop ice makers tested and evaluated in ou
 
 The Frigidaire ice maker is an all-round excellent machine. Good design and build quality is matched to both consistent high ice quality and top production capacity.
 
-The Frigidaire took a little longer than most other machines to fill a basket of ice, but it was one of the few machines that averaged over 18 oz or 500 g (**555g** exact) of quality ice per basket. It produced 11.4 oz (323 g) of ice per hour and one basket took around **103 minutes**.
+The Frigidaire took a little longer than most other machines to fill a basket of ice, but it was one of the few machines that averaged over 18 oz or 500 g (**555g** exact) of quality ice per basket. It produced 11.4 oz (323 g) of ice per hour and one basket took around **103 minutes**.\[52\] Frigidaire Portable Ice Maker Good Capacity 1
 
 Not only that, the average weight per large ice bullet was **6.2 g**, which was really good and occasionally it managed to put out bullets of 7 grams. The amount of waste or broken ice produced was only an average of 1.8% of net basket weight. Overall, the machine should produce about **17 lbs or 7.8 kg** of ice per 24 hours.
 
