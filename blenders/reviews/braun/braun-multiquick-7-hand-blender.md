@@ -134,6 +134,8 @@ The Braun MQ7035X is a feature-rich hand-held blender, with a lot of standard an
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiivvg000x2i88c1uj0mat.jpg" alt="The Braun MQ7035X standing on a table, with the length of its blending shaft being noted to the side as 8.3 inches, and the total length of the unit as 15.5 inches." width="300px" height="200px">
+
 Height: 15.5" (39.4 cm)
 
 Width: 2.8" (7.1 cm)
