@@ -174,6 +174,8 @@ The Braun MQ7035X's single-button speed control allows for intuitive operation, 
 
 ### 9.5 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptioa2e000z2i889z129kiz.jpg" alt="A close-up of the Braun MQ7035X blades" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptioqu900102i88defoh2ng.jpg" alt="A close-up of the Braun MQ7035X Blending Shaft" width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
