@@ -155,7 +155,7 @@ Bag Holder: No
 
 Bag Hooks: No
 
-Removable Drip Ttray: No
+Removable Drip Tray: No
 
 The Mueller doesn’t come with any extra features.
 
