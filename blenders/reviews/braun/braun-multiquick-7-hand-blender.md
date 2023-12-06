@@ -222,6 +222,8 @@ The power cord of the Braun MQ7035X is generously long, ensuring that you won't 
 
 ### Extra Accessories: Whisk Attachment
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiskia00132i88atfa8jkl.jpg" alt="A close-up of the Braun MQ7035X whisk attachment." width="300px" height="200px">
+
 Material: Stainless steel
 
 Dishwasher Safe: Yes
