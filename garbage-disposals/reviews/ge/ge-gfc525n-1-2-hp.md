@@ -277,7 +277,7 @@ usability Scores: **7.4**
     
 *   Smooth Operation (25%) - **8.0**/10
     
-*   External Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/10
     
 
 As compact as the GFC525N, its strongest point of usability is in how quickly and easily any regular person can buy the disposal and set it up to run. That, however, is a trade-off in itself since the product’s overall quality suffers and both the chamber and motor have to be small.
@@ -296,7 +296,7 @@ _(tips: \*For safety reasons, you should ALWAYS set up to control your garbage d
 
 The GE GFC525N Disposall is not the smoothest garbage disposal. It’s loud no matter the type of scraps and if there’s something too tough, you’re going to feel it on the sink. That said, if you pick your fights wisely, it can be really smooth.
 
-### Failed - External Unjam Mechanics
+### Failed - Unjam Mechanics
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/garbage-disposals/ge-gfc525n-1-2-hp-garbage-disposal-external-unjam-mechanics-clfmb3bz60038le882aic335w.jpg" alt="Inside view of permanent-magnet garbage disposal showing manual unjam mechanics with wooden stick in flywheel’s opening/gap." width="300px" height="200px">
 
