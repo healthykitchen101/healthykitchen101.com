@@ -10,20 +10,21 @@ Overall Score: **5.9**
 *   Usability (30%) - **6.0**/10
     
 
-The Mueller MV-1100 is a vacuum sealer that falls somewhat short in various aspects. However, among the sealers we've tested in its price range, it performs quite well and stands out as [one of the top performers](https://healthykitchen101.com/vacuum-sealers/reviews/best/). There are areas for improvement beyond its performance, though. For instance, the lid locks are somewhat uneven, making the sealer a bit awkward to use. Additionally, the control panel can be unreliable, which affects its overall usability score.
+The Mueller MV-1100 vacuum sealer has some good points and some not-so-good ones. It performs well for its price and is [one of the better options](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in its class. However, there are a few things that could be better. For instance, the lid hinges creak when the lid is lifted or closed, the locks can be a bit tricky to use because they're not always even, and sometimes the control panel doesn't work reliably.
 
-Overall, while the Mueller may not be the absolute best on the market, it offers good value for the money, especially compared to other budget models in our database.
+In a nutshell, while the Mueller vacuum sealer might not be the absolute best out there, it's still a good deal for your money, especially when you compare it to other affordable models in our database.
 
 **Things We Like**
 
 *   Passable vacuum-packing performance for the money
 *   Decent build quality
-*   The control panel is user-friendly
 *   Good safety features
 *   Bright indicator lights
+*   Comes with a progress bar for easy tracking
 
 **Things We Don’t Like**
 
+*   The lid hinges creak when the lid is lifted or lowered
 *   Uneven lid locks
 *   Buttons on the control panel are unreliable
 
@@ -83,7 +84,7 @@ design Scores: **5.5**
 *   Lid (20%) - **4.0**/10
     
 
-The design of the Mueller is fitting for the price tag, i.e. it’s unspectacular. Although the company tried to incorporate features like having a metallic top lid and touch-sensitive buttons, it’s still clear from the stiff lid locks and the lack of extra features that it’s a budget-friendly model. Fortunately, we didn’t find any significant design flaws that would affect the unit’s long-term durability.
+The Mueller MV-1100's design matches its affordable price — it's not particularly eye-catching. While the company attempted to add some stylish touches, such as a metallic top lid and touch-sensitive buttons, you can still tell it's a budget-friendly model once you’ve picked it up due to its stiff lid locks and the absence of extra features. Thankfully, we didn't uncover any major design flaws that might impact the unit's long-term durability.
 
 ### In the Box
 
@@ -114,7 +115,7 @@ Compared to other vacuum sealers in our database, the Mueller sealer is larger a
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-1-clpru7oic000apz88gyul5p9f.jpg" alt="The Mueller MV-1100 comes with a glossy, metallic top lid, which made it look slightly more premium." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-build-quality-clpru7f740009pz88ewst54r1.jpg" alt="The interior of the Mueller MV-1100 is textured." width="300px" height="200px">
 
-The Mueller vacuum sealer offers impressive build quality at an affordable price. The lid features a sleek metal component that enhances the overall luxurious look of the sealer. The control panel buttons are conveniently designed for easy clicking.
+The Mueller vacuum sealer offers impressive build quality at an affordable price. The lid features a sleek metal component that enhances the overall luxurious look of the sealer. The control panel, comprised of touch-sensitive buttons, is neatly arranged at the top.
 
 One notable feature is the embossed interior, which adds a fascinating texture to the sealer. Although the finishing is generally good, there’s room for improvement in the lid and the locking mechanism. Both felt stiff and difficult to use compared to other models we've tested.
 
@@ -140,7 +141,11 @@ The mode-changing buttons have corresponding lights, and the “Seal” and “V
 
 Lid Lock: Latch lock
 
-The lid isn’t as well-crafted as we had hoped. The lock on one side of the sealer is noticeably more sensitive than the other. As a result, whenever we try to close the lid, one side always clicks into place first while the other is still slack. We always had to double-check the locks to ensure the lid was firmly locked down before engaging the suction.
+Our first impression of the lid isn't great. It makes a creaking sound when opened, which raises concerns about its long-term durability.
+
+To secure it, all you need to do is press down on the lid, and there are two latch locks that will click into place. To unlock it, simply press the release buttons on either side of the unit.
+
+In our testing, we noticed that the lid locks can be a bit finicky. They don't always snap into place smoothly when you press down on the lid, and it can be a bit challenging to close the lid securely. This might be a little annoying if you're trying to operate the sealer with just one hand, which is why the Mueller received such a low score in this section.
 
 ### Failed - Extra Features
 
