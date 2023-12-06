@@ -81,6 +81,8 @@ The Braun MQ7035X impressed us once again, this time in the preparation of mayon
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptifoml000u2i88cp1ee4dd.jpg" alt="The Braun MQ7035X immersion blender beside its bowl of almond milk and the corresponding almond pulp produced in 1 minute." width="300px" height="200px">
+
 Grinding Time: 1 min
 
 Result:
