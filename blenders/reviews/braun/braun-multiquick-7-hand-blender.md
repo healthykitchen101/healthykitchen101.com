@@ -234,6 +234,8 @@ For moderate tasks like whipping cream, beating egg whites, or making emulsified
 
 ### Extra Accessories: Food Processor
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiteci00142i88bm8h62qx.jpg" alt="A close-up of the Braun MQ7035X food processor attachment." width="300px" height="200px">
+
 Material:  Stainless steel
 
 Dishwasher Safe: Yes
