@@ -210,6 +210,8 @@ The included beaker, free from harmful chemicals and marked with measurements, i
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiqvof00122i884d4qhuy0.jpg" alt="A close-up of the Braun MQ7035X power cord." width="300px" height="200px">
+
 Cord Length: 5.2 ft (1.6 m)
 
 Type: 2-prong plug
