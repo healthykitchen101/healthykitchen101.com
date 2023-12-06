@@ -101,7 +101,7 @@ We really liked the raised control panel, but a few design issues detracted from
 
 The Silonn is at best an average performing machine, but it has a couple of nice design features and is available in a variety of colors. We tested the stainless steel body model, but you can get identical plastic-bodied machines in black, teal, red, silver, and white. There is also a model that uses a **smart app** for an additional user interface.
 
-The average weight per basket was an average low of only **15 oz (427 g)**, but the time per cycle was relatively good at **94 min** and the hourly capacity (9.6 oz / 273 g) was somewhat better than a few other machines.
+The average weight per basket was an average low of only **15 oz (427 g)**, but the time per cycle was relatively good at **94 min** and the hourly capacity (9.6 oz / 273 g) was somewhat better than a few other machines.\[21\] Silonn Countertop Ice Maker Ice Capacity
 
 Overall, this machine produced good chunky ice bullets with an average weight of **5.6 g**. However, the bullers were not always smoothly shaped and sometimes came out looking like spent slugs rather than slender bullets.
 
