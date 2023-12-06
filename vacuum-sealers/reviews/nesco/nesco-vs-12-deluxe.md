@@ -156,7 +156,7 @@ Bag Holder: Yes
 
 Bag Hooks: Yes
 
-Removable Drip Ttray: No
+Removable Drip Tray: No
 
 The Nesco VS-12 has a roomy compartment inside for storing a roll of plastic bags. It's equipped with a built-in cutter for convenient bag cutting. Additionally, it includes a pair of bag hooks that simplify the process of inserting and aligning new plastic bags with the vacuum channel.
 
