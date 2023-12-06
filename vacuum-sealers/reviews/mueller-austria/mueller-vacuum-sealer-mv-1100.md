@@ -10,9 +10,9 @@ Overall Score: **5.9**
 *   Usability (30%) - **6.0**/10
     
 
-The Mueller MV-1100 vacuum sealer has some good points and some not-so-good ones. It performs well for its price and is [one of the better options](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in its class. However, there are a few things that could be better. For instance, the lid hinges creak when the lid is lifted or closed, the locks can be a bit tricky to use because they're not always even, and sometimes the control panel doesn't work reliably.
+The Mueller MV-1100 vacuum sealer presents a combination of strengths and weaknesses. In comparison to other vacuum sealers in our database, this model falls into the middle tier in terms of performance.
 
-In a nutshell, while the Mueller vacuum sealer might not be the absolute best out there, it's still a good deal for your money, especially when you compare it to other affordable models in our database.
+While it does offer a cost-effective choice within its category, its design, in particular, does not match up to the standards set by other [top-tier vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) we've evaluated. Notably, the lid hinges produce an audible creak when in use, the locking mechanism can be finicky due to inconsistent alignment, and testing has revealed occasional reliability issues with the control panel.
 
 **Things We Like**
 
