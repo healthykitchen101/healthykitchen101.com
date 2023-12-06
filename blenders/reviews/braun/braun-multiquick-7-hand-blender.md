@@ -45,6 +45,8 @@ The Braun MQ7035X distinguishes itself through its quality performance across va
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptibu82000p2i88gaxg1ljn.jpg" alt="Scooping a spoon of pureéd soup from a full batch in a plastic beaker made by the Braun MQ7035X immersion blender in 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptibbba000o2i8839lw08fr.jpg" alt="A batch of soup pureéd by the  Braun MQ7035X immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer. " width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Exceptionally Smooth
