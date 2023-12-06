@@ -69,6 +69,8 @@ For this test, the challenge was formidable: blend a medley of kale, pineapple, 
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiefoo000s2i888od14b6k.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the Braun MQ7035X blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiew1p000t2i88efbx0u7w.jpg" alt="Scooping a spoon of mayonnaise made by the Braun MQ7035X immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 2 mins
 
 Result: Quite Thin
