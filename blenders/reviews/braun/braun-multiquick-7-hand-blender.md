@@ -274,6 +274,8 @@ The process of attaching these components is equally effortless and intuitive. J
 
 ### 9.0 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiuq7e00152i8889obdpd8.jpg" alt="Someone is holding the Braun MQ7035X handle." width="300px" height="200px">
+
 With a textured, ergonomic handle, the Braun MQ7035X ensures a secure and comfortable grip, even with wet hands, and is shaped to minimize user fatigue. The control button's optimal placement under the thumb makes for effortless use, promoting one-handed operation and reducing the potential for mishaps during blending.
 
 ### 9.5 - Cleanability
