@@ -72,7 +72,7 @@ Food Mode: Moist
 
 Suction Strength: 30 kPA (1) - 28 kPA (2)
 
-Cycle Time: 16s (1) - 15s (2)
+Cycle Time: 17s (1) - 15s (2)
 
 Interestingly, when we switched the suction mode to "Gentle," we didn't see a significant drop in suction power. In the first test, it reached 30 kPA, only 3 kPA less than the "Normal" mode. The cycle time was similar, taking just 16 seconds.
 
