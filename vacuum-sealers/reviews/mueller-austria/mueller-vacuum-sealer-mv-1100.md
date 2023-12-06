@@ -87,7 +87,7 @@ The design of the Mueller is fitting for the price tag, i.e. it’s unspectacula
 
 ### In the Box
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-box-clprtmt6k0004pz88bh64bkmt.jpg" alt="The content of the Mueller MV-1100 vacuum sealer’s shipping box. There’s the sealer itself, sheets and rolls of plastic, air hose and adapter, along with the documentation for the sealer." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-moist-box-clprzzwal000jpz88023vcvt5.jpg" alt="The content of the Mueller MV-1100 vacuum sealer’s shipping box. There’s the sealer itself, sheets and rolls of plastic, air hose and adapter, along with the documentation for the sealer." width="300px" height="200px">
 
 In the shipping box of the Mueller vacuum sealer, other than the product itself, you’ll find the following:
 
@@ -178,7 +178,7 @@ The Mueller's handling is poor due to two issues: the lid and the unreliable con
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-safety-1-clpruqaaa000hpz882x0ud9ub.jpg" alt="The various safety and instruction stickers that Mueller has included on the inside of the Mueller MV-1100 sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-safety-clprumf73000gpz88dfw83y5j.jpg" alt="The “Caution: Hot Surface” warning sticker located near the heat bar within the interior of the Mueller MV-1100 sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-noise-clprufg8v000fpz88c8uz7g0g.jpg" alt="The sealer can get as loud as 81.2 dBA, like during this dry food test." width="300px" height="200px">
 
-Maximum Noise Level: 81.2
+Maximum Noise Level: 81.2 dBA
 
 Safety could be improved if the heat bar, which can get very hot after several working cycles, was marked with something more permanent than a peelable warning sticker. Even though the heating bar shouldn't get hot enough to cause injuries, new users who are not yet familiar with how vacuum sealers work could be startled if they accidentally touch it.
 
