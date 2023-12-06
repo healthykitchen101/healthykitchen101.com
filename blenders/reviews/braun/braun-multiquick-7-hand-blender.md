@@ -123,6 +123,8 @@ The Braun MQ7035X is a feature-rich hand-held blender, with a lot of standard an
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptii3yu000w2i8875ms5pki.jpg" alt="The Braun MQ7035X immersion blender unpacked beside its box, with accessories including a whisk and a chopper attachment, a blending beaker, and warranty and product registration paperwork." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Whisk attachment
