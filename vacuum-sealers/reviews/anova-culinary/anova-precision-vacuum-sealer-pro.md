@@ -163,7 +163,7 @@ Bag Holder: Yes
 
 Bag Hooks: Yes
 
-Removable Drip Ttray: No
+Removable Drip Tray: No
 
 The Anova Precision Pro includes a handy interior compartment where you can store a roll of plastic bags. Inside this compartment, there's a convenient flip-down cutter that makes it easy for you to cut out sections of the plastic bags as needed.
 
