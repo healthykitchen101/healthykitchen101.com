@@ -192,6 +192,8 @@ The Braun MQ7035X's small blade prongs are deceptive; thanks to ACTIVEBlade tech
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptipz0g00112i886pbhgku3.jpg" alt="A close-up of the Braun MQ7035X beaker" width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 20 oz
