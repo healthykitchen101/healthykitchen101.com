@@ -85,13 +85,15 @@ The Braun MQ7035X impressed us once again, this time in the preparation of mayon
 
 Grinding Time: 1 min
 
-Result:
+Result: Very Fine
 
 Suction: No
 
 Our test with the Braun MQ7035X for almond milk was a success, with the blender quickly producing a refined almond pulp that reflected a superior extraction process. Within a minute, we were rewarded with almond milk that had a delightful natural sweetness and a luxuriously creamy texture, all without additional sweeteners.
 
 ### Whipped Egg-Whites
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptihcnu000v2i88bbl60q9i.jpg" alt="The Braun MQ7035X immersion blender stands next to a glass of whipped egg whites forming stiff peaks, with a digital timer showing "2:30" in the foreground." width="300px" height="200px">
 
 Beating Time: 2 mins 30 secs
 
