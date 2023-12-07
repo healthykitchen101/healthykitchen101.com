@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.3**
+Overall Score: **6.2**
 
 *   Performance (50%) - **5.3**/10
     
-*   Design (20%) - **6.8**/10
+*   Design (20%) - **6.6**/10
     
 *   Usability (30%) - **7.5**/10
     
@@ -81,13 +81,13 @@ The Brita Maxtra filter managed to reduce the chlorine without removing too much
 Design
 ------
 
-design Scores: **6.8**
+design Scores: **6.6**
 
 *   Build Quality (30%) - **6.5**/10
     
-*   Conveniences (50%) - **7.0**/10
+*   Conveniences (20%) - **7.0**/10
     
-*   Filter Piece (20%) - **6.5**/10
+*   Filter (50%) - **6.5**/10
     
 
 The Brita Marella XL features a strong handle that supports its heavy weight during pouring and refilling. It also has a convenient pour-through door which is more hygienic than most other pitchers. Unfortunately, the ill-fitted lid was a hassle to deal with and was prone to damage during cleaning and replacement. The filter also leaked particles into filtered water. In addition, the XL size suggests a spigot would have been useful.
@@ -136,7 +136,7 @@ The Marella XL features a pour-through lid with a trap flap that you lift up for
 
 As for its size, the Marella XL can fit in a standard refrigerator, but you may need to remove a shelf to make room. For the same reason it won’t fit into a standard door bin. The pitcher doesn’t come with a spigot and it’s quite heavy, so single-handed pouring or refilling isn’t an option for those with weaker arms or wrists.
 
-### 6.5 - Filter Piece
+### 6.5 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-marella-xl-water-filter-pitcher-filter-piece-clkteamoj0004vk88d8flhi98.jpg" alt="The Brita Maxtra filter inside the Marella reservoir" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-marella-xl-water-filter-pitcher-filter-piece-1-clkteb3ij0005vk88ei0q0kov.jpg" alt="The Brita Maxtra filter in the palm of a gloved hand" width="300px" height="200px">
 
