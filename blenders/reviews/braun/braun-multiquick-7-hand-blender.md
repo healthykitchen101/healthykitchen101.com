@@ -150,6 +150,8 @@ Standing at 15.5 inches tall, the Braun MQ7035X is comparable in height to the a
 
 ### 9.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpukg6or0001gl88gvvu3yve.jpg" alt="The motor housing and blending shaft of the Braun MQ7035X." width="300px" height="200px">
+
 As mentioned earlier, the Braun MQ7035X's added weight feels reassuring in hand, signaling a solid and well-constructed design. Its plastic body is impressively tough, a stark contrast to the flimsier materials often used in less expensive models. The blending shaft, adorned with stainless steel detailing, serves as the workhorse of the blender, designed to withstand countless blending sessions without any signs of wear. Indeed the Braun MQ7035X is something completely different in the market, from its aesthetic to its build quality. Models like that can get a bit pricey, but you're still getting your money's worth for sure.
 
 ### Speed and Controls
