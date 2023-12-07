@@ -5,7 +5,7 @@ Overall Score: **8.6**
 
 *   Performance (50%) - **9.0**/10
     
-*   Design (20%) - **7.9**/10
+*   Design (20%) - **8.2**/10
     
 *   Usability (30%) - **8.3**/10
     
@@ -81,13 +81,13 @@ All three testers agreed that the UltraMax provided water with excellent aesthet
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **8.2**
 
 *   Build Quality (30%) - **7.0**/10
     
-*   Conveniences (50%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/10
     
-*   Filter Piece (20%) - **9.0**/10
+*   Filter (50%) - **9.0**/10
     
 
 The Brita UltraMax’s design may not be a conversation starter—it looks as basic as it can possibly be. The tank walls may even feel a little flimsy, while the grips are not ideally positioned. However, other small details, such as the lid flap, the indentation at the bottom for drainage, and the two-way spigot, are all well designed and made. These user-friendly and convenient features set the UltraMax apart from many similar-looking filter dispensers.
@@ -131,7 +131,7 @@ Replacement Indicator: Yes
 
 The UltraMax can fit in the main section of most fridges, though it may require removing a shelf to make up vertical space in a small refrigerator. The dispenser has an easy-to-use spigot and a filter replacement indicator that works on both compatible filter types—the Standard and Elite.
 
-### 9.0 - Filter Piece
+### 9.0 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-ultramax-water-filter-dispenser-27-cup-filter-piece-cllrsez9t0035a188b0ewgyrm.jpg" alt="Gloved hand holding the Brita Elite filter" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-ultramax-water-filter-dispenser-27-cup-filter-piece-1-cllrsfgp80036a18857xm4mun.jpg" alt="Top view of the Brita UltraMax’s reservoir and filter, its lid having been removed" width="300px" height="200px">
 
