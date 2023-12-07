@@ -24,7 +24,7 @@ For a blend of efficiency, quality, and affordability, the Ninja CI101 FoodiPowe
 *   Larger-than-average blending wand’s head 
 *   Rather heavy
 
-Always something beyond the ordinary, the Ninja CI101 Foodi Power Mixer System is a prime example of Ninja's exceptional and unconventional approach in the market. It borrows the practicality of standard hand-held blenders but elevates it with a touch of luxury. And while its sizable design may not suit your kitchen, imagine the convenience of effortlessly blending, whisking, and kneading with just a single, sleek appliance.  
+Always something beyond the ordinary, the Ninja CI101 Foodi Power Mixer System is a prime example of Ninja's exceptional and unconventional approach in the market. It borrows the practicality of [standard hand-held blenders](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) but elevates it with a touch of luxury. And while its sizable design may not suit your kitchen, imagine the convenience of effortlessly blending, whisking, and kneading with just a single, sleek appliance.
 
 Performance
 -----------
