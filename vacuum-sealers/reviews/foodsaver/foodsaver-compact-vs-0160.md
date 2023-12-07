@@ -130,9 +130,9 @@ All components, including the heat bar and the foam seal around the vacuum chann
 
 Button Type: Physical
 
-Numberof Buttons: 3
+Number of Buttons: 3
 
-Numberof Modes: 2
+Number of Modes: 2
 
 The control panel is simple, with just three buttons. You've got the "Vacuum" button to start the vacuum process, and right next to it, the "Seal" button for sealing bags.
 
