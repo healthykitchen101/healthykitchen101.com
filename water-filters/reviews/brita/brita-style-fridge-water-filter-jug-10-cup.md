@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **7.9**
 
 *   Performance (50%) - **6.6**/10
     
-*   Design (20%) - **9.2**/10
+*   Design (20%) - **9.1**/10
     
 *   Usability (30%) - **9.4**/10
     
@@ -79,13 +79,13 @@ Though it did not go to the extreme in reducing the TDS like a WaterZero filter,
 Design
 ------
 
-design Scores: **9.2**
+design Scores: **9.1**
 
 *   Build Quality (30%) - **10**/10
     
-*   Conveniences (50%) - **9.0**/10
+*   Conveniences (20%) - **9.0**/10
     
-*   Filter Piece (20%) - **8.5**/10
+*   Filter (50%) - **8.5**/10
     
 
 Brita pitchers are not usually famous for their looks, but this Brita Style is, true to its name, an exception and an epitome of style when it comes to filter pitchers. It features a minimalist design with posh colors and elegant rounded corners. All the plastic parts are BPA-free, sturdy, and fit together securely. Its filter life indicator and pour-through lid—both practically designed—are also the most graceful we’ve seen on a Brita.
@@ -133,7 +133,7 @@ Replacement Indicator: Yes
 
 The Style has an indicator built under the lid, displaying only an LED light that flashes when pressed to show the filter status. It looks a lot more subtle and stylish compared to the traditional display while serving the same purpose. There’s a pour-through door for refilling but no spigot, which wouldn’t be necessary anyway because the pitcher is light enough that you can pick it up with one hand and get water through the spout.
 
-### 8.5 - Filter Piece
+### 8.5 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-style-fridge-water-filter-jug-filter-piece-cllkknj1u001ma1880qld579e.jpg" alt="The Maxtra+ filter inside the Brita Style reservoir, viewed from top" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-style-fridge-water-filter-jug-filter-piece-1-cllkko2sy001na1887slhaxf7.jpg" alt="The Maxtra+ filter" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-style-fridge-water-filter-jug-filter-piece-2-cllkkv53c001sa18810d53rk0.jpg" alt="A full Brita Style jug and a marker marking the area below its filter" width="300px" height="200px">
 
