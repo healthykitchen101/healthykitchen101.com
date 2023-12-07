@@ -5,7 +5,7 @@ Overall Score: **6.6**
 
 *   Performance (50%) - **5.3**/10
     
-*   Design (20%) - **8.1**/10
+*   Design (20%) - **8.0**/10
     
 *   Usability (30%) - **7.7**/10
     
@@ -86,13 +86,13 @@ This resulted in a crisp and subtly acidic water taste, which gained a 9/10 from
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **8.0**
 
 *   Build Quality (30%) - **7.5**/10
     
-*   Conveniences (50%) - **8.5**/10
+*   Conveniences (20%) - **8.5**/10
     
-*   Filter Piece (20%) - **8.0**/10
+*   Filter (50%) - **8.0**/10
     
 
 The ZeroWater filter dispenser isn’t made from premium plastic, but it’s reassuringly BPA-free and feels durable. The filter piece is disposable. In general, the filter has a simple and effective design, similar to most dispensers of this type. The differences lie in its inclusion of a TDS meter and an innovative, albeit somewhat functionally problematic spigot design (more on that later.)
@@ -140,7 +140,7 @@ The ZeroWater dispenser can fit nicely in the cool compartment of your fridge, h
 
 Instead of a typical filter life indicator that estimates the filter life by time or amount of water used, the ZeroWater dispenser comes with a TDS meter. It tests the actual water quality and you’re recommended to change the filter when the TDS value hits 006. This is impressively low considering how a safe TDS level can go up to 300 ppm. The meter is easy to use and has a bracket for storage right on the spigot.
 
-### 8.0 - Filter Piece
+### 8.0 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/zerowater-pitcher-23-cup-filter-piece-clnvf9tpu000vqm883lg57767.jpg" alt="The filter piece of the ZeroWater 23 cup dispenser on a table" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/zerowater-pitcher-23-cup-filter-piece-1-clnvfabd0000wqm880mxz5xa1.jpg" alt="The ZeroWater 23 C reservoir from above, with the filter piece installed" width="300px" height="200px">
 
