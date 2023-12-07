@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **7.1**
 
 *   Performance (50%) - **5.6**/10
     
-*   Design (20%) - **8.6**/10
+*   Design (20%) - **8.7**/10
     
 *   Usability (30%) - **8.4**/10
     
@@ -81,13 +81,13 @@ Our three testers were happy with the water produced by the PUR filter. It taste
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **8.7**
 
 *   Build Quality (30%) - **9.5**/10
     
-*   Conveniences (50%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/10
     
-*   Filter Piece (20%) - **8.5**/10
+*   Filter (50%) - **8.5**/10
     
 
 There’s not much to write home about the design of the PUR 30-cup dispenser—it looked low key and function-oriented, the only flashy part being the indicator lights. We could tell, however, that it was built with good materials and great fit and finish. Even its filter piece felt more solid and durable than most.
@@ -138,7 +138,7 @@ With the built in light indicator, the spigot is substantial and easy to grab. I
 
 Similar to the [Brita UltraMax](https://healthykitchen101.com/water-filters/reviews/brita/brita-ultramax-water-filter-dispenser-27-cup/), this PUR dispenser features handles at its front and back ends instead of on its two sides. While this may look like it’d help save some fridge space, the reality is you have to reach deeper into the fridge compartment to place it, which can feel awkward if you are not tall or have short arms.
 
-### 8.5 - Filter Piece
+### 8.5 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-30-cup-dispenser-filter-piece-clmuejg6p0008yf88exnmge45.jpg" alt="Left: the PUR dispenser filter piece; top right: The filter in the reservoir; bottom right: the filter as installed" width="300px" height="200px">
 
