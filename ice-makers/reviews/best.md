@@ -84,7 +84,7 @@ The Frigidaire EFIC 189 has a rounded rather than boxy design with high interior
 *   Flimsy ice basket
 *   Internal visibility
 
-The AGLucky HZB-12/B proved to be an excellent machine for chunky, quality ice. The average ice bullet weight was around **6.3 grams** and waste ice a neat 2% of the basket total. This gave it a slight edge over the Frigidaire.
+The AGLucky HZB-12/B proved to be an excellent machine for chunky, quality ice. The average ice bullet weight was around **6.3 grams** and waste ice a neat 2% of the basket total. This gave it a slight edge over the Frigidaire.\[148\] AGLucky HZB-12/B Ice Maker - Best for Superior Ice Quality
 
 The time to fill a basket was only **90 minutes**. With a slightly smaller basket compared to its close rival, this AGLucky only managed around **16 oz** (456 g) per basket or around 10.7 oz (304 g) per hour and the net capacity per 24 hours worked out at **16 lbs** or **7.3 kg**.
 
