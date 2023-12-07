@@ -129,7 +129,7 @@ The Braun MQ7035X is a feature-rich hand-held blender, with a lot of standard an
 *   Blending shaft 
 *   Whisk attachment
 *   Food processor
-*   Beaker   
+*   Beaker
 *   User manual
 
 ### Dimensions
