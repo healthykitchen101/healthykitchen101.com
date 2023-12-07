@@ -10,7 +10,7 @@ Overall Score: **8.6**
 *   Usability (30%) - **8.4**/10
     
 
-For a blend of efficiency, quality, and affordability, the Ninja CI101 FoodiPower Mixer System is a compelling pick, especially for those on the lookout for a blender-mixer combo. Our hands-on experience reveals this blender excels in nearly every aspect. Its performance is top-notch, offering a smooth and efficient blending experience. From blending frozen fruit smoothies to mixing cookie dough, and even whisking up egg-white to stiff peaks, the Ninja CI101 does it all with precision and ease. 
+For a blend of efficiency, quality, and affordability, the Ninja CI101 Foodi Power Mixer System is a compelling pick, especially for those on the lookout for a [blender-mixer combo](https://healthykitchen101.com/blenders/reviews/best/). Our hands-on experience reveals this blender excels in nearly every aspect. Its performance is top-notch, offering a smooth and efficient blending experience. From blending frozen fruit smoothies to mixing cookie dough, and even whisking up egg-white to stiff peaks, the Ninja CI101 does it all with precision and ease.
 
 **Things We Like**
 
