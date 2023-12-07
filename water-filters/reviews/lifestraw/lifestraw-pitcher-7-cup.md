@@ -92,7 +92,7 @@ design Scores: **7.2**
     
 *   Conveniences (20%) - **4.0**/10
     
-*   Filter Piece (50%) - **8.0**/10
+*   Filter (50%) - **8.0**/10
     
 
 The LifeStraw 7-cup pitcher is clearly made of quality materials with great fit and finish. It has a more elegant design than your typical Brita and looks nice on the countertop, but its tall, slender body proved a difficult fit in the fridge. Additionally, the lid has a smart design with a refill door and anti-overflow ridge, but lacks a filter life indicator.
@@ -134,7 +134,7 @@ Replacement Indicator: No
 
 The LifeStraw does not have a spigot as it’s not typical of pitchers of its size to have one. Featuring a round bottom, the LifeStraw does not fit in a standard fridge door or a gallon door bin. It’s also taller than most and requires the removal of a shelf for vertical space in most types of refrigerator. There is a trap door for refilling but no replacement indicator, so it’s a good idea to keep a reminder on your phone or fridge door to change the filters, especially the carbon-ion exchange one which requires replacement every two months.
 
-### 8.0 - Filter Piece
+### 8.0 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/lifestraw-pitcher-7-cup-filter-piece-clm5txwor003ja188g2zq62ek.jpg" alt="The two filter pieces of the LifeStraw pitcher including the activated carbon-ion exchange filter and membrane microfilter" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/lifestraw-pitcher-7-cup-filter-piece-1-clm5tyeag003ka1887o183q16.jpg" alt="The LifeStraw filter reservoir, carbon-ion exchange filter, membrane microfilter, and reservoir cap" width="300px" height="200px">
 
