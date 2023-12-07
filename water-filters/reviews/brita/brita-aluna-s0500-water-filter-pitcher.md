@@ -89,7 +89,7 @@ design Scores: **8.9**
     
 *   Conveniences (20%) - **8.5**/10
     
-*   Filter Piece (50%) - **9.0**/10
+*   Filter (50%) - **9.0**/10
     
 
 The Brita S0500 Aluna has a sturdy, durable design with a minimalist touch. It won’t make a statement on your dining room table, but will mingle in easily. Thanks to its compact size, the lack of a spigot doesn’t affect its ease of use, although a refilling trap door would be useful. 
@@ -135,7 +135,7 @@ Replacement Indicator: Yes
 
 The Aluna features Brita’s signature filter replacement indicator, Memo. However, with its modest filter life (26 gal), it’s probably easier to simply change the filter every month. The pitcher is small enough to fit in most fridge doors. The only room for improvement would be a trap door for easy refilling without having to remove the lid.
 
-### 9.0 - Filter Piece
+### 9.0 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-aluna-s0500-water-filter-pitcher-filter-clk6aqadk001geg88ax3b1h2k.jpg" alt="Brita Maxtra filter alone and inside the Brita Aluna reservoir" width="300px" height="200px">
 
