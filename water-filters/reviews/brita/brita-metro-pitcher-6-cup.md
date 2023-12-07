@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **8.4**
 
 *   Performance (50%) - **8.9**/10
     
-*   Design (20%) - **7.7**/10
+*   Design (20%) - **7.3**/10
     
 *   Usability (30%) - **8.3**/10
     
@@ -77,13 +77,13 @@ The Brita Standard filter on this Metro reduced more total dissolved solids than
 Design
 ------
 
-design Scores: **7.7**
+design Scores: **7.3**
 
 *   Build Quality (30%) - **8.0**/10
     
-*   Conveniences (50%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/10
     
-*   Filter Piece (20%) - **6.5**/10
+*   Filter (50%) - **6.5**/10
     
 
 Small enough to fit comfortably in a refrigerator door bin, the Metro has a strong build and a finish that lives up to the brand moniker. It comes with convenience features such as a pour-through door and filter replacement display. The filter piece works decently but is comparatively tricky to install and is prone to material leakage.
@@ -131,7 +131,7 @@ At only 4.3 inches across, the Metro can fit in even smaller fridge door bins. T
 
 The Brita Metro features a built-in filter life indicator, allowing you to check the filter status by pressing on a button. Unlike the old Memo, you can set it up to display the status of the Standard or Longlast filter—the two types of filters that the Metro supports.
 
-### 6.5 - Filter Piece
+### 6.5 - Filter
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-metro-pitcher-6-cup-filter-piece-cllkn7sf60021a188blamgfyn.jpg" alt="The Brita Standard filter" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-metro-pitcher-6-cup-filter-piece-1-cllkn888f0022a1885a03bxx4.jpg" alt="Hand A gloved hand placing the Brita Standard filter into the Metro jug" width="300px" height="200px">
 
