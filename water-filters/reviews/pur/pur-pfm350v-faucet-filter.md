@@ -50,7 +50,7 @@ Our only issue with the PFM350V is its low flow rate in filtering mode. Specific
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-clpw5z2ux0006mu88ey3s5gd1.jpg" alt="The PUR Plus PFM350V filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-thumbnail-clei23tgg000w6s887qg9bd6g.jpg" alt="PUR PLUS Faucet Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-clpwcymln000dmu88hgdvhy25.jpg" alt="The PUR Plus PFM350V filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-thumbnail-clei23tgg000w6s887qg9bd6g.jpg" alt="PUR PLUS Faucet Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
