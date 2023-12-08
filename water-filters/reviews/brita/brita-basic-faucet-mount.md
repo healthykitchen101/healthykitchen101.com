@@ -49,7 +49,7 @@ Our only issue with this filter is its mediocre flow rate in filtering mode. Att
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-test-clpw5tyc70002mu883uvt6r0d.jpg" alt="Two water testing strips are placed on a color chart and held next to the Brita Basic filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-thumbnail-cldyal05l003pde88ampyglz9.jpg" alt="Brita Basic Faucet Water Filtration System Chlorine Test 2" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-test-clpw5wlv20003mu880ulo9i9j.jpg" alt="Two water testing strips are placed on a color chart and held next to the Brita Basic filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-thumbnail-cldyal05l003pde88ampyglz9.jpg" alt="Brita Basic Faucet Water Filtration System Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
