@@ -52,7 +52,7 @@ The flow rate of the filter is good. At 0.9 GPM in filtering mode, the Wingsol W
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-chlorine-test-clecgiyiu0000ro887vbt9dxm.jpg" alt="The Wingsol WS-FM001 filter is mounted on a faucet. To the left is the color pad with activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-chlorine-test-1-clecgjlsn0001ro88532n3u6d.jpg" alt="Center is the color pad with used test strips. To its right is the Wingsol WS-FM001 filter. To its left is a vial of water." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-ws-fm001-faucet-water-filter-chlorine-thumbnail-clei1v3ky000o6s88bd852eqj.jpg" alt="Wingsol Faucet Water Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-chlorine-test-clpw5xhv90004mu884vtyhltp.jpg" alt="The Wingsol WS-FM001 filter is mounted on a faucet. To the left is the color pad with activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-ws-fm001-faucet-water-filter-chlorine-thumbnail-clei1v3ky000o6s88bd852eqj.jpg" alt="Wingsol Faucet Water Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -158,7 +158,7 @@ According to Wingsol, the PAC filter can remove sediments with sizes down to 2µ
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-routing-valve-clecgsaam0007ro8824zy792y.jpg" alt="The rotating handle of the Wingsol WS-FM001 water filter’s routing valve." width="300px" height="200px">
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The handle for the routing valve of the Wingsol WS-FM001, similar to the rest of the filter, looks metallic. However, upon closer inspection, it’s actually made from chrome-plated plastic. This isn’t a concern, considering how the handle looks and feels solid.
 
