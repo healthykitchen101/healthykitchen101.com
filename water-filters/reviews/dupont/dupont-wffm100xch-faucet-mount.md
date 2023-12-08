@@ -48,7 +48,7 @@ We attached the filter to a 2.2 GPM faucet and measured an output flow rate of j
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-clpw5y6kf0005mu8816sh61qh.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the DuPont WFFM100XCH." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-thumbnail-clei1znlk000s6s885keqhoip.jpg" alt="DuPont Faucet Mount Water Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-clpwcy1d6000cmu88extm80qn.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the DuPont WFFM100XCH." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-thumbnail-clei1znlk000s6s885keqhoip.jpg" alt="DuPont Faucet Mount Water Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
