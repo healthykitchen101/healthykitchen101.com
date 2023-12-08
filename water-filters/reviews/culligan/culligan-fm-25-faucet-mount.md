@@ -147,7 +147,7 @@ The company advises flushing the filter for 5 minutes when first installed to re
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-routing-valve-cldv688y00005sg88dt5sc7lf.jpg" alt="A close-up view of the push-pull routing valve on the side of the Culligan FM-25 faucet-mount water filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-routing-valve-2-cldv6omw30000de88dz1k27sw.jpg" alt="A top-down view of the mounting collar of the Culligan FM-25 along with the push-pull routing valve." width="300px" height="200px">
 
-Typeof Valve: Push/pull
+Type of Valve: Push/pull
 
 The routing valve on the Culligan FM-25 is a rod-shaped knob to the side of the filter’s housing. To switch between plain and filtered water, the user can either pull it out (for filtered water) or push it in (for plain water.)
 
