@@ -165,7 +165,7 @@ The black, rotating handle made from plastic to the side of the PUR faucet-mount
 
 ### Usability
 
-The ease of use assessment is all about the user experience. In this section, we look at three aspects in particular: the ease of **installation (25%),** **ease of use (30%), leak (35%),** and **maintainability (10%).**
+The ease of use assessment is all about the user experience. In this section, we look at three aspects in particular: the ease of **installation (25%),** **ease of use (30%), leak (35%),** and **maintenance (10%).**
 
 #### Installation (25%)
 
