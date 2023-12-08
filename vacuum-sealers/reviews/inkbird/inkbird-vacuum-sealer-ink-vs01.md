@@ -168,14 +168,24 @@ The Inkbird Plus INK-VS01 could be easier to use, especially when closing the li
 
 ### 6.0 - Ease of Use
 
+The Inkbird Plus INK-VS01 could be more user-friendly. One of the main issues is closing the lid, which can be quite tricky, especially if you're trying to do it with just one hand. It's much easier with a second person's help to ensure the bag fits snugly in the vacuum channel and the lid closes securely. While the bag hooks are meant to assist with alignment, the narrow vacuum channel, a result of the sealer's compact size, still makes it a bit challenging to use. This challenge led to a few unsuccessful attempts at sealing during our tests
+
 ### 9.0 - Safety & Noise
 
-Maximum Noise Level:
+Maximum Noise Level: 83.2 dBA
+
+The Inkbird Plus INK-VS01 is on the louder side, having achieved a noise level of 83.2 dBA during a dry food test. But this is still within the general range for the loudness of most vacuum sealers.
 
 ### 7.0 - Indicator Lights and Chime
 
-Numberof Indicators:
+Numberof Indicators: 4
 
-Progress Bar:
+Progress Bar: Yes
 
-Chime:
+Chime: No
+
+The Inkbird Plus INK-VS01 features four indicator lights on its control panel, excluding the progress bar. Two of these lights are located on the "Food" button, indicating which food mode is currently active. Depending on whether you select "Seal" or "Vac Seal" as your working mode, the corresponding light on that button will illuminate when pressed.
+
+Additionally, there is an indicator bar at the top of the control panel to help you track the sealer's progress. This light bar moves across to indicate the progress and turns off once the sealer has completed its task.
+
+All of these lights are bright and easily visible, even under strong studio lighting conditions.
