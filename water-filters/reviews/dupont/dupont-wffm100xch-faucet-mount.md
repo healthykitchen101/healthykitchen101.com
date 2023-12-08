@@ -48,7 +48,7 @@ We attached the filter to a 2.2 GPM faucet and measured an output flow rate of j
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-clec7wxn8006ode88fh8zci0q.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the DuPont WFFM100XCH." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-1-clec7xr2j006pde88bj63ep2f.jpg" alt="Test strips are in the center. A vial of sampled water is to the left. To the right is the DuPont WFFM100XCH filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-thumbnail-clei1znlk000s6s885keqhoip.jpg" alt="DuPont Faucet Mount Water Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-clpw5y6kf0005mu8816sh61qh.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the DuPont WFFM100XCH." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-chlorine-test-thumbnail-clei1znlk000s6s885keqhoip.jpg" alt="DuPont Faucet Mount Water Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -145,7 +145,7 @@ While the filter is perfectly decent, the low filtering capacity is a letdown. M
 
 ### 10 - Routing Valve
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The routing valve on the DuPont WFFM100XCH is a black, rotating plastic piece to the side of the housing. You can use this handle to switch back and forth between unfiltered and filtered water.
 
