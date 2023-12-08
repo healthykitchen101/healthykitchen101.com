@@ -49,7 +49,7 @@ Our only issue with this filter is its mediocre flow rate in filtering mode. Att
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-thumbnail-cldyal05l003pde88ampyglz9.jpg" alt="Brita Basic Faucet Water Filtration System Chlorine Test 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-test-cldve8m9z000xde88fc9v6sjy.jpg" alt="Two water testing strips are placed on a color chart and held next to the Brita Basic filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-test-1-cldve99tn000yde8836xvbnic.jpg" alt="Color chart with used test strips in the center. Vial of sampled water is to the left. Brita Basic filter to the right." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-test-clpw5tyc70002mu883uvt6r0d.jpg" alt="Two water testing strips are placed on a color chart and held next to the Brita Basic filter." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-water-filtration-system-chlorine-thumbnail-cldyal05l003pde88ampyglz9.jpg" alt="Brita Basic Faucet Water Filtration System Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -168,7 +168,7 @@ The filter block connects to the filter housing via two female ports inside the 
 
 The handle of the routing valve to the side of the Brita Basic. Note the white notch and the symbols on the housing denoting the switching modes.
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The routing valve of the Brita Basic works decently well. We didn’t notice any significant leaking from the filter whenever we used the rotating handle to switch back and forth between plain and filtered water.
 
