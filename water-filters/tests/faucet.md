@@ -28,7 +28,8 @@ Here’s the breakdown.
 *   **Design** (20%)
 *   **Ease of Use** (30%)
 
-### Performance
+Performance
+-----------
 
 In the performance test, we put the faucet-mount water filter through its paces on our testing rig. The filtered water is collected in a cup, then it’s tested using specialized testing kits.
 
@@ -119,7 +120,8 @@ The flow rate test of the Wingsol WS-FM001 faucet-mount water filter. It receive
 
 The flow rate test of the PUR Plus FM2500V faucet-mount water filter. It received a mediocre score of 5 out of 10.
 
-### Design
+Design
+------
 
 In the design assessment, our team inspects every component and detail of the filter to see how well it’s built. We pay special attention to the two main components of the filter: the filter piece and the housing. Also included in the assessment is the routing valve, which is a small component that allows users to alternate between filtered water and regular tap water.
 
@@ -163,25 +165,26 @@ We look at two things in this section: how easy it is to use the valve and how w
 
 The black, rotating handle made from plastic to the side of the PUR faucet-mount water filter that actuates the routing valve.
 
-### Usability
+Usability
+---------
 
 The ease of use assessment is all about the user experience. In this section, we look at three aspects in particular: the ease of **installation (25%),** **ease of use (30%), leak (35%),** and **maintenance (10%).**
 
-#### Installation (25%)
+### Installation (25%)
 
 As a whole, installing a faucet-mount water filter is quite easy. The shipping box should contain all the parts (adapters, rubber seals, plumbing tape) you need to install the filter properly. However, certain models can be quite a pain.
 
 We’ll report our own installation experience in this part to give you a better idea of the process.
 
-#### Ease of Use (30%)
+### Ease of Use (30%)
 
 For the usability section, we factor in all aspects of the user experience when using the filter. This includes how straightforward it is to open and close, whether there are any leakage issues when changing modes, and how secure the filter is held in place on the faucet.
 
-#### Leak (35%)
+### Leak (35%)
 
 Faucet-mount filters may leak either from their nozzles or seams on their housing. There are many potential reasons why, from improper installation to ill-fitting adapters or faulty construction. During this assessment, we’ll pay attention to how watertight the components on the filter are and score our observation accordingly.
 
-#### Maintenance (10%)
+### Maintenance (10%)
 
 Filter blocks have a finite lifespan - they need to be replaced after they have treated a certain amount of water.
 
