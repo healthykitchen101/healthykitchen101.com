@@ -47,7 +47,7 @@ In the chlorine filtration test, the unit could scrub out all traces of chlorine
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-water-filter-chlorine-thumbnail-cldyb3bar003ude88ctyk0ouf.jpg" alt="Waterdrop WD-FC-06 Faucet Filter Chlorine Test 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-chlorine-test-1-cldwi5riw001lde88eneiedza.jpg" alt="The Waterdrop WD-FC-06 mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-chlorine-test-cldvh0qrd001dde88dob536ig.jpg" alt="The Waterdrop-WD-FC-06 filter to the far right. To its left are the testing kit and a vial of the filtered water sample." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-chlorine-test-1-cldwi5riw001lde88eneiedza.jpg" alt="The Waterdrop WD-FC-06 mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-water-filter-chlorine-thumbnail-cldyb3bar003ude88ctyk0ouf.jpg" alt="Waterdrop WD-FC-06 Faucet Filter Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -145,7 +145,7 @@ Since there’s carbon (charcoal) in the filter, Waterdrop has recommended flush
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-routing-valve-cldvh8zun001ide88e2jd4379.jpg" alt="The silvery, chrome-plated rotating handle of the routing valve on the side of the Waterdrop WD-FC-06 faucet-mount filter." width="300px" height="200px">
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The routing valve of the Waterdrop-WD-FC-06 can be operated via a rotating handle to the side of the main nozzle.
 
