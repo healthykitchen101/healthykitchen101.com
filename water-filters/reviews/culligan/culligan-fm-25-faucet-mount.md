@@ -47,7 +47,7 @@ While the Culligan did excellently in the chlorine test, being able to completel
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-faucet-mount-filter-chlorine-test-clpw5pqys0000mu88gt1m0klh.jpg" alt="The Culligan FM-25 filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-faucet-mount-filter-chlorine-test-3-cle3n44e2004tde88celt5u5f.jpg" alt="Culligan FM-25 Faucet Mount Filter Chlorine Test 3" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-faucet-mount-filter-chlorine-test-clpwd00f2000fmu889ycngbz4.jpg" alt="The Culligan FM-25 filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/culligan-fm-25-faucet-mount-filter-chlorine-test-3-cle3n44e2004tde88celt5u5f.jpg" alt="Culligan FM-25 Faucet Mount Filter Chlorine Test 3" width="300px" height="200px">
 
 Before: 10+ mg/l
 
