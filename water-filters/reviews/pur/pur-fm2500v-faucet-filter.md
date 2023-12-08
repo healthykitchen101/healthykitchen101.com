@@ -52,7 +52,7 @@ However, its flow rate in filtering mode wasn’t good. At 0.3 GPM, it failed ou
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-chlorine-test-clemg2g0b00156s883ljfdxjx.jpg" alt="Two water test strips laid on a color chart, held to the left of the PUR Plus FM2500V water filter mounted on a faucet." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-chlorine-test-1-clemg39ol00166s88dsr10w5p.jpg" alt="The test strips on a color chart in the center. To the right is the PUR Plus FM2500V filter. Left is a vial of water." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-chlorine-test-thumbnail-clemczhiy00126s88bwo4h04f.jpg" alt="PUR Faucet Water Filter (FM2500V) Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-chlorine-test-clpw5zxgm0007mu880oqg896q.jpg" alt="Two water test strips laid on a color chart, held to the left of the PUR Plus FM2500V water filter mounted on a faucet." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-chlorine-test-thumbnail-clemczhiy00126s88bwo4h04f.jpg" alt="PUR Faucet Water Filter (FM2500V) Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -157,7 +157,7 @@ Despite the impressive filtration capabilities of the PUR Plus PFM350V, one pote
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-routing-valve-1-clemgjkda001e6s8857v4c636.jpg" alt="The handle of the PUR Plus FM2500V’s routing valve in the horizontal position." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-routing-valve-clemgage6001a6s88e7fyd2o3.jpg" alt="The handle of the PUR Plus FM2500V is in the vertical position, activating the water filtering mode." width="300px" height="200px">
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The handle for the routing valve is a black plastic piece to the side of the filter. In the vertical position, tap water bypasses the filter and isn’t filtered. You can flick the handle down to the horizontal position when using filtered water. This will activate the routing valve, redirecting the water flow through the filter cartridge for cleansing. Clean water will come from the smaller nozzle underneath the filter compartment.
 
