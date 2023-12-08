@@ -52,7 +52,7 @@ The flow rate of the filter is good. At 0.9 GPM in filtering mode, the Wingsol W
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-chlorine-test-clpw5xhv90004mu884vtyhltp.jpg" alt="The Wingsol WS-FM001 filter is mounted on a faucet. To the left is the color pad with activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-ws-fm001-faucet-water-filter-chlorine-thumbnail-clei1v3ky000o6s88bd852eqj.jpg" alt="Wingsol Faucet Water Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-chlorine-test-clpwcx5ax000bmu88hkxl8nw2.jpg" alt="The Wingsol WS-FM001 filter is mounted on a faucet. To the left is the color pad with activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-ws-fm001-faucet-water-filter-chlorine-thumbnail-clei1v3ky000o6s88bd852eqj.jpg" alt="Wingsol Faucet Water Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
