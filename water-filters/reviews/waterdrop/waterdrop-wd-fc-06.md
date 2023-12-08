@@ -47,7 +47,7 @@ In the chlorine filtration test, the unit could scrub out all traces of chlorine
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-chlorine-test-1-clpwal8630009mu88equzg7ve.jpg" alt="The Waterdrop WD-FC-06 mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-water-filter-chlorine-thumbnail-cldyb3bar003ude88ctyk0ouf.jpg" alt="Waterdrop WD-FC-06 Faucet Filter Chlorine Test 2" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-filter-chlorine-test-clpwczf8r000emu8827dgftmh.jpg" alt="The Waterdrop WD-FC-06 mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-06-faucet-water-filter-chlorine-thumbnail-cldyb3bar003ude88ctyk0ouf.jpg" alt="Waterdrop WD-FC-06 Faucet Filter Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
