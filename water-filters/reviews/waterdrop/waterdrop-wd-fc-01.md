@@ -50,7 +50,7 @@ As for the filtering flow rate, at 1.29 GPM, the WD-FC-01 is one of the fastest-
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-test-clpw62g520008mu886fo7cxib.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the Waterdrop WD-FC-01." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-thumbnail-cldya6ned003jde88ehaha7ou.jpg" alt="Waterdrop WD-FC-01 Faucet Water Filter Chlorine Test 2" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-test-clpwcwdiv000amu889cjc0r0b.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the Waterdrop WD-FC-01." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-thumbnail-cldya6ned003jde88ehaha7ou.jpg" alt="Waterdrop WD-FC-01 Faucet Water Filter Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
