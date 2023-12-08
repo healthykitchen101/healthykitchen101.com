@@ -50,7 +50,7 @@ Our only issue with the PFM350V is its low flow rate in filtering mode. Specific
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-clef78z9a000c6s88fiqh1kdz.jpg" alt="The PUR Plus PFM350V filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-1-clef79v7g000d6s884mxubp8r.jpg" alt="Two water testing strips are laid on a color chart to show the PUR Plus PFM350V’s chlorine filtration performance." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-thumbnail-clei23tgg000w6s887qg9bd6g.jpg" alt="PUR PLUS Faucet Filter Chlorine Test" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-clpw5z2ux0006mu88ey3s5gd1.jpg" alt="The PUR Plus PFM350V filter mounted on a tap. To its left is the testing result pad with two activated test strips." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-chlorine-test-thumbnail-clei23tgg000w6s887qg9bd6g.jpg" alt="PUR PLUS Faucet Filter Chlorine Test" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -153,7 +153,7 @@ Our only issue with the PUR Plus PFM350V’s filter piece is its low capacity. A
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-routing-valve-clef7e5fm000h6s8828eocd4x.jpg" alt="A close-up shot on the black rotating handle of the PUR Plus PFM350V faucet-mount water filter." width="300px" height="200px">
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 There is a black handle on the side of the filter that controls the routing valve. When you need filtered water for drinking, flick it downward, and the routing valve will direct the tap water through the filter cartridge and purify it for you. Then, when you’re finished, switch the handle upward to the horizontal position again, and the valve will let the tap water pass through as normal and unfiltered.
 
