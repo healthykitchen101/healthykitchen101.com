@@ -50,7 +50,7 @@ As for the filtering flow rate, at 1.29 GPM, the WD-FC-01 is one of the fastest-
 
 ### Chlorine Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-thumbnail-cldya6ned003jde88ehaha7ou.jpg" alt="Waterdrop WD-FC-01 Faucet Water Filter Chlorine Test 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-test-cldvdocod000rde88fx9g463j.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the Waterdrop WD-FC-01." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-test-1-cldvdp8hw000sde885hgea943.jpg" alt="Test strips are in the center. A vial of sampled water is to the left. To the right is the Waterdrop WD-FC-01 filter itself." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-clpw5ri680001mu88a8ojaz10.jpg" alt="The color chart with two used test strips stuck to it is held to the right of the Waterdrop WD-FC-01." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-chlorine-thumbnail-cldya6ned003jde88ehaha7ou.jpg" alt="Waterdrop WD-FC-01 Faucet Water Filter Chlorine Test 2" width="300px" height="200px">
 
 Before: 10+ mg/l
 
@@ -157,7 +157,7 @@ The exterior of the filter piece is made from a polyester membrane, which helps 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-routing-valve-cldvdej0h000nde8839jpdps4.jpg" alt="The silver handle of the routing valve. Printed on the handle are “Pure” and “Tap” with arrows, denoting turning directions." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/waterdrop-wd-fc-01-faucet-water-filter-installation-cldvdmzbr000qde880tmg8dyq.jpg" alt="The silver plastic twist ring at the top of the WD-FC-01 filter." width="300px" height="200px">
 
-Typeof Valve: Rotating
+Type of Valve: Rotating
 
 The handle for the routing valve is made from chrome-plated plastic. The material is pretty thin, so its longevity is questionable at best. But other than this small hiccup, Waterdrop did a very good job designing the routing valve.
 
