@@ -163,7 +163,7 @@ We look at two things in this section: how easy it is to use the valve and how w
 
 The black, rotating handle made from plastic to the side of the PUR faucet-mount water filter that actuates the routing valve.
 
-### Ease of Use
+### Usability
 
 The ease of use assessment is all about the user experience. In this section, we look at three aspects in particular: the ease of **installation (25%),** **usability (30%), leak (35%),** and **maintainability (10%).**
 
@@ -173,7 +173,7 @@ As a whole, installing a faucet-mount water filter is quite easy. The shipping b
 
 We’ll report our own installation experience in this part to give you a better idea of the process.
 
-#### Usability (30%)
+#### Ease of Use (30%)
 
 For the usability section, we factor in all aspects of the user experience when using the filter. This includes how straightforward it is to open and close, whether there are any leakage issues when changing modes, and how secure the filter is held in place on the faucet.
 
