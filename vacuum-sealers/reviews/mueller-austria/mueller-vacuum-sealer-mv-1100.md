@@ -83,6 +83,8 @@ design Scores: **5.5**
     
 *   Lid (20%) - **4.0**/10
     
+*   Extra Features (10%) - **0**/10
+    
 
 The Mueller MV-1100's design matches its affordable price — it's not particularly eye-catching. While the company attempted to add some stylish touches, such as a metallic top lid and touch-sensitive buttons, you can still tell it's a budget-friendly model once you’ve picked it up due to its stiff lid locks and the absence of extra features. Thankfully, we didn't uncover any major design flaws that might impact the unit's long-term durability.
 
@@ -125,9 +127,9 @@ One notable feature is the embossed interior, which adds a fascinating texture t
 
 Button Type: Touch-sensitive
 
-Numberof Buttons: 5
+Number of Buttons: 5
 
-Numberof Modes: 4
+Number of Modes: 4
 
 The Mueller sealer has a control panel with five touch-sensitive buttons.
 
