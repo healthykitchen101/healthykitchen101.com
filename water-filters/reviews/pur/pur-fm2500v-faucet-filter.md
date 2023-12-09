@@ -81,7 +81,7 @@ Design
 
 design Scores: **7.8**
 
-*   Housing Build Quality (40%) - **7.5**/10
+*   Build Quality (40%) - **7.5**/10
     
 *   Filter Piece (50%) - **8.5**/10
     
@@ -121,7 +121,7 @@ The PUR Plus FM2500V is fairly compact. With dimensions of 6.5 inches in length,
 
 Additionally, thanks to the plastic construction, the filter only weighs 1 pound. It won't weigh down your faucet, which can be a plus if you have an old faucet.
 
-### 7.5 - Housing Build Quality
+### 7.5 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-faucet-water-filter-fm2500v-housing-build-quality-clemg7kja00186s883lt65akg.jpg" alt="The grey, plastic PUR Plus FM2500V faucet-mount filter on its side on a grey table." width="300px" height="200px">
 
