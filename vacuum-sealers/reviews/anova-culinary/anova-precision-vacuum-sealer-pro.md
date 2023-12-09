@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.3**
+Overall Score: **8.5**
 
 *   Performance (50%) - **7.8**/10
     
-*   Design (20%) - **9.0**/10
+*   Design (20%) - **9.8**/10
     
 *   Usability (30%) - **8.7**/10
     
@@ -82,13 +82,15 @@ Despite not crushing the fruit slices to the point of them leaking out the juice
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **9.8**
 
 *   Build Quality (50%) - **10**/10
     
 *   Control Panel (20%) - **10**/10
     
 *   Lid (20%) - **10**/10
+    
+*   Extra Features (10%) - **8.0**/10
     
 
 The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
@@ -131,9 +133,9 @@ Even though the Anova Precision Pro is built entirely from plastic, it neither l
 
 Button Type: Physical
 
-Numberof Buttons: 7
+Number of Buttons: 7
 
-Numberof Modes: 2
+Number of Modes: 2
 
 The control panel of the Anova Precision Pro has a sleek and simple design. It features just seven buttons arranged in a row, organized into three distinct groups based on their functions.
 
