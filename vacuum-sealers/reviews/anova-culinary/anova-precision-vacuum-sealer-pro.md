@@ -27,7 +27,7 @@ That said, if you're looking for a sleek and convenient vacuum sealer to use for
 *   Relatively dim indicator lights
 *   Doesn’t come with a chime
 
-The Anova Precision Vacuum Sealer Pro is part of Anova's upscale Precision™ product line, which includes high-quality kitchen tools and appliances like sous vide cookers. Right away, this sealer catches your eye with its sleek black plastic design. 
+The Anova Precision Vacuum Sealer Pro is part of Anova's upscale Precision™ product line, which includes high-quality kitchen tools and appliances like sous vide cookers. Right away, this sealer catches your eye with its sleek black plastic design.
 
 Given its popularity among consumers, our editors were intrigued enough to purchase and test it in our lab to find out what all the buzz was about. In this in-depth report, we'll share everything you need to know about this vacuum sealer!
 
