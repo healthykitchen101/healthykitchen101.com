@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **6.6**
 
-*   Performance (50%) - **5.5**/10
+*   Performance (50%) - **5.0**/10
     
-*   Design (20%) - **8.1**/10
+*   Design (20%) - **7.6**/10
     
-*   Usability (30%) - **8.5**/10
+*   Usability (30%) - **8.7**/10
     
 
 **Things We Like**
@@ -21,11 +21,11 @@ Here's our detailed review of the Megawise VS6621!
 Performance
 -----------
 
-performance Scores: **5.5**
+performance Scores: **5.0**
 
 *   Dry Food Test (60%) - **4.8**/10
     
-*   Moist Food Test (40%) - **6.5**/10
+*   Moist Food Test (40%) - **5.4**/10
     
 
 The Megawise VS6621 didn't perform well in our tests. It had weaker suction power, and it took longer to complete a sealing cycle for different types of foods compared to other models we've tested.
@@ -63,9 +63,9 @@ Apart from the unusually strong suction, which may make it less effective for se
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **7.6**
 
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **8.0**/10
     
 *   Control Panel (20%) - **9.0**/10
     
@@ -94,7 +94,7 @@ Height: 2.1" (5.3 cm)
 
 One of the first things that caught our attention when we unboxed the Megawise VS6621 was its compact design. At just around 4.1 inches wide, it won't hog valuable countertop space. Its lightweight nature (weighing 2.3 pounds) also makes it easy to move. You can easily pick it up and store it in a cupboard, which will make it a great choice if you have limited space in your kitchen.
 
-### 9.0 - Build Quality
+### 8.0 - Build Quality
 
 Regarding aesthetics, the Megawise VS6621 aligns with what you'd typically expect from a mid-range vacuum sealer. It doesn't have the flashy appeal of a model like the FoodSaver VS-0160 with its metallic top, but it also doesn't resemble a low-quality, bargain-bin sealer.
 
@@ -139,11 +139,11 @@ The Megawise VS6621 includes a bag cutter, allowing you to easily trim the right
 Usability
 ---------
 
-usability Scores: **8.5**
+usability Scores: **8.7**
 
 *   Ease of Use (70%) - **8.5**/10
     
-*   Safety & Noise (15%) - **7.0**/10
+*   Safety & Noise (15%) - **8.0**/10
     
 *   Indicator Lights and Chime (15%) - **10**/10
     
@@ -154,7 +154,7 @@ While the sealing performance of the Megawise VS6621 may not be stellar, it shin
 
 Overall, the Megawise VS6621 is incredibly user-friendly. The control panel buttons are all very responsive, and the built-in cutter adds a lot of convenience to the sealing process. The only issue we have with the sealer is that the lid can be a bit difficult to close as it requires a significant amount of downward force, which can be challenging if one of your hands is already busy.
 
-### 7.0 - Safety & Noise
+### 8.0 - Safety & Noise
 
 Maximum Noise Level: 87.5 dBA
 
