@@ -1,97 +1,175 @@
 Overall Verdict
 ---------------
 
-Overall Score: **0.0**
+Overall Score: **6.9**
 
-*   Performance (50%) - **0.0**/10
+*   Performance (50%) - **5.5**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **8.1**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **8.5**/10
     
 
 **Things We Like**
 
 **Things We Don’t Like**
 
+The Megawise VS6621, one of the first vacuum sealers we tested, stands out for its built-in bag cutter and compact size. Many customers have praised the convenience of these features. However, its actual performance remains a subject of debate. 
+
+Here's our detailed review of the Megawise VS6621!
+
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **5.5**
 
-*   Dry Food Test (60%) - **0**/10
+*   Dry Food Test (60%) - **4.8**/10
     
-*   Moist Food Test (40%) - **0**/10
+*   Moist Food Test (40%) - **6.5**/10
     
+
+The Megawise VS6621 didn't perform well in our tests. It had weaker suction power, and it took longer to complete a sealing cycle for different types of foods compared to other models we've tested.
+
+To put it simply, when we combined the scores from tests with dry and moist foods (the sealer got 4.45 and 5.4 out of 10 in each test), it received an overall performance score of only 4.8 out of 10 in our testing, which is not a good result.
 
 ### Dry Food Test
 
-Suction Mode:
+Suction Mode: N/A
 
-Food Mode:
+Food Mode: Dry
 
-Recorded Suction:
+Suction Strength: 36 kPA (1) - 35 kPA (2)
 
-Suction Time:
+Cycle Time: 14s (1) - 14s (2)
+
+In the dry food test, the sealer exhibited significantly weaker suction strength, reaching a maximum of just 36 kPA, which is much lower than most other models we've tested. For comparison, the Nesco VS-12 provides twice as much suction power, ensuring a more complete vacuum seal.
+
+On the bright side, the sealing cycle time is decent, taking 14 seconds in both of our tests. However, due to the underpowered motor, the Megawise VS6621 only received a score of 4.8 out of 10 in this category, which unfortunately falls into the failing range.
 
 ### Moist Food Test
 
-Suction Mode:
+Suction Mode: N/A
 
-Food Mode:
+Food Mode: Moist
 
-Recorded Suction:
+Suction Strength: 49 kPA (1) - 47 kPA (2)
 
-Suction Time:
+Cycle Time: 50s (1) - 49s (2)
+
+Surprisingly, the Megawise VS6621 provides stronger suction when set to the "Moist" food mode rather than the "Dry" mode. During our tests, we measured a peak suction of 49 kPA in the moist mode, which is typically the level of suction you'd expect in the dry mode for most sealers to avoid crushing delicate foods. However, the Megawise sealer doesn't follow this convention. Fortunately, the mango slices we used for testing after having been used with other bags, had most of their juices removed and became somewhat dry and tough. This helped prevent the slices from getting completely crushed by the Megawise.
+
+Apart from the unusually strong suction, which may make it less effective for sealing moist foods, the Megawise also takes an exceptionally long time to complete a sealing cycle in these tests, requiring up to 50 seconds.
 
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **8.1**
 
-*   Build Quality (50%) - **0**/10
+*   Build Quality (50%) - **9.0**/10
     
-*   Control Panel (20%) - **0**/10
+*   Control Panel (20%) - **9.0**/10
     
-*   Lid (20%) - **0**/10
+*   Lid (20%) - **9.0**/10
     
 
-### Build Quality
+The Megawise VS6621 boasts a stylish design that strikes a balance between affordability and quality. It's compact and won't clutter your countertop. The unit is well-built, with solid parts throughout, including the lid, locking mechanism, and control panel. Additionally, it includes a convenient bag cutter on the lid.
 
-### Control Panel
+### In the Box
 
-Button Type:
+In the shipping box of the Megawise VS6621, aside from the sealer itself, you’ll find the accompanying items:
 
-Numberof Buttons:
+*   Sheets of pre-cut plastic bags
+*   Air hose and adapter
+*   Instruction manual and warranty card
 
-Numberof Modes:
+### Dimensions
 
-### Lid
+Weight: 2.3 lbs (1.0 kg)
 
-Lid Lock:
+Length: 15.5" (39.4 cm)
+
+Width: 4.1" (10.4 cm)
+
+Height: 2.1" (5.3 cm)
+
+One of the first things that caught our attention when we unboxed the Megawise VS6621 was its compact design. At just around 4.1 inches wide, it won't hog valuable countertop space. Its lightweight nature (weighing 2.3 pounds) also makes it easy to move. You can easily pick it up and store it in a cupboard, which will make it a great choice if you have limited space in your kitchen.
+
+### 9.0 - Build Quality
+
+Regarding aesthetics, the Megawise VS6621 aligns with what you'd typically expect from a mid-range vacuum sealer. It doesn't have the flashy appeal of a model like the FoodSaver VS-0160 with its metallic top, but it also doesn't resemble a low-quality, bargain-bin sealer.
+
+When it comes to build quality, our reviewers found that all the components of the sealer, including the lid and control panel, are well-constructed. Based on their evaluation, they did not identify any significant design or manufacturing issues that would compromise the unit's long-term durability.
+
+### 9.0 - Control Panel
+
+Button Type: Physical
+
+Number of Buttons: 6
+
+Number of Modes: 2
+
+The control panel of the Megawise VS6621 is user-friendly and has five physical buttons.
+
+Starting from the left, there's the "Food" button, which lets you choose between "Dry" and "Moist" food modes, depending on what you're sealing.
+
+Next, there are three buttons in a row. The "Vac Seal" button starts the full sealing process, including vacuuming and sealing the bag. The "Seal" button is for sealing only, handy if you've cut a bag from a roll and need to seal one end. Lastly, the "Pulse Vac" button allows you to vacuum in short bursts. Just press and hold it to activate the vacuum, and release it to stop.
+
+If you've started a full cycle with the "Vac Seal" or "Seal" buttons and need to stop it for any reason, you can do so by pressing the orange "Stop" button on the far right of the control panel.
+
+An extra button can be found when you open up the sealer. Labeled as “Vac,” you can use it to activate the suction motor when you’ve plugged in the air hose and would like to vacuum-pack through it.
+
+### 9.0 - Lid
+
+Lid Lock: Latch lock
+
+The Megawise VS6621, as expected from a sealer in this price range, comes with standard latch locks. To close and secure the lid, you simply need to press down firmly. The locks on the sealer snap into place smoothly but can require a fair bit of pressure. As a result, for some people, it can be difficult to use the sealer one-handed. This is our main gripe with the sealer (as well as any other model with similar latch locks.)
+
+### 4.0 - Extra Features
+
+Bag Cutter: Yes
+
+Bag Holder: No
+
+Bag Hooks: No
+
+Removable Drip Tray: No
+
+The Megawise VS6621 includes a bag cutter, allowing you to easily trim the right length of bag from plastic rolls or sheets.
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **8.5**
 
-*   Ease of Use (70%) - **0**/10
+*   Ease of Use (70%) - **8.5**/10
     
-*   Safety & Noise (15%) - **0**/10
+*   Safety & Noise (15%) - **7.0**/10
     
-*   Indicator Lights and Chime (15%) - **0**/10
+*   Indicator Lights and Chime (15%) - **10**/10
     
 
-### Ease of Use
+While the sealing performance of the Megawise VS6621 may not be stellar, it shines in terms of usability. The only drawback our reviewers found in terms of ease of use is that it's a bit challenging to operate with just one hand. However, when it comes to safety, noise level, and the clarity of the indicator lights, the sealer was scored quite well by our reviewers.
 
-### Safety & Noise
+### 8.5 - Ease of Use
 
-Maximum Noise Level:
+Overall, the Megawise VS6621 is incredibly user-friendly. The control panel buttons are all very responsive, and the built-in cutter adds a lot of convenience to the sealing process. The only issue we have with the sealer is that the lid can be a bit difficult to close as it requires a significant amount of downward force, which can be challenging if one of your hands is already busy.
 
-### Indicator Lights and Chime
+### 7.0 - Safety & Noise
 
-Numberof Indicators:
+Maximum Noise Level: 87.5 dBA
 
-Progress Bar:
+The Megawise VS6621 scored well in this category thanks to its thoughtful safety features. Inside the sealer, you'll find several stickers that alert users to potentially hazardous components, such as the heating bar. Additionally, they've coated the heating bar with a bright orange, high-visibility sticker to help prevent accidental contact, especially for new users.
 
-Chime:
+When it comes to noise, our noise level meter registered a peak loudness of 87.5 dBA during a dry food test session. This makes it one of the loudest sealer we've ever tested. It’s not deafening, but can definitely be annoying if you’re sensitive to loud noises.
+
+### 10 - Indicator Lights and Chime
+
+Numberof Indicators: 6
+
+Progress Bar: Yes
+
+Chime: No
+
+There are a total of six indicator lights on the control panel, one for each button, except for the "Food" button. The "Food" button has two lights that indicate whether the sealer is set to "Dry" or "Moist" food mode.
+
+Right below the row of buttons, there's an indicator bar that shows the progress of the sealer as it goes through its working cycle.
