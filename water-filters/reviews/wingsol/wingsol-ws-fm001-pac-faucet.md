@@ -81,7 +81,7 @@ Design
 
 design Scores: **7.9**
 
-*   Housing Build Quality (40%) - **7.2**/10
+*   Build Quality (40%) - **7.2**/10
     
 *   Filter Piece (50%) - **8.0**/10
     
@@ -124,7 +124,7 @@ Due to being made entirely from stainless steel, the Wingsol WS-FM001 is the hea
 
 While the filter is larger than most models we tested in the lab, it didn’t get in the way while we were using and testing it. Most of its bulk is over the top of the faucet, where it’s out of the way.
 
-### 7.2 - Housing Build Quality
+### 7.2 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-build-quality-clecgphqr0004ro88cvfl7mdq.jpg" alt="The silver, metallic Wingsol WS-FM001 faucet-mount water filter is laid on a grey table." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/wingsol-faucet-water-filter-ws-fm001-pac-build-quality-1-clecgpz3t0005ro88as943a0o.jpg" alt="The two nozzles of the Wingsol WS-FM001 faucet-mount water filter." width="300px" height="200px">
 
