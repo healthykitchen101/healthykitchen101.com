@@ -89,6 +89,8 @@ design Scores: **7.2**
     
 *   Lid (20%) - **8.0**/10
     
+*   Extra Features (10%) - **0**/10
+    
 
 Our team’s quite happy with the Nutrichef's design, which has a sleek black-and-white housing that looks elegant and high-end. The build quality is excellent, with every part being solidly built, and there were no obvious design or manufacturing flaws anywhere on the unit. The touch-sensitive control panel is user-friendly but could be more responsive. The only major drawback is that the unit lacks extra features, which, to be fair to Nutrichef, is to be expected in a sealer at this price range. Overall, the Nutrichef PKVS18Bk received a 7.7/10 in this section.
 
@@ -130,9 +132,9 @@ On the unit's bottom, you'll find white anti-slip feet that ensure stability dur
 
 Button Type: Physical
 
-Numberof Buttons: 6
+Number of Buttons: 6
 
-Numberof Modes: 4
+Number of Modes: 4
 
 The Nutrichef PKVS18BK's control panel on the lid has five buttons.
 
