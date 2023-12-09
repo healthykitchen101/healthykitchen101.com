@@ -75,7 +75,7 @@ Design
 
 design Scores: **8.4**
 
-*   Housing Build Quality (40%) - **7.8**/10
+*   Build Quality (40%) - **7.8**/10
     
 *   Filter Piece (50%) - **8.5**/10
     
@@ -121,7 +121,7 @@ This design makes it very user-friendly. When the filter is installed on the fau
 
 The filter weighs 1.1 pounds, which is decent.
 
-### 7.8 - Housing Build Quality
+### 7.8 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-plus-faucet-filter-pfm350v-build-quality-clef7bypp000f6s886d9rcf4s.jpg" alt="The front of the grey, plastic PUR Plus PFM350V filter, which is sitting on a white stone table." width="300px" height="200px">
 
