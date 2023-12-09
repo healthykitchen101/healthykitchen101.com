@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.9**
+Overall Score: **9.1**
 
 *   Performance (50%) - **8.5**/10
     
-*   Design (20%) - **9.0**/10
+*   Design (20%) - **9.9**/10
     
 *   Usability (30%) - **9.6**/10
     
@@ -74,13 +74,15 @@ Remarkably, even with the significantly stronger suction in the second test, the
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **9.9**
 
 *   Build Quality (50%) - **10**/10
     
 *   Control Panel (20%) - **10**/10
     
 *   Lid (20%) - **10**/10
+    
+*   Extra Features (10%) - **9.0**/10
     
 
 The Nesco VS-12 stands out thanks to its sturdy design, which earned it high praise from our reviewers. Every other aspect, from the control panel to the lid and the included extras like the cutter and plastic bag roll holder, is exceptionally well-crafted and has received top marks from our reviewers. As a result, the unit achieved an impressive score of 9.0/10 in this category.
@@ -122,9 +124,9 @@ Inside, the sealer is built from sturdy plastic. Near the front is the heat bar,
 
 Button Type: Physical
 
-Numberof Buttons: 6
+Number of Buttons: 6
 
-Numberof Modes: 5
+Number of Modes: 5
 
 The control panel on the Nesco VS-12 stands out as the most user-friendly and feature-packed among all the models we've tried. It's designed with simplicity in mind, featuring just six buttons and a small LED strip that you can use to track the sealer’s working progress.
 
