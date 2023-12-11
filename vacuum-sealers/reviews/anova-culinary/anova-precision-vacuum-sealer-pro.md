@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **8.4**
 
 *   Performance (50%) - **7.8**/10
     
 *   Design (20%) - **9.8**/10
     
-*   Usability (30%) - **8.7**/10
+*   Usability (30%) - **8.6**/10
     
 
 The Anova Precision Vacuum Sealer Pro is one of our [top picks for vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in 2023 because it performs well, looks great, and is easy to use. However, when compared to some other options like the Nesco VS-12, it may not be the absolute best choice in terms of performance and durability.
@@ -180,11 +180,11 @@ The only thing it doesn’t have is a removable drip tray.
 Usability
 ---------
 
-usability Scores: **8.7**
+usability Scores: **8.6**
 
 *   Ease of Use (70%) - **9.0**/10
     
-*   Safety & Noise (15%) - **9.0**/10
+*   Safety & Noise (15%) - **8.0**/10
     
 *   Indicator Lights and Chime (15%) - **7.0**/10
     
@@ -201,7 +201,7 @@ However, we encountered a minor issue in this aspect: our reviewers discovered t
 
 Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
 
-### 9.0 - Safety & Noise
+### 8.0 - Safety & Noise
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-noise-clpgd66ua001hmm88fype0m1d.jpg" alt="Anova has thoughtfully included a bright, high-vis orange sticker across the heating bar as a safety precaution." width="300px" height="200px">
 
