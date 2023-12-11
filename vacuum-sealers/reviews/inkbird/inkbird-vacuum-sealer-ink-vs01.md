@@ -90,6 +90,8 @@ For a sealer with such performance, the Inkbird Plus INK-VS01 has a very compact
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-box-clq0mcy1q0007cg889blpgox3.jpg" alt="The content of the Inkbird Plus INK-VS01’s shipping box." width="300px" height="200px">
+
 Besides the sealer itself, the Inkbird Plus INK-VS01 comes with the following items in the box:
 
 *   Sheets of pre-cut bags and uncut plastic bag rolls
