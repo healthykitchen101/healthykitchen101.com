@@ -1,10 +1,10 @@
 Keurig is famous for their single-serve coffee machines. It is a cheap, quick way to get your daily caffeine fix. Despite the high speed, Keurig’s machines can produce some pretty tasty brews.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufehfc0042sf887lhn6z5z.jpg" alt="How to make iced coffee with Keurig" width="360" height="240">
+
 But here’s the thing: Keurig coffee machines aren’t like the typical ones that can be found in most kitchens and coffee shops. A Keurig machine doesn’t accept coffee grounds. Instead, it uses special coffee pods called K-Cups to give you your tasty brew.
 
 This new form of coffee-brewing could confuse a lot of people. To give you a hands-on introduction, we’ll show you **how to make iced coffee with Keurig** in today’s article. Brewing coffee Keurig-style really isn’t as complicated as it seems!
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufehfc0042sf887lhn6z5z.jpg" alt="How to make iced coffee with Keurig" width="360" height="240">
 
 How to Make Iced Coffee with Keurig
 -----------------------------------
