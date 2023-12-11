@@ -116,6 +116,8 @@ Plus, it's super lightweight, weighing only 1.57 pounds, as opposed to the 4+ po
 
 ### 9.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-build-quality-clq0mi2470008cg88eokacmbm.jpg" alt="The silicone plug that covers the port for the detachable power cord at the back of the Inkbird Plus INK-VS01 sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-build-quality-1-clq0mjceq0009cg8831cj9ljn.jpg" alt="The underside of the Inkbird Plus INK-VS01 vacuum sealer. Visible are two anti-slip feet at each corner." width="300px" height="200px">
+
 The unit we got has solid build quality. The control panel is clearly labeled and responsive, the lid doesn't wobble when we open or close it, and the lid's locking mechanisms work smoothly. However, our only concern with the build quality is that it feels a bit less robust compared to other models in the same price range, such as the Anova Precision Pro and the Nesco VS-12. While the metallic top of the lid adds a nice aesthetic touch, it's not quite enough to give the sealer a premium look that matches its price.
 
 Because the sealer comes with a detachable power cord, there's a convenient port at the back where you can plug it in. A handy silicone plug covers the port to keep it safe from the elements when not in use.
