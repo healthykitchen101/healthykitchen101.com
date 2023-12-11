@@ -125,7 +125,11 @@ However, when compared to other full-size models like the Nesco VS-12, it’s ne
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-clpgaltdj0015mm884u1k2xqy.jpg" alt="The interior of the Anova Precision Pro is all-black, except for the high-vis orange sticker that marks where the heating bar is." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-1-clpgamjq20016mm882cu78y5g.jpg" alt="All of the components in the interior of the sealer are very well-built." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-build-quality-2-clpgao1io0017mm88bsime7dx.jpg" alt="The underside of the Anova Precision Pro. It has non-slip feet in all four corners, as well as a small compartment near the back to tuck the power cord inside for easier storage." width="300px" height="200px">
 
-Even though the Anova Precision Pro is built entirely from plastic, it neither looks nor feels cheap. Painted all-black from top to bottom, its exterior is a mix of premium-looking matte and glossy plastic, which gives it a fairly expensive look.
+While the Anova Precision Pro is constructed entirely from plastic, it doesn't come across as cheap in any way. It boasts an elegant all-black design that blends both matte and glossy plastic, creating a high-end appearance. Every component inside and outside the sealer is very well crafted, from the sturdy locking mechanisms to the replaceable foam seal encircling the vacuum channel. This seal plays a crucial role in maintaining an airtight seal for the channel to work.
+
+On the bottom of the sealer, you'll find non-slip feet and a handy compartment to neatly store the power cord, making it more convenient for storage.
+
+All in all, we have little doubt that the vacuum sealer will last a long time with minimal maintenance needed.
 
 ### 10 - Control Panel
 
@@ -169,7 +173,9 @@ Removable Drip Tray: No
 
 The Anova Precision Pro includes a handy interior compartment where you can store a roll of plastic bags. Inside this compartment, there's a convenient flip-down cutter that makes it easy for you to cut out sections of the plastic bags as needed.
 
-Unfortunately, the sealer doesn’t come with bag hooks on the vacuum channel, which would make feeding the plastic bag into the sealer a lot easier.
+It also comes with a pair of small bag hooks within the vacuum channel, which also makes feeding new bags into the sealer easier.
+
+The only thing it doesn’t have is a removable drip tray.
 
 Usability
 ---------
@@ -189,7 +195,11 @@ The Anova Precision Pro excels in usability. Its user-friendly control panel is 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-clpgd11sy001fmm88ddzn92ha.jpg" alt="The lid and the handle lock are easy to operate with just one hand." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-ease-use-1-clpgd1z7e001gmm883pi68tvf.jpg" alt="The Anova Precision Pro has a handle lock, which greatly simplifies the operation of the sealer and enables one-handed lid locking and release." width="300px" height="200px">
 
-The Anova Precision Pro is incredibly user-friendly. You won't need to dig into the user manual because the control panel is straightforward, with well-labeled buttons. Using the sealer is a breeze, thanks to the handy handle lock that makes opening and closing the lid quick and easy. Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
+The Anova Precision Pro is incredibly user-friendly. You won't need to dive into the user manual because the control panel is straightforward, with clearly labeled buttons. Using the sealer is a breeze, thanks to the convenient handle lock that allows you to open and close the lid quickly and easily.
+
+However, we encountered a minor issue in this aspect: our reviewers discovered that unless you press down on the handle right in the center, the locks won't engage properly (the handle may bend and not click into place correctly). This doesn't significantly affect the overall user experience and becomes less of an annoyance once you're accustomed to using the Anova. However, initially, it can be a bit bothersome, especially if you prefer one-handed operation.
+
+Just press the right button on the control panel to start the sealing process, and it starts right away. That's why our reviewers gave it top marks for user-friendliness.
 
 ### 9.0 - Safety & Noise
 
