@@ -144,7 +144,7 @@ The fifth and final button, labeled “Vac,” is inside the sealer's interior. 
 
 ### 9.0 - Lid
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-clq0qvwvn000dcg882dvqhrab.jpg" alt="Saved for requiring quite a lot of force to click close, the lid of the Inkbird Plus INK-VS01 is sturdily built." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-1-clq0qwliz000ecg884diyeije.jpg" alt="The inner view of the Inkbird Plus INK-VS01’s lid hinges. Off to the side, you can see the locking latch for the lid that would click in place when the lid is closed and pressed down." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-clq0qvwvn000dcg882dvqhrab.jpg" alt="Saved for requiring quite a lot of force to click close, the lid of the Inkbird Plus INK-VS01 is sturdily built." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-1-clq0qwliz000ecg884diyeije.jpg" alt="The inner view of the Inkbird Plus INK-VS01’s lid hinges. Off to the side, you can see the locking latch for the lid that would click in place when the lid is closed and pressed down." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-2-clq0qxbnt000fcg887r0mait6.jpg" alt="The outer view of the Inkbird Plus INK-VS01’s lid hinges." width="300px" height="200px">
 
 Lid Lock: Latch lock
 
