@@ -47,11 +47,11 @@ The first involves filling your favorite coffee cup or mug with ice. Later, you 
 
 A different approach is to put the ice separately in another cup, leaving your coffee cup empty. Pour the hot drink into the empty cup, then add the ice. Be careful while you’re adding the ice, though. If you add too much, the coffee may overflow.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufgz170044sf88c5be1k0r.jpg" alt="How to Make Iced Coffee with Keurig Step" width="360" height="240">
+
 ### Step 4: Brew
 
 Press the cup size on the machine and wait as it brews up the coffee. After a few short minutes, the coffee will begin to flow from the dispenser.
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufgz170044sf88c5be1k0r.jpg" alt="How to Make Iced Coffee with Keurig Step" width="640" height="427">
 
 Enjoy!
 
