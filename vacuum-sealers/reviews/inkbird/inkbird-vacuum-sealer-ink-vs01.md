@@ -196,6 +196,8 @@ The Inkbird Plus INK-VS01 is on the louder side, having achieved a noise level o
 
 ### 7.0 - Indicator Lights and Chime
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-indicator-lights-clq0r132q000jcg8820iz1uo5.jpg" alt="The indicator lights and the progress bar at the top of the control panel are decently bright and visible even under harsh studio lighting." width="300px" height="200px">
+
 Numberof Indicators: 4
 
 Progress Bar: Yes
