@@ -184,6 +184,8 @@ The Inkbird Plus INK-VS01 could be easier to use, especially when closing the li
 
 ### 6.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-ease-use-clq0qyy1q000hcg88e83eboyt.jpg" alt="The Inkbird Plus INK-VS01 requires quite a lot of force to click close, which can be a problem if you want to use the sealer one-handed." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-ease-use-1-clq0qzoi5000icg889zcdbovl.jpg" alt="There are two bag hooks situated at the top of the vacuum channel that’ll help you guide and align the bag into the proper position for sealing." width="300px" height="200px">
+
 The Inkbird Plus INK-VS01 could be more user-friendly. One of the main issues is closing the lid, which can be quite tricky, especially if you're trying to do it with just one hand. It's much easier with a second person's help to ensure the bag fits snugly in the vacuum channel and the lid closes securely. While the bag hooks are meant to assist with alignment, the narrow vacuum channel, a result of the sealer's compact size, still makes it a bit challenging to use. This challenge led to a few unsuccessful attempts at sealing during our tests
 
 ### 9.0 - Safety & Noise
