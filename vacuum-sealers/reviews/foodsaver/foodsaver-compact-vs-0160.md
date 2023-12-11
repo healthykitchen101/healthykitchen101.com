@@ -126,6 +126,8 @@ At the bottom, the vacuum sealer has grippy feet to prevent it from sliding, eve
 
 All components, including the heat bar and the foam seal around the vacuum channel, are well-made.
 
+However, the sealer's fit and finish leave room for improvement. When the lid is closed, noticeable gaps appear between it and the body of the sealer. Fortunately, this doesn't affect the sealing performance, but it does detract from the overall aesthetics and gives the impression of a less well-crafted device upon closer inspection.
+
 ### 10 - Control Panel
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-control-panel-clpchbp3e000vmm886zt416zq.jpg" alt="A close-up shot of the buttons and the indicator lights on the FoodSaver VS-0160" width="300px" height="200px">
@@ -186,7 +188,7 @@ The FoodSaver VS-0160 is highly user-friendly. We didn't encounter any difficult
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-ease-use-clpchd6c2000ymm88flzy8u56.jpg" alt="The lid of the FoodSaver VS-0160 doesn’t require a lot of force to click close." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-ease-use-1-clpchfynm000zmm88hwxv54te.jpg" alt="Despite not having bag hooks, feeding a new plastic bag into the FoodSaver VS-0160 and aligning it with the vacuum channel is quite easy." width="300px" height="200px">
 
-The handling experience of the FoodSaver VS-0160 can be best described as "seamless," according to our reviewers. The control panel is user-friendly, and the lid requires minimal effort to operate. As a result, our reviewers unanimously gave the FoodSaver VS-0160 the highest score in this segment.
+The handling experience of the FoodSaver VS-0160 can be best described as "seamless," according to our reviewers. The control panel is user-friendly. However, the lid can be quite hard to close, and you'll need to use both hands to make sure it shuts properly. This makes it tricky to operate the sealer with just one hand.
 
 ### 8.0 - Safety & Noise
 
