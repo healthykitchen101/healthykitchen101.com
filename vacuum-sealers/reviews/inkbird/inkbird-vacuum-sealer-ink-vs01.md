@@ -126,6 +126,8 @@ The underside of the sealer has four anti-slip feet positioned at four corners o
 
 ### 9.0 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-control-panel-clq0qtlzk000acg881lg5gido.jpg" alt="The control panel of the Inkbird Plus INK-VS01 has five buttons, including a blue “Stop” button on the far right side to interrupt a working cycle for any reason." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-control-panel-1-clq0quch6000bcg883gjr7mnh.jpg" alt="The “Vac” button on the interior of the sealer can be used when you have to use the air hose adapter to vacuum-pack bags or boxes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-control-panel-2-clq0qusnt000ccg888z0cadgm.jpg" alt="The Inkbird Plus INK-VS01 with the air hose adapter plugged into the vacuum port, to be used in conjunction with the “Vac” button." width="300px" height="200px">
+
 Button Type: Touch-sensitive
 
 Number of Buttons: 5
