@@ -180,9 +180,11 @@ Despite its advanced control system, the Nesco VS-12 vacuum sealer remains user-
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-ease-use-clpgkde0j001umm886l26cs6m.jpg" alt="The grommet at the back of the Nesco VS-12 allows you to wrap and manage the power cord better when you have to store the sealer." width="300px" height="200px">
 
-Our team noted the Nesco VS-12 for its user-friendliness, despite having a fairly elaborate control panel. All the buttons are clearly labeled and intuitively indicate their functions. If you've used a vacuum sealer before, you won't even need to look at the user guide and can get to using it right away without any confusion. And if you're new to vacuum sealers, you'll quickly get the hang of it in just a few minutes.
+Our team noted the Nesco VS-12 for its user-friendliness despite having a fairly elaborate control panel. All the buttons are clearly labeled and intuitively indicate their functions. If you've used a vacuum sealer before, you won't need to look at the user guide and can use it immediately without any confusion. And if you're new to vacuum sealers, you'll quickly get the hang of it in just a few minutes.
 
-The handle lock mechanism in particular makes it effortless to operate the sealer, even if you have one hand occupied.
+The handle lock mechanism, in particular, makes it effortless to operate the sealer, even if you have one hand occupied.
+
+Our only concern with the Nesco VS-12 is its tall frame, which can cause a filled plastic bag to hang down the front and be a bit challenging to align properly. Thankfully, the sealer includes bag hooks to help with alignment, although it still requires a bit of effort.
 
 Because of these factors, our reviewers gave the Nesco VS-12 an outstanding score in this regard.
 
