@@ -51,7 +51,7 @@ A different approach is to put the ice separately in another cup, leaving your c
 
 Press the cup size on the machine and wait as it brews up the coffee. After a few short minutes, the coffee will begin to flow from the dispenser.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufgz170044sf88c5be1k0r.jpg" alt="How to Make Iced Coffee with Keurig Step" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufgz170044sf88c5be1k0r.jpg" alt="How to Make Iced Coffee with Keurig Step" width="640" height="427">
 
 Enjoy!
 
@@ -60,7 +60,7 @@ How Does a Keurig Coffee Maker Work?
 
 If you’re wondering how coffee can be made from such a tiny package, the answer is quite simple.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufqwah0046sf88hiar429k.jpg" alt="How Does a Keurig Coffee Maker Work" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufqwah0046sf88hiar429k.jpg" alt="How Does a Keurig Coffee Maker Work" width="640" height="427">
 
 K-Cup coffee pods are made from plastic and are filled with around 0.3 ounces of coffee ground. The ground is protected by a foil lid.
 
@@ -89,7 +89,7 @@ Dispense the coffee into an empty cup, free of ice.
 
 At this stage, if you prefer your coffee **black and unsweetened** (“_Cà phê đá”_, lit. “_iced coffee”_), just add ice directly to the coffee.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufynk40047sf88gr3a0x84.jpg" alt="Vietnamese Iced Coffee" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ufynk40047sf88gr3a0x84.jpg" alt="Vietnamese Iced Coffee" width="640" height="427">
 
 If you want to drink the **sweetened version** (_“Cà phê sữa đá”_, lit._“milky ice coffee”_), then you need to follow some extra steps.
 
@@ -97,7 +97,7 @@ Add a hearty amount of_condensed milk_to the bottom of a separate, empty cup. If
 
 Then, pour the coffee on top of the milk layer. Follow it up with ice immediately after. Stir to mix up the milk with the coffee and_voilà_!
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ug1udu0048sf88b6aj3has.jpg" alt="Vietnamese Iced Coffee sweetened version" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ug1udu0048sf88b6aj3has.jpg" alt="Vietnamese Iced Coffee sweetened version" width="640" height="427">
 
 ### Coffee Ice
 
@@ -107,7 +107,7 @@ Throw the ice tray into the freezer. Over the course of a couple of hours, the c
 
 The next time you brew your iced coffee, use these cubes instead of adding plain water cubes. They will make your coffee stronger while simultaneously chilling it down.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ug4qzp0049sf88h7krhb4l.jpg" alt="Coffee Ice" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/coffee-makers/cl5ug4qzp0049sf88h7krhb4l.jpg" alt="Coffee Ice" width="640" height="427">
 
 Conclusion
 ----------
