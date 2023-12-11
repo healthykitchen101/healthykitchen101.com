@@ -104,6 +104,8 @@ In the shipping box of the FoodSaver VS-0160, other than the product itself, you
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/foodsaver-vs-0160-vacuum-sealer-dimensions-clq0fz0td0001cg8891cbev42.jpg" alt="The dimensions of the FoodSaver VS-0160 is about average compared to other sealers we’ve tested. It has a length of 15.7 inches, width of 6.1 inches, and a height of 2.7 inches." width="300px" height="200px">
+
 Weight: 5.8 lbs (2.6 kg)
 
 Length: 15.7" (39.9 cm)
