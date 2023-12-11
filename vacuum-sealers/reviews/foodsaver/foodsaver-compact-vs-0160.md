@@ -86,6 +86,8 @@ design Scores: **8.8**
     
 *   Lid (20%) - **10**/10
     
+*   Extra Features (10%) - **1.0**/10
+    
 
 The FoodSaver VS-0160 stands out with its metallic top piece. Its sleek and elegant design earned top marks for build quality from our reviewers. Components such as the control panel and the lid also received perfect scores in our evaluation. However, the VS-0160 lacks extra features, like a bag cutter, which is disappointing.
 
@@ -118,7 +120,7 @@ The FoodSaver VS-0160 is quite average in this department. It won't hog much of 
 
 The FoodSaver VS-0160 is mostly made of plastic, which keeps it both affordable and lightweight. However, the top piece has a metallic sheen, which gives it a premium appearance and feel despite the price tag.
 
-Inside the sealer, the vacuum channel is protected by a green plastic bar. We strongly recommend keeping this bar and putting it back into the vacuum channel when the sealer is not in use. It’ll keep dust from building inside the sealer while it’s in storage.
+Inside the sealer, you’ll find a green removable drip tray made from bright green plastic. Slotted right into the vacuum channel, it’ll help catch excess moisture when you’re vacuum-packing particularly moist or juicy food. When the sealer’s not in use, the bar also doubles as a dust shield for the vacuum channel.
 
 At the bottom, the vacuum sealer has grippy feet to prevent it from sliding, even on wet countertops
 
