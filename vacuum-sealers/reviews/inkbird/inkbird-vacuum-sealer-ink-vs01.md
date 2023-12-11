@@ -42,6 +42,8 @@ Our reviewers were pleasantly surprised by the Inkbird Plus INK-VS01 in this are
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-dry-food-test-clq0m87ri0003cg88c43703z9.jpg" alt="The Inkbird Plus INK-VS01 vacuum sealer in the first dry food test with black rice grains. Our vacuum gauge recorded a peak suction of 62 kPA within a working cycle of 17 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-dry-food-test-1-clq0m9q010004cg88e1h89v4o.jpg" alt="The Inkbird Plus INK-VS01 in the second dry test. Our vacuum gauge recorded a peak suction of 62 kPA within a 16-second working cycle." width="300px" height="200px">
+
 Suction Mode:  N/A
 
 Food Mode: Dry
