@@ -58,6 +58,8 @@ Overall, the Inkbird Plus proves to be a solid choice for dry food vacuum-sealin
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-moist-food-test-clq0mau0i0005cg88a96fec5c.jpg" alt="The Inkbird INK-VS01 vacuum sealer packing fresh slices of yellow mangoes in the moist food test. Peak suction recorded by our vacuum gauge is 28 kPA in a 26-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-moist-food-test-1-clq0mbdbs0006cg88czso1na1.jpg" alt="The Inkbird Plus INK-VS01 in the second moist food test with fresh mango slices. Our vacuum gauge recorded a peak suction of 28 kPA within a working cycle of 22 seconds." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Moist
