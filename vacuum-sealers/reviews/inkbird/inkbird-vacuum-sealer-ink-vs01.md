@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.2**
+Overall Score: **7.3**
 
 *   Performance (50%) - **7.2**/10
     
-*   Design (20%) - **8.1**/10
+*   Design (20%) - **8.6**/10
     
 *   Usability (30%) - **6.6**/10
     
@@ -71,13 +71,15 @@ So, if you’re expecting to pack a lot of moist or soft food with your next sea
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **8.6**
 
 *   Build Quality (50%) - **9.0**/10
     
 *   Control Panel (20%) - **9.0**/10
     
 *   Lid (20%) - **9.0**/10
+    
+*   Extra Features (10%) - **5.0**/10
     
 
 For a sealer with such performance, the Inkbird Plus INK-VS01 has a very compact form factor, which is perfect if you don’t have a lot of countertop real estate. While the sealer feels slightly cheap, all its components are solid, and there are no significant design flaws. However, its lack of extra features is a downside, albeit understandable given its small size.
