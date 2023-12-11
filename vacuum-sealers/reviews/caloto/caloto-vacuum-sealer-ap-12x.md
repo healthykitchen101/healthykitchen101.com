@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **0.0**
+Overall Score: **6.0**
 
-*   Performance (50%) - **0.0**/10
+*   Performance (50%) - **4.7**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **6.3**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **7.8**/10
     
 
 **Things We Like**
@@ -17,11 +17,11 @@ Overall Score: **0.0**
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **4.7**
 
-*   Dry Food Test (60%) - **0**/10
+*   Dry Food Test (60%) - **4.9**/10
     
-*   Moist Food Test (40%) - **0**/10
+*   Moist Food Test (40%) - **4.5**/10
     
 
 ### Dry Food Test
@@ -30,9 +30,9 @@ Suction Mode:
 
 Food Mode:
 
-Recorded Suction:
+Suction Strength:
 
-Suction Time:
+Cycle Time:
 
 ### Moist Food Test
 
@@ -40,55 +40,79 @@ Suction Mode:
 
 Food Mode:
 
-Recorded Suction:
+Suction Strength:
 
-Suction Time:
+Cycle Time:
 
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **6.3**
 
-*   Build Quality (50%) - **0**/10
+*   Build Quality (50%) - **7.0**/10
     
-*   Control Panel (20%) - **0**/10
+*   Control Panel (20%) - **6.0**/10
     
-*   Lid (20%) - **0**/10
+*   Lid (20%) - **8.0**/10
+    
+*   Extra Features (10%) - **0**/10
     
 
-### Build Quality
+### In the Box
 
-### Control Panel
+### Weight & Dimensions
+
+Weight:
+
+Length:
+
+Width:
+
+Height:
+
+### 7.0 - Build Quality
+
+### 6.0 - Control Panel
 
 Button Type:
 
-Numberof Buttons:
+Number of Buttons:
 
-Numberof Modes:
+Number of Modes:
 
-### Lid
+### 8.0 - Lid
 
 Lid Lock:
+
+### Failed - Extra Features
+
+Bag Cutter:
+
+Bag Holder:
+
+Bag Hooks:
+
+Removable Drip Tray:
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **7.8**
 
-*   Ease of Use (70%) - **0**/10
+*   Ease of Use (70%) - **8.0**/10
     
-*   Safety & Noise (15%) - **0**/10
+*   Safety & Noise (15%) - **10**/10
     
-*   Indicator Lights and Chime (15%) - **0**/10
+*   Indicator Lights and Chime (15%) - **5.0**/10
     
 
-### Ease of Use
+### 8.0 - Ease of Use
 
-### Safety & Noise
+### 10 - Safety & Noise
 
 Maximum Noise Level:
 
-### Indicator Lights and Chime
+### 5.0 - Indicator Lights and Chime
 
 Numberof Indicators:
 
