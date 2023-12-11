@@ -144,6 +144,8 @@ The fifth and final button, labeled “Vac,” is inside the sealer's interior. 
 
 ### 9.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-lid-clq0qvwvn000dcg882dvqhrab.jpg" alt="Saved for requiring quite a lot of force to click close, the lid of the Inkbird Plus INK-VS01 is sturdily built." width="300px" height="200px">
+
 Lid Lock: Latch lock
 
 The Inkbird Plus INK-VS01 has latch locks, so you must press the lid down to lock it securely. It takes a bit of effort but isn't too difficult to close. Both locks on the lid engage evenly when you press down with both hands. To unlock, there are buttons on each side of the sealer that you can press.
