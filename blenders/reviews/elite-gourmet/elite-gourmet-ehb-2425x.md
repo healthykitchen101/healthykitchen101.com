@@ -22,7 +22,7 @@ Beyond its operational capabilities, the blender's overall build quality and use
 
 **Things We Don’t Like**
 
-*   Supar build quality 
+*   Subpar build quality
 *   Insufficient motor power 
 *   Inadequate splatter control 
 *   Limited grip comfort
