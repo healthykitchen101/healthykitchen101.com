@@ -205,6 +205,8 @@ The Keylitos features a two-pronged blade made of medium-quality stainless steel
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t2r9m000gpa88es0m4j2b.jpg" alt="A Close-Up of the Keylitos 5-in-1 Immersion Blender Beaker" width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 20 oz
