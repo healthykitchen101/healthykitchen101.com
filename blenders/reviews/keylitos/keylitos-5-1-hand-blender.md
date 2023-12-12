@@ -103,6 +103,8 @@ Yet, the blending experience did present some challenges. The standard beaker pr
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1sx8tg0009pa88fvu33vo4.jpg" alt="The Keylitos 5-in-1 immersion blender stands next to a glass of whipped egg whites forming stiff peaks, with a digital timer showing "2:01" in the foreground." width="300px" height="200px">
+
 Beating Time: 2 minutes
 
 Result: Stiff
