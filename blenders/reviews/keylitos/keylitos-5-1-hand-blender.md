@@ -47,6 +47,8 @@ The Keylitos 5-in-1 delivered average performance in our tests. It coped well wi
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1spesm0002pa88gvc8gws1.jpg" alt="Scooping a spoon of pureéd soup from a full batch in a plastic beaker made by the Keylitos 5-in-1 immersion blender in 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1spu6f0003pa888av1fu8i.jpg" alt="A batch of soup pureéd by the Keylitos 5-in-1 immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer. " width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Slightly Chunky
