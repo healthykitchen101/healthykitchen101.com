@@ -87,19 +87,25 @@ You may notice the beaker's tendency to wobble under the action of the blending 
 
 ### Almond Milk
 
-Grinding Time:
+Grinding Time: 1 min 20 secs
 
-Result:
+Result: Fine
 
-Suction:
+Suction: Tightly
+
+Finishing the task in a competitive 1 minute and 20 seconds, the Elite Gourmet EHB-2425X matched the average performance of other blenders in our lineup. Our post-straining revealed that the almonds were ground to a fine consistency. This infused the milk with a rich flavor, creamy texture, and the almonds' inherent nutrients. 
+
+Still, it’s worth noting that during the blending process, pieces of almond skin frequently became lodged in the holes of the blade guard. This led to a partial barrier around the blades, hindering efficient contact between the blade and the remaining almonds. Consequently, we had to periodically pause the blending to clear these trapped skins and redistribute the contents to ensure a more uniform grind.
 
 ### Whipped Egg-Whites
 
-Beating Time:
+Beating Time: Failed
 
-Result:
+Result: Failed
 
-Suction:
+Suction: Failed
+
+For aeration-heavy tasks like whipping egg whites, the Elite Gourmet EHB-2425X proves unsuitable. Its blending mechanism, unlike a dedicated whisk, fails to adequately introduce air. The consequence was a disappointing separation of the egg whites into a frothy upper layer and a watery lower layer, instead of a uniform, fluffy foam.
 
 Design
 ------
