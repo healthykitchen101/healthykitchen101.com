@@ -73,6 +73,8 @@ To get to this point, however, required more than simple blending; we found ours
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1sv13r0006pa8889dkbyrf.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the Keylitos 5-in-1." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1svim30007pa88a3tnek77.jpg" alt="Scooping a spoon of mayonnaise made by the Keylitos 5-in-1 immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 1 min 29 secs
 
 Result: Smooth
