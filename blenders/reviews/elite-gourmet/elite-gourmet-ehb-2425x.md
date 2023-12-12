@@ -157,7 +157,7 @@ The Elite Gourmet EHB-2425X's compact design is great for easy storage and light
 
 ### 5.0 - Build Quality
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21ekv8000xpa885mqd7zq2.jpg" alt="A close-up of the blending shaft and motor body of the Elite Gourmet EHB-2425X" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21ekv8000xpa885mqd7zq2.jpg" alt="A close-up of the blending shaft and motor body of the Elite Gourmet EHB-2425X" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21ljeu000ypa88eimyh84b.jpg" alt="A close-up of the interior of the Elite Gourmet EHB-2425X’s motor body." width="300px" height="200px">
 
 The Elite Gourmet EHB-2425X's construction is crafted entirely from lightweight plastic, so it not only lacks the robustness and tactile satisfaction associated with higher-end kitchen appliances but also raises questions about its long-term resilience. Such material choices often lead to vulnerabilities in structural integrity, especially under frequent or heavy use.
 
