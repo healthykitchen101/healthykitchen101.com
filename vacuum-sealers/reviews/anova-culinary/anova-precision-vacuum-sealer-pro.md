@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **8.4**
 
 *   Performance (50%) - **7.8**/10
     
-*   Design (20%) - **9.9**/10
+*   Design (20%) - **9.8**/10
     
 *   Usability (30%) - **8.6**/10
     
@@ -82,7 +82,7 @@ Despite not crushing the fruit slices to the point of them leaking out the juice
 Design
 ------
 
-design Scores: **9.9**
+design Scores: **9.8**
 
 *   Build Quality (50%) - **10**/10
     
@@ -90,7 +90,7 @@ design Scores: **9.9**
     
 *   Lid (20%) - **10**/10
     
-*   Extra Features (10%) - **9.0**/10
+*   Extra Features (10%) - **8.0**/10
     
 
 The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
@@ -159,7 +159,7 @@ The lid of the Anova Precision Pro is really well-made. We checked the lid hinge
 
 You'll notice a handle at the front of the unit, and it's used to work the locking system. To unlock the lid, just lift the handle. When you're ready to close the lid, push down the handle to secure the locks. This handle lock feature makes operating the sealer super easy, even if you use it with just one hand.
 
-### 9.0 - Extra Features
+### 8.0 - Extra Features
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-extra-features-clpgb57e2001dmm883vvbe2xb.jpg" alt="Inside the Anova Precision Pro is a large compartment that you can use to store a roll of plastic bag. There is a flip-down cutter for you to cut out any length of bag that you want." width="300px" height="200px">
 
