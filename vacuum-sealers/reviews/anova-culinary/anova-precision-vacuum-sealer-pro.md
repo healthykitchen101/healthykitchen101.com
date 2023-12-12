@@ -167,7 +167,7 @@ Bag Cutter: Yes
 
 Bag Holder: Yes
 
-Bag Hooks: Yes
+Bag Hooks: No
 
 Removable Drip Tray: No
 
