@@ -135,6 +135,8 @@ The Elite Gourmet EHB-2425X is designed with simplicity and affordability in min
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq2179t1000vpa88eeis6xw6.jpg" alt="The Elite Gourmet EHB-2425X immersion blender lying on a table with its paper carton box and a user’s manual." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   User manual
