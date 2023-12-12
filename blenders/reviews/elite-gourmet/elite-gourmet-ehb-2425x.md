@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.1**
+Overall Score: **4.1**
 
 *   Performance (50%) - **6.3**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **4.7**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -110,11 +110,11 @@ For aeration-heavy tasks like whipping egg whites, the Elite Gourmet EHB-2425X p
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **4.7**
 
-*   Build Quality (60%) - **0**/10
+*   Build Quality (60%) - **5.0**/10
     
-*   Blending Shaft (30%) - **0**/10
+*   Blending Shaft (30%) - **5.5**/10
     
 *   Power Cord (5%) - **0**/10
     
@@ -131,45 +131,55 @@ The Elite Gourmet EHB-2425X is designed with simplicity and affordability in min
 
 ### Dimensions
 
-Height:
+Height: 13.4" (34.0 cm)
 
-Width:
+Width: 2.4" (6.1 cm)
 
-Weight:
+Weight: 0.9 oz (26 g)
 
-Shaft Length:
+Shaft Length: 6.8" (17.3 cm)
 
-### Build Quality
+The Elite Gourmet EHB-2425X's compact design is great for easy storage and light tasks. However, its lightweight build, though convenient for handling, may compromise stability; a heavier blender often feels more sturdy and can handle tougher blending without excessive vibration or movement. Furthermore, the shaft length of 6.8 inches, though workable for standard tasks, might not reach deep enough for effective blending in large pots or for handling larger batches.
+
+### 5.0 - Build Quality
+
+The Elite Gourmet EHB-2425X's construction is crafted entirely from lightweight plastic, so it not only lacks the robustness and tactile satisfaction associated with higher-end kitchen appliances but also raises questions about its long-term resilience. Such material choices often lead to vulnerabilities in structural integrity, especially under frequent or heavy use.
+
+Internally, the coupling mechanism, a blend of plastic and metal, is poorly designed and lacks refinement. This suggests a potential weak point over time, particularly under the strain of blending harder ingredients or with consistent use.
 
 ### Speed and Controls
 
-Activation:
+Activation: Press-button
 
-Min Speed:
+Min Speed: N/A
 
-Max Speed:
+Max Speed: N/A
 
-Presets:
+Presets: No
 
-Noise Level:
+Noise Level: N/A
 
-Digital Display:
+Digital Display: No
 
-Pulse Mode:
+Pulse Mode: No
 
-### Blending Shaft
+Our Elite Gourmet EHB-2425X operates on a single speed controlled by just one button. This approach offers straightforward operation. Yet, the lack of variable speed settings limits its ability to finely tune blending consistency or tackle more intricate recipes that demand precise speed control.
 
-Material:
+### 5.5 - Blending Shaft
 
-Type:
+Material: Stainless steel
 
-Guard Material:
+Type: Sharp Blade
 
-Blade Count:
+Guard Material: Plastic
 
-Removable:
+Blade Count: 2
 
-Dishwasher Safe:
+Removable: Yes
+
+Dishwasher Safe: No
+
+The blade assembly features two prongs, which feels somewhat flimsy. They lack the firmness and sharpness  you often find from those of more heavy-duty models. Additionally, the plastic guard surrounding the blade does not inspire confidence in its ability to endure the stress of repeated use, especially with hard ingredients like frozen fruits.
 
 ### Beaker
 
