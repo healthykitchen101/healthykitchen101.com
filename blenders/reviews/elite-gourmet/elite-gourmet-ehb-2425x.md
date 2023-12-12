@@ -93,6 +93,8 @@ You may notice the beaker's tendency to wobble under the action of the blending 
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq215fhg000tpa88f6k32i63.jpg" alt="A white plate of almond pulp and a bowl of milk produced by the Elite Gourmet EHB-2425Xstick blender within 1 minute and 20 seconds." width="300px" height="200px">
+
 Grinding Time: 1 min 20 secs
 
 Result: Fine
