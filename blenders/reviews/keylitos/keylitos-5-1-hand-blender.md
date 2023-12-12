@@ -145,6 +145,8 @@ Constructed from a blend of durable mid-grade plastics and metals, the Keylitos 
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1syp2y000bpa88fpw8fwhd.jpg" alt="The Keylitos 5-in-1 standing on a table, with the length of its blending shaft being noted to the side as 8 inches, and the total length of the unit as 15.4 inches." width="300px" height="200px">
+
 Height: 15.4" (39.1 cm)
 
 Width: 2.5" (6.4 cm)
