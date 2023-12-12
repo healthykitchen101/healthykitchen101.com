@@ -121,7 +121,13 @@ design Scores: **0.0**
 *   Beaker (5%) - **0**/10
     
 
+The Elite Gourmet EHB-2425X is designed with simplicity and affordability in mind. Its construction prioritizes cost-effectiveness, using materials that are economical rather than premium.
+
 ### In the Box
+
+*   Motor body 
+*   Blending shaft 
+*   User manual
 
 ### Dimensions
 
