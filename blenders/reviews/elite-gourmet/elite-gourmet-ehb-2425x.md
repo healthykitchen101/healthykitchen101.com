@@ -49,6 +49,8 @@ The Elite Gourmet EHB-2425X delivered adequate performance in soup preparation, 
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20phe7000npa887yf62w2a.jpg" alt="Scooping a spoon of pureéd soup produced by the Elite Gourmet EHB-2425X from the plastic beaker to check its smoothness." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20pyup000opa882nluhxky.jpg" alt="A batch of soup pureéd by the Elite Gourmet EHB-2425X immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Smooth
