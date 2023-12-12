@@ -107,6 +107,8 @@ Still, it’s worth noting that during the blending process, pieces of almond sk
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq216hgt000upa8820ahcenm.jpg" alt="A digital timer shows 2:00 on a kitchen counter, with a beaker containing unsuccessfully beaten egg whites next to the Elite Gourmet immersion blender." width="300px" height="200px">
+
 Beating Time: Failed
 
 Result: Failed
