@@ -187,6 +187,8 @@ The Keylitos immersion blender boasts 12 speed settings, adjustable through a us
 
 ### 7.0 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t1jmz000fpa88gi16hn8h.jpg" alt="A Close-Up of the Keylitos 5-in-1 Immersion Blender Blade" width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
