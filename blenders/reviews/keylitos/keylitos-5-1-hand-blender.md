@@ -223,6 +223,8 @@ Using the Keylitos with its included 20-ounce beaker offers a practical solution
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t3gmj000hpa88691z6crg.jpg" alt="A close-up of the power cord of the Keylitos 5-in-1 immersion blender. " width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
