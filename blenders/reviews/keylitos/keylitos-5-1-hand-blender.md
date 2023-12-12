@@ -235,6 +235,8 @@ The Keylitos features a long power cord for easy access to outlets, complemented
 
 ### Extra Accessories: Whisk Attachment
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t48jb000ipa884t6q8t35.jpg" alt="A close-up of the whisk attachment of the Keylitos 5-in-1 immersion blender. " width="300px" height="200px">
+
 Material:  Stainless steel
 
 Dishwasher Safe: Yes
