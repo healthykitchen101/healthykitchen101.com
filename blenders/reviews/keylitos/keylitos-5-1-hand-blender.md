@@ -301,6 +301,8 @@ To assemble our blender, we aligned the blending wand or whisk attachment with t
 
 ### 8.0 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t6vpl000lpa88fva75d2j.jpg" alt="Someone is holding the Keylitos 5-in-1 Immersion Blender." width="300px" height="200px">
+
 In all our tests, the blender's handle remained comfortably grippable due to its ergonomic design. Paired with the machine's lightweight, this design effectively staved off hand fatigue, even during lengthy and intense blending sessions. Still, its smooth finish may make the grip less secure when your hands get wet or greasy. 
 
 ### 8.5 - Cleanability
