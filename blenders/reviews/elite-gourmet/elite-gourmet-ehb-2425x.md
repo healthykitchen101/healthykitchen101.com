@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.2**
+Overall Score: **6.1**
 
 *   Performance (50%) - **6.3**/10
     
 *   Design (20%) - **5.2**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **6.4**/10
     
 
 The Elite Gourmet EHB-2425X demonstrates varied performance. It excels in simpler tasks like making mayonnaise and almond milk, yet it struggles with more demanding ones like blending frozen fruits and whipping egg whites. While its ability to puree soup is above average, the shorter blending wand could pose challenges in deeper pots. This model is perhaps best suited for users with basic, lighter blending needs, rather than those seeking a robust, [all-purpose blender](https://healthykitchen101.com/blenders/reviews/best/) capable of a wide range of heavy-duty tasks. 
@@ -216,21 +216,35 @@ Removable:
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **6.4**
 
-*   Ease of Use (60%) - **0**/10
+*   Ease of Use (60%) - **5.3**/10
     
-*   Blade Assembly (10%) - **0**/10
+*   Blade Assembly (10%) - **7.0**/10
     
-*   Handling (20%) - **0**/10
+*   Handling (20%) - **8.5**/10
     
-*   Cleanability (10%) - **0**/10
+*   Cleanability (10%) - **8.0**/10
     
 
-### Ease of Use
+The Elite Gourmet EHB-2425X, in its pursuit of extreme simplicity, ends up sacrificing essential features that contribute to convenience and ease of use. Its straightforward design, while making its operation instantly understandable, also strips away the versatility and comfort found in more advanced models.
 
-### Blade Assembly
+### 5.3 - Ease of Use
 
-### Handling
+In our experience, the blender’s 150-watt motor proved insufficient for creating a strong vortex to smoothly blend ingredients. We frequently had to stop and manually mix the contents, which made the blending process quite tedious. On a positive note, we didn't struggle with excessive suction to the beaker, which allowed for easier maneuvering of the blender.
 
-### Cleanability
+Nevertheless, spatter was an issue due to the lack of variable speed settings. Starting at a high speed caused liquids to splash, a messy and inconvenient aspect of its operation.
+
+### 7.0 - Blade Assembly
+
+To detach the wand from the motor, you’ll need to twist the top motor clockwise and the bottom blender wand counter-clockwise, which is the opposite of the typical motion. This can be initially confusing for those of us accustomed to the more common method, where these actions are reversed.
+
+However, the mechanism itself is not complex. Once the correct twisting motion is understood and remembered, locking and unlocking the pieces into place is straightforward. For those new to hand blenders, this reversed action won't pose much of an issue, as there are no prior habits to unlearn.
+
+### 8.5 - Handling
+
+The handle is designed with a relatively slim profile. For users with smaller hands, this might make the blender easier to grip and maneuver. However, the lack of a textured or rubberized grip could be a drawback, as it may lead to a less secure hold, especially when handling wet or slippery conditions.
+
+### 8.0 - Cleanability
+
+Our cleaning tests revealed that food particles tended to cling to the backside of the blades, and these residuals were not easily removed with just a rinse under running water. The tight space between the blade and its guard restricted access, making it impossible to reach with fingers to clear away the leftovers. For a proper clean, we had to resort to using a straw-cleaning brush to dislodge and remove the trapped food particles.
