@@ -247,6 +247,8 @@ The whisk attachment for the Keylitos performs efficiently in tasks such as beat
 
 ### Extra Accessories: Food Processor
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t4yye000jpa88c8a5fqt0.jpg" alt="A close-up of the food processor attachment of the Keylitos 5-in-1 immersion blender." width="300px" height="200px">
+
 Material: Plastic and Stainless steel
 
 Dishwasher Safe: Yes
