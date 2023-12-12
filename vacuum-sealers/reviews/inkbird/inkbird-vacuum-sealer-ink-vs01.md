@@ -22,7 +22,6 @@ The Inkbird Plus INK-VS01 is a good option if you want a compact sealer that get
 **Things We Don’t Like**
 
 *   Cheap-looking design
-*   Doesn’t come with bag hooks, which makes feeding the bag into the sealer difficult
 
 The Inkbird Plus INK-VS01, which falls within the mid-range price range, pleasantly surprises with its compact size. Amazon reviews are filled with praise for its remarkable abilities, especially its speed and efficiency in creating airtight seals on bags.
 
