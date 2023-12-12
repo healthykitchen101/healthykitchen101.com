@@ -165,6 +165,8 @@ Internally, the coupling mechanism, a blend of plastic and metal, is poorly desi
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21pk68000zpa88fy1mc600.jpg" alt="A close-up of the Elite Gourmet EHB-2425X Single-Button" width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
