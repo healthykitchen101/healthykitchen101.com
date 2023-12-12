@@ -10,7 +10,7 @@ Overall Score: **7.7**
 *   Usability (30%) - **7.8**/10
     
 
-The Keylitos 5-in-1 is a modestly capable contender in the [mid-range immersion blender class](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/). Although it wasn’t the standout performer in any of our tests, it offered a balance of efficiency and versatility. Design-wise, the blender's build quality and materials are on par with what you might expect at this price point—average, yet they contribute to an ease of use that is not always evident in similarly priced models.
+The Keylitos 5-in-1 is a modestly capable contender among [mid-range immersion blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) we tested. Although it wasn’t the standout performer in any of our tests, it offered a balance of efficiency and versatility. Design-wise, the blender's build quality is on par with what you might expect at this price point—average, yet they contribute to an ease of use that is not always evident in similarly priced models.
 
 **Things We Like**
 
@@ -25,7 +25,7 @@ The Keylitos 5-in-1 is a modestly capable contender in the [mid-range immersion 
 *   Inefficient spatter control 
 *   Strong suction
 
-Keylitos, a brand gaining traction in the kitchen appliance market, has recently introduced its 5-in-1 Immersion Hand Blender. This new product from Keylitos is part of their broader range of kitchen tools designed for everyday use. The blender comes equipped with an 800-watt motor, combined with a stainless steel blending shaft and 12-speed settings. Alongside the main components, the package also includes practical accessories such as a chopper, beaker, whisk, and milk frother.
+Keylitos, a brand gaining traction in the kitchen appliance market, has recently introduced its 5-in-1 Immersion Hand Blender. This new product from Keylitos is part of their broader range of kitchen tools. The blender comes equipped with an 800-watt motor, combined with a stainless steel blending shaft and 12-speed settings. Alongside the main components, the package also includes practical accessories such as a chopper, beaker, whisk, and milk frother.
 
 Performance
 -----------
