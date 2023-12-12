@@ -79,6 +79,8 @@ Considering these points, it's clear that the Elite Gourmet EHB-2425X is not the
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20ukg9000rpa880ypmffi9.jpg" alt="A hand pours a creamy mixture from a cup beside the Elite Gourmet immersion blender; a digital timer reads 01:40, set against a backdrop of kitchen appliances." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq211anc000spa8868rg6awv.jpg" alt="Mayonnaise made by the Elite Gourmet EHB-2425X immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 1 min 40 secs
 
 Result: Smooth
