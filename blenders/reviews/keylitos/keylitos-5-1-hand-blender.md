@@ -87,6 +87,8 @@ Such an approach resulted in a mayonnaise that was not just well-incorporated bu
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1swf3g0008pa88geqd3f26.jpg" alt="The Keylitos 5-in-1 immersion blender beside its bowl of almond milk and the corresponding almond pulp produced in 1 minute." width="300px" height="200px">
+
 Grinding Time: 1 min 15 secs
 
 Result: Fine
