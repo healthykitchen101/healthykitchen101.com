@@ -133,6 +133,8 @@ Constructed from a blend of durable mid-grade plastics and metals, the Keylitos 
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1sxy35000apa88bx9l2iz3.jpg" alt="The Keylitos 5-in-1 immersion blender lying on a table with its accessories, including a beaker, whisk, chopper, milk frother attachment, bottle brush, and user manual." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Whisk attachment
