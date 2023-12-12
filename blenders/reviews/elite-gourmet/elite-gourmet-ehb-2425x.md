@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.1**
+Overall Score: **4.2**
 
 *   Performance (50%) - **6.3**/10
     
-*   Design (20%) - **4.7**/10
+*   Design (20%) - **5.2**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -110,13 +110,13 @@ For aeration-heavy tasks like whipping egg whites, the Elite Gourmet EHB-2425X p
 Design
 ------
 
-design Scores: **4.7**
+design Scores: **5.2**
 
 *   Build Quality (60%) - **5.0**/10
     
 *   Blending Shaft (30%) - **5.5**/10
     
-*   Power Cord (5%) - **0**/10
+*   Power Cord (5%) - **10**/10
     
 *   Beaker (5%) - **0**/10
     
@@ -181,29 +181,31 @@ Dishwasher Safe: No
 
 The blade assembly features two prongs, which feels somewhat flimsy. They lack the firmness and sharpness  you often find from those of more heavy-duty models. Additionally, the plastic guard surrounding the blade does not inspire confidence in its ability to endure the stress of repeated use, especially with hard ingredients like frozen fruits.
 
-### Beaker
+### Failed - Beaker: Not Included
 
-Material:
+Material: N/A
 
-Capacity:
+Capacity: NaN fl oz (NaN ml)
 
-Measurements:
+Measurements: N/A
 
-Weight:
+Weight: NaN oz (NaN g)
 
-Height:
+Height: NaN" (NaN cm)
 
-Dishwasher Safe:
+Dishwasher Safe: N/A
 
-### Power Cord
+### 10 - Power Cord
 
-Cord Length:
+Cord Length: 5.1 ft (1.6 m)
 
-Type:
+Type: 2-prong plug
 
-Detachable:
+Detachable: No
 
-### Extra Accessories
+The power cord is of a reasonable length so we’re afforded the flexibility to move around our kitchen space without being tethered too closely to an outlet.
+
+### Extra Accessories: Not Included
 
 Material:
 
