@@ -59,6 +59,8 @@ In a practical test of the Keylitos 5-in-1, a soup containing a mix of various v
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1srt9v0004pa88ayjna4ku.jpg" alt="Scooping a spoon of frozen fruit smoothie from a full batch in a plastic beaker made by the Keylitos 5-in-1 immersion blender in 1 minute 40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1ss9c00005pa8867u705yc.jpg" alt="After finishing blending, the green smoothie made by the Keylitos 5-in-1 immersion blender was spread evenly throughout a paper to check for smoothness." width="300px" height="200px">
+
 Blending Time: 1 min 40 secs
 
 Result: Smooth
