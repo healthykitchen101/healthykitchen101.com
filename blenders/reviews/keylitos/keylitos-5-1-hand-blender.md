@@ -167,6 +167,8 @@ In the course of our tests, our Keylitos did show some signs of wear – notably
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t08hn000dpa88bumy4dfy.jpg" alt="A close-up of the Keylitos 5-in-1 immersion blender top dial" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t0n9t000epa88cxw97dee.jpg" alt="A close-up of the Keylitos 5-in-1 immersion blender speed control buttons." width="300px" height="200px">
+
 Activation: Press-button & speed dial
 
 Min Speed: N/A
