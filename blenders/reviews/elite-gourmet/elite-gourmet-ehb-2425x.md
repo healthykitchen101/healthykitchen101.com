@@ -229,11 +229,11 @@ The power cord is of a reasonable length so we’re afforded the flexibility to 
 
 ### Extra Accessories: Not Included
 
-Material:
+Material: N/A
 
-Dishwasher Safe:
+Dishwasher Safe: N/A
 
-Removable:
+Removable: N/A
 
 Usability
 ---------
@@ -264,6 +264,8 @@ To detach the wand from the motor, you’ll need to twist the top motor clockwis
 However, the mechanism itself is not complex. Once the correct twisting motion is understood and remembered, locking and unlocking the pieces into place is straightforward. For those new to hand blenders, this reversed action won't pose much of an issue, as there are no prior habits to unlearn.
 
 ### 8.5 - Handling
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq2281bo0012pa88eog6hhex.jpg" alt="Someone is handling the Elite Gourmet EHB-2425X Immersion Blender" width="300px" height="200px">
 
 The handle is designed with a relatively slim profile. For users with smaller hands, this might make the blender easier to grip and maneuver. However, the lack of a textured or rubberized grip could be a drawback, as it may lead to a less secure hold, especially when handling wet or slippery conditions.
 
