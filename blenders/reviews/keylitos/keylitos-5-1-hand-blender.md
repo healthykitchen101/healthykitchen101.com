@@ -259,6 +259,8 @@ We haven’t tested this attachment, but the food processor included with the Ke
 
 ### Extra Accessories: Milk Frothing
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1t5omu000kpa889pbed7qv.jpg" alt="A close-up of the milk frothing attachment of the Keylitos 5-in-1 immersion blender. " width="300px" height="200px">
+
 Material: Plastic and Stainless steel
 
 Dishwasher Safe: Yes
