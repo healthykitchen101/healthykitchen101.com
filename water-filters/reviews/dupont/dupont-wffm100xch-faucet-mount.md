@@ -77,7 +77,7 @@ Design
 
 design Scores: **8.4**
 
-*   Housing Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/10
     
 *   Filter Piece (50%) - **8.0**/10
     
@@ -119,7 +119,7 @@ The DuPont WFFM100XCH faucet filter is one of the lightest models in our databas
 
 Moreover, the filter's compact design ensures that it does not take up too much space in your kitchen. Once mounted on the faucet, it blends into the background and becomes a part of the faucet. During our performance tests, the DuPont WFFM100XCH never got in our way. We could carry out our work without the filter hindering our movements.
 
-### 8.5 - Housing Build Quality
+### 8.5 - Build Quality
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-build-quality-clec81ue7006sde88gdw82eqw.jpg" alt="The side profile of the silvery and glossy DuPont WFFM100XCH faucet-mount water filter on a grey table." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/dupont-faucet-mount-water-filter-build-quality-1-clec82gcq006tde882je45gfd.jpg" alt="A close-up of the DuPont WFFM100XCH filter’s mounting port, with black plastic rotating ring and golden metallic threading." width="300px" height="200px">
 
