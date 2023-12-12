@@ -63,6 +63,8 @@ You might assume that the 30-second test period is insufficient, but it is notew
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20ry16000ppa88gli2ghhs.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Elite Gourmet EHB-2425X Hand Blender had completed the test in 2:30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20tl3g000qpa88d7jpbvkx.jpg" alt="After finishing blending, the green smoothie made by the Elite Gourmet EHB-2425X immersion blender was spread evenly throughout a white paper to check for solid chunks." width="300px" height="200px">
+
 Blending Time: 2 mins 30 secs
 
 Result: Leafy
