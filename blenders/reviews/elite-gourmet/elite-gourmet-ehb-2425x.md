@@ -143,6 +143,8 @@ The Elite Gourmet EHB-2425X is designed with simplicity and affordability in min
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21dr1b000wpa8876ah1h4y.jpg" alt="The Elite Gourmet EHB-2425X hand-held blender standing on top of its blending shaft on a table, with the length of the shaft being noted to the side as 6.8 inches, and the total length of the unit as 13.4 inches." width="300px" height="200px">
+
 Height: 13.4" (34.0 cm)
 
 Width: 2.4" (6.1 cm)
