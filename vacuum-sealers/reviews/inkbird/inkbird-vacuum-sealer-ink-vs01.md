@@ -101,6 +101,8 @@ Besides the sealer itself, the Inkbird Plus INK-VS01 comes with the following it
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-dimensions-clq237uve0013pa88b7kr5wli.jpg" alt="The dimensions of the Inkbird Plus INK-VS01 is noticeably compact width-wise. Its length is 14.17, width clocks in at just 3.9 inches, and height is 1.57 inches." width="300px" height="200px">
+
 Weight: 2.3 lbs (1.0 kg)
 
 Length: 14.2" (36.0 cm)
