@@ -190,6 +190,8 @@ The Inkbird Plus INK-VS01 could be more user-friendly. One of the main issues is
 
 ### 9.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-noise-clq1puiq20000pa88cxc4e01q.jpg" alt="The Inkbird Plus INK-VS01 during a dry food test. Our noise level meter recorded the peak loudness of the motor in this instance, which is 83.2 dBA." width="300px" height="200px">
+
 Maximum Noise Level: 83.2 dBA
 
 The Inkbird Plus INK-VS01 is on the louder side, having achieved a noise level of 83.2 dBA during a dry food test. But this is still within the general range for the loudness of most vacuum sealers.
