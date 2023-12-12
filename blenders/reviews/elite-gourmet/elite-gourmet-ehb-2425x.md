@@ -185,6 +185,8 @@ Our Elite Gourmet EHB-2425X operates on a single speed controlled by just one bu
 
 ### 5.5 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq21qj170010pa88a2xiehqb.jpg" alt="A Close-Up of the Elite Gourmet EHB-2425X Blade Assembly" width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
