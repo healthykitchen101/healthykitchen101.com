@@ -159,6 +159,8 @@ In line with the most other immersion blenders we examined, the Keylitos is comp
 
 ### 7.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1szce0000cpa88gn6v3rek.jpg" alt="A close-up of the blending shaft and motor housing of the Keylitos 5-in-1." width="300px" height="200px">
+
 At its core, the Keylitos utilizes a medium-grade plastic which contributes to its lightness and ease of handling. However, this blender doesn't stop there – it steps up its game by incorporating brushed stainless steel elements into its structure. These steel accents do more than just inject a dash of sophistication into its appearance; they also bring a much-needed sturdiness to the device. 
 
 In the course of our tests, our Keylitos did show some signs of wear – notably, a few scratches on the plastic housing. However, these were purely cosmetic and didn’t hinder the blender's performance. 
