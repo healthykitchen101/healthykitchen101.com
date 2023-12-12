@@ -217,6 +217,8 @@ Dishwasher Safe: N/A
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq222x9y0011pa88f6qaec4b.jpg" alt="A Close-Up of the Elite Gourmet EHB-2425X power cord." width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
