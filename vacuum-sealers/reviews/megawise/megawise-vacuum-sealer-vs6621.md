@@ -104,6 +104,8 @@ In the shipping box of the Megawise VS6621, aside from the sealer itself, you’
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-dimensions-clq380ryu001apa886bt706bl.jpg" alt="The Megawise VS6621 is considered a compact vacuum sealer, measuring 15.5 inches in length, 4.1 inches in width, and is 2.1 inches tall." width="300px" height="200px">
+
 Weight: 2.3 lbs (1.0 kg)
 
 Length: 15.5" (39.4 cm)
