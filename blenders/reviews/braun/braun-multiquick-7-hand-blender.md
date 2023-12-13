@@ -32,7 +32,7 @@ performance Scores: **8.3**
 
 *   Hot Soup Purée (35%) - **8.0**/10
     
-*   Smoothie (30%) - **8.8**/10
+*   Frozen Fruit Smoothie (30%) - **8.8**/10
     
 *   Mayonnaise (15%) - **7.0**/10
     
@@ -55,7 +55,7 @@ Suction: No
 
 For those who savor the comfort of a hot, homemade soup, the Braun MQ7035X promises to deliver with ease and finesse. In this pureéing task, it came impressively close to delivering the perfect purée. It powered through most ingredients with a notable efficiency, and while it did not capture every last piece to perfection, the end result was a pleasingly smooth texture with a touch of homemade authenticity. A few solids might slip through, but they're the exception rather than the rule.
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptid3k0000q2i88aqvo6fli.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Braun MQ7035X Hand Blender had completed the test in 1 minute 10 secs." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptidim4000r2i88g0c203oh.jpg" alt="After finishing blending, the green smoothie made by the Braun MQ7035X immersion blender was spread evenly throughout a paper on a table to check for solid chunks. " width="300px" height="200px">
 
