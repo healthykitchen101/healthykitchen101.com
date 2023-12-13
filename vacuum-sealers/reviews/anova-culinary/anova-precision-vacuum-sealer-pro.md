@@ -162,7 +162,9 @@ You'll notice a handle at the front of the unit, and it's used to work the locki
 
 ### 8.0 - Extra Features
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-extra-features-clpgb57e2001dmm883vvbe2xb.jpg" alt="Inside the Anova Precision Pro is a large compartment that you can use to store a roll of plastic bag. There is a flip-down cutter for you to cut out any length of bag that you want." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-extra-features-clq36gk640014pa881edd9o9v.jpg" alt="Inside the Anova Precision Pro is a large compartment that you can use to store a roll of plastic bag. There is a flip-down cutter for you to cut out any length of bag that you want." width="300px" height="200px">
+
+Inside the Anova Precision Pro is a large compartment that you can use to store a roll of plastic bag. There is a flip-down cutter for you to cut out any length of bag that you want.
 
 Bag Cutter: Yes
 
