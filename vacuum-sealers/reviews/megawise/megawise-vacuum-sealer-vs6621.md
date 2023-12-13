@@ -146,6 +146,8 @@ An extra button can be found when you open up the sealer. Labeled as “Vac,” 
 
 ### 9.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-lid-clq3862h0001epa881dwjcd0a.jpg" alt="The latch locks on the Megawise VS6621 clicks in place fairly smoothly, but requires a bit of force. This can make it challenging for using the sealer one-handed." width="300px" height="200px">
+
 Lid Lock: Latch lock
 
 The Megawise VS6621, as expected from a sealer in this price range, comes with standard latch locks. To close and secure the lid, you simply need to press down firmly. The locks on the sealer snap into place smoothly but can require a fair bit of pressure. As a result, for some people, it can be difficult to use the sealer one-handed. This is our main gripe with the sealer (as well as any other model with similar latch locks.)
