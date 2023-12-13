@@ -154,6 +154,8 @@ The Megawise VS6621, as expected from a sealer in this price range, comes with s
 
 ### 4.0 - Extra Features
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-extra-features-clq3873ok001fpa886lv00ym0.jpg" alt="The bag cutter on top of the Megawise VS6621’s lid also has a handy ruler for you to precisely measure the length of bag you want to cut." width="300px" height="200px">
+
 Bag Cutter: Yes
 
 Bag Holder: No
