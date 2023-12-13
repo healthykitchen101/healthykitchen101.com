@@ -36,7 +36,7 @@ performance Scores: **6.3**
 
 *   Hot Soup Purée (35%) - **8.0**/10
     
-*   Smoothie (30%) - **3.5**/10
+*   Frozen Fruit Smoothie (30%) - **3.5**/10
     
 *   Mayonnaise (15%) - **9.0**/10
     
@@ -61,7 +61,7 @@ The Elite Gourmet EHB-2425X is at best a basic pureeing tool. Suitable for home 
 
 You might assume that the 30-second test period is insufficient, but it is noteworthy that there are blenders that can make a pass with an almost perfect purée. They include the [Vitamix 5-speed](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/) and the [Ninja Foodi](https://healthykitchen101.com/blenders/reviews/ninja/ninja-foodi-ci101-power-mixer-system/). And this suggests that the shortcomings of the Elite Gourmet EHB-2425X lie in its capability rather than the testing duration.
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20ry16000ppa88gli2ghhs.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Elite Gourmet EHB-2425X Hand Blender had completed the test in 2:30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq20tl3g000qpa88d7jpbvkx.jpg" alt="After finishing blending, the green smoothie made by the Elite Gourmet EHB-2425X immersion blender was spread evenly throughout a white paper to check for solid chunks." width="300px" height="200px">
 
