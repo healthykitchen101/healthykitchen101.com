@@ -155,7 +155,7 @@ Overall, the locks and their construction work fine. However, it's worth noting 
 
 ### 5.0 - Extra Features
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-extra-features-clq0qy6ao000gcg882tb13b7d.jpg" alt="The sealer comes with a convenient bag cutter built right into the top of the lid." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-extra-features-clq0qy6ao000gcg882tb13b7d.jpg" alt="The sealer comes with a convenient bag cutter built right into the top of the lid." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/inkbird-ink-vs01-vacuum-sealer-extra-features-1-clq3fqshe001ipa88descdho2.jpg" alt="There is a pair of bag hooks located within the vacuum channel of the Inkbird Plus INK-VS01." width="300px" height="200px">
 
 Bag Cutter: Yes
 
