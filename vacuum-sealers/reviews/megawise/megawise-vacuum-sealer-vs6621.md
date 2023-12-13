@@ -186,6 +186,10 @@ Overall, the Megawise VS6621 is incredibly user-friendly. The control panel butt
 
 ### 8.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-noise-clq388ojd001gpa88bxuu5wgq.jpg" alt="The Megawise VS6621 vacuum sealer is one of the loudest models we’ve tested, hitting a peak of 87.5 dBA during a dry food test, according to our noise level meter." width="300px" height="200px">
+
+The Megawise VS6621 vacuum sealer is one of the loudest models we’ve tested, hitting a peak of 87.5 dBA during a dry food test, according to our noise level meter.
+
 Maximum Noise Level: 87.5 dBA
 
 The Megawise VS6621 scored well in this category thanks to its thoughtful safety features. Inside the sealer, you'll find several stickers that alert users to potentially hazardous components, such as the heating bar. Additionally, they've coated the heating bar with a bright orange, high-visibility sticker to help prevent accidental contact, especially for new users.
