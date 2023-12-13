@@ -7,7 +7,7 @@ Overall Score: **6.7**
     
 *   Design (20%) - **8.0**/10
     
-*   Usability (30%) - **8.7**/10
+*   Usability (30%) - **8.5**/10
     
 
 Let's start with the positives: This wallet-friendly vacuum sealer is well-built and is highly user-friendly, even for beginners. However, it disappoints in vacuum sealing performance, performing poorly in both dry and moist food tests. All the while, it works rather noisily at 84.4 decibels.
@@ -169,11 +169,11 @@ The Megawise VS6621 includes a bag cutter, allowing you to easily trim the right
 Usability
 ---------
 
-usability Scores: **8.7**
+usability Scores: **8.5**
 
 *   Ease of Use (70%) - **8.5**/10
     
-*   Safety & Noise (15%) - **8.0**/10
+*   Safety & Noise (15%) - **7.0**/10
     
 *   Indicator Lights and Chime (15%) - **10**/10
     
@@ -184,7 +184,7 @@ While the sealing performance of the Megawise VS6621 may not be stellar, it shin
 
 Overall, the Megawise VS6621 is incredibly user-friendly. The control panel buttons are all very responsive, and the built-in cutter adds a lot of convenience to the sealing process. The only issue we have with the sealer is that the lid can be a bit difficult to close as it requires a significant amount of downward force, which can be challenging if one of your hands is already busy.
 
-### 8.0 - Safety & Noise
+### 7.0 - Safety & Noise
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-noise-clq388ojd001gpa88bxuu5wgq.jpg" alt="The Megawise VS6621 vacuum sealer is one of the loudest models we’ve tested, hitting a peak of 87.5 dBA during a dry food test, according to our noise level meter." width="300px" height="200px">
 
