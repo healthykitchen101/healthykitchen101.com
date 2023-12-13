@@ -126,6 +126,8 @@ When it comes to build quality, our reviewers found that all the components of t
 
 ### 9.0 - Control Panel
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-control-panel-clq382zgt001cpa88esur0odd.jpg" alt="Close-up on the control panel of the Megawise VS6621 vacuum sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-control-panel-1-clq383jo2001dpa880gt09lqy.jpg" alt="The sixth “Vac” button on the interior of the Megawise VS6621 vacuum sealer." width="300px" height="200px">
+
 Button Type: Physical
 
 Number of Buttons: 6
