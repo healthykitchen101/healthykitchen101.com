@@ -62,6 +62,8 @@ On the bright side, the sealing cycle time is decent, taking 14 seconds in both 
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-moist-food-test-clq37tyry0017pa88h39ze3ur.jpg" alt="The Megawise VS6621 vacuum sealer in the first moist food test. The sealer took a lot longer than in the dry test, taking 50 seconds to finish a working cycle with a peak vacuum strength of 49 kPA." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-moist-food-test-1-clq37unzz0018pa88dvivcmxe.jpg" alt="The second moist food test for the Megawise VS6621 played out in a near-identical fashion, with a working cycle of 49 seconds and a peak vacuum strength of 47 kPA." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Moist
