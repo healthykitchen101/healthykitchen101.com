@@ -34,7 +34,7 @@ performance Scores: **7.8**
 
 *   Hot Soup Purée (35%) - **7.5**/10
     
-*   Smoothie (30%) - **7.0**/10
+*   Frozen Fruit Smoothie (30%) - **7.0**/10
     
 *   Mayonnaise (15%) - **9.3**/10
     
@@ -57,7 +57,7 @@ Suction: Tightly
 
 In a practical test of the Keylitos 5-in-1, a soup containing a mix of various vegetables was blended for exactly 30 seconds. A strainer inspection revealed that, within this short span, the blender effectively pureed the softer items like onion and pumpkin. Although it left behind discernible pieces of the more fibrous celery and carrot, we found the overall texture of the soup was still sufficiently fine for most purposes. Just noted that this performance did not match that of other [higher-priced blenders](https://healthykitchen101.com/blenders/reviews/best/), such as the Vitamix 5-speed and the Ninja Foodi, which mostly delivered a completely smooth soup within the same 30-second timeframe.
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1srt9v0004pa88ayjna4ku.jpg" alt="Scooping a spoon of frozen fruit smoothie from a full batch in a plastic beaker made by the Keylitos 5-in-1 immersion blender in 1 minute 40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq1ss9c00005pa8867u705yc.jpg" alt="After finishing blending, the green smoothie made by the Keylitos 5-in-1 immersion blender was spread evenly throughout a paper to check for smoothness." width="300px" height="200px">
 
