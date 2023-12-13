@@ -46,6 +46,8 @@ To put it simply, when we combined the scores from tests with dry and moist food
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-dry-food-test-clq37r3g40015pa88h9pz77g7.jpg" alt="The Megawise VS6621 vacuum sealer during the first dry food test. After 14 seconds, the sealer hit a peak vacuum strength of 36 kPA." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-dry-food-test-1-clq37rl4z0016pa88eeit0urf.jpg" alt="The Megawise VS6621 vacuum sealer in the second dry food test. Similar to the first test, the sealer finished a working cycle in 14 seconds with a peak vacuum of 33 kPA." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Dry
