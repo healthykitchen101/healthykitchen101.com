@@ -118,6 +118,8 @@ One of the first things that caught our attention when we unboxed the Megawise V
 
 ### 8.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-build-quality-clq381yhy001bpa88ev2bbwxs.jpg" alt="The Megawise VS6621 is an extremely compact vacuum sealer that has garnered glowing reviews from customers as of late." width="300px" height="200px">
+
 Regarding aesthetics, the Megawise VS6621 aligns with what you'd typically expect from a mid-range vacuum sealer. It doesn't have the flashy appeal of a model like the FoodSaver VS-0160 with its metallic top, but it also doesn't resemble a low-quality, bargain-bin sealer.
 
 When it comes to build quality, our reviewers found that all the components of the sealer, including the lid and control panel, are well-constructed. Based on their evaluation, they did not identify any significant design or manufacturing issues that would compromise the unit's long-term durability.
