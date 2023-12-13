@@ -198,6 +198,8 @@ When it comes to noise, our noise level meter registered a peak loudness of 87.5
 
 ### 10 - Indicator Lights and Chime
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-indicator-lights-clq389u37001hpa883jylfl9v.jpg" alt="There are six different indicator lights on the Megawise VS6621, plus a progress bar. All the lights are bright and can be seen even under harsh lighting conditions." width="300px" height="200px">
+
 Numberof Indicators: 6
 
 Progress Bar: Yes
