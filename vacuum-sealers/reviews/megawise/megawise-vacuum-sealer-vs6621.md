@@ -94,6 +94,8 @@ The Megawise VS6621 boasts a stylish design that strikes a balance between affor
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-box-clq37zhbw0019pa887gsu1a17.jpg" alt="The Megawise VS6621 and all the accompanying accessories, including the air hose, complementary plastic bags, instruction manual and warranty card." width="300px" height="200px">
+
 In the shipping box of the Megawise VS6621, aside from the sealer itself, you’ll find the accompanying items:
 
 *   Sheets of pre-cut plastic bags
