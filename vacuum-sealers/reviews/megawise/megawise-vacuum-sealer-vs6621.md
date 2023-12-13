@@ -1,18 +1,30 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **6.7**
 
 *   Performance (50%) - **5.0**/10
     
-*   Design (20%) - **7.6**/10
+*   Design (20%) - **8.0**/10
     
 *   Usability (30%) - **8.7**/10
     
 
+Let's start with the positives: This wallet-friendly vacuum sealer is well-built and is highly user-friendly, even for beginners. However, it disappoints in vacuum sealing performance, performing poorly in both dry and moist food tests. All the while, it works rather noisily at 84.4 decibels.
+
+If affordability and ease of use are your main concerns, the Megawise VS6621 is worth considering. But for superior sealing or a quieter kitchen, there are [other models](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in the same price range, like the Mueller MV-1100, that’ll give you an edge.
+
 **Things We Like**
 
+*   Affordable
+*   Decent build quality comes included with a built-in bag cutter
+*   Excellent ease of use
+*   Numerous safety signs and stickers
+
 **Things We Don’t Like**
+
+*   Lackluster vacuum-packing performance
+*   Loud motor noise (84.4 dBA)
 
 The Megawise VS6621, one of the first vacuum sealers we tested, stands out for its built-in bag cutter and compact size. Many customers have praised the convenience of these features. However, its actual performance remains a subject of debate. 
 
@@ -63,13 +75,15 @@ Apart from the unusually strong suction, which may make it less effective for se
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **8.0**
 
 *   Build Quality (50%) - **8.0**/10
     
 *   Control Panel (20%) - **9.0**/10
     
 *   Lid (20%) - **9.0**/10
+    
+*   Extra Features (10%) - **4.0**/10
     
 
 The Megawise VS6621 boasts a stylish design that strikes a balance between affordability and quality. It's compact and won't clutter your countertop. The unit is well-built, with solid parts throughout, including the lid, locking mechanism, and control panel. Additionally, it includes a convenient bag cutter on the lid.
