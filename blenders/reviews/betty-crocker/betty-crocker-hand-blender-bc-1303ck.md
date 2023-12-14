@@ -116,6 +116,8 @@ Weight: 1.4 lbs (0.6 kg)
 
 Shaft Length: 7.5" (19.1 cm)
 
+The Betty Crocker features a height of 14.5 inches and a width of 2.9 inches, making it a compact and space-efficient appliance suitable for easy storage. It weighs a manageable 1.4 lbs, ensuring comfortable handling and use. The blender's shaft length is 7.5 inches, ideal for blending in deep pots.
+
 ### Build Quality
 
 ### Speed and Controls
