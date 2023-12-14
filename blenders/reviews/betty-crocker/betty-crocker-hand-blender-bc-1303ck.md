@@ -97,17 +97,24 @@ design Scores: **0.0**
 *   Beaker (5%) - **0**/10
     
 
+The Betty Crocker features a straightforward, no-frills design. Given its lower price point, it's understood that it won't match the durability or advanced features of more expensive models. Yet, we would rightfully expect a certain level of reliable and steady performance. However, this is where the Betty Crocker blender disappoints; our **blending shaft was damaged** after only a few uses. 
+
 ### In the Box
+
+*   Motor body 
+*   Blending shaft 
+*   Beaker   
+*   User manual
 
 ### Dimensions
 
-Height:
+Height: 14.5" (36.8 cm)
 
-Width:
+Width: 2.9" (7.4 cm)
 
-Weight:
+Weight: 1.4 lbs (0.6 kg)
 
-Shaft Length:
+Shaft Length: 7.5" (19.1 cm)
 
 ### Build Quality
 
