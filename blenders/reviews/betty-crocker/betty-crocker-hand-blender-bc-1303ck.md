@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **0.0**
+Overall Score: **0.7**
 
 *   Performance (50%) - **0.0**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **3.3**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -86,9 +86,9 @@ Suction:
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **3.3**
 
-*   Build Quality (60%) - **0**/10
+*   Build Quality (60%) - **5.5**/10
     
 *   Blending Shaft (30%) - **0**/10
     
@@ -118,23 +118,27 @@ Shaft Length: 7.5" (19.1 cm)
 
 The Betty Crocker features a height of 14.5 inches and a width of 2.9 inches, making it a compact and space-efficient appliance suitable for easy storage. It weighs a manageable 1.4 lbs, ensuring comfortable handling and use. The blender's shaft length is 7.5 inches, ideal for blending in deep pots.
 
-### Build Quality
+### 5.5 - Build Quality
+
+For even a low-cost kitchen appliance, consumers might not only expect but require a certain standard of durability and reliability that, based on some accounts, this blender does not consistently meet.  Among the blenders we've tested, Betty Crocker is considered one of the poorest in terms of build quality. Its overall construction, both internally and externally, is deemed cheap. Moreover, its aesthetic appeal diminishes quickly; the color and finish lose their vibrancy and sheen after only a few uses.
 
 ### Speed and Controls
 
-Activation:
+Activation: Press-button
 
-Min Speed:
+Min Speed: N/A
 
-Max Speed:
+Max Speed: N/A
 
-Presets:
+Presets: No
 
-Noise Level:
+Noise Level: N/A
 
-Digital Display:
+Digital Display: No
 
-Pulse Mode:
+Pulse Mode: No
+
+The blender is designed with a dual-speed functionality, accessible via two buttons located on its front. When toggling between these speeds, we notice a significant and clear alteration in the rotational velocity of the blades. 
 
 ### Blending Shaft
 
