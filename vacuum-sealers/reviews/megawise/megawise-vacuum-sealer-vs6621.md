@@ -182,6 +182,8 @@ While the sealing performance of the Megawise VS6621 may not be stellar, it shin
 
 ### 8.5 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/megawise-vacuum-sealer-vs6621-ease-use-clq4ki7y00000vv8840rq759f.jpg" alt="The Megawise VS6621 requires a lot of downward force to click close. As such, it can be difficult to use the sealer one-handed." width="300px" height="200px">
+
 Overall, the Megawise VS6621 is incredibly user-friendly. The control panel buttons are all very responsive, and the built-in cutter adds a lot of convenience to the sealing process. The only issue we have with the sealer is that the lid can be a bit difficult to close as it requires a significant amount of downward force, which can be challenging if one of your hands is already busy.
 
 ### 7.0 - Safety & Noise
