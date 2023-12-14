@@ -10,9 +10,22 @@ Overall Score: **0.0**
 *   Usability (30%) - **0.0**/10
     
 
+The Betty Crocker’s performance is adequate for simple tasks such as puréeing soups, making nut milk, and concocting mayonnaise. Yet, its proficiency is tested and found wanting with the challenge of frozen fruit smoothies; the power of the motor is insufficient for achieving the desired creamy texture. Moreover, when it's a question of whipping efficiency, the blender is outpaced by competitors that boast whisk attachments. 
+
+The blender’s build also leaves room for improvement. Its plastic components point to a design that prioritizes cost-saving over durability. And this was quickly proven to be a drawback, as evidenced by a broken part that emerged after our testing.
+
 **Things We Like**
 
+*   Adequate for light task
+*   Simple design
+
 **Things We Don’t Like**
+
+*   Flimsy construction 
+*   Lackluster heavy blending performance 
+*   Lack of user-friendly features
+
+Affordable kitchen tools often prompt skepticism, and the Betty Crocker BC-1303CK is no exception. In this review, we'll examine if this blender is a hidden gem or a case of false economy. We'll test its 200-watt motor, two-speed settings, and plastic construction to offer you a clear picture of what you can expect. If you're considering this blender, our findings will help you weigh its cost against its actual kitchen performance.
 
 Performance
 -----------
