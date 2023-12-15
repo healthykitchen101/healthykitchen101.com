@@ -182,6 +182,8 @@ The blender is designed with a dual-speed functionality, accessible via two butt
 
 ### 4.0 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6eea5w000evv881mxj0306.jpg" alt="A Close-Up of the Betty Crocker’s Blending Shaft." width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
