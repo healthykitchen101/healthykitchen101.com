@@ -200,6 +200,8 @@ Type:
 
 Detachable:
 
+For those using the Betty Crocker blender's 20-ounce beaker for moderate blending activities, it serves well initially. Yet, it's important to be aware that the beaker can show signs of wear or marking from the blender's action.
+
 ### Extra Accessories
 
 Material:
