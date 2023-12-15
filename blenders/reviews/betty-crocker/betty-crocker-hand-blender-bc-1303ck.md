@@ -162,6 +162,8 @@ For even a low-cost kitchen appliance, consumers might not only expect but requi
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6ebq0j000dvv8833006g5d.jpg" alt="A Close-Up of the Betty Crocker’s Buttons" width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
