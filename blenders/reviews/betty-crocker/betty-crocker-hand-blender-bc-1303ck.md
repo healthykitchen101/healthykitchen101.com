@@ -61,6 +61,8 @@ For the most part, we consider this result acceptable. It’s particularly suffi
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e345l0004vv88bfta4pgg.jpg" alt="The result after using a Betty Crocker immersion blender for three minutes, with noticeable fruit chunks remaining in the mixture." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e3jtg0005vv8824hzdpp5.jpg" alt="After finishing blending, the green smoothie made by the Betty Crocker immersion blender was spread evenly throughout a paper to check for smoothness." width="300px" height="200px">
+
 Blending Time: 3 mins
 
 Result: Very Coarse
