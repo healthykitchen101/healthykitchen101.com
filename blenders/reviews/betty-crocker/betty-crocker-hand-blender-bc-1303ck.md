@@ -156,6 +156,8 @@ The Betty Crocker features a height of 14.5 inches and a width of 2.9 inches, ma
 
 ### 5.5 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6eaawd000cvv885u64bwtp.jpg" alt="A Close-Up of the Motor Body and Blending Shaft of the Betty Crocker" width="300px" height="200px">
+
 For even a low-cost kitchen appliance, consumers might not only expect but require a certain standard of durability and reliability that, based on some accounts, this blender does not consistently meet.  Among the blenders we've tested, Betty Crocker is considered one of the poorest in terms of build quality. Its overall construction, both internally and externally, is deemed cheap. Moreover, its aesthetic appeal diminishes quickly; the color and finish lose their vibrancy and sheen after only a few uses.
 
 ### Speed and Controls
