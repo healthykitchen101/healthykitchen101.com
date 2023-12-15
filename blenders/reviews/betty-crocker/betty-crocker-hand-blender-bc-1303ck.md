@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.2**
+Overall Score: **2.7**
 
-*   Performance (50%) - **3.0**/10
+*   Performance (50%) - **4.0**/10
     
 *   Design (20%) - **3.3**/10
     
@@ -30,13 +30,13 @@ Affordable kitchen tools often prompt skepticism, and the Betty Crocker BC-1303C
 Performance
 -----------
 
-performance Scores: **3.0**
+performance Scores: **4.0**
 
 *   Hot Soup Purée (35%) - **7.0**/10
     
 *   Smoothie (30%) - **2.0**/10
     
-*   Mayonnaise (15%) - **0**/10
+*   Mayonnaise (15%) - **6.5**/10
     
 *   Almond Milk (15%) - **0**/10
     
@@ -61,17 +61,25 @@ For the most part, we consider this result acceptable. It’s particularly suffi
 
 Blending Time: 3 mins
 
-Result:
+Result: Very Coarse
 
-Suction:
+Suction: Slightly
+
+The test was conducted using kale, mango, and pineapple, all frozen, to challenge the Betty Crocker blender's capabilities. As the blender operated, the focus was on the transformation of the mixture's texture. The goal was to achieve a smoothie that was both smooth in texture and cold in temperature—hallmarks of a well-crafted frozen smoothie. However, after three minutes of blending, it became apparent that the smoothie had not reached a satisfactory level of smoothness. Pieces of fruit and kale remained noticeable, despite the blender’s considerable effort.
+
+From this test, we conclude that the Betty Crocker blender **is definitely not the ideal tool** for creating smoothies from tough, frozen ingredients within a short time frame without compromising texture. For those seeking a consistently smooth and chilled smoothie, a higher-powered blender, such as the [Vitamix 5-speed](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/) or the [Braun MultiQuick-5](https://healthykitchen101.com/blenders/reviews/braun/braun-multiquick-5-blender/), would likely be a better investment.
 
 ### Mayonnaise
 
-Emulsifying Time:
+Emulsifying Time: 2 min 15 secs
 
-Result:
+Result: Smooth
 
-Suction:
+Suction: Slightly
+
+After a blending time of 2 minutes and 15 seconds, the Betty Crocker produced mayonnaise that was both smooth to the touch and pleasing to the palate — a well-emulsified mixture that held together in creamy harmony.
+
+However, when placed in the context of performance speed, the Betty Crocker takes its time, with a blending duration that stretches notably beyond the average of its high-speed competitors. In a fast-paced culinary environment, this longer duration could be seen as a drawback so despite the successful outcome, the blender did not score highly in this test.
 
 ### Almond Milk
 
