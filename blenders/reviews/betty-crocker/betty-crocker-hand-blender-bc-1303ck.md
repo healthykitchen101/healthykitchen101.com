@@ -75,6 +75,8 @@ From this test, we conclude that the Betty Crocker blender **is definitely not t
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e4jcs0006vv88dbp888j8.jpg" alt="A hand pours a creamy mixture from a cup beside theBetty Crocker immersion blender; a digital timer reads 2:15, set against a backdrop of kitchen appliances." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e50jl0007vv887jdz15zo.jpg" alt="Scoping a spoon of mayonnaise from a white bowl." width="300px" height="200px">
+
 Emulsifying Time: 2 min 15 secs
 
 Result: Smooth
