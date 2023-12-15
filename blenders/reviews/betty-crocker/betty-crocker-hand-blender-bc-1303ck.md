@@ -142,6 +142,8 @@ The Betty Crocker features a straightforward, no-frills design. Given its lower 
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e9hko000bvv880vkfe2pe.jpg" alt="The Betty Crocker standing on a table, with the length of its blending shaft being noted to the side as 7.5 inches, and the total length of the unit as 14.5 inches." width="300px" height="200px">
+
 Height: 14.5" (36.8 cm)
 
 Width: 2.9" (7.4 cm)
