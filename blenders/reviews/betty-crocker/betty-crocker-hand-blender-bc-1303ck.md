@@ -89,6 +89,8 @@ However, when placed in the context of performance speed, the Betty Crocker take
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e639j0008vv88arr50nqs.jpg" alt="A white plate of almond pulp and a bowl of milk produced by the Betty Crocker stick blender within 1 minute and 30 seconds." width="300px" height="200px">
+
 Grinding Time: 1 min 30 secs
 
 Result: Fine
