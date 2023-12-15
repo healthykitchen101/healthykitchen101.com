@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **0.7**
+Overall Score: **2.2**
 
-*   Performance (50%) - **0.0**/10
+*   Performance (50%) - **3.0**/10
     
 *   Design (20%) - **3.3**/10
     
@@ -30,11 +30,11 @@ Affordable kitchen tools often prompt skepticism, and the Betty Crocker BC-1303C
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **3.0**
 
-*   Hot Soup Purée (35%) - **0**/10
+*   Hot Soup Purée (35%) - **7.0**/10
     
-*   Frozen Fruit Smoothie (30%) - **0**/10
+*   Smoothie (30%) - **2.0**/10
     
 *   Mayonnaise (15%) - **0**/10
     
@@ -43,17 +43,23 @@ performance Scores: **0.0**
 *   Whipped Egg-Whites (5%) - **0**/10
     
 
+The Betty Crocker blender serves pretty well for regular, uncomplicated pureeing tasks, offering just the right amount of power for daily kitchen activities. Its limitations become evident, though, in scenarios requiring higher power. In comparison to other highered-powered models in its class, especially those with additional attachments like whisks, it also tends to lag in versatility and effectiveness. 
+
 ### Hot Soup Purée
 
-Pureeing Time:
+Pureeing Time: 30 seconds
 
-Result:
+Result: Slightly Chunky
 
-Suction:
+Suction: Slightly
 
-### Frozen Fruit Smoothie
+In a 30-second benchmark test for pureeing, the Betty Crocker immersion blender was used to process a soup consisting of pumpkin, carrot, and celery. The blender yielded a puree that was fairly smooth and on par with similar budget-friendly blenders. The puree came out visually homogeneous; however, upon straining, small, unprocessed pieces of the vegetables were still discernible. 
 
-Blending Time:
+For the most part, we consider this result acceptable. It’s particularly sufficient for those who prefer a homestyle texture in their purees, such as in comforting soups or stews, or for preparing baby food where fineness is balanced with the need to minimize choking risks, rather than achieving a velvety restaurant-grade texture.
+
+### Smoothie
+
+Blending Time: 3 mins
 
 Result:
 
