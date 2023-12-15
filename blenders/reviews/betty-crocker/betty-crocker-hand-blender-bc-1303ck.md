@@ -105,6 +105,8 @@ For users intending to use the Betty Crocker blender for similar liquid-based ta
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e7qd50009vv881gbyb9h1.jpg" alt="A digital timer shows 2:01 on a kitchen counter, with a beaker containing unsuccessfully beaten egg whites next to the Betty Crocker immersion blender. " width="300px" height="200px">
+
 Beating Time: Failed
 
 Result: Failed
