@@ -218,6 +218,8 @@ For those using the Betty Crocker blender's 20-ounce beaker for moderate blendin
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6eg0zx000hvv88can3dvle.jpg" alt="A Close-Up of the Betty Crocker’s Power Cord." width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
