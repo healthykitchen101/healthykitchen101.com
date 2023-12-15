@@ -97,11 +97,13 @@ For users intending to use the Betty Crocker blender for similar liquid-based ta
 
 ### Whipped Egg-Whites
 
-Beating Time:
+Beating Time: Failed
 
-Result:
+Result: Failed
 
-Suction:
+Suction: Failed
+
+In the test to assess Betty Crocker's ability to whip egg whites, the lack of a whisk attachment became a significant limitation. Utilizing the standard blending shaft, the blender struggled to introduce enough air into the egg whites. This resulted in a subpar outcome: the egg whites separated into a frothy top layer and a watery bottom layer, instead of forming a uniform, fluffy foam. 
 
 Design
 ------
