@@ -133,6 +133,8 @@ The Betty Crocker features a straightforward, no-frills design. Given its lower 
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e8idb000avv88159m0722.jpg" alt="The Betty Crocker immersion blender lying on a table with its accessories include a beaker, user manual, and packaging box." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Beaker   
