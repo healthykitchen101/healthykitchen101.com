@@ -200,6 +200,8 @@ Our testing of the Betty Crocker blender revealed two main issues: the blending 
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6ef5j5000gvv885wa05hfb.jpg" alt="A Close-Up of the Betty Crocker’s Beaker" width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 20 oz
