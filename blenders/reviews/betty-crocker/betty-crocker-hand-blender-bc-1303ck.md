@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.5**
+Overall Score: **5.4**
 
 *   Performance (50%) - **5.1**/10
     
-*   Design (20%) - **5.0**/10
+*   Design (20%) - **5.5**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **5.9**/10
     
 
 The Betty Crocker’s performance is adequate for simple tasks such as puréeing soups, making nut milk, and concocting mayonnaise. Yet, its proficiency is tested and found wanting with the challenge of frozen fruit smoothies; the power of the motor is insufficient for achieving the desired creamy texture. Moreover, when it's a question of whipping efficiency, the blender is outpaced by competitors that boast whisk attachments. 
@@ -108,13 +108,13 @@ In the test to assess Betty Crocker's ability to whip egg whites, the lack of a 
 Design
 ------
 
-design Scores: **5.0**
+design Scores: **5.5**
 
 *   Build Quality (60%) - **5.5**/10
     
 *   Blending Shaft (30%) - **4.0**/10
     
-*   Power Cord (5%) - **0**/10
+*   Power Cord (5%) - **10**/10
     
 *   Beaker (5%) - **10**/10
     
@@ -192,42 +192,56 @@ Height:
 
 Dishwasher Safe: Yes
 
-### Power Cord
-
-Cord Length:
-
-Type:
-
-Detachable:
-
 For those using the Betty Crocker blender's 20-ounce beaker for moderate blending activities, it serves well initially. Yet, it's important to be aware that the beaker can show signs of wear or marking from the blender's action.
 
-### Extra Accessories
+### 10 - Power Cord
 
-Material:
+Cord Length: 5.1 ft (1.6 m)
 
-Dishwasher Safe:
+Type: 2-prong plug
 
-Removable:
+Detachable: No
+
+The Betty Crocker features a power cord of reasonable length, providing good mobility in the kitchen without being restricted to close proximity to an outlet.
+
+### Extra Accessories: Not Included
+
+Material: N/A
+
+Dishwasher Safe: N/A
+
+Removable: N/A
+
+The Betty Crocker’s usability is hampered by its inefficient vortex creation and uncomfortable vibrations. The overall design also contributes to its limitations, as its ergonomics and weight distribution are not as conducive to comfortable handle as those of other blenders in the market.
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **5.9**
 
-*   Ease of Use (60%) - **0**/10
+*   Ease of Use (60%) - **4.9**/10
     
-*   Blade Assembly (10%) - **0**/10
+*   Blade Assembly (10%) - **9.0**/10
     
-*   Handling (20%) - **0**/10
+*   Handling (20%) - **6.5**/10
     
-*   Cleanability (10%) - **0**/10
+*   Cleanability (10%) - **7.5**/10
     
 
-### Ease of Use
+The Betty Crocker’s usability is hampered by its inefficient vortex creation and uncomfortable vibrations. The overall design also contributes to its limitations, as its ergonomics and weight distribution are not as conducive to comfortable handle as those of other blenders in the market.
 
-### Blade Assembly
+### 4.9 - Ease of Use
 
-### Handling
+We grasped the functionality of the blender without much difficulty. However, the stiffness of its buttons, which required a firm press for activation, was uncomfortable and felt a bit cumbersome. The design of the blade housing effectively reduced suction against the beaker, enhancing the blender's manageability. Yet, we still encountered persistent spattering challenges every time we moved the blending shaft. This spattering issue seems to be linked to the blender's inefficient vortex creation; a poorly formed vortex can cause ingredients to be flung outwards, resulting in messy splashes. Additionally, the blender's poor ingredient intake frequently forced us to stop and manually adjust the contents, making the process both tedious and time-consuming.
 
-### Cleanability
+### 9.0 - Blade Assembly
+
+Assembling our blender was an effortless task. We easily aligned the blending wand with the motor body until it securely clicked in. Disassembling was just as simple and hassle-free: a quick counterclockwise rotation and then pulling it away from the body did the trick.
+
+### 6.5 - Handling
+
+The handle’s rigid form and lack of a cushioned grip contributed to rapid hand fatigue. The motor creates pronounced vibrations, especially when tackling dense, challenging ingredients. This, coupled with the unwelcoming stiffness of the controlling buttons, sharply highlights the ergonomic flaws of this Betty Crocker, making for a less than ideal blending experience.
+
+### 7.5 - Cleanability
+
+While the front surfaces of the blades were easily cleaned with a simple rinse under running water, the backside presented a challenge. Food particles tended to stick there, and the narrow gap between the blade and its guard made it impossible to reach these particles with fingers. We found that employing a straw-cleaning brush was necessary to effectively remove these persistent leftovers.
