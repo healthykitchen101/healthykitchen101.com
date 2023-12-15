@@ -264,6 +264,8 @@ Assembling our blender was an effortless task. We easily aligned the blending wa
 
 ### 6.5 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6egugy000ivv887e2f182k.jpg" alt="Someone is holding the Betty Crocker immersion blender." width="300px" height="200px">
+
 The handle’s rigid form and lack of a cushioned grip contributed to rapid hand fatigue. The motor creates pronounced vibrations, especially when tackling dense, challenging ingredients. This, coupled with the unwelcoming stiffness of the controlling buttons, sharply highlights the ergonomic flaws of this Betty Crocker, making for a less than ideal blending experience.
 
 ### 7.5 - Cleanability
