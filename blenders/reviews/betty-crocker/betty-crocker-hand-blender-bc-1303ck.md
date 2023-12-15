@@ -43,7 +43,7 @@ performance Scores: **5.1**
 *   Whipped Egg-Whites (5%) - **0**/10
     
 
-The Betty Crocker blender serves pretty well for regular, uncomplicated pureeing tasks, offering just the right amount of power for daily kitchen activities. Its limitations become evident, though, in scenarios requiring higher power. In comparison to other highered-powered models in its class, especially those with additional attachments like whisks, it also tends to lag in versatility and effectiveness. 
+The Betty Crocker blender serves pretty well for regular, uncomplicated pureeing tasks, offering just the right amount of power for daily kitchen activities. Its limitations become evident, though, in scenarios requiring higher power. In comparison to other [highered-powered blenders](https://healthykitchen101.com/blenders/reviews/best/), especially those with additional attachments like whisks, it also tends to lag in versatility and effectiveness. 
 
 ### Hot Soup Purée
 
