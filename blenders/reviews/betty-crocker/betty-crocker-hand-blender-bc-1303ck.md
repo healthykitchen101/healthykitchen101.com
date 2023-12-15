@@ -47,6 +47,8 @@ The Betty Crocker blender serves pretty well for regular, uncomplicated pureeing
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e1pv30002vv888w3gd9ir.jpg" alt="Scooping a spoon of pureéd soup produced by the Betty Crocker from the plastic beaker to check its smoothness." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e260y0003vv8884gndmi1.jpg" alt="A batch of soup pureéd by the Betty Crocker immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Slightly Chunky
