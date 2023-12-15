@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.2**
+Overall Score: **3.5**
 
 *   Performance (50%) - **5.1**/10
     
-*   Design (20%) - **3.3**/10
+*   Design (20%) - **5.0**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -108,15 +108,15 @@ In the test to assess Betty Crocker's ability to whip egg whites, the lack of a 
 Design
 ------
 
-design Scores: **3.3**
+design Scores: **5.0**
 
 *   Build Quality (60%) - **5.5**/10
     
-*   Blending Shaft (30%) - **0**/10
+*   Blending Shaft (30%) - **4.0**/10
     
 *   Power Cord (5%) - **0**/10
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **10**/10
     
 
 The Betty Crocker features a straightforward, no-frills design. Given its lower price point, it's understood that it won't match the durability or advanced features of more expensive models. Yet, we would rightfully expect a certain level of reliable and steady performance. However, this is where the Betty Crocker blender disappoints; our **blending shaft was damaged** after only a few uses. 
@@ -162,33 +162,35 @@ Pulse Mode: No
 
 The blender is designed with a dual-speed functionality, accessible via two buttons located on its front. When toggling between these speeds, we notice a significant and clear alteration in the rotational velocity of the blades. 
 
-### Blending Shaft
+### 4.0 - Blending Shaft
 
-Material:
+Material: Stainless steel
 
-Type:
+Type: Sharp Blade
 
-Guard Material:
+Guard Material: Plastic
 
-Blade Count:
+Blade Count: 2
 
-Removable:
+Removable: Yes
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
 
-### Beaker
+Our testing of the Betty Crocker blender revealed two main issues: the blending shaft is prone to breaking under heavy use, and the two-prong blade tends to rust prematurely.
 
-Material:
+### 10 - Beaker
 
-Capacity:
+Material: Plastic
 
-Measurements:
+Capacity: 20 oz
+
+Measurements: Yes
 
 Weight:
 
 Height:
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
 
 ### Power Cord
 
