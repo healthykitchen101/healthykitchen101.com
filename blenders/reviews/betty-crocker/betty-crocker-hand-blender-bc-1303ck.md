@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.7**
+Overall Score: **3.2**
 
-*   Performance (50%) - **4.0**/10
+*   Performance (50%) - **5.1**/10
     
 *   Design (20%) - **3.3**/10
     
@@ -30,7 +30,7 @@ Affordable kitchen tools often prompt skepticism, and the Betty Crocker BC-1303C
 Performance
 -----------
 
-performance Scores: **4.0**
+performance Scores: **5.1**
 
 *   Hot Soup Purée (35%) - **7.0**/10
     
@@ -38,7 +38,7 @@ performance Scores: **4.0**
     
 *   Mayonnaise (15%) - **6.5**/10
     
-*   Almond Milk (15%) - **0**/10
+*   Almond Milk (15%) - **7.0**/10
     
 *   Whipped Egg-Whites (5%) - **0**/10
     
@@ -83,11 +83,17 @@ However, when placed in the context of performance speed, the Betty Crocker take
 
 ### Almond Milk
 
-Grinding Time:
+Grinding Time: 1 min 30 secs
 
-Result:
+Result: Fine
 
-Suction:
+Suction: Slightly
+
+Our Betty Crocker completed this test in 1 minute and 30 seconds. This performance was on par with the average of other blenders in the same category. 
+
+The almonds were ground to a fine consistency, as evidenced in our post-straining analysis. This fine grind infused the milk with a rich flavor, creamy texture, and the inherent nutrients of the almonds. Notably, the blending process had an additional effect: the blending shaft introduced a significant amount of air into the milk. This resulted in a progressively frothy top layer that became more pronounced as the blending continued, eventually leading to a spillover from the beaker. 
+
+For users intending to use the Betty Crocker blender for similar liquid-based tasks, it is advisable to opt for a larger container. This would help prevent the frothy mixture from spilling over and creating a mess on the countertop.
 
 ### Whipped Egg-Whites
 
