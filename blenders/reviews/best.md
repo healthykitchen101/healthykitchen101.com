@@ -9,7 +9,7 @@ How We Test
 
 Our testing methods mimic everyday kitchen tasks. Though different blender types have unique testing criteria, consistency is maintained within each category for direct product comparisons. 
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clgacj4gq000gb88868yw9wus.jpg" alt="Someone is holding the Ninja AMZ493BRN Compact Kitchen System blender, with a smartphone sitting next to it on a countertop. Another person is using a spoon to spread a small amount of green smoothie onto a white piece of paper." width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clgacj4gq000gb88868yw9wus.jpg" alt="Tina is holding the Ninja AMZ493BRN Compact Kitchen System blender, with a smartphone sitting next to it on a countertop. Lap Vo is using a spoon to spread a small amount of green smoothie onto a white piece of paper." width="360" height="240">
 
 **For** [**full-sized blenders**](https://healthykitchen101.com/blenders/tests/full-size/), tests focus on performance, durability, and usability in processing large volumes. 
 
