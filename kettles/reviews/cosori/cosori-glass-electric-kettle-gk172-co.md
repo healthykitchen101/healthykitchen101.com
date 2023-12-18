@@ -245,7 +245,7 @@ Presets: 5
 
 Keep Warm: 30 minutes
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
