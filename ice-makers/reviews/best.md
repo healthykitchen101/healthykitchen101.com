@@ -3,7 +3,7 @@ A portable ice maker has a built-in water reservoir and therefore no need for an
 How We Test Countertop Ice Makers
 ---------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable bullet ice makers on a countertop with a ZeroWater pitcher to the left, a bundle of ice scoops, an ice scoop with a TDS meter in front of each machine and two empty ice baskets to the right side." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable bullet ice makers on a countertop with a ZeroWater pitcher to the left, a bundle of ice scoops, an ice scoop with a TDS meter in front of each machine and two empty ice baskets to the right side." width="360" height="240">
 
 Two bullet ice makers getting readied for testing
 
