@@ -1,7 +1,7 @@
 A portable ice maker has a built-in water reservoir and therefore no need for an inlet water line. The most popular of these countertop ice machines make bullet-shaped ice. Bullet ice makers are an affordable and fast way to make ice and most machines put out small and large ice bullets. They are easy to use and to keep clean while also quiet to run.
 
-How We Test Countertop Ice Makers
----------------------------------
+How We Test
+-----------
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/how-we-test-ice-quality-for-potable-ice-bullet-makers-clo8adzq00004iy88br7k7kts.jpg" alt="Two portable bullet ice makers on a countertop with a ZeroWater pitcher to the left, a bundle of ice scoops, an ice scoop with a TDS meter in front of each machine and two empty ice baskets to the right side." width="360" height="240">
 
@@ -23,8 +23,8 @@ We see how long it takes a machine to start making ice bullets with a net weight
 
 You can read more in detail about how we test portable bullet ice makers.
 
-How We Rate Countertop Bullet Ice Makers
-----------------------------------------
+How We Rate
+-----------
 
 Apart from the data driven tests above, we also monitor ice makers for the noise they make. As part of our overall rating system, we evaluate various key aspects of design and how this impacts **user-friendliness**.
 
