@@ -160,9 +160,6 @@ Troubleshooting Your Portable Bullet Ice Maker
 
 Portable ice makers, as convenient as they are, can be temperamental! Here are a few common issues we came across during testing, and tips to keep the ice flowing.
 
-Frequently asked questions
---------------------------
-
 **1\. Why are my Ice bullets so small?**
 
 If the (large) ice bullets continually come out too small (<5g average) the problem could be the machine isn’t selecting the correct ice type even though you select large. Remember, it usually takes around 8 cycles to reach 5g or more.
