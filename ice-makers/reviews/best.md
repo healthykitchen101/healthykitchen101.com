@@ -30,11 +30,6 @@ Apart from the data driven tests above, we also monitor ice makers for the noise
 
 We pay careful attention to **visibility** into machines for easy-of-use and effective troubleshooting. We rate machines for build quality, control panels for **user-centered** design, and ice baskets for effective scooping. We also run machines overnight to test **lid insulation**.
 
-How We Select Products to Test
-------------------------------
-
-While testing popular machines is always important, we also select machines based on unique features, and try to test a range of machines suited to different needs or circumstances. In this way, you will know if the most popular countertop ice makers are really worth it, and what the other good picks are.
-
 Reviews of the Best Portable Bullet Ice Makers in 2023
 ------------------------------------------------------
 
