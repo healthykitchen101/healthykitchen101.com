@@ -96,13 +96,6 @@ Inside, the FM2500V uses PUR's "Mineral Core" filter cartridge, which uses a com
 
 Filter cartridges hold 100 gallons and should be replaced every 2-3 months.
 
-The Competition
----------------
-
-*   [**Brita Basic Faucet Water Filter**](https://healthykitchen101.com/water-filters/reviews/brita/brita-basic-faucet-mount/): Brita, a renowned brand in water filtration, maintains its reputation with the affordable Brita Basic filter. It efficiently removes almost all chlorine from water despite not having premium build quality.
-*   [**Culligan FM-25**](https://healthykitchen101.com/water-filters/reviews/culligan/culligan-fm-25-faucet-mount/): While the Culligan FM-25 may not be as well-known as Brita, it excels in chlorine filtration in our tests. Consumers appreciate its efficiency, affordability, and stylish chrome-plated housing.
-*   [**Wingsol WS-FM001**](https://healthykitchen101.com/water-filters/reviews/wingsol/wingsol-ws-fm001-pac-faucet/): The lesser-known Wingsol WS-FM001 faucet filter, while not from a famous brand, effectively removed chlorine in our test despite some build quality concerns.
-
 Things to Consider When Buying a Faucet Filter
 ----------------------------------------------
 
