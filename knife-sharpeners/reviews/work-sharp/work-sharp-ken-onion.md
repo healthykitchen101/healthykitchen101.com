@@ -244,12 +244,3 @@ All in all, we’re convinced this tool belongs in a garage and away from your c
 Warranty: 1 year limited
 
 The Work Sharp Ken Onion has quite a lot of nooks and crannies where metal dust accumulates. It will need regular cleaning with a fine brush. This doesn’t cause damage to the device itself, though we’ve read Amazon reviews by users who noticed micro scratches on their blades after sharpening. While the 1-year warranty seems standard, replacement parts such as the edge guide and abrasive belts are very easy to find online.
-
-The Work Sharp Ken Onion Compared to Other Sharpeners
------------------------------------------------------
-
-Of all the electric sharpeners we’ve tested, the Work Sharp Ken Onion is the most versatile and customizable, but it’s not a tool for everyone. 
-
-If you’re looking for something more user-friendly, check out the [Chef’s Choice Trizor XV](https://healthykitchen101.com/knife-sharpeners/reviews/chefschoice/chefschoice-trizor-xv/). It only sharpens to a single grind angle but it’s faster and simpler to use.
-
-The [Presto Eversharp](https://healthykitchen101.com/knife-sharpeners/reviews/presto/presto-eversharp/) also offers decent sharpness without requiring much effort or bleeding your wallet dry. Of course, you can’t expect the same edge quality from it and you get no control over the grind speed or angle.
