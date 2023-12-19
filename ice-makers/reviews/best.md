@@ -35,19 +35,6 @@ How We Select Products to Test
 
 While testing popular machines is always important, we also select machines based on unique features, and try to test a range of machines suited to different needs or circumstances. In this way, you will know if the most popular countertop ice makers are really worth it, and what the other good picks are.
 
-Things That Affect Good Ice Makin
----------------------------------
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/close-up-two-countertop-ice-makers-with-full-ice-baskets-clpc2eh5f000lmm889k1kh3fs.jpg" alt="A close up of two countertop ice makers with full baskets of ice. The one to the right has clear ice made from zero TDS water, the one to right has cloudy ice made from tap water." width="640" height="427">
-
-Left: Clear zero TDS ice; Right: TDS 0.45 ppm tap water ice
-
-Regardless of what portable ice maker you buy, there are a few things that will affect the quality of your ice and your machine’s production capacity. 
-
-*   For clear-looking ice and to extend the lifespan of your machine, use filtered water, distilled water, or [zero TDS water](https://healthykitchen101.com/water-filters/reviews/zerowater/zerowater-pitcher-23-cup/).
-*   Refill using chilled (filtered) water of around 10℃ (50℉) to maintain consistent ice bullet weight and production capacity.
-*   Run your ice maker away from direct sunlight and with a room temperature of 10‒32 ℃ (50‒90℉).
-
 Reviews of the Best Portable Bullet Ice Makers in 2023
 ------------------------------------------------------
 
@@ -109,22 +96,18 @@ Regardless, the Silonn has a refreshing and spacious design for its control pane
 
 If you like the color choice, it’s not a bad machine. Also, not many portable ice makers have a model with [a smart app](https://play.google.com/store/apps/details?id=com.smart.life.regineer&hl=en&gl=US&pli=1) which can be used to set a timer, select ice bullet size, run auto clean, and get status notifications.
 
-### Comparison of Our Best 3 Countertop Bullet Ice Makers
+Things That Affect Good Ice Makin
+---------------------------------
 
-Here is a comparison table to visualize more clearly the key performance differences between our top three picks for the best countertop ice maker:
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/close-up-two-countertop-ice-makers-with-full-ice-baskets-clpc2eh5f000lmm889k1kh3fs.jpg" alt="A close up of two countertop ice makers with full baskets of ice. The one to the right has clear ice made from zero TDS water, the one to right has cloudy ice made from tap water." width="640" height="427">
 
-|  | 1. Frigidaire | 2. AGLucky | 3. Silonn |
-| --- | --- | --- | --- |
-| Time per basket | 103 min | 90 min | 94 min |
-| Average weight | 555 g | 456 g | 427 g |
-| Net bullet weight | 6.2 g | 6.3 g | 5.6 g |
-| Waste ice | 1.8% | 2% | 4% |
-| Capacity per hr | 323 g | 304 g | 273 g |
-| Capacity per 24 hr | 7.8 kg | 7.3 kg | 6.5 kg |
+Left: Clear zero TDS ice; Right: TDS 0.45 ppm tap water ice
 
-From a design viewpoint, the Frigidaire is the most modern-looking with good internal visibility. The AGLucky has the smallest view window but a nicely raised control panel, while the Silonn has the most user-friendly interface. Of the three machines, the Silonn showed the best insulation while the Frigidaire fared the worst.
+Regardless of what portable ice maker you buy, there are a few things that will affect the quality of your ice and your machine’s production capacity. 
 
-Although there is not a big performance difference between the Frigidaire and the AGLucky, the Frigidaire is better for ice capacity. The design differences are between a modern look versus a better control panel. The Silonn, despite its average performance, has slightly more choice in colors compared to the AGLucky and a smart app model.
+*   For clear-looking ice and to extend the lifespan of your machine, use filtered water, distilled water, or [zero TDS water](https://healthykitchen101.com/water-filters/reviews/zerowater/zerowater-pitcher-23-cup/).
+*   Refill using chilled (filtered) water of around 10℃ (50℉) to maintain consistent ice bullet weight and production capacity.
+*   Run your ice maker away from direct sunlight and with a room temperature of 10‒32 ℃ (50‒90℉).
 
 What is a portable countertop ice maker? 
 -----------------------------------------
