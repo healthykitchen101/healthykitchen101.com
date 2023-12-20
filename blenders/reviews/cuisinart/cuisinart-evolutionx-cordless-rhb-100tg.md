@@ -223,6 +223,8 @@ The beaker is designed to be safe for contact with all types of food. While it i
 
 ### 10 - Battery
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd77u31000gf5882su31ru9.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG motor and charger adapter." width="300px" height="200px">
+
 Status Indicator: Yes
 
 Full Charging Time: 2 hours
