@@ -10,7 +10,9 @@ Overall Score: **7.3**
 *   Usability (30%) - **8.4**/10
     
 
-The Cuisinart RHB-100TG EvolutionX is efficient, versatile, and well-designed, presenting an aesthetic appeal that's more captivating than most. We valued the performance of its blending wand, which ensured smooth, chunk-free smoothies and could turn cooked veggies into creamy soup in seconds. The whisk attachment also proved useful, doing a decent job of beating eggs and making mayonnaise. Usability-wise, this RHB-100TG stands out as one of the most user-friendly models in its class. Its intuitive design, complemented by an ergonomic handle, simplifies handling, while the smooth operation of the motor helps minimize hand fatigue and splatters. 
+The Cuisinart RHB-100TG EvolutionX is efficient, versatile, and well-designed. We valued the performance of its blending wand, which ensured smooth, chunk-free smoothies and could turn cooked veggies into creamy soup in seconds. The whisk attachment also proved useful, doing a decent job of beating eggs and making mayonnaise. 
+
+Usability-wise, this RHB-100TG stands out as one of the [most user-friendly blenders](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) in its class. Its intuitive design, complemented by an ergonomic handle, simplifies handling, while the smooth operation of the motor helps minimize hand fatigue and splatters. 
 
 In conclusion, although this blender’s price may be a tad higher compared to other models in its class, the mobility and efficiency it brings to the table make it a worthy investment for any buyer.
 
@@ -27,7 +29,7 @@ In conclusion, although this blender’s price may be a tad higher compared to o
 
 At the time of writing, the RHB-100TG EvolutionX shines as the singular star in Cuisinart’s cordless lineup. Cuisinart markets it as ready for any blending challenge, boasting its portable design, versatile blending modes, and a list of user-friendly accessories as evidence. Also, its design is very distinctive; just a glance and the RHB-100TG EvolutionX stands out among a crowd of generic, conformist machines. 
 
-Still, you might wonder whether this EvolutionX matches up to corded models’ performance or merely a lifeline for on-the-go blends or in cramped kitchens. Generally, we think it’s a blend of both—your blender may not be the powerhouse for heavy-duty blending, yet it’ll get you through everyday blending tasks with ease.
+Still, you might wonder whether this EvolutionX matches up to corded models’ performance or merely a lifeline for on-the-go blends in cramped kitchens. Generally, we think it’s a blend of both—your blender may not be the [powerhouse for heavy-duty blending](https://healthykitchen101.com/blenders/reviews/best/), yet it’ll get you through everyday blending tasks with ease.
 
 Performance
 -----------
