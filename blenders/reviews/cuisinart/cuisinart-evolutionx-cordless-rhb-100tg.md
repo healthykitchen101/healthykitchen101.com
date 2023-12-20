@@ -137,6 +137,8 @@ The sleek design of the Cuisinart RHB-100TG made a significant impression on us,
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6ym4x0009f5887lvvem4l.jpg" alt="The Cuisinart EvolutionX RHB-100TG immersion blender lying on a table with its beaker, whisk attachment, user manual, packaging carton box, and charger by its side." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Whisk attachment
