@@ -231,9 +231,9 @@ Full Charging Time: 2 hours
 
 Quick Charging Time: 15 minutes
 
-Charger Adapter:
+Charger Adapter: 2-prong plug,  100-240 V input
 
-Charger Adapter Pin:
+Charger Adapter Pin: USB Type-A, 5 V output - 1A
 
 Capacity:
 
