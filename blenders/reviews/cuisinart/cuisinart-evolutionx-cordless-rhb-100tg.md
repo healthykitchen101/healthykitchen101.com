@@ -107,6 +107,8 @@ However, it’s worth noting that the blending was briefly interrupted by the Fo
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6xniy0008f5883j435dwq.jpg" alt="A beaker containing beaten egg-white made by the Cuisinart EvolutionX RHB-100TG immersion blender in 1 minute and 45 seconds is put upside down on the table." width="300px" height="200px">
+
 Beating Time: 1 min 45 secs
 
 Result: Stiff
