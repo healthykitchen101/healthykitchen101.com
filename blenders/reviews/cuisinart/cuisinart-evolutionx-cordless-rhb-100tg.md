@@ -79,6 +79,8 @@ The blender initially grappled with the dense kale, taking its time to fully liq
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6up1n0005f5886fzu4i6w.jpg" alt="A batch mayonnaise made by the Cuisinart EvolutionX RHB-100TG immersion blender within 1 minute and 24 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6v55k0006f5882jp30mb9.jpg" alt="Scooping a spoon of mayonnaise made by the Cuisinart EvolutionX RHB-100TG immersion blender." width="300px" height="200px">
+
 Emulsifying Time: 1 min 24 secs
 
 Result: Velvety
