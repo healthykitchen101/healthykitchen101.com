@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **7.8**
 
 *   Performance (50%) - **7.1**/10
     
-*   Design (20%) - **6.1**/10
+*   Design (20%) - **8.7**/10
     
 *   Usability (30%) - **8.4**/10
     
@@ -122,11 +122,11 @@ Within a concise 1 minute and 45 seconds, the result was evident: stiff peaks wi
 Design
 ------
 
-design Scores: **6.1**
+design Scores: **8.7**
 
 *   Build Quality (60%) - **8.5**/10
     
-*   Blending Shaft (30%) - **0**/10
+*   Blending Shaft (30%) - **8.5**/10
     
 *   Battery (5%) - **10**/10
     
@@ -185,7 +185,7 @@ Pulse Mode: No
 
 The Cuisinart RHB-100TG immersion blender is designed with a user-friendly interface that includes a single-speed operation and a safety lock button. To ensure safe usage, both the power and safety lock buttons must be pressed simultaneously for the motor to activate. These buttons are highly sensitive, requiring only a gentle press to operate. 
 
-### Blending Shaft
+### 8.5 - Blending Shaft
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd75maw000df5885lez6fbn.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG blades" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7622q000ef58850au208u.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG blending shaft." width="300px" height="200px">
 
