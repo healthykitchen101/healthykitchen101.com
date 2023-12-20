@@ -249,7 +249,7 @@ Dishwasher Safe: Yes
 
 Removable: Yes
 
-The whisk attachment performs competently with tasks such as beating egg whites, whipping cream, and preparing emulsified sauces. When measured against other blenders within the range, like the BELLA 10-speed or Hamilton models, its polished stainless steel wires provide enhanced sturdiness and durability through regular usage.
+The whisk attachment performs competently with tasks such as beating egg whites, whipping cream, and preparing emulsified sauces. When measured against other blenders within the range, like the [BELLA 10-speed](https://healthykitchen101.com/blenders/reviews/bella/bella-10-speed/) or [Hamilton](https://healthykitchen101.com/blenders/reviews/hamilton-beach/hamilton-beach-59765-immersion/) models, its polished stainless steel wires provide enhanced sturdiness and durability through regular usage.
 
 Usability
 ---------
