@@ -159,6 +159,8 @@ The Cuisinart's dimensions reflect a thoughtful balance between functional desig
 
 ### 8.5 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd72aug000af5880f4k404u.jpg" alt="A close-up of the Cuisinart RHB-100TG parts" width="300px" height="200px">
+
 The Cuisinart RHB-100TG is a confluence of style, robustness, and value. Its motor housing is mostly made of medium-grade plastic. Many immersion blenders with plastic components tend to show signs of discoloration or minor damages after prolonged use, but this model stands out with its persistent newness.  Plus, it doesn't feel flimsy or cheap. Instead, it's sturdy and gives a reassuring feel during use. 
 
 The Cuisinart RHB-100TG's blending shaft, on the other hand,  might not have the premium sheen, but its finish is relatively refined, ensuring it doesn't look inferior alongside its peers.
