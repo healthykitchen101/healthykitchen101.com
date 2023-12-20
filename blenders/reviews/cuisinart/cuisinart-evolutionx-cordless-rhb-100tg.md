@@ -12,7 +12,7 @@ Overall Score: **7.8**
 
 The Cuisinart RHB-100TG EvolutionX is efficient, versatile, and well-designed. We valued the performance of its blending wand, which ensured smooth, chunk-free smoothies and could turn cooked veggies into creamy soup in seconds. The whisk attachment also proved useful, doing a decent job of beating eggs and making mayonnaise. 
 
-Usability-wise, this RHB-100TG stands out as one of the [most user-friendly blenders](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) in its class. Its intuitive design, complemented by an ergonomic handle, simplifies handling, while the smooth operation of the motor helps minimize hand fatigue and splatters. 
+Usability-wise, this RHB-100TG stands out as one of the most [user-friendly blenders](https://healthykitchen101.com/blenders/reviews/best/) in its class. Its intuitive design, complemented by an ergonomic handle, simplifies handling, while the smooth operation of the motor helps minimize hand fatigue and splatters. 
 
 In conclusion, although this blender’s price may be a tad higher compared to other models in its class, the mobility and efficiency it brings to the table make it a worthy investment for any buyer.
 
