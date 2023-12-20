@@ -167,6 +167,8 @@ The Cuisinart RHB-100TG's blending shaft, on the other hand,  might not have th
 
 ### Speed and Controls
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd73v45000bf5884if9et6f.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG’s indicator light." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd74hun000cf588ave08zzq.jpg" alt="A close-up of the Cuisinart motor housing" width="300px" height="200px">
+
 Activation: Press-button
 
 Min Speed: N/A
