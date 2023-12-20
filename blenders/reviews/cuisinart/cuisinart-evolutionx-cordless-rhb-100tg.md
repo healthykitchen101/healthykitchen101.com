@@ -243,6 +243,8 @@ The Cuisinart is outfitted with 7.4-volt lithium-ion batteries that can be fully
 
 ### Extra Accessories: Whisk Attachment
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7abk1000hf58874k35p2r.jpg" alt="The Cuisinart EvolutionX RHB-100TG whisk attachment" width="300px" height="200px">
+
 Material: Stainless steel
 
 Dishwasher Safe: Yes
