@@ -147,6 +147,8 @@ The sleek design of the Cuisinart RHB-100TG made a significant impression on us,
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7ltwp000kf588cfqq597b.jpg" alt="The Cuisinart EvolutionX RHB-100TG standing on a table, with the length of its blending shaft being noted to the side as 8.3 inches, and the total length of the unit as 16.2 inches." width="300px" height="200px">
+
 Height: 16.2" (41.1 cm)
 
 Width: 2.4" (6.1 cm)
