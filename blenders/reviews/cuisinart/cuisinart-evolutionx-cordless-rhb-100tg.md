@@ -93,7 +93,7 @@ The end result? A mayonnaise that is both dense and luxuriously silken. It holds
 
 ### Almond Milk
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6w5os0007f58852lucp3h.jpg" alt="A white plate of almond pulp and a bowl of milk produced by the Cuisinart EvolutionX RHB-100TG stick blender within 1 minute and 10 seconds." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7gbli000jf5880zx3bq99.jpg" alt="A white plate of almond pulp and a bowl of milk produced by the Cuisinart EvolutionX RHB-100TG stick blender within 1 minute and 10 seconds." width="300px" height="200px">
 
 Grinding Time: 1 min 10 secs
 
