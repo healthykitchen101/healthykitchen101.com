@@ -281,6 +281,8 @@ To blend, you simply align the motor body housing with the desired attachment—
 
 ### 9.5 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7b76r000if5882ot3d66n.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG ergonomically-designed handle." width="300px" height="200px">
+
 With a textured grip, the handle provides a secure, non-slip hold. Its curvature and design mirror the natural contour of a user's hand, enhancing the ergonomic feel and reducing hand fatigue, especially during prolonged use.
 
 ### 8.5 - Cleanability
