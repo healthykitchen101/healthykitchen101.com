@@ -205,6 +205,8 @@ Our cordless blender is fitted with two-pronged stainless steel blades that prom
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd76yi2000ff588dbx79k5t.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG beaker" width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 30 oz
