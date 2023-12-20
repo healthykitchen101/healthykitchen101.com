@@ -187,6 +187,8 @@ The Cuisinart RHB-100TG immersion blender is designed with a user-friendly inter
 
 ### Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd75maw000df5885lez6fbn.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG blades" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd7622q000ef58850au208u.jpg" alt="A close-up of the Cuisinart EvolutionX RHB-100TG blending shaft." width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
