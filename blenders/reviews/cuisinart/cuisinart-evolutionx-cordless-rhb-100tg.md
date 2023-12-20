@@ -65,6 +65,8 @@ In our test, the Cuisinart EvolutionX RHB-100TG attempted to purée hot soup wit
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6qiai0003f5889k4599f3.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Cuisinart EvolutionX RHB-100TG  Hand Blender had completed the test in 2 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6r0z70004f588gjfp8zz3.jpg" alt="After finishing blending, the green smoothie made by the Cuisinart EvolutionX RHB-100TG immersion blender was spread evenly throughout a white paper on a gray table to check for solid chunks. " width="300px" height="200px">
+
 Blending Time: 2 minutes
 
 Result: Smooth
