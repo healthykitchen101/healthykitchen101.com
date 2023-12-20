@@ -53,6 +53,8 @@ Although the EvolutionX RHB-100TG didn't rank as the most rapid or potent in our
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6jvqd0001f588es46fpm5.jpg" alt="Scooping a spoon of pureéd soup produced by the Cuisinart EvolutionX RHB-100TG from the plastic beaker to check its smoothness." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6kbdb0002f58873zq85d0.jpg" alt="A batch of soup pureéd by the Cuisinart EvolutionX RHB-100TG immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Chunky
