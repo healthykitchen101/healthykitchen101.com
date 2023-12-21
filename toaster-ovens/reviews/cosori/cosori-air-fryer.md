@@ -10,7 +10,7 @@ Overall Score: **8.4**
 *   Usability (25%) - **8.3**/10
     
 
-The stainless steel Cosori CO130-AO Countertop Convection Air Fryer Toaster Oven made its way to the top of our list for the value it provided. If you’re looking for an excellent large [countertop toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/), whether you’re a beginner or an experienced cook, look no further.
+The Cosori CO130-AO Air Fryer Toaster Oven made its way to the top of our list for the value it provided. If you’re looking for an excellent large [countertop toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/), whether you’re a beginner or an experienced cook, look no further.
 
 With 1800 W of power, four nichrome heating elements, and a powerful convection system, the oven performed consistently great in our tests. Its handy accessories like the rotisserie kit and air fryer basket further prepared the machine for anything we could throw at it.
 
