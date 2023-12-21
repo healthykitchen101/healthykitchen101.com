@@ -34,7 +34,7 @@ Of course, the oven wasn’t without some minor flaws. While the cooking chamber
 *   No safety mechanism for the door
 *   Convection fan isn’t all-applicable
 
-The Cosori CO130-AO is a stainless steel countertop air fryer toaster oven, meaning it has a convection system as a feature and an air fryer basket as accessories. Introduced in 2019, this Cosori Air Fryer Toaster Oven currently has over 10 thousand ratings, over 70% of which are 5-star, on Amazon. Priced at $189.66 (at the time of writing), it ranks at the number 4 best seller in convection ovens and 26 in air fryers on Amazon.
+The Cosori CO130-AO is a stainless steel countertop air fryer toaster oven, meaning it has a convection system as a feature and an air fryer basket as accessories. Introduced in 2019, this Cosori Air Fryer Toaster Oven currently has over 10 thousand ratings, over 70% of which are 5-star, on Amazon. Priced at $189.66 (at the time of publication), it ranks at the number 4 best seller in convection ovens and 26 in air fryers on Amazon.
 
 Looking at other key features including power output, cooking functions, and accessories, we first speculated that it could offer tremendous value. Thus, we decided to purchase it for further evaluation.
 
