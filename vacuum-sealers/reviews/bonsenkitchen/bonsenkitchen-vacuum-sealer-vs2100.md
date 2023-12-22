@@ -115,27 +115,41 @@ The BonsenKitchen VS2100 falls within the average size and weight range compared
 
 ### 7.0 - Build Quality
 
+Our reviewers have described the build quality of the BonsenKitchen VS2100 as "acceptable." The designers have made efforts to enhance its visual appeal by giving the top lid a silvery, metal-like surface (though it's still made of plastic, just with a metallic finish). However, upon closer inspection, it’s hard to ignore the somewhat flimsy plastic components that clearly marked it as a budget product.
+
 ### 9.0 - Control Panel
 
-Button Type:
+Button Type: Physical
 
-Number of Buttons:
+Number of Buttons: 5
 
-Number of Modes:
+Number of Modes: 2
+
+The BonsenKitchen vacuum sealer has a user-friendly control panel with five clearly labeled buttons. Unlike some other models we've tried, this one simplifies things by combining the food mode adjustment and cycle start into a single button. To get started, just pick either "Dry" or "Moist" depending on your food type, and the sealer will begin working.
+
+If you only want to seal the bag without vacuuming, there's a "Seal" button for that. And if you need to pulse vacuum, hold down the "Vac" button, and the motor will keep running as long as you press it. Lastly, on the far right, there's an "Accessory" button that's handy when you want to use the sealer with an air hose and adapter.
 
 ### 5.0 - Lid
 
 Lid Lock:
 
+When we initially unboxed the sealer, we noticed that the lid was quite loose. After a while of fiddling, surprisingly, we could pop the top portion of the sealer from the base with ease. There’s no mention of such a feature in the online product description when we first ordered the unit, so this was a rather panicky moment for us.
+
+It was only after consulting the manual that we discovered this is a feature, not a bug. The top portion of the sealer contains all of the essential components, from the vacuuming motor to the heating bar. By popping off the top, you can clean the bottom part, which contains the vacuum channel, more easily without risking damage to the sensitive electronics.
+
+Although it is convenient to clean, the removable design also equates to a more flimsy lid overall. It creaks and doesn’t feel solid when we lift or lower the lid.
+
 ### Failed - Extra Features
 
-Bag Cutter:
+Bag Cutter: No
 
-Bag Holder:
+Bag Holder: No
 
-Bag Hooks:
+Bag Hooks: No
 
-Removable Drip Tray:
+Removable Drip Tray: No
+
+The BonsenKitchen VS2100 doesn’t come with any extra features of note.
 
 Usability
 ---------
