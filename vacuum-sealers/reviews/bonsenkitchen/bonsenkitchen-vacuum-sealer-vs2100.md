@@ -56,19 +56,37 @@ design Scores: **6.3**
 *   Lid (20%) - **5.0**/10
     
 
+### In the Box
+
+### Weight & Dimensions
+
+Weight:
+
+Length:
+
+Width:
+
+Height:
+
 ### 7.0 - Build Quality
 
 ### 9.0 - Control Panel
 
 Button Type:
 
-Numberof Buttons:
+Number of Buttons:
 
-Numberof Modes:
+Number of Modes:
 
 ### 5.0 - Lid
 
 Lid Lock:
+
+### Failed - Extra Features
+
+Bag Cutter:
+
+Bag Holder:
 
 Usability
 ---------
