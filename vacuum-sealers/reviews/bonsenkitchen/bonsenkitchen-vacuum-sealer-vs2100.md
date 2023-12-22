@@ -165,14 +165,24 @@ usability Scores: **6.8**
 
 ### 6.0 - Ease of Use
 
+Although the detachable lid of the BonsenKitchen is great for cleaning, it doesn’t contribute a lot to usability. The locks on the lid (which are ordinary latch locks) don't feel solid or evenly-placed. We had to use both hands to press down firmly on the lid to get it to click close. This can be an issue if you ever find yourself having to use the sealer one-handed.
+
 ### 10 - Safety & Noise
 
-Maximum Noise Level:
+Maximum Noise Level: 76.1 dBA
+
+Although it ruins the aesthetic of the sealer, safety-wise, we appreciate the sticker plastered on the top lid. Besides giving you a briefing on how to use the sealer, it also contains important safety information.
+
+The BonsenKitchen’s noise level is moderate compared to other vacuum sealers we have in our database (most of which exceeds 80 dBA.) As such, if you prefer a quieter kitchen, the VS2100 will make for a fairly compelling choice.
 
 ### 7.0 - Indicator Lights and Chime
 
-Numberof Indicators:
+Numberof Indicators: 5
 
-Progress Bar:
+Progress Bar: No
 
-Chime:
+Chime: No
+
+There are five indicator lights that correspond to each button on the control panel. The lights are decently bright and are clearly visible even under harsh studio lighting, so if you were to leave the sealer next to the window, it shouldn’t be hard to monitor the sealer’s progress under direct sunlight.
+
+Unfortunately, it doesn’t come with a chime, so until the indicator on top of your chosen vacuuming mode (“Dry” or “Moist”) turn off, which indicates the finishing of a working cycle, you’ll have no other way of knowing when the sealer has finished working.
