@@ -10,9 +10,25 @@ Overall Score: **4.9**
 *   Usability (30%) - **6.8**/10
     
 
+The BonsenKitchen VS2100, a budget vacuum sealer, falls short in performance compared to mid and high-end models. It has a cheap-looking design with a faux metal lid made of plastic. On the upside, it's easy to clean due to its detachable top part. One positive point is its quiet operation, measuring at only 76.1 dBA, making it one of the quietest sealers we've tested.
+
 **Things We Like**
 
+*   Affordable
+*   The lid is detachable for easier cleaning
+*   Control panel is simple and easy to use
+*   Quiet operation (76.1 dBA max)
+*   Very bright indicator lights
+
 **Things We Don’t Like**
+
+*   Mediocre performance across the board
+*   Cheap-looking and flimsy build
+*   The lid is problematic to use and requires a lot of force to shut
+
+As one of the cheapest vacuum sealers you can get today, it’s not surprising that the BonsenKitchen VS2100 has made its way into the shopping cart of lots of users. However, if you're wondering whether there's a catch to its low price, you're right to be curious. We put this sealer to the test, and the results were not very promising.
+
+Here's our full report after a week of testing the BonsenKitchen VS2100 in our lab.
 
 Performance
 -----------
@@ -24,25 +40,41 @@ performance Scores: **3.3**
 *   Moist Food Test (40%) - **1.2**/10
     
 
+The BonsenKitchen VS2100 performed poorly in our tests. It couldn't meet the minimum passing score for both dry and moist food tests, primarily because of its weak suction in both tests and excessively long sealing time when handling moist foods.
+
 ### Dry Food Test
 
-Suction Mode:
+Suction Mode: N/A
 
-Food Mode:
+Food Mode: Dry
 
-Recorded Suction:
+Suction Strength: 31 kPA (1) - 35 kPA (2)
 
-Suction Time:
+Cycle Time: 6s (1) - 6s (2)
+
+Out of the two performance tests, the BonsenKitchen VS2100 did better in the dry food test. However, its score was just average and didn't quite reach the minimum passing score for this category.
+
+To be more specific, in the first test, the BonsenKitchen achieved a maximum suction of 31 kPA. In the second test, it managed to get a slightly higher suction level of 35 kPA. What's noteworthy is that it consistently completed a sealing cycle in just 6 seconds in both tests.
+
+While the quick sealing speed is a positive feature, it couldn't fully make up for the relatively weak suction power of the sealer. Ideally, it should have a suction strength of 45 kPA or more to effectively seal bags with minimal air remaining inside.
 
 ### Moist Food Test
 
-Suction Mode:
+Suction Mode: N/A
 
-Food Mode:
+Food Mode: Moist
 
-Recorded Suction:
+Suction Strength: 11 kPA (1) - 10 kPA (2)
 
-Suction Time:
+Cycle Time: 49s(1) - 47s (2)
+
+The BonsenKitchen VS2100 has the poorest performance in this test out of all the models we’ve tested.
+
+In two separate tests, this vacuum sealer reached a maximum suction level of only 11 kPA, which is barely any suction at all. The final bag still has plenty of air inside by the time the sealer is finished.
+
+The VS2100 also took an exceedingly long time to complete a sealing cycle, taking 49 seconds in the first test and 47 seconds in the second.
+
+If you frequently vacuum-seal moist or liquid-heavy foods, we strongly advise against choosing the BonsenKitchen VS2100 for this reason.
 
 Design
 ------
@@ -54,6 +86,8 @@ design Scores: **6.3**
 *   Control Panel (20%) - **9.0**/10
     
 *   Lid (20%) - **5.0**/10
+    
+*   Extra Features (10%) - **0**/10
     
 
 ### In the Box
@@ -87,6 +121,10 @@ Lid Lock:
 Bag Cutter:
 
 Bag Holder:
+
+Bag Hooks:
+
+Removable Drip Tray:
 
 Usability
 ---------
