@@ -90,17 +90,28 @@ design Scores: **6.3**
 *   Extra Features (10%) - **0**/10
     
 
+The BonsenKitchen VS2100 has an unremarkable design, despite attempts to make it look premium with a faux-metal top lid. It's clearly a budget-friendly, entry-level vacuum sealer with a somewhat cheap and flimsy feel. One standout feature, though, is its detachable top portion, which greatly simplifies cleaning.
+
 ### In the Box
+
+The sealer comes in a simplistic cardboard box. Inside, you get the sealer itself along with some accessories:
+
+*   Pre-cut sheets of plastic bags
+*   An air hose and adapter
+*   A replacement foam seal
+*   Instruction manual
 
 ### Weight & Dimensions
 
-Weight:
+Weight: 2.6 lbs (1.2 kg)
 
-Length:
+Length: 15.2" (38.6 cm)
 
-Width:
+Width: 5.7" (14.5 cm)
 
-Height:
+Height: 3.0" (7.6 cm)
+
+The BonsenKitchen VS2100 falls within the average size and weight range compared to most vacuum sealers in our database. It's not as compact as space-saving models like the Megawise VS6621, but it also won't occupy as much space as full-size models like the Anova Precision Pro. The weight is quite manageable, and most people should have no trouble picking it up with just one hand.
 
 ### 7.0 - Build Quality
 
