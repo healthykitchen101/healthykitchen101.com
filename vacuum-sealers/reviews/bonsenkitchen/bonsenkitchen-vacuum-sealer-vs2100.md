@@ -163,6 +163,8 @@ usability Scores: **6.8**
 *   Indicator Lights and Chime (15%) - **7.0**/10
     
 
+The BonsenKitchen VS2100 is user-friendly for the most part. The using experience is great, although it has a couple of drawbacks, such as a tricky locking mechanism and the absence of bag hooks, which can make bag alignment a bit challenging. However, it makes up for these drawbacks with its quiet operation, decent safety features, and bright indicator lights.
+
 ### 6.0 - Ease of Use
 
 Although the detachable lid of the BonsenKitchen is great for cleaning, it doesn’t contribute a lot to usability. The locks on the lid (which are ordinary latch locks) don't feel solid or evenly-placed. We had to use both hands to press down firmly on the lid to get it to click close. This can be an issue if you ever find yourself having to use the sealer one-handed.
