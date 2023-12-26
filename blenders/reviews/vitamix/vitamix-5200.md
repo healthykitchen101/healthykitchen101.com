@@ -145,9 +145,7 @@ As of the time of writing, the Vitamix 5200 is available in three different colo
 *   Recipe booklet  
 *   Tamper
 
-All of the components included in the Vitamix 5200 box are essential for getting the most out of your blender. While the motor base and blending container make up the centerpiece of the machine, the user guide and recipe booklet provide an array of tips, tricks, and recipes to help you unleash your Vitamix 5200’s full potential. 
-
-During our testing, we found that the tamper is also essential to achieving a consistent blend, particularly when working with thicker mixtures or chunky ingredients.
+All of the components included in the Vitamix 5200 box are essential for getting the most out of your blender. While the motor base and blending container make up the centerpiece of the machine, the user guide and recipe booklet provide an array of tips, tricks, and recipes to help you unleash your Vitamix 5200’s full potential.
 
 ### Dimensions
 
