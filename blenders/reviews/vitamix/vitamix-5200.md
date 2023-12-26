@@ -295,21 +295,13 @@ usability Scores: **8.7**
 *   Cleanability (25%) - **9.5**/10
     
 
-The blender’s control panel is designed to be user-friendly and intuitive, allowing for easy operation even if you never open the user manual. 
-
-The tall and narrow blending cup may be tricky to wash by hand, particularly if you have larger hands. Still, cleaning is effortless when you just fill it with soapy water and run the machine at its highest speed.
-
-Assembly is straightforward, but the lack of a locking mechanism between the container and the motor base may cause the container to be unstable when dealing with tough ingredients. We recommend holding the container’s handle throughout the blending process to prevent it from falling off the motor. Moreover, the lid requires a bit of force to snap tightly into place, though it is easy to remove.
+The blender's control panel is user-friendly and intuitive, promoting easy use without needing to consult the manual. While the tall, narrow cup can be challenging to hand-wash for those with larger hands, it cleans easily by running soapy water in it at high speed. Assembly is simple, but the absence of a locking mechanism can lead to instability with tough ingredients. The lid fits snugly, requiring some force to secure, but is easily removable.
 
 ### 9.0 - Ease of Blend
 
-The Vitamix 5200 effectively blended ingredients with little need for user involvement. In comparison, many other blenders frequently demanded that we stop, remove the lid, and use a tamper or spoon to move things around. During these pauses, the distribution of the ingredients was disrupted, resulting in uneven blending. Moreover, the constant opening and closing of the lid led to spills and messes, especially when handling liquids and fine powders.
+The Vitamix 5200 blended ingredients smoothly with minimal user intervention, unlike other blenders that often required stopping to manually adjust the contents, leading to uneven blends and messes. A concern with the Vitamix 5200 was the container's shaky connection to the motor base, particularly noticeable when crushing ice or blending frozen fruits. This sometimes made it feel like the container might come loose, necessitating a firm grip on the handle for stability.
 
-The Vitamix 5200 features a long power cord (5.9 feet), allowing you some flexibility in where you place your blender. And when you’re done, you can wrap it up in the handy recess under the base to keep the cord out of the way. The cord wrap includes flexible retainers that effortlessly release more cord as needed without unscrewing anything. The whole setup is great for storage and use alike. 
-
-Our main concern centered around the insufficient connection between the container and the motor base. It gave us noticeable vibrations when we crushed ice and processed frozen fruits. The container even seemed like it might topple off the motor base, so we had to hold onto its handle tightly throughout the blending process to maintain stability.
-
-We can’t say for sure whether the container might actually detach from the motor base, but for optimal performance, it's best to place the blender on a flat surface and firmly grip the container handle while blending. Start the blending process at a lower speed and gradually increase it to help mitigate the impact of instability.
+While we can't confirm if the container would actually detach, for safety and best results, it's recommended to use the blender on a flat surface and hold the container handle firmly. Starting at a lower speed and gradually increasing helps manage any instability during blending.
 
 ### 7.0 - Noise Level
 
