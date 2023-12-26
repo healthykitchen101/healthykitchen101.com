@@ -239,9 +239,7 @@ Closing Type: Friction
 
 Features: Lid plug
 
-The blender’s lid is composed of two main parts: a larger section made of high-quality plastic (commonly referred to as the main lid) and a lid plug made of flexible and durable rubber. The two parts of the lid are designed to work together to create a complete leak-proof and spill-proof seal. 
-
-Specifically, the main lid is designed to fit tightly onto the blending container purely through friction. Meanwhile, the lid plug can be easily attached and removed from the main lid, providing a mess-free way to add ingredients during the blending process. It also creates an opening that accommodates a tamper, which allows you to push ingredients down towards the blades for a smooth and even blend.
+The blender's lid consists of a high-quality plastic main lid and a flexible, durable rubber lid plug. Together, they form a leak-proof, spill-proof seal. The main lid attaches securely to the container through friction, while the lid plug, easily removable, enables adding ingredients mid-blend without messes. It also accommodates a tamper for pushing ingredients towards the blades, ensuring a smooth blend.
 
 ### 10 - Control Panel
 
