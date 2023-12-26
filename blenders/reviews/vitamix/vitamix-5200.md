@@ -313,16 +313,8 @@ The noise level of a blender is mostly dictated by the power of its motor. The V
 
 ### 9.0 - Assembly
 
-The Vitamix 5200 assembly process is straightforward. To start, make sure the container's tabs align with the motor base's notches, and then gently slide the container into place. Note that there is no locking mechanism, so you will not hear a click or locking sound to indicate that it is securely attached.
-
-Next, insert the lid plug through the main lid and rotate it clockwise until firmly connected. After assembling the lid, position it on the container by lining up its flaps midway between the spout and the handle, and then firmly press it down. Be prepared to apply significant force to secure the lid properly. The tight fit can be a pain, but it does ensure the lid remains securely in place during blending. Fortunately, it’s easy to remove once blending is complete.
+Assembling the Vitamix 5200 is simple. Start by aligning the container's tabs with the motor base's notches and sliding it into place; there's no locking mechanism, so it won't click into position. Then, insert the lid plug into the main lid, turning it clockwise until it's secure. To attach the lid, align its flaps between the spout and handle and press down firmly – it may require some force, but this ensures it stays put during blending. The lid is tight but easy to remove after use.
 
 ### 9.5 - Cleanability
 
-Although none of the Vitamix blender’s components are dishwasher-safe, all of them are easy to clean by hand. 
-
-The container features a smooth, minimally-grooved inner surface that simplifies rinsing and reduces residue buildup. Its design also effectively prevents stubborn remnants from sticking to the walls, with most food particles washing away under running water. This also applies to the two lid parts, which have very few crevices where food particles may accumulate.
-
-The sleek and intuitive motor base can be easily wiped clean with a soft cloth. Since the lid and pouring spout minimize spillage and prevent ingredient splashes from reaching the motor base, you’ll rarely need to clean it anyway.  
-
-To clean the blade assembly, simply remove it from the container to access every nook and cranny. However, a brush is recommended for reaching each blade and minimizing the risk of injury.
+None of the Vitamix blender's parts are dishwasher-safe, but they are all straightforward to clean by hand. The container's smooth interior surface makes it easy to rinse and prevents food residue buildup. Its design ensures most remnants wash off quickly, a feature shared with the two-part lid that has minimal crevices. The motor base, being sleek and user-friendly, typically requires just a simple wipe with a cloth. Spills are rare thanks to the effective lid and spout design. For the blade assembly, removal allows for thorough cleaning, though using a brush is advised for safety and reaching all areas.
