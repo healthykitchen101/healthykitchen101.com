@@ -211,10 +211,6 @@ We found that the motor can maintain consistent torque and cool temperatures at 
 
 While we haven’t conducted specific tests on this blender’s ability to make hot soup, we can attest to the real-world results we've observed in other blending tests. For instance, when making almond butter, the resulting blend was relatively warm due to the blades' friction. The same also went for the protein shake test and this further supports the idea that this Vitamix 5200 blender can generate enough heat to warm up liquids.
 
-Given the powerful rotating speed, it needs to have a secure and balanced connection between the motor base and the blending container. Fortunately, the Vitamix 5200 is designed with three key linkage components: the retainer nut, centering pad, and drive socket. 
-
-The retainer nut securely fastens the blade assembly to the container and slots into the base’s drive socket, linking the motor to the blade. Both are stainless steel—a motor this powerful needs a tougher connection than the traditional rubberized couplings. The centering pad positions the container properly and also reduces vibration and noise while blending.
-
 ### Blending Container
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhaezosj000u6688azjuazt2.jpg" alt="Illustrated dimensions of Vitamix 5200 Blender Blending Container showing the height, depth, and width across in inches" width="300px" height="200px">
