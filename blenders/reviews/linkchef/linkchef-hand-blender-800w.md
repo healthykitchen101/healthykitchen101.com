@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.0**
+Overall Score: **6.3**
 
 *   Performance (50%) - **5.2**/10
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **7.5**/10
     
-*   Usability (30%) - **0.0**/10
+*   Usability (30%) - **7.2**/10
     
 
 The LINKchef is an economical option, suitable for users who have basic blending needs and don’t frequently engage in complex or heavy-duty performance. While it comes with an accessory kit that adds some versatility, its overall performance remains squarely in the average range. This means for simple tasks like puréeing hot soup or preparing sauces, the LINKchef is quite adequate. However, when it comes to more demanding blending jobs, such as processing frozen fruits for smoothies, its performance may be underwhelming.
@@ -103,13 +103,13 @@ To assess the LINKchef’s versatility, we challenged its whisk attachment to wh
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **7.5**
 
 *   Build Quality (60%) - **7.0**/10
     
 *   Blending Shaft (30%) - **7.5**/10
     
-*   Power Cord (5%) - **0**/10
+*   Power Cord (5%) - **10**/10
     
 *   Beaker (5%) - **10**/10
     
@@ -194,40 +194,76 @@ Dishwasher Safe: Yes
 
 The included 27-ounce beaker that comes with the LINKchef serves well for small to medium blending operations. It may show signs of wear such as marking from the intense blending over time, but this is a common occurrence with such plastic accessories.
 
-### Power Cord
+### 10 - Power Cord
 
-Cord Length:
+Cord Length: 5.1 ft (1.6 m)
 
-Type:
+Type: 2-prong plug
 
-Detachable:
+Detachable: No
 
-### Extra Accessories
+With a lengthy power cord, the LINKchef blender ensures convenience in kitchen setup. A handy plastic clip accompanies the cord, helping to maintain a tidy, untangled storage state.
 
-Material:
+### Extra Accessories: Whisk Attachment
 
-Dishwasher Safe:
+Material: Stainless steel
 
-Removable:
+Dishwasher Safe: Yes
+
+Removable: Yes
+
+For activities such as whipping cream or beating eggs, the LINKchef's whisk attachment does the job with its stainless steel wires that seem durable enough toward regular uses.
+
+### Extra Accessories: Food Processor
+
+Material: Plastic and Stainless steel
+
+Dishwasher Safe: Yes
+
+Removable: Yes
+
+The food processor attachment of the LINKchef's is intended for typical food processing tasks. Although we haven't put it to the test, its convenience is clear. It just will not offer the full range of performance seen in specialized food processors.
+
+### Extra Accessories: Milk Frother
+
+Material: Plastic and Stainless steel
+
+Dishwasher Safe: Yes
+
+Removable: Yes
+
+Our review of the LINKchef's milk frother is pending, but it's intended for milk aeration, a feature useful for achieving the creamy froth needed in various coffee drinks. 
 
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **7.2**
 
-*   Ease of Use (60%) - **0**/10
+*   Ease of Use (60%) - **6.3**/10
     
-*   Blade Assembly (10%) - **0**/10
+*   Blade Assembly (10%) - **8.5**/10
     
-*   Handling (20%) - **0**/10
+*   Handling (20%) - **8.5**/10
     
-*   Cleanability (10%) - **0**/10
+*   Cleanability (10%) - **8.5**/10
     
 
-### Ease of Use
+Our LINKchef blender is manageable in weight and basic in its controls. Its ergonomically-designed handle provides some comfort, but this doesn't fully compensate for the difficulty in maneuvering the blender when it is firmly suctioned to the container.
 
-### Blade Assembly
+### 6.3 - Ease of Use
 
-### Handling
+While stiff to the touch, the front buttons respond promptly to input. The real challenge arises when adjusting the speed through a top-mounted dial during blending, though. Imagine trying to precisely rotate the dial with one hand, while the other hand is tasked with both handling the active blending shaft and ensuring the stability of the beaker. 
 
-### Cleanability
+Compounding this issue is the strong vibration from the motor. This vibration not only makes the beaker wobble noticeably but also creates a vacuum-like effect at the bottom of the beaker. We observed that this often results in splattering when the blender is moved.
+
+### 8.5 - Blade Assembly
+
+To set up the blender, we aligned its blending  attachment with the motor body and pushed until it was firmly in place. The connection felt solid but was more of a snug fit than a clicky engagement. This aspect of the design doesn't notably impede the ease of assembly; however, from a personal standpoint, we found ourselves preferring the tactile confirmation of a click. Disassembling the blender was just as simple: a gentle counterclockwise rotation of the attachment, followed by a pull away from the body. 
+
+### 8.5 - Handling
+
+Throughout our testing, we found the blender's handle to be consistently comfortable to hold, thanks to its ergonomic design. Its lightweight also played a key role in warding off hand fatigue, even in long and strenuous blending sessions. A point to consider, though, is that the handle's smooth finish could make gripping it less secure in situations where hands are wet or have grease on them.
+
+### 8.5 - Cleanability
+
+The blender is generally easy to clean, with the blending wand and attachments responding well to a simple rinse and scrub under running water. However, cleaning around the blades can be more challenging due to the tight space between the blade and its housing, making the removal of stubborn residues a bit cumbersome.
