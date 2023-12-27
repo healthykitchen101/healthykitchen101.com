@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.4**
+Overall Score: **4.0**
 
-*   Performance (50%) - **4.8**/10
+*   Performance (50%) - **5.2**/10
     
-*   Design (20%) - **0.0**/10
+*   Design (20%) - **7.0**/10
     
 *   Usability (30%) - **0.0**/10
     
@@ -29,7 +29,7 @@ LINKchef has recently introduced a new blender that is claimed to handle up to 9
 Performance
 -----------
 
-performance Scores: **4.8**
+performance Scores: **5.2**
 
 *   Hot Soup Purée (35%) - **6.5**/10
     
@@ -39,7 +39,7 @@ performance Scores: **4.8**
     
 *   Almond Milk (15%) - **7.5**/10
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **9.0**/10
     
 
 In our testing, the LINKchef offered acceptable performance for its price. It handled basic tasks like pureeing vegetables, whisking eggs, and grinding nuts adequately, yet struggled with more demanding tasks, like blending frozen fruits, due to insufficient power.
@@ -92,83 +92,107 @@ Achieving the task efficiently in just 1 minute and 20 seconds, the LINKchef par
 
 ### Whipped Egg-Whites
 
-Beating Time:
+Beating Time: 2 minutes
 
-Result:
+Result: Stiff
 
-Suction:
+Suction: No
+
+To assess the LINKchef’s versatility, we challenged its whisk attachment to whip 100ml of egg whites into stiff peaks. The blender achieved this in two minutes, a timing that, though slightly longer than a specialized mixer, is reasonable for an immersion blender. The resulting foam was notably stable and airy, successfully holding its shape even when the bowl was flipped over.
 
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **7.0**
 
-*   Build Quality (60%) - **0**/10
+*   Build Quality (60%) - **7.0**/10
     
-*   Blending Shaft (30%) - **0**/10
+*   Blending Shaft (30%) - **7.5**/10
     
 *   Power Cord (5%) - **0**/10
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **10**/10
     
+
+The LINKchef’s aesthetic is straightforward, lacking the luxury vibe of premium models, yet its build quality is unexpectedly decent for its price range. It retains all the common features of a standard blender, with the notable addition of a rubber blade guard to shield against container scratches.
 
 ### In the Box
 
+*   Motor body 
+*   Blending shaft 
+*   Whisk attachment
+*   Food processor
+*   Beaker   
+*   Ice crush blade 
+*   Milk frother 
+*   Storage bracket 
+*   User manual
+
 ### Dimensions
 
-Height:
+Height: 16.0" (40.6 cm)
 
-Width:
+Width: 2.8" (7.1 cm)
 
-Weight:
+Weight: 1.7 lbs (0.8 kg)
 
-Shaft Length:
+Shaft Length: 8.2" (20.8 cm)
 
-### Build Quality
+The LINKchef's design adheres to the standard size of hand blenders, making it a good fit for most users. Its length and weight do not seem to pose any usability issues. The 8.2-inch blending shaft is particularly noteworthy as it offers the flexibility to blend in deep pots.
+
+### 7.0 - Build Quality
+
+In terms of build quality, the LINKchef does not stand out from the crowd but also doesn't fall behind; it meets the expectations for a blender at its price point. The overall construction is a blend of mid-grade plastic and metal. Wear such as scratches on the plastic surface are an expected part of the usage lifecycle, but are not indicative of any structural or functional deficiencies.
 
 ### Speed and Controls
 
-Activation:
+Activation: Press-button & speed dial
 
-Min Speed:
+Min Speed: N/A
 
-Max Speed:
+Max Speed: N/A
 
-Presets:
+Presets: No
 
-Noise Level:
+Noise Level: N/A
 
-Digital Display:
+Digital Display: No
 
-Pulse Mode:
+Pulse Mode: Yes
 
-### Blending Shaft
+The LINKchef is equipped with a versatile 20-speed setting, fine-tuned via an easy-to-use dial and button combination, allowing for a wide range of blending intensities. Since each speed increment is clearly defined, it offers tangible control over the blending process, enabling precision in achieving the desired results. 
 
-Material:
+### 7.5 - Blending Shaft
 
-Type:
+Material: Stainless steel
 
-Guard Material:
+Type: Sharp Blade
 
-Blade Count:
+Guard Material: Stainless steel
 
-Removable:
+Blade Count: 2
 
-Dishwasher Safe:
+Removable: Yes
 
-### Beaker
+Dishwasher Safe: Yes
 
-Material:
+The blade assembly of the LINKchef is standard, featuring a stainless steel, two-pronged blade typical of mid-range immersion blenders. Along with the blades, the unit includes a blade guard made from non-reactive material. This guard serves multiple purposes: it protects the container from scratches, improves spatter control, and enhances blending efficiency by channeling ingredients toward the blades to create a more effective vortex.
 
-Capacity:
+### 10 - Beaker
 
-Measurements:
+Material: Plastic
+
+Capacity: 27 oz
+
+Measurements: Yes
 
 Weight:
 
 Height:
 
-Dishwasher Safe:
+Dishwasher Safe: Yes
+
+The included 27-ounce beaker that comes with the LINKchef serves well for small to medium blending operations. It may show signs of wear such as marking from the intense blending over time, but this is a common occurrence with such plastic accessories.
 
 ### Power Cord
 
