@@ -162,7 +162,7 @@ In terms of build quality, the LINKchef does not stand out from the crowd but al
 
 ### Speed and Controls
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1c8ez001xtf883vi6hmqh.jpg" alt="A close-up of the LINKchef’s top-mounted dial." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1bqac001wtf8897hyeien.jpg" alt="A close-up of the LINKchef’s front buttons" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1c8ez001xtf883vi6hmqh.jpg" alt="A close-up of the LINKchef’s top-mounted dial." width="300px" height="200px">
 
 Activation: Press-button & speed dial
 
