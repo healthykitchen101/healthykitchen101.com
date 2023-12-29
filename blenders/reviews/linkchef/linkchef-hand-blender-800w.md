@@ -46,6 +46,8 @@ In our testing, the LINKchef offered acceptable performance for its price. It ha
 
 ### Hot Soup Purée
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0lb6z001itf88ekia1xmk.jpg" alt="Scooping a spoon of pureéd soup produced by the LINKchef from the plastic beaker to check its smoothness." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0lysy001jtf882ssj9hmc.jpg" alt="A batch of soup pureéd by the LINKchef immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="300px" height="200px">
+
 Pureeing Time: 30 seconds
 
 Result: Chunky
