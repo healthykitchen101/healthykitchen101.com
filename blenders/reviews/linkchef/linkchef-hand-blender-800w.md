@@ -24,7 +24,7 @@ The LINKchef is an economical option, suitable for users who have basic blending
 *   Susceptibility to scratches
 *   Overwhelming suction strength
 
-LINKchef has recently introduced a new blender that is claimed to handle up to 99% of food preparation tasks, thereby reducing the need for multiple kitchen appliances. Featuring a durable blending shaft, adjustable speed settings, and a comprehensive set of accessories, this blender appears well-equipped to deliver on this promise. However, we know that real-world performance is key; mere advertising claims are often overstated. To this end, we’ve put our LINKchef immersion blender to a course of tests. The upcoming results may reveal a performance that's more ordinary than extraordinary for its price range.
+LINKchef has recently introduced a new blender that is claimed to handle up to 99% of food preparation tasks, thereby reducing the need for multiple kitchen appliances. Featuring a durable blending shaft, adjustable speed settings, and a comprehensive set of accessories, this blender appears well-equipped to deliver on this promise. However, we know that real-world performance is key; mere advertising claims are often overstated. To this end, we conducted a series of tests, comparing the LINKchef with a range of [popular immersion blenders](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/). The upcoming results may reveal a performance that's more ordinary than extraordinary for its price range.
 
 Performance
 -----------
