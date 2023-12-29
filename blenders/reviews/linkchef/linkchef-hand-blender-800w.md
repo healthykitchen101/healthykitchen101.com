@@ -128,6 +128,8 @@ The LINKchef’s aesthetic is straightforward, lacking the luxury vibe of premiu
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0yz0d001qtf885cqk3ck3.jpg" alt="The LINKchef immersion blender and its accessories." width="300px" height="200px">
+
 *   Motor body 
 *   Blending shaft 
 *   Whisk attachment
