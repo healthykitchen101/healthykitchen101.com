@@ -218,6 +218,8 @@ The included 27-ounce beaker that comes with the LINKchef serves well for small 
 
 ### 10 - Power Cord
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1h2fy0020tf88dr8mggxd.jpg" alt="A Close-up of the LINKchef power cord." width="300px" height="200px">
+
 Cord Length: 5.1 ft (1.6 m)
 
 Type: 2-prong plug
