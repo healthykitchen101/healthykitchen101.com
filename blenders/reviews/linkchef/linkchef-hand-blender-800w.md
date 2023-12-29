@@ -182,6 +182,8 @@ The LINKchef is equipped with a versatile 20-speed setting, fine-tuned via an ea
 
 ### 7.5 - Blending Shaft
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1dqw8001ytf88deiy8p13.jpg" alt="A Close-Up of the LINKchef Blade Assembly" width="300px" height="200px">
+
 Material: Stainless steel
 
 Type: Sharp Blade
