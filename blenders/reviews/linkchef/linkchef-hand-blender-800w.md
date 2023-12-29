@@ -74,6 +74,8 @@ For consumers seeking to make icy drinks or frozen fruit smoothies, this blender
 
 ### Mayonnaise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0r189001mtf8879gg5mz6.jpg" alt="A mayonnaise preparation using a LinkChef immersion blender, with a timer tracking the blending duration." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0stig001ntf88gykz6600.jpg" alt="A Close-Up  of The LINKchef Mayonnaise" width="300px" height="200px">
+
 Emulsifying Time: 1 min 35 secs
 
 Result: Smooth
