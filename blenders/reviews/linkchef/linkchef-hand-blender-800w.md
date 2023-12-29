@@ -156,6 +156,8 @@ The LINKchef's design adheres to the standard size of hand blenders, making it a
 
 ### 7.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1avnq001vtf8827ez5d16.jpg" alt="A close-up of the blending wand, milk frother, and motor housing of the LINKchef immersion blender. " width="300px" height="200px">
+
 In terms of build quality, the LINKchef does not stand out from the crowd but also doesn't fall behind; it meets the expectations for a blender at its price point. The overall construction is a blend of mid-grade plastic and metal. Wear such as scratches on the plastic surface are an expected part of the usage lifecycle, but are not indicative of any structural or functional deficiencies.
 
 ### Speed and Controls
