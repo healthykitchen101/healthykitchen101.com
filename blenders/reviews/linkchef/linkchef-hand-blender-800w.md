@@ -292,6 +292,8 @@ To set up the blender, we aligned its blending  attachment with the motor body 
 
 ### 8.5 - Handling
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1l7v90024tf88bua9h58o.jpg" alt="Someone is holding the LINKchef’s handle." width="300px" height="200px">
+
 Throughout our testing, we found the blender's handle to be consistently comfortable to hold, thanks to its ergonomic design. Its lightweight also played a key role in warding off hand fatigue, even in long and strenuous blending sessions. A point to consider, though, is that the handle's smooth finish could make gripping it less secure in situations where hands are wet or have grease on them.
 
 ### 8.5 - Cleanability
