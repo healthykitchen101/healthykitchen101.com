@@ -195,6 +195,8 @@ The Inkbird Plus INK-VS01 could be more user-friendly. One of the main issues is
 
 Maximum Noise Level: 83.2 dBA
 
+Inkbird has really prioritized safety in the design of this sealer. They've placed a highly visible sticker on the heating bar to caution users about its hot surface. Additionally, there's a safety warning sticker inside the sealer to provide important safety instructions.
+
 The Inkbird Plus INK-VS01 is on the louder side, having achieved a noise level of 83.2 dBA during a dry food test. But this is still within the general range for the loudness of most vacuum sealers.
 
 ### 7.0 - Indicator Lights and Chime
