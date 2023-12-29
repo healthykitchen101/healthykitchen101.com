@@ -254,6 +254,8 @@ The food processor attachment of the LINKchef's is intended for typical food pro
 
 ### Extra Accessories: Milk Frother
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1k5lk0023tf8888oj62tv.jpg" alt="A close-up of the LINKchef milk frother." width="300px" height="200px">
+
 Material: Plastic and Stainless steel
 
 Dishwasher Safe: Yes
