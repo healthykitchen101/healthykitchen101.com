@@ -142,6 +142,8 @@ The LINKchef’s aesthetic is straightforward, lacking the luxury vibe of premiu
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq16kr9001utf88dwyhgiqh.jpg" alt="The LINKchef hand-held blender standing on a table, with the length of its blending shaft being noted to the side as 8.2 inches, and the total length of the unit as 16 inches. " width="300px" height="200px">
+
 Height: 16.0" (40.6 cm)
 
 Width: 2.8" (7.1 cm)
