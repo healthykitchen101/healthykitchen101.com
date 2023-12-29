@@ -60,6 +60,8 @@ Should you be looking for alternatives capable of finer pureeing, consider optio
 
 ### Smoothie
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0nkty001ktf88ak41cr7w.jpg" alt="A hand holding a spoonful of a chunky, unevenly blended green and orange mixture above the LINKchef immersion blender, demonstrating the results of a failed frozen fruit smoothie test with the LINKchef blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0o4ah001ltf88f0ndc0mn.jpg" alt="Top-down view of a partially blended mixture in a glass container." width="300px" height="200px">
+
 Blending Time: Failed
 
 Result: Failed
