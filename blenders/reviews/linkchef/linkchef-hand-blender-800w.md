@@ -100,6 +100,8 @@ Achieving the task efficiently in just 1 minute and 20 seconds, the LINKchef par
 
 ### Whipped Egg-Whites
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0vq2y001ptf88eamx2ux8.jpg" alt="The plastic beaker containing beaten egg-white of the LINKchef immersion blender is put upside down on the table;  a smartphone displaying 1 minute and 45 seconds by its sides." width="300px" height="200px">
+
 Beating Time: 2 minutes
 
 Result: Stiff
