@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.3**
+Overall Score: **6.2**
 
 *   Performance (50%) - **5.2**/10
     
 *   Design (20%) - **7.5**/10
     
-*   Usability (30%) - **7.2**/10
+*   Usability (30%) - **7.1**/10
     
 
 The LINKchef is an economical option, suitable for users who have basic blending needs and don’t frequently engage in complex or heavy-duty performance. While it comes with an accessory kit that adds some versatility, its overall performance remains squarely in the average range. This means for simple tasks like puréeing hot soup or preparing sauces, the LINKchef is quite adequate. However, when it comes to more demanding blending jobs, such as processing frozen fruits for smoothies, its performance may be underwhelming.
@@ -267,13 +267,13 @@ Our review of the LINKchef's milk frother is pending, but it's intended for milk
 Usability
 ---------
 
-usability Scores: **7.2**
+usability Scores: **7.1**
 
 *   Ease of Use (60%) - **6.3**/10
     
 *   Blade Assembly (10%) - **8.5**/10
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.0**/10
     
 *   Cleanability (10%) - **8.5**/10
     
@@ -290,7 +290,7 @@ Compounding this issue is the strong vibration from the motor. This vibration no
 
 To set up the blender, we aligned its blending  attachment with the motor body and pushed until it was firmly in place. The connection felt solid but was more of a snug fit than a clicky engagement. This aspect of the design doesn't notably impede the ease of assembly; however, from a personal standpoint, we found ourselves preferring the tactile confirmation of a click. Disassembling the blender was just as simple: a gentle counterclockwise rotation of the attachment, followed by a pull away from the body. 
 
-### 8.5 - Handling
+### 8.0 - Handling
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1l7v90024tf88bua9h58o.jpg" alt="Someone is holding the LINKchef’s handle." width="300px" height="200px">
 
