@@ -242,6 +242,8 @@ For activities such as whipping cream or beating eggs, the LINKchef's whisk atta
 
 ### Extra Accessories: Food Processor
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1j5o40022tf885s4g2vmz.jpg" alt="A close-up of the LINKchef food processor" width="300px" height="200px">
+
 Material: Plastic and Stainless steel
 
 Dishwasher Safe: Yes
