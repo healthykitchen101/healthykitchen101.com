@@ -230,6 +230,8 @@ With a lengthy power cord, the LINKchef blender ensures convenience in kitchen s
 
 ### Extra Accessories: Whisk Attachment
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1i2zd0021tf88a1ue8a95.jpg" alt="A close-up of the LINKchef whisk attachment." width="300px" height="200px">
+
 Material: Stainless steel
 
 Dishwasher Safe: Yes
