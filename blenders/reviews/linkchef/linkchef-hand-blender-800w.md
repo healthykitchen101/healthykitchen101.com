@@ -88,6 +88,8 @@ You might notice an issue with the beaker wobbling during blending, but this can
 
 ### Almond Milk
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0uplv001otf881nk9evf5.jpg" alt="A white plate of almond pulp and a bowl of milk produced by theLINKchef stick blender within 1 minute and 20 seconds." width="300px" height="200px">
+
 Grinding Time: 1 min 20 secs
 
 Result: Smooth
