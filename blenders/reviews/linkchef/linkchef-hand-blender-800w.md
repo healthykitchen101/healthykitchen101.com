@@ -200,6 +200,8 @@ The blade assembly of the LINKchef is standard, featuring a stainless steel, two
 
 ### 10 - Beaker
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq1fxeo001ztf88bbw9hbdg.jpg" alt="A Close-up of the LINKchef beaker." width="300px" height="200px">
+
 Material: Plastic
 
 Capacity: 27 oz
