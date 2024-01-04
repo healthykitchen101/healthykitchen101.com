@@ -1,0 +1,3 @@
+The Anova Precision Vacuum Sealer Pro stands out with its excellent performance in both the dry and moist food sealing tests. All this power is packed in an elegant-looking, sleek design that reflects its premium price point. Its usability is further enhanced by features like a bag compartment and cutter.
+
+On the other hand, the Mueller — being an affordable, entry-level sealer — offers less sealing performance (it gained a total performance score of just 5.9 compared to the Anova’s 8.4.) The build quality is only passable, our reviewers noted a few problems with fits-and-finishes like the creaky lid and uneven lid locks.
