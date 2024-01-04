@@ -1,0 +1,3 @@
+The most striking difference between the Nesco VS-12 and the Inkbird INK-VS01 is their form factor. If you need a full-size vacuum sealer with an extra compartment inside to also keep your plastic bag roll secure (as well as fancy extra features like an integrated cutter,) the Nesco VS-12 will make for a good purchase. In return, it can take up quite some space on the countertop.
+
+Conversely, the Inkbird INK-VS01 is a compact vacuum sealer, with a width that’s only half of the Nesco VS-12 (3.9 inches versus 7.8 inches.) Its suction performance isn’t bad, as well. While it doesn’t offer suction as strong as the VS-12, the Inkbird INK-VS01 will still be able to handle vacuum-packing most foods, dry and moist alike.
