@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.3**
+Overall Score: **3.6**
 
 *   Performance (50%) - **0.0**/10
     
-*   Design (20%) - **5.5**/10
+*   Design (20%) - **7.3**/10
     
 *   Usability (30%) - **7.3**/10
     
@@ -83,13 +83,13 @@ On a positive note, the sealer excelled in cycle times, consistently ranging fro
 Design
 ------
 
-design Scores: **5.5**
+design Scores: **7.3**
 
 *   Build Quality (50%) - **8.0**/10
     
 *   Control Panel (20%) - **7.5**/10
     
-*   Lid (20%) - **0**/10
+*   Lid (20%) - **9.0**/10
     
 *   Extra Features (10%) - **0**/10
     
@@ -156,7 +156,7 @@ To the right of these buttons, you'll find the "Seal" button, handy when you nee
 
 Lastly, if you need to stop a cycle for any reason, simply press the clearly labeled "Stop" button on the far right side of the control panel.
 
-### Lid
+### 9.0 - Lid
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-lid-clr02wuhn000bqr884opqf98c.jpg" alt="The lid of the GERYON E2900-MS is easily detachable, making it convenient to clean the bottom part of the sealer where all the electronics are located." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-lid-1-clr0awytd0002g188ca454jdr.jpg" alt="You can plug an air hose into the accessory port and use it in conjunction with the “Canister” button to the far left of the control panel." width="300px" height="200px">
 
@@ -168,7 +168,7 @@ It was only after consulting the manual that we discovered this is a feature, no
 
 Although it is convenient to clean, the removable design also equates to a more flimsy lid overall. It creaks and doesn’t feel solid when we lift or lower the lid.
 
-### Extra Features
+### Failed - Extra Features
 
 Bag Cutter: No
 
