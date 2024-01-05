@@ -160,7 +160,7 @@ Lastly, if you need to stop a cycle for any reason, simply press the clearly lab
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-lid-clr02wuhn000bqr884opqf98c.jpg" alt="The lid of the GERYON E2900-MS is easily detachable, making it convenient to clean the bottom part of the sealer where all the electronics are located." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-lid-1-clr0awytd0002g188ca454jdr.jpg" alt="You can plug an air hose into the accessory port and use it in conjunction with the “Canister” button to the far left of the control panel." width="300px" height="200px">
 
-Lid Lock:
+Lid Lock: Latch lock
 
 When we initially unboxed the sealer, we noticed that the lid was quite loose. After a while of fiddling, surprisingly, we could pop the top portion of the sealer from the base with ease. There’s no mention of such a feature in the online product description when we first ordered the unit, so this was a rather panicky moment for us.
 
