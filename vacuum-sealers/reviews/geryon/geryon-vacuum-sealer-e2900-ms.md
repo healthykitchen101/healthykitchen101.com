@@ -64,6 +64,8 @@ We were quite impressed by the sealer’s quick cycle times, ranging from 20 sec
 
 ### Moist Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryo-vaccum-sealer-moist-food-test-clr02skxf0005qr88e1zo006q.jpg" alt="The GERYON E2900-MS during the first moist food test session where we used it to pack fresh mango slices. It exhibited a peak suction of just 9 kPA in a 21-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryo-vaccum-sealer-moist-food-test-2-clr02skx00004qr88ci8184rf.jpg" alt="The second test of the GERYON E2900-MS in the moist food test went more smoothly. Suction is higher this time around, peaking at 24 kPA in a 24-second working cycle." width="300px" height="200px">
+
 Suction Mode: Gentle
 
 Food Mode: Moist
@@ -108,6 +110,8 @@ The GERYON sealer comes in a cardboard box with a number of accessories:
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/dimensions-geryon-vacuum-sealer-clr02uaa00006qr88fn0l2qki.jpg" alt="Dimensions Geryon Vacuum Sealer" width="300px" height="200px">
+
 Weight: 2.6 lbs (1.2 kg)
 
 Length: 14.4" (36.6 cm)
@@ -122,6 +126,8 @@ Its dimensions are also standard, taking up a bit more countertop space compared
 
 ### 8.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-build-quality-clr02uz280008qr883jxbb63b.jpg" alt="The GERYON E2900-MS sealer looks rather cheap. Its lid may seem like metal, but it's actually a plastic plate with a metal-like finish." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-build-quality-2-clr02uz1x0007qr88bsn717f4.jpg" alt="White non-slip feet attached to the four corners of the GERYON E2900-MS sealer’s bottom." width="300px" height="200px">
+
 At first glance, it's clear that the GERYON E2900-MS is a budget-friendly sealer due to its housing, which is crafted from affordable and somewhat flimsy-looking plastic. The lid's top features a faux-metal plating (plastic textured and painted to resemble metal), creating an illusion of premium quality from a distance. However, upon closer inspection, its budget nature becomes quite evident.
 
 There are non-slip feet underneath the sealer, which does a decent job at gripping the table surface even when it’s wet.
@@ -129,6 +135,8 @@ There are non-slip feet underneath the sealer, which does a decent job at grippi
 Nevertheless, in terms of build quality, the sealer is surprisingly sturdy. The lid hinges smoothly without any creaking, and all the touch-sensitive buttons functioned well during our tests. Key components like the foam seal around the vacuum channel and the heating bar performed flawlessly without any apparent defects.
 
 ### Control Panel
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-control-panel-1-clr02w0s4000aqr88ft7o3wbl.jpg" alt="The control panel is made up of six touch-sensitive buttons. There are indicator lights on top of the “Mode” and “Food” buttons to help you select the correct settings." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-control-panel-2-clr02w0m70009qr88aoxsaqlz.jpg" alt="You can plug an air hose into the accessory port and use it in conjunction with the “Canister” button to the far left of the control panel." width="300px" height="200px">
 
 Button Type: Touch-sensitive
 
@@ -149,6 +157,8 @@ To the right of these buttons, you'll find the "Seal" button, handy when you nee
 Lastly, if you need to stop a cycle for any reason, simply press the clearly labeled "Stop" button on the far right side of the control panel.
 
 ### Lid
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-lid-clr02wuhn000bqr884opqf98c.jpg" alt="The lid of the GERYON E2900-MS is easily detachable, making it convenient to clean the bottom part of the sealer where all the electronics are located." width="300px" height="200px">
 
 Lid Lock:
 
@@ -192,6 +202,8 @@ Although the detachable lid of the GERYON is great for cleaning, it doesn’t co
 
 ### 9.0 - Safety & Noise
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-noise-clr02y2f8000cqr88542ycyxp.jpg" alt="Our noise level meter recorded a peak loudness of 85.5 dBA during a dry food test, under normal suction mode." width="300px" height="200px">
+
 Maximum Noise Level: 85.5 dBA
 
 The safety features of this model are impressive, especially when compared to others in the same price range. It comes equipped with a highly visible safety sticker on the heating bar, which serves as a warning to prevent accidental touches by new users.
@@ -199,6 +211,8 @@ The safety features of this model are impressive, especially when compared to ot
 The sealer is quite loud, hitting 85.5 dBA during operation. This was a bit of an issue for us, as the noise level was quite disruptive in our testing environment.
 
 ### 7.0 - Indicator Lights and Chime
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-indicator-lights-chime-clr02yreg000dqr88fr8dhukr.jpg" alt="GERYON Vacuum Sealer Indicator Lights and Chime" width="300px" height="200px">
 
 Number of Indicators: 7
 
