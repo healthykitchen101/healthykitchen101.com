@@ -1,9 +1,9 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.6**
+Overall Score: **6.3**
 
-*   Performance (50%) - **0.0**/10
+*   Performance (50%) - **5.2**/10
     
 *   Design (20%) - **7.3**/10
     
@@ -35,11 +35,11 @@ However, if you did decide to take the plunge, what would you get for your money
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **5.2**
 
-*   Dry Food Test (60%) - **0**/10
+*   Dry Food Test (60%) - **5.6**/10
     
-*   Moist Food Test (40%) - **0**/10
+*   Moist Food Test (40%) - **4.7**/10
     
 
 The CALOTO AP-12X's performance is quite disappointing. In our tests with both dry and moist foods, this sealer had trouble removing air from the bags, especially with moist items. Although it works reasonably fast, it can't make up for the weak suction. Since the AP-12X leaves more air in the bags, it could affect how well your food stays fresh.
