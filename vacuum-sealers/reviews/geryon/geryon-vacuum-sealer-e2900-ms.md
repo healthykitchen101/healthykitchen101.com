@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.0**
+Overall Score: **3.3**
 
 *   Performance (50%) - **0.0**/10
     
-*   Design (20%) - **4.0**/10
+*   Design (20%) - **5.5**/10
     
 *   Usability (30%) - **7.3**/10
     
@@ -83,11 +83,11 @@ On a positive note, the sealer excelled in cycle times, consistently ranging fro
 Design
 ------
 
-design Scores: **4.0**
+design Scores: **5.5**
 
 *   Build Quality (50%) - **8.0**/10
     
-*   Control Panel (20%) - **0**/10
+*   Control Panel (20%) - **7.5**/10
     
 *   Lid (20%) - **0**/10
     
@@ -134,7 +134,7 @@ There are non-slip feet underneath the sealer, which does a decent job at grippi
 
 Nevertheless, in terms of build quality, the sealer is surprisingly sturdy. The lid hinges smoothly without any creaking, and all the touch-sensitive buttons functioned well during our tests. Key components like the foam seal around the vacuum channel and the heating bar performed flawlessly without any apparent defects.
 
-### Control Panel
+### 7.5 - Control Panel
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-control-panel-1-clr02w0s4000aqr88ft7o3wbl.jpg" alt="The control panel is made up of six touch-sensitive buttons. There are indicator lights on top of the “Mode” and “Food” buttons to help you select the correct settings." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-control-panel-2-clr02w0m70009qr88aoxsaqlz.jpg" alt="You can plug an air hose into the accessory port and use it in conjunction with the “Canister” button to the far left of the control panel." width="300px" height="200px">
 
