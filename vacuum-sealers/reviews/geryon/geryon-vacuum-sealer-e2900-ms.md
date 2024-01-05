@@ -98,6 +98,8 @@ There’s a special feature in this model, too: you can detach the top lid for e
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-box-clr01yk1s0003qr888cyags98.jpg" alt="The content of the GERYON E2900-MS shipping box, which comes in a simple cardboard box. There’s a roll and a few sheets of pre-cut plastic bags, air hose and adapter, and documentations." width="300px" height="200px">
+
 The GERYON sealer comes in a cardboard box with a number of accessories:
 
 *   A roll and several pre-cut sheets of plastic bags
