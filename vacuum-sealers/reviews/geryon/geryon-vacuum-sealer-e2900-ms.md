@@ -48,6 +48,8 @@ Additionally, after looking at many customer reviews, it's clear to us that this
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-dry-food-test-clr01tuol0002qr884pj33pj8.jpg" alt="The GERYON E2900-MS sealer during the first dry food test where we use it to pack black rice grains. The sealer achieved a peak suction of 46 kPA in a 20-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-dry-food-test-1-clr01tc3h0001qr882b0leqd5.jpg" alt="The GERYON E2900-MS during the second dry food test. Suction is lower in this test compared to the first one, achieving a peak of 44 kPA in a 19-second working cycle." width="300px" height="200px">
+
 Suction Mode: Normal
 
 Food Mode: Dry
