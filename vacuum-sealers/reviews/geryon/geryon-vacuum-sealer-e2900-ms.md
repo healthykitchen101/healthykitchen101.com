@@ -212,7 +212,7 @@ The sealer is quite loud, hitting 85.5 dBA during operation. This was a bit of a
 
 ### 7.0 - Indicator Lights and Chime
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-indicator-lights-chime-clr02yreg000dqr88fr8dhukr.jpg" alt="GERYON Vacuum Sealer Indicator Lights and Chime" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-indicator-lights-chime-clr02yreg000dqr88fr8dhukr.jpg" alt="The light indicators of the Geryon E2900-MS can be seen here. The “Normal” and “Dry” lights are currently lit." width="300px" height="200px">
 
 Number of Indicators: 7
 
