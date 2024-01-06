@@ -1,0 +1,5 @@
+If your blending needs go beyond the basics and you value a no-frill blender, the Oster Pro 1200 is the clear choice over the Black and Decker. 
+
+Equipped with a 1200-watt motor, the Oster Pro handles a wide range of ingredients with relative ease and smoothness, from tough nuts and seeds to fibrous greens and ice cubes. The Black and Decker’s 550-watt motor, on the other hand, struggles with most blending challenges. It performs adequately only with fresh, soft ingredients for basic smoothies or purees.
+
+The user experience also differs notably between the two. The Oster Pro enhances the user experience with its user-friendly interface, including intuitive controls and an additional blending cup for added convenience. In contrast, the Black+Decker Crush Master has been noted for issues like the challenge in removing the lid and the stiffness of its control buttons.
