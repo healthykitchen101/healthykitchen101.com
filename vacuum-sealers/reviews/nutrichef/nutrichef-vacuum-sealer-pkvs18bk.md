@@ -202,7 +202,7 @@ In terms of noise, the sealer’s on the louder side, reaching a peak of 84.5 dB
 
 ### 9.0 - Indicator Lights and Chime
 
-Numberof Indicators: 5
+Number of Indicators: 5
 
 Progress Bar: Yes
 
