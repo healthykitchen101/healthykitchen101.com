@@ -1,5 +1,3 @@
-If your blending needs go beyond the basics and you value a no-frill blender, the Oster Pro 1200 is the clear choice over the Black and Decker. 
+The Oster Pro comes equipped with a 1200-watt motor. Despite its struggles with frozen fruits in our test, this blender is a worthy consideration for those seeking a blend of performance and affordability, given its adequate ability to crush ice, create almond butter, and liquify fibrous green.
 
-Equipped with a 1200-watt motor, the Oster Pro handles a wide range of ingredients with relative ease and smoothness, from tough nuts and seeds to fibrous greens and ice cubes. The Black and Decker’s 550-watt motor, on the other hand, struggles with most blending challenges. It performs adequately only with fresh, soft ingredients for basic smoothies or purees.
-
-The user experience also differs notably between the two. The Oster Pro enhances the user experience with its user-friendly interface, including intuitive controls and an additional blending cup for added convenience. In contrast, the Black+Decker Crush Master has been noted for issues like the challenge in removing the lid and the stiffness of its control buttons.
+With a lower-powered 700-watt motor, the Hamilton Beach Wave Crusher seems to lag in performance and proves to be sufficient for only basic tasks. Its build quality and usability also leave much to be desired. You might find yourself often grappling with an unintuitive control panel and a stubbornly tight lid, which can make the blending process less smooth and more cumbersome.
