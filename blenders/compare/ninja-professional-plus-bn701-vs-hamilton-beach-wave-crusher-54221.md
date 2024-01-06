@@ -1,0 +1,3 @@
+The Ninja AMZ493BRN and Hamilton Beach Wave Crusher represent contrasting levels of performance and durability. Packed by a 700-watt motor, the Hamilton Beach is adequate for blending soft, fresh fruits, but it often struggles with tougher ingredients like greens, nuts, and frozen items. Furthermore, its affordability is reflected in its lower build quality, with flimsy components and a container prone to scratching. 
+
+Conversely, the Ninja AMZ493BRN offers a step up in both power and versatility. Its higher-powered 1200-watt motor allows it to crush ice with ease. In our tests, it also achieved smoother blends across a broader array of ingredients, though they were not always flawless.
