@@ -1,0 +1,3 @@
+The E310's affordability is a significant draw over the Vitamix 5200. This makes it an ideal option for individuals who seek the efficiency and quality of a Vitamix without a hefty investment. 
+
+In our hands-on testing, both the Vitamix E310 and the 5200 excelled in a range of blending tasks, with the E310 particularly more impressive in ice crushing. However, the E310's smaller 48 fl. oz. container, in contrast to the 5200's larger 64 fl. oz. capacity, limits its utility for bigger batches, making the 5200 more suitable for those who often blend large quantities for family or commercial settings.
