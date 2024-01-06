@@ -71,7 +71,7 @@ The extraordinary outcome of the Vitamix 5200 test is a testament to the blender
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8x9m5000666888hgr0ydo.jpg" alt="The Vitamix 5200 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 9 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8xqie00076688batic4lu.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr1r79hr0000948815tlfxsm.jpg" alt="Vitamix 5200 frozen smoothies thumbnail" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8x9m5000666888hgr0ydo.jpg" alt="The Vitamix 5200 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 9 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8xqie00076688batic4lu.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr1r79hr0000948815tlfxsm.jpg" alt="Vitamix 5200 frozen smoothies video" width="300px" height="200px">
 
 Blending Time: 1 min 10 seconds
 
