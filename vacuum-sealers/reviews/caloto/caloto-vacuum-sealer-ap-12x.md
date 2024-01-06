@@ -187,7 +187,7 @@ Noise-wise, the AP-12X is fairly quiet with a peak loudness of just 74.8 dBA. It
 
 ### 5.0 - Indicator Lights and Chime
 
-Numberof Indicators: 8
+Number of Indicators: 8
 
 Progress Bar: No
 
