@@ -1,0 +1,5 @@
+In our tests, the Ninja BN701 and the Black+Decker Crush Master both delivered moderate capabilities, but the Ninja held a slight advantage. Its 1200-watt motor showed better efficiency in challenging tasks like crushing ice and blending frozen fruits. When it comes to making nut butter, liquifying fibrous greens, or preparing protein shakes, however, both blenders perform comparably, despite the Black+Decker less powerful 550-watt motor. 
+
+Given its affordability and compact design, the Black+Decker Crush Master appears to cater to a more traditional or basic blending experience. However, you should be mindful of its lower-quality construction and some ergonomic challenges in its use.
+
+For those seeking a blender that offers a bit more versatility and can handle a wider range of tasks, the Ninja BN701 would be the recommended choice, though not without its drawbacks.
