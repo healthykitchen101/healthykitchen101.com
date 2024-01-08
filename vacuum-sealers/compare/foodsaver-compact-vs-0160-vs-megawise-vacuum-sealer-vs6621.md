@@ -1,0 +1,3 @@
+The FoodSaver VS-0160 stands out for its superior vacuum sealing capabilities and excellent build quality. Coupled with great usability thanks to a lid that locks very smoothly and great ease in feeding the bag into the vacuum channel, most people will be quite happy with this entry-level sealer.
+
+On the other hand, the Megawise is even more affordable than the FoodSaver. However, it distinguishes itself with its highly compact design, which makes it an ideal choice for those who don’t have a lot of space in their kitchen. The Megawise still does a decent job at sealing both dry and moist food, according to our tests, but it doesn’t perform as well as the FoodSaver.
