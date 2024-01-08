@@ -97,7 +97,7 @@ In contrast, other blenders we tested struggled to keep up, with most leaving th
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha94kkr000a66884kpi0tcj.jpg" alt="The Vitamix 5200 is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha95l2g000b6688dapg2wmb.jpg" alt="A sample of almond butter created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr1shx750000qw886s5b5vxe.jpg" alt="Vitamix 5200 blender Almond Butter video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha94kkr000a66884kpi0tcj.jpg" alt="The Vitamix 5200 is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha95l2g000b6688dapg2wmb.jpg" alt="A sample of almond butter created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4be5bv0001qw8848mhe8db.jpg" alt="Vitamix 5200 blender Almond Butter video" width="300px" height="200px">
 
 Blending Time: 1 min
 
