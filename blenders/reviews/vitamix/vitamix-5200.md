@@ -57,7 +57,7 @@ Nonetheless, this minor drawback doesn’t hurt its overall rating much. The Vit
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8tq7e0003668811nmbpd0.jpg" alt="The Vitamix 5200 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8ukh4000466887w2g4w4y.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8tq7e0003668811nmbpd0.jpg" alt="The Vitamix 5200 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8ukh4000466887w2g4w4y.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4f1iki0003qw88ebl4dbgg.jpg" alt="Vitamix 5200 blender Green smoothie video" width="300px" height="200px">
 
 Blending Time: 1 min
 
