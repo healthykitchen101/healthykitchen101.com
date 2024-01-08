@@ -49,16 +49,6 @@ The Work Sharp Ken Onion took less time than most to sharpen a knife to Level 9 
 
 The sharpener can run continuously for 25 minutes or more without overheating, making it an ideal machine for binge sharpening.
 
-### Edge Quality
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cldmqr5aq0002pb881dwt3ieq.jpg" alt="Close-up image of the knife edge after sharpening with the Work Sharp Ken Onion " width="300px" height="200px">
-
-The Ken Onion produced an extremely fine edge with no chips or scratches—the finish reflected light so well we had a hard time photographing it. A smooth edge is not necessarily sharper, but it allows your kitchen knives to glide through food to make neat cuts. In other words, it won’t tear the surface or squish the innards. The only other way to achieve this mirror-like finish is to spend at least half an hour with a series of whetstones.
-
-Because the belts are soft and flexible, they create a convex edge, which is supposed to be stronger than a traditional edge. Sharpened to a 15 degree angle, the knife has decent edge height, which would help it cut through dense foods such as large carrots or pumpkins. 
-
-However, we ended up with uneven bevels almost every time we sharpened a knife with the Ken Onion. This happened despite our efforts to keep the knife straight. We’re not sure if the edge angles are inconsistent between the two sides or if it’s due to the fact that we applied upstrokes on one side and downstrokes on the other side. The consolation is that the discrepancy was minor.
-
 ### Speed
 
 Target Sharpness: 9 (Beef tendon)
@@ -72,6 +62,16 @@ Cutting Feel: Light
 The Ken Onion wasn’t lightning fast, but it didn’t take long to bestow an edge on a uselessly dull knife. For our latest speed test, we sharpened the knife at a 15-degree angle using a new set of belts. It took only 4 minutes to complete the task, and the knife emerged so sharp we could hear it cut through the fibers of our bamboo cutting board! Any knife in your kitchen will see clear improvements after about 2 minutes with this sharpener.
 
 When we first tested the Ken Onion in 2021, the knife was sharpened to a larger edge angle (20 degrees), and it took about double the time (more than 8 minutes) to achieve the target sharpness level. We tested it again a year and dozens of knives later using those same belts, but this time sharpening to 17.5 degrees. Surprisingly, it took about the same amount of time (9 minutes). The abrasives have obviously worn down—a smaller angle should take less time to reach sharpness—but not as much as we’d expected.
+
+### Edge Quality
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/knife-sharpeners/cldmqr5aq0002pb881dwt3ieq.jpg" alt="Close-up image of the knife edge after sharpening with the Work Sharp Ken Onion " width="300px" height="200px">
+
+The Ken Onion produced an extremely fine edge with no chips or scratches—the finish reflected light so well we had a hard time photographing it. A smooth edge is not necessarily sharper, but it allows your kitchen knives to glide through food to make neat cuts. In other words, it won’t tear the surface or squish the innards. The only other way to achieve this mirror-like finish is to spend at least half an hour with a series of whetstones.
+
+Because the belts are soft and flexible, they create a convex edge, which is supposed to be stronger than a traditional edge. Sharpened to a 15 degree angle, the knife has decent edge height, which would help it cut through dense foods such as large carrots or pumpkins. 
+
+However, we ended up with uneven bevels almost every time we sharpened a knife with the Ken Onion. This happened despite our efforts to keep the knife straight. We’re not sure if the edge angles are inconsistent between the two sides or if it’s due to the fact that we applied upstrokes on one side and downstrokes on the other side. The consolation is that the discrepancy was minor.
 
 ### Material Retention
 
