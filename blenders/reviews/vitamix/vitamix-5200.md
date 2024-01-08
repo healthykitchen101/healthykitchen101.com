@@ -85,7 +85,7 @@ This test also demonstrated how important a tamper can be in promoting a smooth,
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha92clk0008668859ig6euj.jpg" alt="The Vitamix 5200 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha93a3h00096688bfk16sih.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix 5200, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha92clk0008668859ig6euj.jpg" alt="The Vitamix 5200 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha93a3h00096688bfk16sih.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix 5200, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4cddd30002qw882dna2q4u.jpg" alt="Vitamix 5200 blender Protein sharkes video" width="300px" height="200px">
 
 Blending Time: 1 min
 
