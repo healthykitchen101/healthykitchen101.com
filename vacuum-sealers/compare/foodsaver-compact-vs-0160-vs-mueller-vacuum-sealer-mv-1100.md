@@ -1,0 +1,5 @@
+The FoodSaver is praised by our reviewers for its excellent vacuum sealing performance, sleek design, and quiet operation. Specifically, in our performance tests, the sealer’s scoring never slipped below 8.0. It's also highly user-friendly with bright indicator lights. The only complaint we had is that it notably lacks extra features.
+
+The Mueller’s key advantage is that it is more affordable than the FoodSaver. It predictably offers less vacuum-packing performance, but in return, you get a pretty decently-built sealer with good safety features and a helpful progress bar. However, its creaky lid hinges and uneven lid locks made it quite clear that the Mueller is meant to be a budget sealer. Plus, our reviewers noted that the control panel’s buttons aren’t reliable.
+
+All in all, you’ll have a better experience in virtually every aspect with the FoodSaver VS-0160. Though if it’s out of your budget, the Mueller should still be a passable choice (with a few quirks.)
