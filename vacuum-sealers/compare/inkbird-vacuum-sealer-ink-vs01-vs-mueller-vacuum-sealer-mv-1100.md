@@ -1,0 +1,5 @@
+The Inkbird INK-VS01 boasts excellent performance for its compact size, which allows it to excel in our dry and moist food tests. The sealer has a small form factor that uses up very little space on the countertop, plus, the build quality is very decent for the price. On top of the lid is a built-in cutter for greater convenience.
+
+The Mueller also has a decent build with good safety features and bright indicator lights. However, its performance is mediocre compared to the Inkbird, and there are several issues with its design: the lid hinges are creaky, the lid locks are uneven, and the control panel’s buttons aren’t reliable. creaky lid hinges, uneven lid locks, and unreliable control panel buttons.
+
+As such, the Inkbird will make for a better purchase — but in case it’s out of your budget range, the Mueller will be a passable stand-in, being a fraction the price of the Inkbird.
