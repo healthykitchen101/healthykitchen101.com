@@ -1,0 +1,5 @@
+The MegaWise VS6621 offers relatively decent suction performance in an affordable package. The sealer itself is decently-built and comes with a bag cutter built into the lid. Our reviewers also gave the sealer high praise for its ease of use. However, the sealer is noted as having a loud motor and sealing performance isn’t exactly the best.
+
+In contrast, the Mueller has a higher overall performance score (6.0 vs. 5.0 for the MegaWise), but its design is not as highly rated due to a few build quality issues (creaking lid hinges and unreliable control panel buttons.) Mueller made it up to the user with a longer two-year warranty compared to MegaWise's one-year, though.
+
+The Megawise should be an okay choice if you’re looking for something affordable and doesn’t require a lot out of your vacuum sealer. But if you’re after performance and good after-sale support, the Mueller will be a better pick.
