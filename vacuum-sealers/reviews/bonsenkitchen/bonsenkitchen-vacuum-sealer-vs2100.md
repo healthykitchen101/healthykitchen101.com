@@ -44,6 +44,8 @@ The BonsenKitchen VS2100 performed poorly in our tests. It couldn't meet the min
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-dry-food-test-clr7gqh6z0027qw88d1m4f4ql.jpg" alt="The BonsenKitchen VS2100 sealer during its first dry food test session, where we used it to vacuum-pack a bag of black rice grains. It achieved a peak suction of 30 kPA in a 6-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-dry-food-test-1-clr7gqh2q0026qw88beca08lc.jpg" alt="The BonsenKitchen VS2100 in the second dry food test session. This time around, it achieved a slightly higher peak suction at 34 kPA, but also a longer working cycle of 6 seconds." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Dry
@@ -59,6 +61,8 @@ To be more specific, in the first test, the BonsenKitchen achieved a maximum suc
 While the quick sealing speed is a positive feature, it couldn't fully make up for the relatively weak suction power of the sealer. Ideally, it should have a suction strength of 45 kPA or more to effectively seal bags with minimal air remaining inside.
 
 ### Moist Food Test
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-moist-food-test-clr7gu7sk0029qw88hd8470kf.jpg" alt="In the first moist food test with fresh mango slices, the BonsenKitchen VS2100 vacuum sealer only reached a peak suction of 11 kPA in a 49-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-clr7gu7o70028qw8810fkh66n.jpg" alt="The second moist food test didn’t play out any better with the BonsenKitchen VS2100. Our vacuum gauge recorded a peak suction of just 10 kPA during a 49-second working cycle." width="300px" height="200px">
 
 Suction Mode: N/A
 
@@ -94,6 +98,8 @@ The BonsenKitchen VS2100 has an unremarkable design, despite attempts to make it
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/geryon-vacuum-sealer-box-clr01yk1s0003qr888cyags98.jpg" alt="The content of the GERYON E2900-MS shipping box, which comes in a simple cardboard box. There’s a roll and a few sheets of pre-cut plastic bags, air hose and adapter, and documentations." width="300px" height="200px">
+
 The sealer comes in a simplistic cardboard box. Inside, you get the sealer itself along with some accessories:
 
 *   Pre-cut sheets of plastic bags
@@ -102,6 +108,8 @@ The sealer comes in a simplistic cardboard box. Inside, you get the sealer itsel
 *   Instruction manual
 
 ### Weight & Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/dimensions-bonsenkitchen-vacuum-sealer-clr7h3hhk002bqw8858yb0snl.jpg" alt="The dimensions of the BonsenKitchen VS2100 vacuum sealer. Its length is marked as 15.2 inches, width is 5.7 inches, and height is 3.0 inches." width="300px" height="200px">
 
 Weight: 2.6 lbs (1.2 kg)
 
@@ -115,9 +123,13 @@ The BonsenKitchen VS2100 falls within the average size and weight range compared
 
 ### 7.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-build-quality-clr7h3hho002cqw88892cd5yg.jpg" alt="The BonsenKitchen VS2100 is fairly well-built, but it’s still obvious even at a distance that the sealer is a budget model." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-build-quality-2-clr7h3hx1002dqw88cdtz57vp.jpg" alt="The sealer has a slightly flimsy feel to it due to being made almost entirely from plastic." width="300px" height="200px">
+
 Our reviewers have described the build quality of the BonsenKitchen VS2100 as "acceptable." The designers have made efforts to enhance its visual appeal by giving the top lid a silvery, metal-like surface (though it's still made of plastic, just with a metallic finish). However, upon closer inspection, it’s hard to ignore the somewhat flimsy plastic components that clearly marked it as a budget product.
 
 ### 9.0 - Control Panel
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-control-panel-clr7h6l3j002mqw88gxz2awln.jpg" alt="The control panel features five buttons, each with clear visual icons and indicator lights placed on top of them for more intuitive using experience." width="300px" height="200px">
 
 Button Type: Physical
 
@@ -130,6 +142,8 @@ The BonsenKitchen vacuum sealer has a user-friendly control panel with five clea
 If you only want to seal the bag without vacuuming, there's a "Seal" button for that. And if you need to pulse vacuum, hold down the "Vac" button, and the motor will keep running as long as you press it. Lastly, on the far right, there's an "Accessory" button that's handy when you want to use the sealer with an air hose and adapter.
 
 ### 5.0 - Lid
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-lid-clr7h3hxw002eqw880vcb7mbo.jpg" alt="The lid is solidly-built, but difficult to close with one hand." width="300px" height="200px">
 
 Lid Lock:
 
@@ -167,9 +181,13 @@ The BonsenKitchen VS2100 is user-friendly for the most part. The using experienc
 
 ### 6.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-ease-use-clr7h3hy9002hqw887c6r4cd8.jpg" alt="The lid of the vacuum sealer is tricky to use one-handed. The user has to apply even force on both sides of the lid for it to click close properly." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-ease-use-1-clr7h3hyd002iqw884gtn72yy.jpg" alt="The BonsenKitchen VS2100 comes with small, raised “brackets” in the vacuum channel to keep the bag straight, but they don’t function as well as bag hooks." width="300px" height="200px">
+
 Although the detachable lid of the BonsenKitchen is great for cleaning, it doesn’t contribute a lot to usability. The locks on the lid (which are ordinary latch locks) don't feel solid or evenly-placed. We had to use both hands to press down firmly on the lid to get it to click close. This can be an issue if you ever find yourself having to use the sealer one-handed.
 
 ### 10 - Safety & Noise
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-clr7h3hy0002fqw88agqj8mjr.jpg" alt="BonsenKitchen VS2100 Noise BonsenKitchen 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-safety-1-clr7h3hyo002jqw88dgb4hfxq.jpg" alt="Inside of the sealer is another sticker that details all of the steps you need to know to run the sealer correctly and safely." width="300px" height="200px">
 
 Maximum Noise Level: 76.1 dBA
 
@@ -179,7 +197,9 @@ The BonsenKitchen’s noise level is moderate compared to other vacuum sealers w
 
 ### 7.0 - Indicator Lights and Chime
 
-Numberof Indicators: 5
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-indicator-lights-chime-clr7h3hyw002kqw884b22cnqg.jpg" alt="There are corresponding indicator lights for each button on the control panel. The lights are bright and can be easily seen under harsh studio lighting." width="300px" height="200px">
+
+Number of Indicators: 5
 
 Progress Bar: No
 
