@@ -129,7 +129,7 @@ When you’re buying a garbage disposal, keep in mind these important factors:
 *   **Is it cordless?** Cordless models are for hardwiring configurations only.
 *   **Is it too big?** Limited space aside, the existing waste line might be too high for your new disposal.
 
-For more useful information on how to choose the best garbage disposal, check out our detailed [buying guide](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/#nearest-competitors).
+For more useful information on how to choose the best garbage disposal, check out our detailed [buying guide](https://healthykitchen101.com/garbage-disposals/tips/garbage-disposal-buying-guide/).
 
 Our Expertise
 -------------
