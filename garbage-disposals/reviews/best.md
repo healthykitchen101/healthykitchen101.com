@@ -22,7 +22,7 @@ How We Decide
 
 In this list, our decisions and recommendations regarding the products’ ranking are based heavily on the evaluation scores. Ultimately, we take into account their grinding capabilities, their build quality, and their economical values in relation to how they performed. The availability of the products also affects the current list. 
 
-Reviews of the Best Garbage Disposals in 2023
+Reviews of the Best Garbage Disposals in 2024
 ---------------------------------------------
 
 After evaluating more than 20 different models, our data points to these garbage disposals as the best picks in key categories:
