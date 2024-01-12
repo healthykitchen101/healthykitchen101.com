@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.0**
+Overall Score: **5.8**
 
 *   Performance (50%) - **4.7**/10
     
-*   Design (20%) - **6.3**/10
+*   Design (20%) - **6.1**/10
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.5**/10
     
 
 We don’t consider the CALOTO AP-12X to be a good buy. Whether you took note of this sealer for its affordable price or its compact form factor, there are models on the market that can check both of these boxes while having better performance. Worse, the warranty information for this sealer is very unclear.
@@ -83,11 +83,11 @@ In summary, if you're specifically looking for a vacuum sealer to handle marinad
 Design
 ------
 
-design Scores: **6.3**
+design Scores: **6.1**
 
 *   Build Quality (50%) - **7.0**/10
     
-*   Control Panel (20%) - **6.0**/10
+*   Control Panel (20%) - **5.0**/10
     
 *   Lid (20%) - **8.0**/10
     
@@ -133,7 +133,7 @@ Instead of building a cord grommet or a cord storage compartment, the CALOTO AP-
 
 Last but not least, as expected, there are four anti-slip feet. They work well enough and provide enough traction that the sealer doesn’t slip and slide around on a wet countertop.
 
-### 6.0 - Control Panel
+### 5.0 - Control Panel
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-control-panel-clra3caqz0035qw883tia2vsi.jpg" alt="The control panel has four buttons with embossed labels. They’re somewhat hard to read because the embossings blend quite well into the black rubber buttons." width="300px" height="200px">
 
@@ -176,13 +176,13 @@ The BonsenKitchen VS2100 doesn’t come with any extra features of note.
 Usability
 ---------
 
-usability Scores: **7.8**
+usability Scores: **7.5**
 
 *   Ease of Use (70%) - **8.0**/10
     
 *   Safety & Noise (15%) - **10**/10
     
-*   Indicator Lights and Chime (15%) - **5.0**/10
+*   Indicator Lights and Chime (15%) - **3.0**/10
     
 
 The CALOTO AP-12X is fairly user-friendly with an easy-to-use control panel, although the lid can be slightly tricky. Safety features include a prominent orange strip on the hot heating bar, and noise levels are reasonable. However, the dim control panel indicators and the lack of an audible signal for cycle completion can be inconvenient.
@@ -203,7 +203,7 @@ CALOTO does a pretty decent job at giving the sealer a safe-to-use design with a
 
 Noise-wise, the AP-12X is fairly quiet with a peak loudness of just 74.8 dBA. It’s not whisper-quiet, but the noise is still manageable.
 
-### 5.0 - Indicator Lights and Chime
+### 3.0 - Indicator Lights and Chime
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-indicator-lights-chime-clra3caoh002xqw88h5ifd6av.jpg" alt="The indicator lights for the CALOTO AP-12X are small and aren’t bright. It’s very hard to monitor the sealer’s progress, especially under harsh lighting conditions." width="300px" height="200px">
 
