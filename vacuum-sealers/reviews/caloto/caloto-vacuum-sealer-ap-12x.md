@@ -48,6 +48,8 @@ Additionally, after looking at many customer reviews, it's clear to us that this
 
 ### Dry Food Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-dry-food-test-clra31v8f002uqw889qurcfh6.jpg" alt="The CALOTO AP-12X vacuum sealer during its first dry food test session where we used it to vacuum-pack dry rice grains. It achieved a peak suction of 40 kPA during a 23-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-dry-food-test-1-clra31v89002sqw8828dd6kks.jpg" alt="The CALOTO AP-12X vacuum sealer reached a higher peak suction in the second test, with our vacuum gauge recording a 43 kPA peak during a 21-second working cycle." width="300px" height="200px">
+
 Suction Mode: N/A
 
 Food Mode: Dry - 1
@@ -61,6 +63,8 @@ Our vacuum gauge recorded a suction of 18 kPA and 44 kPA respectively across two
 Fortunately, the AP-12X performs admirably when it comes to working speed. It only took 23 and 21 seconds, respectively, to complete each working cycle in our two test sessions. While these quick times did improve the AP-12X's overall score somewhat, it still falls short of receiving a passing grade in this category.
 
 ### Moist Food Test
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-moist-food-test-clra31v8c002tqw88d8jm9244.jpg" alt="The CALOTO AP-12X vacuum sealer during the first moist food test session where we used it to vacuum-pack fresh mango slices. It hit a peak suction of 18 kPA during a 33-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-moist-food-test-1-clra31v1j002rqw88ajob0gcu.jpg" alt="The CALOTO AP-12X vacuum sealer is seen here vacuum-packing fresh mango slices for the second moist food test. It hit a peak suction of 20 kPA during a 33-second working cycle." width="300px" height="200px">
 
 Suction Mode: N/A
 
@@ -94,6 +98,8 @@ One of the standout features of the CALOTO AP-12X is its compact size. It won’
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-box-clra3caps0031qw8885uve266.jpg" alt="The content of the CALOTO AP-12X vacuum sealer’s shipping box. It includes a detachable power cord, air hose and adapter, sheets of pre-cut plastic bags, and an instruction manual." width="300px" height="200px">
+
 The CALOTO AP-12X doesn’t come with much in the box. Besides the sealer itself, you’ll get:
 
 *   Detachable power cord
@@ -102,6 +108,8 @@ The CALOTO AP-12X doesn’t come with much in the box. Besides the sealer itself
 *   User manual
 
 ### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/dimensions-ap-12x-vacuum-sealer-clra3gbyf0036qw880ak7dvyf.jpg" alt="The dimensions oft he CALOTO AP-12X. Its length is 14.9 inches, its width is 3.2 inches, and its height is 2.1 inches." width="300px" height="200px">
 
 Weight: 2.2 lbs (1.0 kg)
 
@@ -115,6 +123,8 @@ The CALOTO AP-12X is exceptionally lightweight at 2.2 pounds, similar to other c
 
 ### 7.0 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-build-quality-clra3capv0032qw88dckh5fpa.jpg" alt="The build quality of the CALOTO AP-12X vacuum sealer is fairly decent, though its lightness and full-plastic detailing can make it seem slightly cheap." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-build-quality-1-clra3cap8002zqw88hu1of8we.jpg" alt="The CALOTO AP-12X sealer comes with a removable power cord for easier storage." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-build-quality-2-clra3capz0033qw887yj1han3.jpg" alt="Anti-slip feet at the bottom of the CALOTO AP-12X vacuum sealer." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-build-quality-3-clra3capo0030qw887znv8fbq.jpg" alt="In the back, you’ll find the port for the modular power cord." width="300px" height="200px">
+
 The CALOTO AP-12X has a decent build quality. We didn't find any major issues in its design or how it's put together. The top lid, even though it's made of plastic, has a nice textured surface. In the middle of the lid, there's a glossy centerpiece that adds a bit of style to the sealer (this shiny part is there for looks and isn't a button).
 
 But because they used lightweight plastic to make it lighter, the sealer can seem a bit flimsy, especially when you pick it up and feel just how light it is. As such, unlike more expensive models like the Anova Precision Pro or the Nesco VS-12, the CALOTO AP-12X might not be built durably enough to survive a fall from your countertop unscathed.
@@ -124,6 +134,8 @@ Instead of building a cord grommet or a cord storage compartment, the CALOTO AP-
 Last but not least, as expected, there are four anti-slip feet. They work well enough and provide enough traction that the sealer doesn’t slip and slide around on a wet countertop.
 
 ### 6.0 - Control Panel
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-control-panel-clra3caqz0035qw883tia2vsi.jpg" alt="The control panel has four buttons with embossed labels. They’re somewhat hard to read because the embossings blend quite well into the black rubber buttons." width="300px" height="200px">
 
 Button Type: Physical
 
@@ -141,7 +153,9 @@ In addition to the "Temp" button for food modes, you'll find other handy buttons
 
 ### 8.0 - Lid
 
-Lid Lock:
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-lid-clra3caol002yqw8893mp8mjq.jpg" alt="The hinges of the CALOTO AP-12X are quite sturdy and don’t creak when we lift or lower the lid." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-lid-1-clra3canl002wqw88hhc64tuv.jpg" alt="To unlock the lid after it's locked, simply press the buttons on both sides of the sealer, and this will release the latches." width="300px" height="200px">
+
+Lid Lock: Latch lock
 
 The lid stands out as one of the notable features of this model. It opens smoothly, and the hinges are sturdy enough to prevent any wobbling when you open or close it forcefully from side to side. However, similar to most sealers in this price range, the CALOTO AP-12X has latch locks that need you to press down on the lid to secure it shut.
 
@@ -175,9 +189,13 @@ The CALOTO AP-12X is fairly user-friendly with an easy-to-use control panel, alt
 
 ### 8.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-ease-use-clra3caq30034qw8821uc4mqs.jpg" alt="You need to press down on the lid with two hands for the lid to click close properly. One-handed operation is very difficult." width="300px" height="200px">
+
 Our only concern with the AP-12X is its lid, which requires two-handed operation to securely close. This can be challenging for one-handed use, especially when trying to align the plastic bag with the vacuum channel. Aside from this minor issue, the sealer is generally straightforward to operate, leaving little else to discuss in this section.
 
 ### 10 - Safety & Noise
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/noise-apx12-2-clra3j5ov0037qw88by5e6qaj.jpg" alt="During a dry food test session, our noise level meter recorded the peak loudness of the motor to be around 74.8 dBA." width="300px" height="200px">
 
 Maximum Noise Level: 74.8 dBA
 
@@ -186,6 +204,8 @@ CALOTO does a pretty decent job at giving the sealer a safe-to-use design with a
 Noise-wise, the AP-12X is fairly quiet with a peak loudness of just 74.8 dBA. It’s not whisper-quiet, but the noise is still manageable.
 
 ### 5.0 - Indicator Lights and Chime
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/caloto-vacuum-sealer-ap-12x-indicator-lights-chime-clra3caoh002xqw88h5ifd6av.jpg" alt="The indicator lights for the CALOTO AP-12X are small and aren’t bright. It’s very hard to monitor the sealer’s progress, especially under harsh lighting conditions." width="300px" height="200px">
 
 Number of Indicators: 8
 
