@@ -109,7 +109,7 @@ But fear not, because the Vitamix 5200 is the exception to the rule. In just 60 
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha979oz000c66882fipa2xu.jpg" alt="The Vitamix 5200 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhaaxd87000s6688h7q41ioz.jpg" alt="The scale's screen shows  2.28 oz of unblended ice cubes remaining from the Vitamix 5200. " width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha979oz000c66882fipa2xu.jpg" alt="The Vitamix 5200 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhaaxd87000s6688h7q41ioz.jpg" alt="The scale's screen shows  2.28 oz of unblended ice cubes remaining from the Vitamix 5200. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clreey9pp0045qw8894fi2yh6.jpg" alt="Vitamix 5200 blender Crushed Ice video" width="300px" height="200px">
 
 Ice Fineness: Fine
 
