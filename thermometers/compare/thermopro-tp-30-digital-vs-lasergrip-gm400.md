@@ -1,0 +1,3 @@
+The ThermoPro TP-30 stands out for its unique offering of a very wide range of measurement modes, making it suitable for various uses beyond just the kitchen. However, it has its drawbacks, like a fairly mediocre measurement accuracy and an uncomfortable grip.
+
+On the other hand, the Lasergrip GM400, similar to the ThermoPro TP-30, also struggled to provide accurate results in our tests. It received a total performance score of 5.3, which is less accurate compared to the ThermoPro TP-30's score of 6.3. Furthermore, it has a simpler design and lacks the advanced features of the ThermoPro TP-30, making it a less appealing choice compared to the ThermoPro TP-30.
