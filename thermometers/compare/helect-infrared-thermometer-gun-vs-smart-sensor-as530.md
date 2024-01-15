@@ -1,0 +1,3 @@
+The Helect H1020 is known for its precise temperature readings and user-friendly features, making it a go-to choice for many users who value reliability.
+
+On the other hand, the Smart Sensor AS530, while sturdy and equipped with a bright laser emitter to help you aim the sensor precisely at the spot you wish to measure, falls short when it comes to accuracy. It struggles with making accurate temperature recordings on cold objects and surfaces, which can be a problem if you ever plan to use the thermometer to check on a frozen cut of steak or inspect the interior of your fridge and freezer.
