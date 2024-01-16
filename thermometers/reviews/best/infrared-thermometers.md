@@ -40,7 +40,7 @@ The top IR thermometers featured in this guide are selected after rigorous testi
 Our Top Picks
 -------------
 
-Here’s a round-up of the top IR thermometers we’ve tested in our lab as of June 2023.
+Here’s a round-up of the top IR thermometers we’ve tested in our lab as of June 2024.
 
 1\. Best Overall: Eventek ET312 Infrared Thermometer Gun
 
