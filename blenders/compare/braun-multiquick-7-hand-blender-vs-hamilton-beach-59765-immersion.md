@@ -1,0 +1,5 @@
+As a low-priced immersion blender, the Hamilton Beach 59765 may catch the eye with its array of blending accessories, but our hands-on testing suggests its 225-watt motor is only suited for blending soft, fresh, or cooked ingredients. Tasks like processing frozen fruit or grinding nuts reveal the blender's shortcomings, while its whisk attachment often leaves much to be desired when it comes to emulsification and whipping.
+
+In contrast , the Braun MultiQuick-7 stands out as a pricier yet worthwhile investment. Whether it’s dealing with dense, fibrous items or showcasing its versatility as a hand-mixer, this blender consistently impresses us with quick, silky-smooth results. 
+
+The Braun's construction and build quality also stood out. Crafted from low-range plastic, the Hamilton's motor body is prone to breakage. Its thin plastic tabs connecting attachments with the main body are subpar and may snap with use. The Hamilton’s flimsy construction also causes it to feel brittle while operating. Couped with a shaking motor and unresponsive controls, this causes discomfort during extended use.
