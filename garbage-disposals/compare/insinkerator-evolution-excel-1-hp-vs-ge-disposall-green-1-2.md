@@ -1,0 +1,7 @@
+Per our data, the InSinkErator Evolution Excel 1 HP and the GE Disposall Green 1/2 HP are the two best-performing garbage disposal you can get at the moment. They’re not cheap—just to point that out—but for what they can do, you’ll be getting your money's worth, or at least most of it. 
+
+The InSinkErator Evolution Excel 1 HP had the most impressive performance run we’ve seen out of 20 selected units. The disposal took on the tests as if they were on the same level of difficulty. If you see what it does to raw fish remains, which is one of the most challenging categories, you get why it’s so expensive. Not only that, the Excel’s anti-vibration technology is easily the most advanced in the residential garbage disposal market today. 
+
+The GE Disposall Green 1/2 HP simply can’t compare: It’s a much smaller unit with a weaker motor and minimal features. Still, the fact that the Disposall Green can yield better results than several other 1-hp models, particularly in handling raw meat scraps, should tell you all you need to know.
+
+If there’s a lot of cooking happening in your kitchen and you don’t want to think too much about cleanup, we recommend the InSinkErator Evolution Excel. Not just because the disposal can get the job done, but also because it’s so smooth about it, given you have the cash and cabinet space. For a more compact build and much more affordable price, the GE Disposall Green 1/2 HP is a strong option.
