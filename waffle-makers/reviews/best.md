@@ -4,8 +4,8 @@ And, of course, you’ll need a waffle maker in your kitchen for that.
 
 If you’re considering getting one, our list of **the best waffle makers** might help you find the perfect match for your needs and budget.
 
-How We Tested
--------------
+How We Test
+-----------
 
 During our review process, we try not to look at products from the viewpoint of professional reviewers or critics. Instead, we believe it’s best to put ourselves in your shoes and try to evaluate the products from an average user’s point of view. To best do that, we had to create a detailed, consumer-centric testing methodology.
 
