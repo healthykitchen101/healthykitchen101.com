@@ -110,7 +110,7 @@ Now we’ve got our foundational knowledge and specifications in place, let’s 
 
 The WAF-F20P1 is among the company’s premium line-up. As a high-end model, it comes with a multitude of features that you would rarely find in cheaper models. That, combined with its high performance and luxurious design, makes the Cuisinart WAF-F20P1 our top choice as long as you have a roomy budget.
 
-Notably, the Cuisinart WAF-F20P1 is also featured in our picks of the [best belgian waffle makers](https://healthykitchen101.com/waffle-makers/reviews/best/belgian-waffle-makers/) in 2023!
+Notably, the Cuisinart WAF-F20P1 is also featured in our picks of the [best belgian waffle makers](https://healthykitchen101.com/waffle-makers/reviews/best/belgian-waffle-makers/) in 2024!
 
 The Cuisinart WAF-F20P1 has a flippable, double-sided baking chamber. So, it can prepare two Belgian-style waffles at once, and they both come out quickly and evenly cooked. 
 
