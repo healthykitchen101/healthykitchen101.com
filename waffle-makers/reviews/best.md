@@ -81,8 +81,8 @@ In all, we score four sections in the ease of use section: **handling** (25%), *
 
 This is an abridged description of our testing methodology. For further details, you can check out the complete article [how we test our waffle makers](https://healthykitchen101.com/waffle-makers/tests/).
 
-How We Picked the Best Waffle Makers
-------------------------------------
+How We Picked
+-------------
 
 The best to buy waffle maker in our list is the one with the highest scores across the board. It should stand out from every other model. After that, we pick the highest ranking waffle maker from each sub-category. 
 
