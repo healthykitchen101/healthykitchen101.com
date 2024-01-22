@@ -1,0 +1,5 @@
+In our tests, the Nutrichef really stood out because of its good looks and how easy it is to use. On the other hand, the Geryon didn't win us over with its appearance but got points for practicality – its top lid can be removed for easy cleaning. The Geryon earned a slightly higher design score, 7.3 out of 10, just a bit more than the Nutrichef's 7.2.
+
+In terms of performance, both vacuum sealers did okay but didn't blow us away. Neither scored higher than 6.0 out of 10 overall. However, the Nutrichef did slightly better with a score of 5.7 out of 10, especially in the moist food test compared to the Geryon.
+
+Ideally, if you can, it might be a good idea to spend a bit more on a vacuum sealer with better overall performance and build quality. But if you're stuck deciding between these two, we recommend the Nutrichef PKVS18BK.
