@@ -10,7 +10,7 @@ Overall Score: **4.8**
 *   Usability (20%) - **7.1**/10
     
 
-In our course of testing, the Cuisinart SPB-7CH SmartPower made a promising first impression. It proved efficient when dealing with dried berries, oatmeal, and almonds, churning out a well-balanced protein shakes that’s really worth applauding. 
+In our course of testing, the Cuisinart SPB-7CH SmartPower made a promising first impression. It proved efficient when dealing with dried berries, oatmeal, and almonds, churning out a well-balanced protein shakes that’s really worth applauding.
 
 However, it's not all smooth sailing for this blender. Tasked with leafy greens, it asked for a little bit of patience, taking more than double the average blending time to achieve a nearly smooth blend. This additional time, while resulting in a decent blend, could be seen as a drawback, especially for those with fast-paced routines.
 
