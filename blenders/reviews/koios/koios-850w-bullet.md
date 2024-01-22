@@ -12,7 +12,7 @@ Overall Score: **7.4**
 
 The KOIOS Bullet is a bargain if you’re willing to compromise on the heavy-duty side of performance. We tested it with multiple recipes, and it was able to handle everything except for crushing ice cubes. Its ability to process leafy greens was just average, but the frozen fruit smoothies and protein shakes it produced were among the smoothest.
 
-Plus, while most personal blenders around this price mainly concentrate on smoothie- and milkshake-making capability, the KOIOS also wants you to further remember its thoughtful design, generous accessory package, and the fact that it can even be used to grind dry ingredients. 
+Plus, while most personal blenders around this price mainly concentrate on smoothie- and milkshake-making capability, the KOIOS also wants you to further remember its thoughtful design, generous accessory package, and the fact that it can even be used to grind dry ingredients.
 
 In conclusion, if you want an [affordable blender](https://healthykitchen101.com/blenders/reviews/best/) that will allow for ease of daily whole-food consumption, this KOIOS may be the hands-down favorite.
 
