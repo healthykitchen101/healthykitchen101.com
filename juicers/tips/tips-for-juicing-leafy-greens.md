@@ -2,6 +2,8 @@ Unlocking the potential of juicing leafy greens can be a game-changer for your h
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-masticating-juicer-next-bowl-kale-clrsmvxro0000di88hi0l3bol.jpg" alt="Jocuu masticating juicer next to bowl of kale, cup containing kale juice, cup containing kale pulp, and juicers and blenders on a shelf in the background." width="768" height="512">
 
+Leafy greens require the right equipment and technique to juice
+
 However, extracting juice from leafy greens can be challenging due to their shapes and textures. Greens also tend to have a low sugar content and a bitter taste that’s not very appealing to the taste buds. In this article, we'll delve into a collection of expert tips to elevate your leafy green juicing experience, from preparation techniques to creative combinations that not only enhance flavor but also maximize nutritional intake.
 
 Whether you're a juicing enthusiast or a beginner looking to embrace the goodness of greens, these tips will guide you toward extracting the most from nature's verdant bounty.
@@ -17,7 +19,15 @@ So, what are the tricks?
 
 Traditional [centrifugal juicers](https://healthykitchen101.com/juicers/reviews/best/centrifugal-juicers/), which rely on high-speed spinning blades, are not the most suitable for juicing fibrous greens. Most of the time, you get very little juice, while the leaves end up torn, bruised, and shot into the pulp collector in large pieces.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/parts-centrifugal-juicer-after-juicing-leafy-greens-clrsobdln0000ss8864l888ql.jpg" alt="Parts of a centrifugal juicer after juicing leafy greens, next to a plate of green pulp and a plate of green vegetables" width="768" height="512">
+
+Even a quality centrifuge like the Breville Juice Fountain can’t extract much juice from green vegetables
+
 There are workarounds, but a more efficient option is to use a masticating or cold-press juicer, which is designed to crush and squeeze the leaves with strong pressure. Juice yield will vary depending on leaf type and juicer model, but in our experience, you will almost certainly get more juice with a masticator than a centrifuge.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/person-juicing-kale-leaves-using-omega-nc900-masticating-juicer-clrsog5v40002ss8891ym5itq.jpg" alt="Person juicing kale leaves using the Omega NC900 masticating juicer" width="768" height="512">
+
+Masticating juicers are better than centrifuges at handling kale
 
 ### Roll It Up for a Tighter Squeeze
 
@@ -33,6 +43,10 @@ Taste Tips
 ----------
 
 Whether you are a veteran or newbie at the juicing game, achieving the perfect taste in the final product can be a challenge. Especially with juicing leafy greens, where everything has a chance of chaotic bitterness.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/two-glasses-green-juice-clrsoeq7p0001ss88du6efzb2.jpg" alt="Two glasses of green juice, slices of apple, kale, lemon, and cucumbers" width="768" height="512">
+
+Adding enhancers is a great way to elevate the flavors of your green juice
 
 Having [chef-tested green juice recipes](https://healthyrecipes101.com/juice/recipes/green-juice/) handy is a great way to ensure you’ll always make the tastiest juice. But if you’re feeling creative and want to experiment with your own unconventional recipes, here are a few taste tips.
 
