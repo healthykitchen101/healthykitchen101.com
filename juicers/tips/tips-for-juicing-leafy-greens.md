@@ -23,7 +23,7 @@ Traditional [centrifugal juicers](https://healthykitchen101.com/juicers/reviews/
 
 Even a quality centrifuge like the Breville Juice Fountain can’t extract much juice from green vegetables
 
-There are workarounds, but a more efficient option is to use a masticating or cold-press juicer, which is designed to crush and squeeze the leaves with strong pressure. Juice yield will vary depending on leaf type and juicer model, but in our experience, you will almost certainly get more juice with a masticator than a centrifuge.
+There are workarounds, but a more efficient option is to use a [masticating or cold-press juicer](https://healthykitchen101.com/juicers/reviews/best/masticating-juicers/), which is designed to crush and squeeze the leaves with strong pressure. Juice yield will vary depending on leaf type and juicer model, but in our experience, you will almost certainly get more juice with a masticator than a centrifuge.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/person-juicing-kale-leaves-using-omega-nc900-masticating-juicer-clrsog5v40002ss8891ym5itq.jpg" alt="Person juicing kale leaves using the Omega NC900 masticating juicer" width="768" height="512">
 
