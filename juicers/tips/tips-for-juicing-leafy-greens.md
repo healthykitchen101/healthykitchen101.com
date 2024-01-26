@@ -1,8 +1,8 @@
 Unlocking the potential of juicing leafy greens can be a game-changer for your health and wellness journey. Packed with essential nutrients, vitamins, and antioxidants, leafy greens offer [a myriad of benefits](https://healthykitchen101.com/juicers/tips/benefits-of-juicing/) when incorporated into your daily juicing routine.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-masticating-juicer-next-bowl-kale-clrsmvxro0000di88hi0l3bol.jpg" alt="Jocuu masticating juicer next to bowl of kale, cup containing kale juice, cup containing kale pulp, and juicers and blenders on a shelf in the background." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/tips-for-juicing-leafy-greens-clrufjc1u000dss88hn4a47lf.jpg" alt="Smiling woman holding juicer in one hand, juice cup in the other, bowl of kale in the front" width="768" height="512">
 
-Leafy greens require the right equipment and technique to juice
+You can make more juice out of leafy greens with the right tools and technique
 
 However, extracting juice from leafy greens can be challenging due to their shapes and textures. Greens also tend to have a low sugar content and a bitter taste that’s not very appealing to the taste buds. In this article, we'll delve into a collection of expert tips to elevate your leafy green juicing experience, from preparation techniques to creative combinations that not only enhance flavor but also maximize nutritional intake.
 
