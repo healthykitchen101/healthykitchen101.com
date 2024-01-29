@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **8.4**
 
 *   Performance (60%) - **8.5**/10
     
 *   Design (15%) - **7.6**/10
     
-*   Usability (25%) - **0.0**/10
+*   Usability (25%) - **8.6**/10
     
 
 The Vivo Home has a somewhat bulky and dated design. At the same time, it is one of the best performing portable ice makers we have tested, especially for chunky and weighty ice bullets.
@@ -169,21 +169,35 @@ The white cord of the Vivo Home is 70 inches or 5.8 ft long, which is one inch s
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **8.6**
 
-*   (60%) - **0**/10
+*   Ease of Use (60%) - **8.7**/10
     
-*   (25%) - **0**/10
+*   Noise (25%) - **8.3**/10
     
-*   (15%) - **0**/10
+*   Cleaning (15%) - **8.5**/10
     
 
-### Easeof Use
+Despite its more dated bulky design, the Vivo Home ranks high in terms of usability. The control panel is spacious and positioned on the upper end of the lid. Furthermore, the body is easy to keep clean, and the wide ice basket has a comfortable scoop leverage. It is also one of the quietest machines we tested, if only by one decibel point.
 
-### Noise
+### 8.7 - Ease of Use: Nice Control Panel, Wide Basket
 
-Decibels:
+The Vivo Home design is a little different with the controls up front on the lower part of the lid. The control panel is also wide and nicely spaced. This is a convenient design and there are only two control buttons.
 
-### Cleaning
+The average-sized view window makes it easy enough to see inside. A nice thing about this machine is the relatively large-sized ice basket with a good length for comfortable ice scooping.
 
-Self Cleaning:
+### 8.3 - Noise: A Recorded Low
+
+Decibels: 66.6 dB
+
+Most portable bullet ice makers emit a similar level of sound of around 67 to 68 decibels. This Vivo Home, however, proved to be a little quieter than most other machines measuring 66.6 dB. While not a major difference, it perhaps says more about the quality of its mechanical design.
+
+### 8.5 - Cleaning: Little Effort Required
+
+Self Cleaning: Yes
+
+The Vivo Home has a self-cleaning function. This function flushes water through the ice making mechanism and the evaporator fingers. To clean your ice maker, all you need to do is wipe down the reservoir and outer body, and periodically descale the machine with a white vinegar solution.
+
+To drain out the water, the silicone plug and hard plastic tether are standard and the plug hooks easily around the edge of the machine.
+
+You should also keep the water guard free of debris and grime, and removing it is very easy. The bright blue body does not show stains easily and is also fingerprint resistant. There are other colors such as copper, aqua green, silver, black, and white.
