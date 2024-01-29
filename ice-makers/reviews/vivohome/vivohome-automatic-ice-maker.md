@@ -1,11 +1,11 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.6**
+Overall Score: **6.2**
 
 *   Performance (60%) - **8.5**/10
     
-*   Design (15%) - **3.6**/10
+*   Design (15%) - **7.6**/10
     
 *   Usability (25%) - **0.0**/10
     
@@ -70,15 +70,15 @@ Put into perspective, its close rival the Frigidaire EFIC189 rarely reached 7g, 
 Design
 ------
 
-design Scores: **3.6**
+design Scores: **7.6**
 
 *   Build Quality (45%) - **8.0**/10
     
-*   (15%) - **0**/10
+*   Panel Design (15%) - **8.9**/10
     
-*   Lid Design (25%) - **0**/10
+*   Lid Design (25%) - **5.8**/10
     
-*   (15%) - **0**/10
+*   Ice Basket (15%) - **8.1**/10
     
 
 The immediate impression of the Vivo Home is that of an older, more bulky kind of design. What stands out, though, is the spacious control panel on the upper part of the lid. It also has a comfortably sized basket. Despite the solid build quality, the lid showed comparatively poor insulation design.
@@ -106,7 +106,7 @@ Weight: 15.4 lbs (7.0 kg)
 
 We liked the hard front body of the Vivo Home and the fact it was easy to keep clean. The sides, by comparison, are made of a more bendable plastic. We found no flaws on the body, although one quality issue or perhaps design flaw, were the lid joinings with their noticeable gaps.
 
-### Lid Design: A Slip Up on Insulation
+### 5.8 - Lid Design: A Slip Up on Insulation
 
 Material: Plastic
 
@@ -114,29 +114,33 @@ The Vivo Home has a comparatively small view window, but the view inside is good
 
 These results were practically the same as the Frigidaire EFIC189. Both machines are among our top performers, but not so with the insulation design of the lid.
 
-### Panel Design
+### 8.9 - Panel Design: Refreshingly Spacious
 
-Buttons:
+Buttons: On/Off, Select
 
-Power Indicator:
+Power Indicator: Yes
 
-Ice Full Indicator:
+Ice Full Indicator: Yes
 
-Add Water Indicator:
+Add Water Indicator: Yes
 
-IceS Indicator:
+IceS Indicator: Yes
 
-IceL Indicator:
+IceL Indicator: Yes
 
-### Ice Tray
+If you’re looking for a user-friendly control panel with high visibility, the Vivo Home is not a bad design. Not many machines have the control panels on the front of the lid and this design, for some reason, is exactly the same as the Costway. We liked the spaciousness of the control panel and the silver-edged finish.
 
-Length:
+### 8.1 - Ice Basket: Comfortably Wide
 
-Height:
+Length: 7.9" (20.1 cm)
 
-Depth:
+Height: 3.9" (9.9 cm)
 
-Material:
+Depth: 4.9" (12.4 cm)
+
+Material: Hard white plastic
+
+The Vivo Home has a relatively large ice basket. The basket is just slightly larger than that of the Frigidaire and likewise has no raised edge. The material is a medium strength plastic, so better than the average generic production.
 
 ### Water Reservoir
 
