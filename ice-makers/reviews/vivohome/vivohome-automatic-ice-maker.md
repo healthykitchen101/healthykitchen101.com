@@ -82,7 +82,7 @@ design Scores: **7.6**
     
 *   Lid Design (25%) - **5.8**/10
     
-*   Ice Basket (15%) - **8.1**/10
+*   Ice Basket (15%) - **8.3**/10
     
 
 The immediate impression of the Vivo Home is that of an older, more bulky kind of design. What stands out, though, is the spacious control panel on the upper part of the lid. It also has a comfortably sized basket. Despite the solid build quality, the lid showed comparatively poor insulation design.
@@ -142,7 +142,7 @@ IceL Indicator: Yes
 
 If you’re looking for a user-friendly control panel with high visibility, the Vivo Home is not a bad design. Not many machines have the control panels on the front of the lid and this design, for some reason, is exactly the same as the Costway. We liked the spaciousness of the control panel and the silver-edged finish.
 
-### 8.1 - Ice Basket: Comfortably Wide
+### 8.3 - Ice Basket: Comfortably Wide
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-basket-clrykc359000lss8802xf939v.jpg" alt="A picture of an empty ice basket resting inside a portable countertop ice making with the scoop placed inside." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-basket-1-clrykc3bq000qss886mcvcty6.jpg" alt="A hand holding up an empty ice basket in front of a portable ice making machine. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-basket-2-clrykc3e2000rss8839cb9kn1.jpg" alt="A top down view of an ice basket and ice scoop resting next to a portable countertop ice maker." width="300px" height="200px">
 
