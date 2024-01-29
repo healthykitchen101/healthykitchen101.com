@@ -1,4 +1,4 @@
-Being around for decades, garbage disposals (or food waste disposer) are an integral part of many households. Having such a convenient way to manage daily food waste in your kitchen is always helpful. If utilized properly, an in-sink grinder can reduce your waste output dramatically. That means your bins will fill up slower and you won’t have to worry as much about bugs and wild animals going through the garbage. 
+Being around for decades, garbage disposals (or food waste disposer) are an integral part of many households. Having such a convenient way to manage daily food waste in your kitchen is always helpful. If utilized properly, an in-sink grinder can reduce your waste output dramatically. That means your bins will fill up slower and you won’t have to worry as much about bugs and wild animals going through the garbage.
 
 How We Test
 -----------
