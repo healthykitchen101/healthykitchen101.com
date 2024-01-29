@@ -78,6 +78,8 @@ design Scores: **3.6**
     
 *   Lid Design (25%) - **0**/10
     
+*   (15%) - **0**/10
+    
 
 The immediate impression of the Vivo Home is that of an older, more bulky kind of design. What stands out, though, is the spacious control panel on the upper part of the lid. It also has a comfortably sized basket. Despite the solid build quality, the lid showed comparatively poor insulation design.
 
@@ -125,20 +127,6 @@ Add Water Indicator:
 IceS Indicator:
 
 IceL Indicator:
-
-### Ice Tray
-
-Length:
-
-Height:
-
-Depth:
-
-Material:
-
-### Lid
-
-Material:
 
 ### Ice Tray
 
