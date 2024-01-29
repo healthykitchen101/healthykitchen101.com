@@ -100,6 +100,8 @@ The Vivo Home countertop ice maker arrived securely boxed between two styrofoam 
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-dimensions-clryrlhfk001fss882v9o7ucg.jpg" alt="An annotated picture of the Vivo Home countertop ice maker showing dimensions of width 9.5 inches, depth 13.1 inches, and height 131 inches." width="300px" height="200px">
+
 Width: 13.1" (33.3 cm)
 
 Depth: 9.5" (24.1 cm)
@@ -165,6 +167,10 @@ Capacity: 2.3 qt (2.2 L)
 The Vivo Home has one of the larger-sized reservoirs. It holds 2.3 quarts (2.2 L) which is the same size as the Frigidaire EFIC189. Unlike the Frigidaire, the larger tank isn’t at the expense of a raised ice basket which can then interfere with the Ice Full alert. A larger reservoir is more advantageous if you are serving ice from the machine through the day.
 
 ### Drainage Plug
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-drainage-plug-clryrlh8s001ess88cpb84gdg.jpg" alt="A close up of the plastic and silicone drainage plug found on the bottom of a portable countertop ice maker." width="300px" height="200px">
+
+Hard plastic tether connected to plug
 
 Material: Plastic and silicone
 
