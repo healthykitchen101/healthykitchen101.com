@@ -142,23 +142,29 @@ Material: Hard white plastic
 
 The Vivo Home has a relatively large ice basket. The basket is just slightly larger than that of the Frigidaire and likewise has no raised edge. The material is a medium strength plastic, so better than the average generic production.
 
-### Water Reservoir
+### Water Reservoir: Relatively Large
 
-Capacity:
+Capacity: 2.3 qt (2.2 L)
+
+The Vivo Home has one of the larger-sized reservoirs. It holds 2.3 quarts (2.2 L) which is the same size as the Frigidaire EFIC189. Unlike the Frigidaire, the larger tank isn’t at the expense of a raised ice basket which can then interfere with the Ice Full alert. A larger reservoir is more advantageous if you are serving ice from the machine through the day.
 
 ### Drainage Plug
 
-Material:
+Material: Plastic and silicone
+
+The drainage plug is the standard generic production. It is a rough plastic tether attached to a soft silicone plug. Like most other machines, the plug is on the right hand side. We did find it a little tough however to jiggle out.
 
 ### Ice Scoop
 
-Material:
+Material: Hard white plastic
 
-### Cordand Plug
+### Cord and Plug
 
-Length:
+Length: 5.8 ft. (1.8 m)
 
-Plug Type:
+Plug Type: 3-prong earthed
+
+The white cord of the Vivo Home is 70 inches or 5.8 ft long, which is one inch shorter than the standard 71 inches. For most home use situations, this should be sufficient. The plug is also earthed with three prongs which is the best safety standard for a device that remains on for extended periods of time.
 
 Usability
 ---------
