@@ -1,4 +1,4 @@
-Unlocking the potential of juicing leafy greens can be a game-changer for your health and wellness journey. Packed with essential nutrients, vitamins, and antioxidants, leafy greens offer [a myriad of benefits](https://healthykitchen101.com/juicers/tips/benefits-of-juicing/) when incorporated into your daily juicing routine.
+Unlocking the potentials of leafy greens can be a game-changer for your health and wellness journey. Packed with essential nutrients, vitamins, and antioxidants, leafy greens offer [a myriad of benefits](https://healthykitchen101.com/juicers/tips/benefits-of-juicing/) when incorporated into your daily juicing routine.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/tips-for-juicing-leafy-greens-clrufjc1u000dss88hn4a47lf.jpg" alt="Smiling woman holding juicer in one hand, juice cup in the other, bowl of kale in the front" width="768" height="512">
 
