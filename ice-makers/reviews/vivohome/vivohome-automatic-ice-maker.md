@@ -76,9 +76,7 @@ design Scores: **3.6**
     
 *   (15%) - **0**/10
     
-*   (25%) - **0**/10
-    
-*   (15%) - **0**/10
+*   Lid Design (25%) - **0**/10
     
 
 The immediate impression of the Vivo Home is that of an older, more bulky kind of design. What stands out, though, is the spacious control panel on the upper part of the lid. It also has a comfortably sized basket. Despite the solid build quality, the lid showed comparatively poor insulation design.
@@ -106,6 +104,14 @@ Weight: 15.4 lbs (7.0 kg)
 
 We liked the hard front body of the Vivo Home and the fact it was easy to keep clean. The sides, by comparison, are made of a more bendable plastic. We found no flaws on the body, although one quality issue or perhaps design flaw, were the lid joinings with their noticeable gaps.
 
+### Lid Design: A Slip Up on Insulation
+
+Material: Plastic
+
+The Vivo Home has a comparatively small view window, but the view inside is good enough. While the upfront controls on the lid are quite refreshing, we did find issue with the overall lid design. The joinings on the lid hinge show wide gaps and, not surprisingly, our overnight test showed poor ice preservation.
+
+These results were practically the same as the Frigidaire EFIC189. Both machines are among our top performers, but not so with the insulation design of the lid.
+
 ### Panel Design
 
 Buttons:
@@ -119,6 +125,16 @@ Add Water Indicator:
 IceS Indicator:
 
 IceL Indicator:
+
+### Ice Tray
+
+Length:
+
+Height:
+
+Depth:
+
+Material:
 
 ### Lid
 
