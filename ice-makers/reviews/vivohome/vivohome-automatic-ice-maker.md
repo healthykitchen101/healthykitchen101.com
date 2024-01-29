@@ -43,15 +43,19 @@ The Vivo Home has convincingly proved itself one of the best performing portable
 
 ### Ice Capacity Test: Competitively Good
 
-Average Time Basket:
+Average Time Basket: 115 min
 
-Average Weight Basket:
+Average Weight Basket: 23 oz (561 g)
 
-Average Waste Basket:
+Average Waste Basket: 0.2 oz (5.7 g)
 
-Capacity Hr:
+Capacity Hr: 10.5 oz (298 g)
 
-Capacity24 Hrs:
+Capacity24 Hrs: 15.9 lbs (7.2 kg)
+
+The Vivo Home makes quite thick and chunky ice bullets. Consequently, the average ice making cycle is 11 min 30 sec which is around 2 min longer than similarly performing machines such as the [Frigidaire EFIC189](https://healthykitchen101.com/ice-makers/reviews/frigidaire/frigidaire-portable-ice-maker-efic189/) and also the [AGLucky HZB-12B](https://healthykitchen101.com/ice-makers/reviews/aglucky/aglucky-ice-maker-hzb-12b/#usability).
+
+The average time to fill a basket takes a little longer on average, around 105 min or 1 hr 45 min. However, our tests showed that periodically the time can increase an additional 20 min or so. Capacity wise, you can expect up to 10.5 oz per hour or 7.2 kg over 24 hrs. This is slightly less than its two closest rivals.
 
 ### Ice Quality
 
