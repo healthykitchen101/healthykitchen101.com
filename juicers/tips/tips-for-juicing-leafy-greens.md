@@ -4,26 +4,24 @@ Unlocking the potentials of leafy greens can be a game-changer for your health a
 
 You can make more juice out of leafy greens with the right tools and technique
 
-However, extracting juice from leafy greens can be challenging due to their shapes and textures. Greens also tend to have a low sugar content and a bitter taste that’s not very appealing to the taste buds. In this article, we'll delve into a collection of expert tips to elevate your leafy green juicing experience, from preparation techniques to creative combinations that not only enhance flavor but also maximize nutritional intake.
+Extracting juice from leafy greens can be challenging due to their shape and texture. Leafy greens also tend to be  low in sugar with an unappealing bitter taste.  For better results, read our expert tips on juicing leafy greens. We share prep techniques and the secrets to crafting creative green juice combos that will leave you wanting more.
 
-Whether you're a juicing enthusiast or a beginner looking to embrace the goodness of greens, these tips will guide you toward extracting the most from nature's verdant bounty.
-
-Technical Tips
+**Technique** 
 --------------
 
-Leafy greens, such as kale, spinach, or Swiss chard typically have a low water content and are among the hardest things to juice. Their fibrous nature can contribute to clogging in some juicers, especially those with smaller feeding chutes. In addition, leafy greens also tend to be lightweight, and they may not provide enough pressure on their own to be effectively processed in certain types of juicers. 
+Leafy greens, such as kale, spinach, or Swiss chard typically have a low water content and are among the hardest things to juice. Their fibrous texture can also clog up some juicers, especially those with smaller feeding chutes. In addition, leafy greens also tend to be lightweight, and they may not provide enough pressure on their own for effectively processing in certain types of juicers. 
 
 So, what are the tricks?
 
 ### Use a Masticating Juicer
 
-Traditional [centrifugal juicers](https://healthykitchen101.com/juicers/reviews/best/centrifugal-juicers/), which rely on high-speed spinning blades, are not the most suitable for juicing fibrous greens. Most of the time, you get very little juice, while the leaves end up torn, bruised, and shot into the pulp collector in large pieces.
+Traditional [centrifugal juicers](https://healthykitchen101.com/juicers/reviews/best/centrifugal-juicers/), which rely on high-speed spinning blades, are not the most suitable for juicing fibrous greens. For the most part, you get very little juice, while the leaves end up torn, bruised, and shot into the pulp collector in large pieces.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/parts-centrifugal-juicer-after-juicing-leafy-greens-clrsobdln0000ss8864l888ql.jpg" alt="Parts of a centrifugal juicer after juicing leafy greens, next to a plate of green pulp and a plate of green vegetables" width="768" height="512">
 
 Even a quality centrifuge like the Breville Juice Fountain can’t extract much juice from green vegetables
 
-There are workarounds, but a more efficient option is to use a [masticating or cold-press juicer](https://healthykitchen101.com/juicers/reviews/best/masticating-juicers/), which is designed to crush and squeeze the leaves with strong pressure. Juice yield will vary depending on leaf type and juicer model, but in our experience, you will almost certainly get more juice with a masticator than a centrifuge.
+There are workarounds, but it’s best to use a [masticating or cold-press juicer](https://healthykitchen101.com/juicers/reviews/best/masticating-juicers/). These utilize high pressure to crush and squeeze the leaves. Juice yield will vary depending on leaf type and juicer model, but in our experience, you will almost certainly get more juice with a masticator than a centrifuge.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/person-juicing-kale-leaves-using-omega-nc900-masticating-juicer-clrsog5v40002ss8891ym5itq.jpg" alt="Person juicing kale leaves using the Omega NC900 masticating juicer" width="768" height="512">
 
@@ -31,37 +29,37 @@ Masticating juicers are better than centrifuges at handling kale
 
 ### Roll It Up for a Tighter Squeeze
 
-Leaves tend to be thin and loose, which makes it difficult to squeeze juice out of them. It usually helps to shape your leafy greens to mimic a small spring roll. This technique helps reduce looseness, concentrating the leaves in one area and creating a denser texture for the juicer to work on. 
+Leaves tend to be thin and loose, which makes it difficult to extract the juice. Whether you’re using a masticating or centrifugal juicer, a great tip is to roll up  your leafy greens to mimic a small spring roll. This helps reduce looseness, creating a denser texture for the juicer to work on. 
 
 Go easy on the roll size, though, especially when juicing kale, or the leaves will stick to the wall of the feed chute and clog it. 
 
 ### Make an Herb Sandwich 
 
-Ask any juicing pros and they’ll tell you to place the leaves between the stalks or if you’re making a mixed juice, some slices of another crunchy vegetable. This method ensures the leaves are pulled through the juicer more smoothly, enhancing the overall juicing process.
+Ask any juicing pro and they’ll tell you to place the leaves between the stalks. If you’re making a mixed juice, sandwich slices of more fleshy or crunchy vegetables between the leaves. This ensures the leaves are pulled through the juicer more smoothly, enhancing the overall juicing process.
 
 Taste Tips
 ----------
 
-Whether you are a veteran or newbie at the juicing game, achieving the perfect taste in the final product can be a challenge. Especially with juicing leafy greens, where everything has a chance of chaotic bitterness.
+Whether you are a veteran or newbie at the juicing game, achieving the perfect taste  can be a challenge. This is especially true with juicing leafy greens where there’s every chance of chaotic bitterness breaking through.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/two-glasses-green-juice-clrsoeq7p0001ss88du6efzb2.jpg" alt="Two glasses of green juice, slices of apple, kale, lemon, and cucumbers" width="768" height="512">
 
 Adding enhancers is a great way to elevate the flavors of your green juice
 
-Having [chef-tested green juice recipes](https://healthyrecipes101.com/juice/recipes/green-juice/) handy is a great way to ensure you’ll always make the tastiest juice. But if you’re feeling creative and want to experiment with your own unconventional recipes, here are a few taste tips.
+Having [chef-tested green juice recipes](https://healthyrecipes101.com/juice/recipes/green-juice/) handy is a great way to ensure you’ll always make the tastiest juice. But, if you’re feeling creative and want to experiment with your own recipes, here are a few taste tips.
 
 ### Start With the Base
 
-Like most other foods and drinks, a good juice recipe needs a base. A well-structured base not only adds volume but also helps achieve a smoother, more enjoyable consistency, and balance the flavors of the juice. You can think of it as something to “water it down”. It also provides a neutral or slightly sweet foundation that complements the sometimes bitter or earthy taste of certain greens.
+Like a cocktail,  a good juice recipe needs a good base. A well-structured base not only adds volume but also helps achieve a smoother, more enjoyable consistency. It also balances the flavors of the juice. You can think of it as ‘watering down’, but it actually provides a neutral or slightly sweet foundation that complements possible bitter or earthy tastes.
 
 As such, the base should be a high water content, mild flavor veggie. Iceberg, romaine lettuce, celery or, of course, cucumber all make great bases. If you want a fruity base, coconut water is a delicious option.
 
 ### Pick the Star 
 
-It’s now time to pick the primary ingredient of your juice drink. There are many healthy and tasty options: kale, broccoli, arugula, spinach, etc. These are dense in color and nutrition, and usually come with strong flavors. If you’re new to the juicing scene, we recommend going easy on the amount and increase it gradually to see if the vegetable agrees with your taste buds and digestive system. 
+Once you’ve sorted your base, it’s time to pick the primary ingredient for your juice. There are many healthy and tasty options: kale, broccoli, arugula, spinach, etc. These are dense in color, nutritious, and usually strong in  flavor. If you’re new to juicing, we recommend going easy on the amount of greens, but increasing gradually as you acquire the taste or to the agreement of your  digestive system. 
 
 ### Enhancers and Acidifiers
 
 After selecting the base and primary juice, it's time to enhance (or tweak) the flavor. 
 
-For beginners, incorporating some sweet fruits such as pear, apples, or pineapples may help mask the bitter taste of the vegetables, making the drinks more palatable to the newbie taste buds. If you’re into a tangy kick, introducing citrus fruits or acidic elements like lemon or lime into your green juice may be a good idea. Flavor enhancers such as ginger, mint, or basil, meanwhile, can elevate the taste profile by offering depth and complexity to your drink. To add an extra burst of zest, think about throwing in a slice of fresh ginger.
+For beginners, incorporating some sweet fruits such as pear, apples, or pineapples may help mask the bitter taste of the vegetables. If you’re into a tangy kick, introducing citrus fruits or acidic elements like lemon or lime  may be a good idea. Flavor enhancers such as ginger, mint, or basil, meanwhile, can elevate the taste profile by offering depth and complexity to your drink. To add an extra burst of zest, think about throwing in a slice of fresh ginger.
