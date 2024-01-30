@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **2.3**/10
+*   Performance (60%) - **2.3**/undefined
     
-*   Design (25%) - **6.1**/10
+*   Design (25%) - **6.1**/undefined
     
-*   Usability (15%) - **4.6**/10
+*   Usability (15%) - **4.6**/undefined
     
 
 The best thing about the PopBabies is its incredible mobility. That said, this comes at the sacrifice of versatility and efficiency. In fact, using a [battery-powered personal blender](https://healthykitchen101.com/blenders/reviews/best/personal-blenders/) shouldn't be about functionality, but about affordability, portability, and convenience, which is why you’ll find this blender comes short in power and blade design. This, as a result, makes it less likely a good choice should your blends include dense and fibrous ingredients, like raw nuts, dried fruits, kale, spinach, and celery. With a 175-watt motor, it can churn through frozen food, but we found the results will be mostly subpar while the process demands a lot of effort. Considering this, it’s apparent that your PopBabies won’t be up to the task of crushing ice so don’t try to find any shortcuts to get the job.
@@ -32,15 +32,15 @@ As of the time of writing, PopBabies’s portable blender lineup includes two ve
 Performance
 -----------
 
-performance Scores: **2.3**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **2.8**/10
+*   Protein Shake (40%) - **2.8**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **4.0**/10
+*   Frozen Fruit Smoothie (30%) - **4.0**/undefined
     
-*   Fibrous Greens (20%) - **0**/10
+*   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice (10%) - **0**/undefined
     
 
 Our testing on [household blenders](https://healthykitchen101.com/blenders/reviews/best/) has revealed several drawbacks in the PopBabies actual practicality. Despite its claims of producing smooth blends, the results were far from satisfactory. Be it protein shakes, frozen fruit smoothies, or fibrous mixture, they all came out chunky and texturally inconsistent. Nonetheless, we believe this blender may still be suitable for blending softer fruits and vegetables, or for making simple purees as long as you remember to chop the ingredients into smaller pieces.
@@ -94,13 +94,13 @@ And again, this blender became obstructed by the ingredients even when we had tr
 Design
 ------
 
-design Scores: **6.1**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.5**/10
+*   Build Quality (60%) - **6.5**/undefined
     
-*   Blades (20%) - **6.0**/10
+*   Blades (20%) - **6.0**/undefined
     
-*   Blending Cup (20%) - **5.0**/10
+*   Blending Cup (20%) - **5.0**/undefined
     
 
 The PopBabies boasts a mobile-friendly design that's both convenient and space-saving. However, the blade is poorly constructed and lacks robustness. The blending cup is made of hard plastic, which becomes scratched and cloudy after only a few uses. Although the motor is heavier than expected for a cordless personal blender, it's easy to operate. Overall, the PopBabies is built for the price, but we'd appreciate higher-quality materials and a more aesthetically appealing design.
@@ -231,13 +231,13 @@ The PopBabies is equipped with a 4000mAh rechargeable battery, which requires a 
 Usability
 ---------
 
-usability Scores: **4.6**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **3.0**/10
+*   Hands-Free Operation (60%) - **3.0**/undefined
     
-*   Assembly (20%) - **7.0**/10
+*   Assembly (20%) - **7.0**/undefined
     
-*   Cleanability (20%) - **7.0**/10
+*   Cleanability (20%) - **7.0**/undefined
     
 
 The cordless feature makes the PopBabies highly portable, but apart from that, this blender doesn't offer much other benefit. The weak motor struggles to draw ingredients towards the blade, necessitating frequent shaking and manual manipulation to achieve a smooth blend. The cleaning and assembly procedures can also pose challenges, which may be frustrating for users who are looking for a hassle-free and effortless blending experience.
