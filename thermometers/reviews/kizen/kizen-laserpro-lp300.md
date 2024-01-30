@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (70%) - **5.2**/10
+*   Performance (70%) - **5.2**/undefined
     
-*   Design (20%) - **9.3**/10
+*   Design (20%) - **9.3**/undefined
     
-*   Usability (10%) - **7.2**/10
+*   Usability (10%) - **7.2**/undefined
     
 
 The Kizen LaserPro LP300 is a tough case. On the one hand, it has excellent build quality and a great usability score. But on the other hand, with a very mediocre measurement mode, it won’t be much use if you’re looking for an infrared thermometer that can return exacting, extremely accurate results.
@@ -40,11 +40,11 @@ Check the detailed test report below.
 Performance
 -----------
 
-performance Scores: **5.2**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **8.4**/10
+*   Cold Test with Ice (40%) - **8.4**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **3.1**/10
+*   Hot Test with Cooking Oil (60%) - **3.1**/undefined
     
 
 The Kizen LaserPro LP300 performed well in the cold test with ice, but it failed the hot test with cooking oil. This affected its overall performance score and made us hesitant to recommend it, despite its high scores in other areas. However, the total score still falls within a passing range.
@@ -82,13 +82,13 @@ Our benchmark gives the LaserPro LP300 an average score of just 3.5 out of 10 fo
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.5**/10
+*   Build Quality (50%) - **9.5**/undefined
     
-*   Laser Emitter (25%) - **9.0**/10
+*   Laser Emitter (25%) - **9.0**/undefined
     
-*   Display Panel (25%) - **9.0**/10
+*   Display Panel (25%) - **9.0**/undefined
     
 
 The Kizen LaserPro LP300 comes in a printed cardboard box and includes the thermometer, complimentary AAA batteries, user manual, warranty card, and emissivity settings chart. At 4.86 ounces, it’s a bit heavier than other infrared thermometers in our database, but it’s still comfortable to hold with one hand and fits well in a kitchen drawer.
@@ -154,13 +154,13 @@ The thermometer is conveniently powered by two AAA batteries. A pack of complime
 Usability
 ---------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Handling (50%) - **9.0**/10
+*   Handling (50%) - **9.0**/undefined
     
-*   Measurement Modes (30%) - **3.0**/10
+*   Measurement Modes (30%) - **3.0**/undefined
     
-*   Audio Cues (20%) - **9.0**/10
+*   Audio Cues (20%) - **9.0**/undefined
     
 
 Our reviewers rate the handling experience of the Kizen LaserPro LP300 as "excellent," thanks to its excellent handling with indents and a textured grip for comfort and ease of use. The thermometer has a mode that lets you change the emissivity setting. Besides the EMS mode, it doesn’t allow you to do much else.
