@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (60%) - **4.2**/10
+*   Performance (60%) - **4.2**/undefined
     
-*   Design (25%) - **8.1**/10
+*   Design (25%) - **8.1**/undefined
     
-*   Usability (15%) - **7.4**/10
+*   Usability (15%) - **7.4**/undefined
     
 
 The InSinkErator Badger 1HP is a straightforward 1-hp garbage disposal with very few features, providing standard performance with slightly more power than the other smaller Badger models and solid construction quality. Performance-wise, the 1HP in particular, and the Badger series in general, may struggle with grinding thick citrus peels, leading to subpar results.
@@ -34,13 +34,13 @@ This particular piece could be for physical protection and heat insulation but n
 Performance
 -----------
 
-performance Scores: **4.2**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **5.0**/10
+*   Scrap Mix (50%) - **5.0**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.8**/10
+*   Raw Chicken Scraps (25%) - **6.8**/undefined
     
 
 In spite of the indication that the Badger 1HP surpassed the smaller Badger 5XP, the actual variation, particularly in key areas, is not remarkable. The 5XP indeed performed better in crushing tough substances such as raw bones, where complete power is required. When considering the overall performance, however, the disposal is very much unsatisfactory.
@@ -140,13 +140,13 @@ This suggested that the disposal's performance was limited to separating the sof
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **7.0**/10
+*   Grind Chamber (30%) - **7.0**/undefined
     
-*   Motor (30%) - **8.5**/10
+*   Motor (30%) - **8.5**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 The Badger 1HP can be considered a more powerful version of the Badger 5XP. It utilizes the same sturdy materials and construction as the Badger 5XP but operates on a larger AC motor. However, the added strength doesn't seem to improve the disposal’s grinding performance, which is disappointing. 
@@ -281,15 +281,15 @@ InSinkErator garbage disposals are known for their excellent build quality. For 
 Usability
 ---------
 
-usability Scores: **7.4**
+usability Scores: **NaN**
 
-*   Installation (30%) - **6.5**/10
+*   Installation (30%) - **6.5**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 The InSinkErator Power Badger series is meant to amplify the power of the weaker Standard Badger models. Along with their capacity to hold more waste, the Badger series are famous for their long-lasting durability. 
