@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **4.3**/10
+*   Performance (50%) - **4.3**/undefined
     
-*   Design (15%) - **8.1**/10
+*   Design (15%) - **8.1**/undefined
     
-*   Ease of Use (35%) - **8.2**/10
+*   Ease of Use (35%) - **8.2**/undefined
     
 
 **The KitchenIQ Knife Sharpene**r is a sturdy, compact, and affordable device. However, it’s not the sharpest knife in the drawer — so to speak — nor will it create one.
@@ -31,15 +31,15 @@ The KitchenIQ 50009 has been featured on many sharpener rating lists, and we als
 Performance
 -----------
 
-performance Scores: **4.3**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **1.0**/10
+*   Sharpening Time to Cut a Lemon (35%) - **1.0**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **6.0**/10
+*   Maximum Sharpness Achieved (20%) - **6.0**/undefined
     
-*   Edge Smoothness (20%) - **6.5**/10
+*   Edge Smoothness (20%) - **6.5**/undefined
     
-*   Material Retention (25%) - **6.0**/10
+*   Material Retention (25%) - **6.0**/undefined
     
 
 The KitchenIQ failed the speed test and offered mediocre results in all other performance tests. Its rather small sharpening elements will sharpen your knives enough that you’ll be able to feel the difference, but not significantly. It will shave a lot of metal off your knives and leave a barely passable edge.
@@ -83,11 +83,11 @@ The KitchenIQ produces an ok edge with no major chips or burrs. The primary edge
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **8.7**/10
+*   Build Quality (75%) - **8.7**/undefined
     
-*   Grip (25%) - **6.5**/10
+*   Grip (25%) - **6.5**/undefined
     
 
 Other than the inadequate size, there’s nothing to complain about in the design of the KitchenIQ. The device is symmetrical, sturdy, and has a decent fit and finish. It’s smart, simple, versatile, and highly function-oriented.
@@ -155,17 +155,17 @@ Not only is the layout of its working section different from most other devices,
 Ease of Use
 -----------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **7.0**/10
+*   Slot Arrangement (20%) - **7.0**/undefined
     
-*   Insertion (20%) - **7.0**/10
+*   Insertion (20%) - **7.0**/undefined
     
-*   Pulling Through (10%) - **7.0**/10
+*   Pulling Through (10%) - **7.0**/undefined
     
-*   Stability on a Clean Surface (40%) - **10**/10
+*   Stability on a Clean Surface (40%) - **10**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.0**/undefined
     
 
 With only two sharpening slots and a basic design, it doesn’t require a high IQ to understand how the KitchenIQ works. The device’s small size may, however, mean you have to pay extra attention every time you use it or risk hurting yourself by misplacing the knife.
