@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.4**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.6**/10
+*   Performance (60%) - **9.6**/undefined
     
-*   Design (25%) - **9.5**/10
+*   Design (25%) - **9.5**/undefined
     
-*   Usability (15%) - **8.5**/10
+*   Usability (15%) - **8.5**/undefined
     
 
 The Ninja QB3001SS Fit is mighty and powerful with an attractive aesthetic. We tested it to make smoothies and protein shakes and found that this blender is the best for such tasks. Even high-fiber whole foods like leafy vegetables, berry seeds, or raw nuts didn’t pose a challenge. Its ice-crushing capability is also very impressive, standing out not only in the [Ninja blender lineup](https://healthykitchen101.com/blenders/reviews/ninja/) but also in its market segment.
@@ -33,15 +33,15 @@ We purchased the Ninja QB3001SS Fit on our own dime and put it through our rigor
 Performance: A Big Dog in the Segment
 -------------------------------------
 
-performance Scores: **9.6**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **9.6**/10
+*   Protein Shake (40%) - **9.6**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **10**/10
+*   Frozen Fruit Smoothie (30%) - **10**/undefined
     
-*   Fibrous Greens (20%) - **9.5**/10
+*   Fibrous Greens (20%) - **9.5**/undefined
     
-*   Crushed Ice Cubes (10%) - **9.0**/10
+*   Crushed Ice Cubes (10%) - **9.0**/undefined
     
 
 Most [kitchen blenders](https://healthykitchen101.com/blenders/reviews/best/) around this price strive for nothing more than basic nutrition-extraction, but the Ninja QB3001SS Fit wants to give you more. A standout in its class, it passed all of our tests — to include crushing ice cubes — with peerless results. It even performed as well as its higher-priced counterparts, such as the [Ninja Nutri Auto-iQ](https://healthykitchen101.com/blenders/reviews/ninja/ninja-bl480d-nutri/). Still, it has a few shortcomings you should know about.
@@ -99,13 +99,13 @@ Of all the blenders with small blending cups, however, the Ninja Fit was the onl
 Design: Sporty with A Premium Feel
 ----------------------------------
 
-design Scores: **9.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blades (20%) - **9.0**/10
+*   Blades (20%) - **9.0**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The Ninja Fitand its accessoriesare a solid set. It’s not built with the highest-quality materials, but the compact footprint and charming curves give it an oddly appealing look. It’s attractive in its own way, and you may find its user-friendly features hard to resist as well.
@@ -223,13 +223,13 @@ Because the Ninja Fit doesn’t have any switches or buttons, you only get a sin
 Usability: Satisfying Blending Experience
 -----------------------------------------
 
-usability Scores: **8.5**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **7.8**/10
+*   Hands-Free Operation (60%) - **7.8**/undefined
     
-*   Assembly (20%) - **10**/10
+*   Assembly (20%) - **10**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 Efficiency aside, we also love the Ninja Fit for its ease of use. Its usability comes from a simple operating system: blending starts once the cup and blade assembly are aligned and pressed down on the motor base. Cleaning and assembly are also very easy. Here’s a quick rundown of each.
