@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.3**/10
+*   Performance (50%) - **8.3**/undefined
     
-*   Design (20%) - **9.3**/10
+*   Design (20%) - **9.3**/undefined
     
-*   Usability (30%) - **9.3**/10
+*   Usability (30%) - **9.3**/undefined
     
 
 Our testing placed the Braun MQ7035X firmly above average. It shone particularly in making frozen fruit smoothies, beating egg whites, and preparing nut milks. It fell slightly short in achieving the finest consistencies in mayonnaise and pureed soups, but these results were still satisfactory enough. Nevertheless, what the MQ7035X lacks in all-out performance, it more than makes up for with its user-friendly operation, durable construction, and the assortment of practical accessories it comes with.
@@ -28,17 +28,17 @@ The Braun MQ7035X stands at the forefront of Braun's innovative kitchen technolo
 Performance
 -----------
 
-performance Scores: **8.3**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.0**/10
+*   Hot Soup Purée (35%) - **8.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.8**/10
+*   Frozen Fruit Smoothie (30%) - **8.8**/undefined
     
-*   Mayonnaise (15%) - **7.0**/10
+*   Mayonnaise (15%) - **7.0**/undefined
     
-*   Almond Milk (15%) - **9.3**/10
+*   Almond Milk (15%) - **9.3**/undefined
     
-*   Whipped Egg-Whites (5%) - **8.0**/10
+*   Whipped Egg-Whites (5%) - **8.0**/undefined
     
 
 The Braun MQ7035X is one of the [most impressive blenders](https://healthykitchen101.com/blenders/reviews/best/) we have tested. Its standout capabilities include producing velvety smoothies from frozen fruits and efficiently grinding almonds for homemade almond milk. Thanks to the included whisking attachment, making mayonnaise and whipping egg whites to stiff peaks can also be done with confidence.
@@ -108,15 +108,15 @@ Unlike typical blending shafts, the blender’s whisk attachment ensured a more 
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Blending Shaft (30%) - **9.5**/10
+*   Blending Shaft (30%) - **9.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The Braun MQ7035X is a feature-rich hand-held blender, with a lot of standard and innovative technology that all works well. Its design is both eye-catching and upscale, with the blending shaft featuring a stainless steel accent and the motor housing sporting a brushed metallic finish. Everything feels robustly built, but this sturdiness does contribute to a somewhat hefty weight.
@@ -249,15 +249,15 @@ The Braun MQ7035X's food processor attachment is a versatile addition, allowing 
 Usability
 ---------
 
-usability Scores: **9.3**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **9.3**/10
+*   Ease of Use (60%) - **9.3**/undefined
     
-*   Blade Assembly (10%) - **9.5**/10
+*   Blade Assembly (10%) - **9.5**/undefined
     
-*   Handling (20%) - **9.0**/10
+*   Handling (20%) - **9.0**/undefined
     
-*   Cleanability (10%) - **9.5**/10
+*   Cleanability (10%) - **9.5**/undefined
     
 
 Despite its robust construction, the MQ7035X manages to balance sturdiness with ergonomic design. The weight, while on the heftier side, adds to the stability during operation, reducing vibration and user fatigue. The grip is designed to be comfortable for prolonged use, and the controlling button is intuitively placed for ease of use. 
