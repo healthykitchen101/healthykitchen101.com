@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.7**/10
+*   Performance (50%) - **8.7**/undefined
     
-*   Design (25%) - **9.2**/10
+*   Design (25%) - **9.2**/undefined
     
-*   Usability (25%) - **7.1**/10
+*   Usability (25%) - **7.1**/undefined
     
 
 The **Cuisinart TOA-60 Convection Toaster Oven** Air Fryer shines in simplicity. Its powerful convection fan and heating elements allowed it to produce some of the best foods we tested.
@@ -43,15 +43,15 @@ The Cuisinart TOA-60 Air Fryer Toaster Oven was introduced in 2016. It’s the c
 Performance
 -----------
 
-performance Scores: **8.7**
+performance Scores: **NaN**
 
-*   Toast (40%) - **8.1**/10
+*   Toast (40%) - **8.1**/undefined
     
-*   Pizza (25%) - **9.6**/10
+*   Pizza (25%) - **9.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **8.6**/10
+*   Whole Roasted Chicken (25%) - **8.6**/undefined
     
-*   Baked French Fries (10%) - **9.2**/10
+*   Baked French Fries (10%) - **9.2**/undefined
     
 
 All of the Cuisinart TOA-60 Convection Toaster Oven Air Fryer’s results are in the top tier among our collected data. A big win for the oven’s performance is its steady and stable temperature. Combined with the fact that the convection fan is always deployed, it consistently produced excellent test dishes. Even though it doesn’t have a rotisserie kit for our Whole Roasted Chicken test, it still performed in a splendid manner.
@@ -211,13 +211,13 @@ Our chef gave it an 8.7/10 for taste.
 Design: Simple but Effective
 ----------------------------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Exterior (20%) - **9.0**/10
+*   Exterior (20%) - **9.0**/undefined
     
-*   Interior (30%) - **9.5**/10
+*   Interior (30%) - **9.5**/undefined
     
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
 
 Where the Cuisinart TOA-60 Air Fryer Toaster Oven shines most is in its simplistic design. Even though it only offers a few features, it does them all justice.
@@ -408,13 +408,13 @@ The build of the Cuisinart TOA-60 nails simplicity and durability from the mater
 Usability
 ---------
 
-usability Scores: **7.1**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleanability (20%) - **7.5**/10
+*   Cleanability (20%) - **7.5**/undefined
     
 
 Due to its simplistic approach, the Cuisinart TOA-60 Air Fryer Toaster Oven doesn’t offer many usability features. However, it also doesn’t pose any problems.
