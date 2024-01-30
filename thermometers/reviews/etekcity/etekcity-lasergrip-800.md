@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (70%) - **7.0**/10
+*   Performance (70%) - **7.0**/undefined
     
-*   Design (20%) - **8.0**/10
+*   Design (20%) - **8.0**/undefined
     
-*   Usability (10%) - **3.8**/10
+*   Usability (10%) - **3.8**/undefined
     
 
 If you need something that can measure small spots and objects from a greater distance than most IR thermometers with a 12:1 or 10:1 Distance-to-Spot (D:S) ratio, then the Etekcity Lasergrip 800 will be a great choice. It's equipped with a sensor that has a 16:1 distance-to-spot ratio, giving it a much greater measurement range than standard thermometers on the market.
@@ -38,11 +38,11 @@ You can read our full test report on this nifty IR thermometer below.
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **6.6**/10
+*   Cold Test with Ice (40%) - **6.6**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **7.3**/10
+*   Hot Test with Cooking Oil (60%) - **7.3**/undefined
     
 
 The overall performance of the Etekcity Lasergrip 800 is rated to be decent. The thermometer delivered good readings in both the ice-bath and the cooking oil tests. While the recorded figures weren’t perfect matches of our reference temperatures, they’re still within acceptable margins.
@@ -84,13 +84,13 @@ The Lasergrip 800’s scoring is middling compared to other IR thermometers in o
 Design
 ------
 
-design Scores: **8.0**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.5**/10
+*   Build Quality (50%) - **7.5**/undefined
     
-*   Laser Emitter (25%) - **8.0**/10
+*   Laser Emitter (25%) - **8.0**/undefined
     
-*   Display Panel (25%) - **9.0**/10
+*   Display Panel (25%) - **9.0**/undefined
     
 
 The thermometer comes in a plastic box. The battery is already loaded inside, so you only need to pick it up, pull a tab, and use it right away. It is larger in size than other thermometers, but lightweight at 6.8 ounces. However, the build quality could be a lot better. The door of the battery compartment of the unit we received is very loose.
@@ -166,13 +166,13 @@ As we mentioned in the build quality section, the door of the battery compartmen
 Usability
 ---------
 
-usability Scores: **3.8**
+usability Scores: **NaN**
 
-*   Handling (50%) - **7.5**/10
+*   Handling (50%) - **7.5**/undefined
     
-*   Measurement Modes (30%) - **0**/10
+*   Measurement Modes (30%) - **0**/undefined
     
-*   Audio Cues (20%) - **0**/10
+*   Audio Cues (20%) - **0**/undefined
     
 
 The thermometer is straightforward to use: press the trigger to scan, release it to hold, and read the temperature.
