@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.4**/10
+*   Performance (60%) - **6.4**/undefined
     
-*   Design (20%) - **6.3**/10
+*   Design (20%) - **6.3**/undefined
     
-*   Usability (20%) - **7.0**/10
+*   Usability (20%) - **7.0**/undefined
     
 
 The Black+Decker Crush Master trades a bit of versatility for its affordability. Heavy-duty tasks like preparing frozen fruit smoothies and fluffy crushed ice might be underwhelming. In most other respects, however, this blender does put up a good show. If you're after a low-cost blender with just the right power for simpler recipes—such as vibrant green smoothies, rich nut butter, nourishing protein shakes, or hearty baby food, —the Black+Decker certainly lives up to the hype. Nonetheless, it’s worth noting that while this blender isn’t too deficient by any means, for an extra $40, you'll get an [all-arounder](https://healthykitchen101.com/blenders/reviews/best/) that may surprise you with its breadth of capabilities.
@@ -31,17 +31,17 @@ We like this Black+Decker Crush Master and firmly believe it’s a worthy afford
 Performance
 -----------
 
-performance Scores: **6.4**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **7.8**/10
+*   Smoothie (35%) - **7.8**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **4.5**/10
+*   Frozen Fruit Smoothie (20%) - **4.5**/undefined
     
-*   Protein Shake (15%) - **8.2**/10
+*   Protein Shake (15%) - **8.2**/undefined
     
-*   Almond Butter (20%) - **7.8**/10
+*   Almond Butter (20%) - **7.8**/undefined
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice (10%) - **0**/undefined
     
 
 When processing frozen fruits or ice cubes, The Black+Decker Crush Master’s efficiency dips a bit, but otherwise it is a decent blender for various simpler blends. Its capability in making almond butter is quite impressive, churning out a paste that is creamy and flavorful. Furthermore, it can deliver a velvety smooth green smoothie or a complex shakes without too much struggle. 
@@ -117,13 +117,13 @@ Should you have a strong preference for this sort of blend, we recommend conside
 Design
 ------
 
-design Scores: **6.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.0**/10
+*   Build Quality (60%) - **6.0**/undefined
     
-*   Blades (25%) - **7.0**/10
+*   Blades (25%) - **7.0**/undefined
     
-*   Control Panel (15%) - **6.0**/10
+*   Control Panel (15%) - **6.0**/undefined
     
 
 Compact and portable, the Black+Decker Crush Master comfortably fits on any countertop. Its thoughtful features include a simple control panel, heat-resistant blending container, and easily removable blade assembly for thorough cleaning. That being said, the blender’s overall quality isn't on par with pricier models due to the use of low-grade plastic components.
@@ -273,15 +273,15 @@ The Black+Decker blender does not come with any extra accessories.
 Usability
 ---------
 
-usability Scores: **7.0**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **7.0**/10
+*   Ease of Blend (40%) - **7.0**/undefined
     
-*   Noise Level (20%) - **6.5**/10
+*   Noise Level (20%) - **6.5**/undefined
     
-*   Assembly (15%) - **6.0**/10
+*   Assembly (15%) - **6.0**/undefined
     
-*   Cleanability (25%) - **8.0**/10
+*   Cleanability (25%) - **8.0**/undefined
     
 
 The Black+Decker Crush Master is user-friendly overall, but there are certain areas where it may require getting used to. Tackling tough ingredients often demands a bit of manual intervention, and removing the lid could prove to be a mini workout due to its strong seal and lack of handle. These traits may cause slight annoyances when needing to even out the blend. Not to mention the odor potentially emitted during use may overshadow your blending experience.
