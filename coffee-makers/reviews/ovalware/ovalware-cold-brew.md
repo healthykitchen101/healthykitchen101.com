@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.8**/10
+*   Brew Quality (50%) - **7.8**/undefined
     
-*   Design (15%) - **9.0**/10
+*   Design (15%) - **9.0**/undefined
     
-*   Ease of Use (35%) - **9.3**/10
+*   Ease of Use (35%) - **9.3**/undefined
     
 
 In our comprehensive tests, the Ovalware held to its reputation as one of the better [cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/). It produced a quality brew and did well to bring out sweeter flavors. The compromise is that the brew may need to be decanted a second time or put through a paper filter to remove excess sediment. Likewise, the thin decanter neck required more effort to clean, but the design works well for brewing. The silicone seals, on the other hand, could be of better quality.
@@ -31,13 +31,13 @@ Ovalware has been a long time favorite among cold coffee brewers. Their brew dec
 Brew Quality
 ------------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.5**/10
+*   Bouquet (10%) - **7.5**/undefined
     
-*   Drinkability (70%) - **8.0**/10
+*   Drinkability (70%) - **8.0**/undefined
     
-*   Sediment (20%) - **7.5**/10
+*   Sediment (20%) - **7.5**/undefined
     
 
 The brew quality of the Ovalware was quite in line with what one would expect from a good cold brew coffee maker. It did well in bringing out sweeter flavors, although the concentrate itself was not so strong. Brewing for longer than 18 hours may produce even better results.
@@ -65,13 +65,13 @@ We brewed the Ovalware undisturbed  for 18 hours in a refrigerator. After allow
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **9.0**/10
+*   Stopper / Lid (30%) - **9.0**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 The Ovalware has a distinguished look, but for us, the most prominent feature was the detachable silicone base stand. It made handling the carafe very comfortable. The small lip poured very nicely, and the handle was easy to grip. The only drawback was the quality and fit of the silicone seal.
@@ -139,13 +139,13 @@ Except for the compromise on the silicone stoppers, the overall design quality o
 Ease of Use
 -----------
 
-usability Scores: **9.3**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **10**/10
+*   Brewing (45%) - **10**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 Both brewing and decanting required little effort. However, since it is better to decant the contents twice or use a paper filter, additional work may be required. The thin neck of the decanter and the long filter required a bottle brush for deep cleaning.
