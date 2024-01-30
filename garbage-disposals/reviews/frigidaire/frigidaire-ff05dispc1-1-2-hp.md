@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.1**
+Overall Score: **NaN**
 
-*   Performance (60%) - **3.1**/10
+*   Performance (60%) - **3.1**/undefined
     
-*   Design (25%) - **8.1**/10
+*   Design (25%) - **8.1**/undefined
     
-*   Usability (15%) - **7.8**/10
+*   Usability (15%) - **7.8**/undefined
     
 
 The Frigidaire FF05DISPC1 1/2 HP misses more than it hits. Offering an affordable price, good construction quality, and strong grinder materials, the garbage disposal should have been a great option if its motor were more efficient and the grinding components, particularly the two impellers, were fitted better.
@@ -32,13 +32,13 @@ The Frigidaire FF05DISPC1 1/2 HP is a presentable garbage disposal, boasting a s
 Performance
 -----------
 
-performance Scores: **3.1**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.2**/10
+*   Scrap Mix (50%) - **6.2**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **0**/10
+*   Raw Chicken Scraps (25%) - **0**/undefined
     
 
 Contradicting our expectations, the results collected from testing the Frigidaire FF05DISPC1 1/2 HP were not encouraging at all. In the final turn of evaluation, the disposal only passed one out of the three evaluation tests. It failed the two more difficult tests, which was somewhat expected from the likes of small garbage disposals. Fortunately, the data was useful in helping pinpoint where the disposal’s functionality should lie.
@@ -134,13 +134,13 @@ The FF05DISPC1 couldn’t even break down all the bony parts, let alone the cart
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **7.5**/10
+*   Grind Chamber (30%) - **7.5**/undefined
     
-*   Motor (30%) - **8.0**/10
+*   Motor (30%) - **8.0**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 The Frigidaire FF05DISPC1 1/2 HP features a sleek-looking body that feels rigid and closely fitted. The protective casing is made of strong plastic that has a thickness to it. Underneath, there’s a layer of acoustic foam to treat loud noises. 
@@ -264,15 +264,15 @@ The Frigidaire FF05DISPC1 is a garbage disposal with good workmanship, providing
 Usability
 ---------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.5**/10
+*   Installation (30%) - **9.5**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **7.0**/10
+*   Smooth Operation (25%) - **7.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The Frigidaire FF05DISPC1 1/2 HP is a very restricted food disposer unit. Sure it can handle common food scraps quite well, but the impellers are easily lodged when there are hard food bits (such as bones). It has happened more than once since we started testing the disposer. Not to mention the fact that the disposer is not very strong.
