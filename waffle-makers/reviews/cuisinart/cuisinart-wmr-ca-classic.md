@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.2**/10
+*   Performance (50%) - **7.2**/undefined
     
-*   Design (20%) - **7.7**/10
+*   Design (20%) - **7.7**/undefined
     
-*   Ease of Use (30%) - **9.1**/10
+*   Ease of Use (30%) - **9.1**/undefined
     
 
 The WMR-CA did great in our test with the premade Birch Benders waffle mix. In particular, the WMR-CA produced a beautiful and evenly-colored waffle with the last test. The texture and flavor weren’t excellent (a bit mushy), but it did surprisingly well for an entry-level waffle maker. Regrettably, it flunked the test with our self-mixed recipe, which indicates an inconsistent cooking ability.
@@ -34,11 +34,11 @@ We put the machine through its paces in our lab to give you a close-in look at t
 Performance: Bad At First, Redeemed Later!
 ------------------------------------------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.7**/10
+*   Self-Mixed Recipe (50%) - **6.7**/undefined
     
-*   Birch Benders Mix (50%) - **7.7**/10
+*   Birch Benders Mix (50%) - **7.7**/undefined
     
 
 The WMR-CA mostly fell short of expectations, struggling to produce anything but unsatisfyingly burnt and flavorless waffles in our tests with the self-mixed waffle recipe. Its performance ratings were thankfully redeemed in later tests with pre-mixed Birch Benders mix, where it pulled out all the stops and amazed us with surprisingly tasty results.
@@ -136,13 +136,13 @@ The waffle received a high score from our chef. The crust reached just the right
 Design
 ------
 
-design Scores: **7.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.0**/10
+*   Build Quality (60%) - **8.0**/undefined
     
-*   Waffle Plates (30%) - **7.0**/10
+*   Waffle Plates (30%) - **7.0**/undefined
     
-*   Control Panel (10%) - **8.0**/10
+*   Control Panel (10%) - **8.0**/undefined
     
 
 The Cuisinart WMR-CA offers a great design and build quality, boasting a glossy metal top lid. The waffle plates are coated with a layer of Teflon non-stick, which has proven itself to work quite effectively during our cooking tests. We’ve never had to deal with sticky waffles or batter residues throughout the review phase.
@@ -261,15 +261,15 @@ The Cuisinart WMR-CA waffle maker doesn’t come with any extra accessories.
 Ease of Use
 -----------
 
-usability Scores: **9.1**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.0**/10
+*   Handling (25%) - **9.0**/undefined
     
-*   Safety (40%) - **9.6**/10
+*   Safety (40%) - **9.6**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
-*   Indicator Light Visibility (10%) - **6.5**/10
+*   Indicator Light Visibility (10%) - **6.5**/undefined
     
 
 Unlike its easy-to-use control panel, the control panel of the WMR-CA can be difficult to deal with for some people due to the dim indicator lights. They can be very hard to see under bright lighting.
