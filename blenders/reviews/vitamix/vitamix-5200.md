@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.7**/10
+*   Performance (60%) - **9.7**/undefined
     
-*   Design (20%) - **10.0**/10
+*   Design (20%) - **10.0**/undefined
     
-*   Usability (20%) - **8.7**/10
+*   Usability (20%) - **8.7**/undefined
     
 
 The Vitamix 5200 is in a class of its own. Throughout our testing, it consistently amazed us by swiftly and flawlessly blending smoothies, frozen delights, protein shakes, and almond butter, often at speeds two to three times faster than other blenders. Its only shortcoming was leaving a few ice cubes unblended in a 12 oz load, but reducing the ice amount gave us a finer consistency.
@@ -38,17 +38,17 @@ The Vitamix 5200 excels as a [high-performance blender](https://healthykitchen10
 Performance
 -----------
 
-performance Scores: **9.7**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **10**/10
+*   Smoothie (35%) - **10**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **9.8**/10
+*   Frozen Fruit Smoothie (20%) - **9.8**/undefined
     
-*   Protein Shake (15%) - **9.9**/10
+*   Protein Shake (15%) - **9.9**/undefined
     
-*   Almond Butter (20%) - **10**/10
+*   Almond Butter (20%) - **10**/undefined
     
-*   Crushed Ice (10%) - **8.0**/10
+*   Crushed Ice (10%) - **8.0**/undefined
     
 
 We put the Vitamix 5200 through its paces by blending a variety of challenging ingredients, including frozen fruits, leafy vegetables, raw nuts, ice cubes and dried foods. We were happy to find that it effortlessly pulverized everything we threw at it, producing smooth and consistent textures every time. The only exception was in the ice-crushing test, where it struggled to match some of the other high-quality blenders.  
@@ -124,13 +124,13 @@ Despite imperfect results in this test, the Vitamix 5200 is still among the few 
 Design
 ------
 
-design Scores: **10.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **10**/10
+*   Build Quality (60%) - **10**/undefined
     
-*   Blades (25%) - **10**/10
+*   Blades (25%) - **10**/undefined
     
-*   Control Panel (15%) - **10**/10
+*   Control Panel (15%) - **10**/undefined
     
 
 As of the time of writing, the Vitamix 5200 is available in three different colors: red, black, and white. Each color variant comes at a different price point even though they’re all the same under the hood. Whether you choose the cheapest (the black version) or splurge on the pricy white one, your Vitamix 5200 is sure to fit in well with most kitchen decor. Its sleek and minimalist design is a picture of sophistication and versatility, while the robust construction ensures that your investment will pay off for years to come.
@@ -284,15 +284,15 @@ Without the tamper, it would be considerably more challenging, if not impossible
 Usability
 ---------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **9.0**/10
+*   Ease of Blend (40%) - **9.0**/undefined
     
-*   Noise Level (20%) - **7.0**/10
+*   Noise Level (20%) - **7.0**/undefined
     
-*   Assembly (15%) - **9.0**/10
+*   Assembly (15%) - **9.0**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
 
 The blender's control panel is user-friendly and intuitive, promoting easy use without needing to consult the manual. While the tall, narrow cup can be challenging to hand-wash for those with larger hands, it cleans easily by running soapy water in it at high speed. Assembly is simple, but the absence of a locking mechanism can lead to instability with tough ingredients. The lid fits snugly, requiring some force to secure, but is easily removable.
