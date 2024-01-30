@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **4.3**/10
+*   Performance (50%) - **4.3**/undefined
     
-*   Design (20%) - **7.5**/10
+*   Design (20%) - **7.5**/undefined
     
-*   Usability (30%) - **6.7**/10
+*   Usability (30%) - **6.7**/undefined
     
 
 The ZeroWater filter pitcher has a good filter. The filtration flow rate is slower than some, but it did bring the TDS level to zero in our tests, which is rare. Other than the spigot, which is an uncommon but much appreciated feature on a 10-cup pitcher, the ZeroWater 10 fails miserably in overall design. The filter reservoir felt flimsy and had considerable excess plastic or flash that we wondered if it had skipped quality control. Refilling water, pouring, and replacement all require more effort than other filter pitchers.
@@ -34,13 +34,13 @@ Will it provide the “purest water” as advertised, and will you have to go th
 Performance
 -----------
 
-performance Scores: **4.3**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **6.0**/10
+*   Chlorine (50%) - **6.0**/undefined
     
-*   Flow Rate (40%) - **1.0**/10
+*   Flow Rate (40%) - **1.0**/undefined
     
-*   Taste & Smell (10%) - **9.0**/10
+*   Taste & Smell (10%) - **9.0**/undefined
     
 
 While it’s not as effective as most others in chlorine removal, the filter stays true to its name: it did bring the TDS level to zero every time in our tests. Note that it’s also one of the rare filters certified against NSF standard 53 to remove lead, mercury, and chromium. The water tasted and smelt bland, leaning to the acidic side. This, we postulate, could be due to the removal of all dissolved solids.
@@ -88,13 +88,13 @@ Even though it’s not the most effective at filtering out chlorine, the water f
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **6.5**/10
+*   Build Quality (30%) - **6.5**/undefined
     
-*   Conveniences (20%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/undefined
     
-*   Filter (50%) - **8.0**/10
+*   Filter (50%) - **8.0**/undefined
     
 
 The ZeroWater pitcher looks sturdy from the outside and has a well-built, solid filter, but the filter reservoir and filter case have a poor finish. Instead of filter life indicators, you can rely on the included TDS meter for replacement time.
@@ -161,15 +161,15 @@ Once the filter is secured, you’re good to go. Water will not pass through it 
 Usability
 ---------
 
-usability Scores: **6.7**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **6.0**/10
+*   Assembling (20%) - **6.0**/undefined
     
-*   Refilling (30%) - **5.5**/10
+*   Refilling (30%) - **5.5**/undefined
     
-*   Dispensing (40%) - **8.0**/10
+*   Dispensing (40%) - **8.0**/undefined
     
-*   Cleaning (10%) - **6.0**/10
+*   Cleaning (10%) - **6.0**/undefined
     
 
 The ZeroWater filter pitcher has some major design flaws, which affects the ease of use. Its flimsy filter tray makes it awkward to install the filter, and the lack of a trap door means refilling requires completely removing the lid. While the pitcher has a 10-cup capacity on paper, you can’t technically fill it without draining the filtered water.
