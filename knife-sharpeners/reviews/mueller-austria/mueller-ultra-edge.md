@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (40%) - **5.4**/10
+*   Performance (40%) - **5.4**/undefined
     
-*   Design (30%) - **6.3**/10
+*   Design (30%) - **6.3**/undefined
     
-*   Ease of Use (30%) - **8.4**/10
+*   Ease of Use (30%) - **8.4**/undefined
     
 
 This Mueller Ultra-edge KSE-24 is an affordable electric knife sharpener; and yet, it’s one of the most well constructed and user-friendly machines we’ve tested. Its key features include quiet operation and excellent heat regulation. However, it most likely won’t give you a keen or shiny knife edge.
@@ -36,15 +36,15 @@ Here are the details of what we found during our tests with the Mueller electric
 Performance
 -----------
 
-performance Scores: **5.4**
+performance Scores: **NaN**
 
-*   Speed (30%) - **1.0**/10
+*   Speed (30%) - **1.0**/undefined
     
-*   Edge Quality (40%) - **6.0**/10
+*   Edge Quality (40%) - **6.0**/undefined
     
-*   Material Retention (10%) - **7.0**/10
+*   Material Retention (10%) - **7.0**/undefined
     
-*   Continuous Operation Time (20%) - **10**/10
+*   Continuous Operation Time (20%) - **10**/undefined
     
 
 The Mueller Ultra-edge didn’t produce an _ultra_ edge in our tests. It failed miserably in the speed test and produced a mediocre edge height. On the other hand, it shaved off less blade material than most other electric sharpeners. The machine also managed to work without issues when facing the task of sharpening several knives in succession.
@@ -56,6 +56,8 @@ Target Sharpness: Level 9 (Beef tendon)
 Sharpening Time: 11:43:00
 
 Number Of Strokes:
+
+Numberof Strokes:
 
 Cutting Feel: Heavy
 
@@ -81,22 +83,22 @@ Judging by the small edge bevels it produced, it’s no surprise that the KSE-24
 
 ### Continuous Operation Time
 
-COT As Tested: 25 minutes
+CO Tas Tested:
 
 The instruction manual claims that the Mueller can run continuously for 60 minutes. Throughout our 25-minute test, there was no single instance of stalling or stopping. The machine ran smoothly and consistently. It was still very cool to the touch at the end of the session. Those who tend to sharpen multiple knives at once will appreciate this.
 
 Design: Neat and Strong but Lacks Versatility
 ---------------------------------------------
 
-design Scores: **6.3**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **8.0**/10
+*   Build Quality (55%) - **8.0**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **8.0**/10
+*   Knife Size (15%) - **8.0**/undefined
     
-*   Edge Type (10%) - **5.0**/10
+*   Edge Type (10%) - **5.0**/undefined
     
 
 The Mueller electric sharpener has an attractive design with sleek stainless steel over a black-and-red plastic housing. It’s heavyweight and sturdy.
@@ -160,17 +162,17 @@ The KSE-24 does not sharpen serrated knives. That being said, if you have cheap 
 Ease of Use: Fuss-free Operation
 --------------------------------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Setup (20%) - **9.0**/10
+*   Setup (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **8.0**/10
+*   Insertion (20%) - **8.0**/undefined
     
-*   Stability (20%) - **9.0**/10
+*   Stability (20%) - **9.0**/undefined
     
-*   Safety (30%) - **8.8**/10
+*   Safety (30%) - **8.8**/undefined
     
-*   Maintenance (10%) - **5.5**/10
+*   Maintenance (10%) - **5.5**/undefined
     
 
 The Mueller Ultra-edge is straightforward. A newbie could set it up and start sharpening without issues. It also got a higher safety rating from us than any other electric sharpeners we’ve tested, doing well in temperature, noise level, and dust control.
