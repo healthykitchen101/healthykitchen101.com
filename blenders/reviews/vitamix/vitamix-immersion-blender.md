@@ -1,18 +1,18 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.6**/10
+*   Performance (50%) - **8.6**/undefined
     
-*   Design (20%) - **9.1**/10
+*   Design (20%) - **9.1**/undefined
     
-*   Usability (30%) - **8.2**/10
+*   Usability (30%) - **8.2**/undefined
     
 
 The Vitamix 5-speed received positive reviews from most of our operators, particularly for its practicality and premium-quality build.
 
-In our tests, the lack of a whisk attachment made it fall short in the test of beating egg-white, but the blending wand was flexible enough to create consistent results of mayonnaise. It also produced a home-style soup packed with a restaurant-quality texture and a non-dairy milk that was impressively rich in almond flavor. Its heavy-duty motor, together with the solidly-designed blades, allowed a smooth combination of frozen fruits to develop as well. 
+In our tests, the lack of a whisk attachment made it fall short in the test of beating egg-white, but the blending wand was flexible enough to create consistent results of mayonnaise. It also produced a home-style soup packed with a restaurant-quality texture and a non-dairy milk that was impressively rich in almond flavor. Its heavy-duty motor, together with the solidly-designed blades, allowed a smooth combination of frozen fruits to develop as well.
 
 Overall, the Vitamix 5-speed is by no means an all-arounder, but it does offer high blending performances and a suite of advanced features at a reasonably upscale price. Not to mention its 3-year warranty package, which is more than double what most other models offer. If you’re willing to spare no expense, you won’t go wrong with this blender.
 
@@ -34,17 +34,17 @@ Overall, the Vitamix 5-speed is by no means an all-arounder, but it does offer h
 Performance
 -----------
 
-performance Scores: **8.6**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **9.5**/10
+*   Hot Soup Purée (35%) - **9.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.8**/10
+*   Frozen Fruit Smoothie (30%) - **8.8**/undefined
     
-*   Mayonnaise (15%) - **8.3**/10
+*   Mayonnaise (15%) - **8.3**/undefined
     
-*   Almond Milk (15%) - **9.3**/10
+*   Almond Milk (15%) - **9.3**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 Among the range of models we put to the test, none matched the efficiency or quality of the Vitamix. Powered by an impressive 625 watts, it stands as one of the [most powerful blenders](https://healthykitchen101.com/blenders/reviews/best/) on the market. It works swiftly, taking much of the physical strain out of the process. Once it's in action, the blender efficiently pulls ingredients towards the blades, ensuring a consistent blend. However, for achieving an optimally uniform texture, a little manual intervention in the form of moving the blending wand around in the ingredients could be necessary.
@@ -128,15 +128,15 @@ The Vitamix could be a great all-around blender if it included a whisk attachmen
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blending Shaft (30%) - **9.5**/10
+*   Blending Shaft (30%) - **9.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 During our testing, we noticed that balde friction from a prolonged operation would cause the motor to overload. That’s why it’s best to avoid using this blender continuously for more than four minutes. The Vitamixt cannot protect itself from overheating, though it is designed to flash a pattern of LEDs to indicate when your motor is over temperature.
@@ -254,15 +254,15 @@ The Vitamix is also different from others in terms of its acceleration. Its spee
 Usability
 ---------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.4**/10
+*   Ease of Use (60%) - **8.4**/undefined
     
-*   Blade Assembly (10%) - **8.0**/10
+*   Blade Assembly (10%) - **8.0**/undefined
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.5**/undefined
     
-*   Cleanability (10%) - **7.0**/10
+*   Cleanability (10%) - **7.0**/undefined
     
 
 Initially, we assumed that the Vitamix’s weight would cause it to be less user-friendly. However, after a course of testing, we realized that our assumption was entirely wrong.
