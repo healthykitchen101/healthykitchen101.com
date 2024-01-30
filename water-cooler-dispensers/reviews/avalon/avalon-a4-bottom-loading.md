@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.9**/10
+*   Performance (50%) - **8.9**/undefined
     
-*   Design (25%) - **8.5**/10
+*   Design (25%) - **8.5**/undefined
     
-*   Ease of Use (25%) - **8.0**/10
+*   Ease of Use (25%) - **8.0**/undefined
     
 
 The Avalon A4 is a [quality and reliable water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/). In our tests, it ranked top in two categories and reasonably well in others. It had a perfect flow rate score and also one of the highest hot water temperatures.
@@ -34,11 +34,11 @@ The Avalon A4 is a bottom loading water cooler dispenser. It has similar feature
 Performance
 -----------
 
-performance Scores: **8.9**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **8.7**/10
+*   Hot Water Test (40%) - **8.7**/undefined
     
-*   Cold Water Test (60%) - **9.0**/10
+*   Cold Water Test (60%) - **9.0**/undefined
     
 
 The Avalon A4 bottom loading water dispenser hit the top of the charts in a number of tests we ran. For hot water, it measured one of the highest constant flow temperatures, and also had a perfect flow rate score. On the downside, the hot water heating took longer than average, but the single draw capacity was enough for three cups.
@@ -108,15 +108,15 @@ During our tests, the Avalon never dropped below the benchmark temperature of 50
 Design
 ------
 
-design Scores: **8.5**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.5**/10
+*   Build Quality (45%) - **8.5**/undefined
     
-*   Panel & Indicators (25%) - **9.0**/10
+*   Panel & Indicators (25%) - **9.0**/undefined
     
-*   Water Inlet Controls (20%) - **8.0**/10
+*   Water Inlet Controls (20%) - **8.0**/undefined
     
-*   Drip Tray (10%) - **8.3**/10
+*   Drip Tray (10%) - **8.3**/undefined
     
 
 If you like the all-black look, the additional design features of the Avalon A4 will also hit the spot. The build quality and materials used are a high standard throughout. The dispensing positions are clearly labeled with white cup icons and the buttons are color-coded.
@@ -287,15 +287,15 @@ Like quite a number of water cooler dispensers, the cord protrudes on the right 
 Ease of Use
 -----------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **8.8**/10
+*   Dispensing Water (40%) - **8.8**/undefined
     
-*   Hot Water Safety (15%) - **8.0**/10
+*   Hot Water Safety (15%) - **8.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **7.0**/10
+*   Bottle / Filter Changing (15%) - **7.0**/undefined
     
-*   Cleaning (30%) - **7.3**/10
+*   Cleaning (30%) - **7.3**/undefined
     
 
 The Avalon A4 is smooth to operate from the ease of dispensing water, to the design of the dispensing buttons, the hot water safety mechanism, and fast bottle changing.
