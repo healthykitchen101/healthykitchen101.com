@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.6**/10
+*   Performance (60%) - **6.6**/undefined
     
-*   Design (25%) - **8.6**/10
+*   Design (25%) - **8.6**/undefined
     
-*   Usability (15%) - **8.4**/10
+*   Usability (15%) - **8.4**/undefined
     
 
 The GE Disposall Green 1/2 HP Garbage Disposal is a nice surprise in the small motor category. It has the capability of a standard 3/4-hp unit—like the [Waste King L3200](https://healthykitchen101.com/garbage-disposals/reviews/waste-king/waste-king-l-3200/)—but with a neater body. It takes care of scraps from common foods like vegetables and fruits, and even tougher ones like pits and cooked bones with little struggle.
@@ -30,13 +30,13 @@ The GE Disposall Green looks like a piece of modern appliance but it’s now mor
 Performance
 -----------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.6**/10
+*   Scrap Mix (50%) - **6.6**/undefined
     
-*   Raw Fish Scraps (25%) - **5.2**/10
+*   Raw Fish Scraps (25%) - **5.2**/undefined
     
-*   Raw Chicken Scraps (25%) - **8.0**/10
+*   Raw Chicken Scraps (25%) - **8.0**/undefined
     
 
 Out of all the garbage disposals we have, the team spent more time on the small models than anything else. When we modified the tests’ conditions to reflect a wider range of capabilities, we did not expect the GE Green to deliver as it did, outperforming several stronger competitors.
@@ -140,13 +140,13 @@ These results showed both potential and inconsistency when using the GE Green to
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **7.5**/10
+*   Grind Chamber (30%) - **7.5**/undefined
     
-*   Motor (30%) - **9.0**/10
+*   Motor (30%) - **9.0**/undefined
     
-*   Build Quality (40%) - **9.0**/10
+*   Build Quality (40%) - **9.0**/undefined
     
 
 The GE Disposall Green has a quality look and feel that many 1/2-hp garbage disposals don’t. It has a thick and well-fitted protective case, the grinding components inside are all stainless steel, and the permanent magnet motor runs like a dream. 
@@ -279,15 +279,15 @@ Other than that, the disposal is a well-crafted unit. Every detail seems to have
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.5**/10
+*   Installation (30%) - **9.5**/undefined
     
-*   Ease of Use (40%) - **9.0**/10
+*   Ease of Use (40%) - **9.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The Disposall Green is one of the nicest 1/2-hp disposals we’ve seen so far. It’s capable of consistent performance against common food and may considerably cut down the time as well as the amount of cleanup in the kitchen. 
