@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (20%) - **8.4**/10
+*   Design (20%) - **8.4**/undefined
     
-*   Ease of Use (30%) - **6.3**/10
+*   Ease of Use (30%) - **6.3**/undefined
     
 
 The Nostalgia MWF5AQ MyMini is [a great choice](https://healthykitchen101.com/waffle-makers/reviews/best/) if you’re looking for a compact waffle maker. This one can fit in the palm of your hand. Performance isn’t bad for the price, though it will not help you win baking competitions. Still, it will produce some tasty, 5-inch waffles in around 5 or 8 minutes.
@@ -33,11 +33,11 @@ The Nostalgia MWF5AQ MyMini, similar to the likes of the [DASH Mini](https://hea
 Performance: Great, As Far As Mini Waffle Makers Go
 ---------------------------------------------------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.8**/10
+*   Self-Mixed Recipe (50%) - **6.8**/undefined
     
-*   Birch Benders Mix (50%) - **5.9**/10
+*   Birch Benders Mix (50%) - **5.9**/undefined
     
 
 To our surprise, the Nostalgia MWF5AQ proved to be one of the top performers in the mini category within our database. In our self-mixed recipe, the waffle that it churned out was delicious, according to our chef. While the waffle it made with the Birch Benders mix wasn’t quite as good in most respects (besides texture), it’s still considered palatable.
@@ -131,13 +131,13 @@ Our chef rated the Nostalgia’s performance in this test as “Good.” The ful
 Design: Doesn’t Feel Cheap!
 ---------------------------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 The Nostalgia MWF5AQ is quite impressive out of the box with its eye-catching "Aqua" light blue color. The plastic construction is expected from such an affordable and compact model, but it doesn't feel cheap.
@@ -232,15 +232,15 @@ The Nostalgia waffle maker does not come with any accessories.
 Ease of Use
 -----------
 
-usability Scores: **6.3**
+usability Scores: **NaN**
 
-*   Handling (25%) - **7.5**/10
+*   Handling (25%) - **7.5**/undefined
     
-*   Safety (40%) - **2.5**/10
+*   Safety (40%) - **2.5**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The Nostalgia is extremely easy to use since it has no control panel — wait until the top indicator light signals that your plates are heated, then pour in the batter and begin cooking.
