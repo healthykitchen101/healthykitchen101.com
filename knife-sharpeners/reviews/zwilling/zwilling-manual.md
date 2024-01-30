@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **4.7**/10
+*   Performance (50%) - **4.7**/undefined
     
-*   Design (15%) - **7.5**/10
+*   Design (15%) - **7.5**/undefined
     
-*   Ease of Use (35%) - **8.2**/10
+*   Ease of Use (35%) - **8.2**/undefined
     
 
 The Zwilling 4-stage knife sharpener is more versatile than most, accommodating both Asian and standard knives. However, it offers a lower quality of performance than its robust construction, and price, suggest. It will improve your knife sharpness, but it takes its sweet time, and not without removing a considerable amount of steel from the knife edge. The device is easy to use but only if you have a very firm and steady grip.
@@ -35,15 +35,15 @@ Here’s how our experiments with it turned out.
 Performance
 -----------
 
-performance Scores: **4.7**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **1.0**/10
+*   Sharpening Time to Cut a Lemon (35%) - **1.0**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **7.0**/10
+*   Maximum Sharpness Achieved (20%) - **7.0**/undefined
     
-*   Edge Smoothness (20%) - **7.3**/10
+*   Edge Smoothness (20%) - **7.3**/undefined
     
-*   Material Retention (25%) - **6.0**/10
+*   Material Retention (25%) - **6.0**/undefined
     
 
 The Zwilling isn’t a complete failure: It can sharpen a dead, dull knife to highly serviceable keenness. However, it lost way too many points on speed, which is a critical criterion for convenient sharpeners. Its sharpening blades left a consistent edge, but that doesn’t make up for the excessive amount of material it removed doing so. It reminded us of the [Chef’s Choice 4643](https://healthykitchen101.com/knife-sharpeners/reviews/chefschoice/chefschoice-4643-manual/) in many ways.
@@ -89,11 +89,11 @@ Most other devices employ ceramic rods for honing the knife, so even though this
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **7.8**/10
+*   Build Quality (75%) - **7.8**/undefined
     
-*   Grip (25%) - **6.5**/10
+*   Grip (25%) - **6.5**/undefined
     
 
 The Zwilling sharpener has a robust construction; its frame is made with mostly high-quality materials and has an excellent fit and finish. Its most important components—the sharpening blades—however, seem to be made of the wrong material for the job. The tall, long, but narrow body, meanwhile, makes it more prone to losing balance and stability.
@@ -170,17 +170,17 @@ The base is long and narrow, which is not ideal for its considerable height. The
 Ease of Use
 -----------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **7.5**/10
+*   Pulling Through (10%) - **7.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **7.5**/10
+*   Stability on a Clean Surface (40%) - **7.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **6.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **6.0**/undefined
     
 
 Though the Zwilling’s slot layout is not exactly basic, it’s easy to work with. Blade insertion is safe and simple. However, the actual sharpening process can be a little challenging as the device tends to rock on its narrow base pad.
