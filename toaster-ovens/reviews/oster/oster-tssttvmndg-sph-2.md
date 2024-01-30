@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (25%) - **6.2**/10
+*   Design (25%) - **6.2**/undefined
     
-*   Usability (25%) - **6.6**/10
+*   Usability (25%) - **6.6**/undefined
     
 
 The black stainless steel Oster TSSTTVMNDG-SHP-2 Digital Convection Toaster Oven is suitable for someone looking for a simple and robust large unit. It has useful accessories and cooking functions for both seasoned home cooks and newcomers in the kitchen.
@@ -37,15 +37,15 @@ The black stainless steel Oster TSSTTVMNDG-SHP-2 Digital Convection Toaster Oven
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Toast (40%) - **6.2**/10
+*   Toast (40%) - **6.2**/undefined
     
-*   Pizza (25%) - **8.0**/10
+*   Pizza (25%) - **8.0**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.8**/10
+*   Whole Roasted Chicken (25%) - **7.8**/undefined
     
-*   Baked French Fries (10%) - **6.0**/10
+*   Baked French Fries (10%) - **6.0**/undefined
     
 
 The strongest performance aspect of the Oster TSSTTVMNDG-SHP-2 was the even coloring on our test dishes, thanks to its convection system. However, it didn’t meet the mark in baking frozen french fries.
@@ -193,13 +193,13 @@ The fries had an uneven color, ranging from almost none to golden and brown on t
 Design: Low Wattage
 -------------------
 
-design Scores: **6.2**
+design Scores: **NaN**
 
-*   Exterior (20%) - **7.0**/10
+*   Exterior (20%) - **7.0**/undefined
     
-*   Interior (30%) - **6.0**/10
+*   Interior (30%) - **6.0**/undefined
     
-*   Build Quality (50%) - **6.0**/10
+*   Build Quality (50%) - **6.0**/undefined
     
 
 The Oster TSSTTVMNDG-SHP-2 has a simple and sturdy design, plus a convenient slide-out crumb tray. The large interior houses a togglable lightbulb and convection system. A consistent disadvantage that this oven has is its low wattage compared to something like the [Ninja DT201](https://healthykitchen101.com/toaster-ovens/reviews/ninja/ninja-foodi-xl-pro-air/).
@@ -393,13 +393,13 @@ Throughout the testing procedure, we found that the oven’s power output of 130
 Usability: Needs Better Control
 -------------------------------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **6.0**/10
+*   Ease of Use (50%) - **6.0**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 While the digital control panel of the Oster TSSTTVMNDG-SHP-2 is straightforward and easy to use, its buttons can be more responsive. In addition to that, having to press Cancel before changing functions can get annoying.
