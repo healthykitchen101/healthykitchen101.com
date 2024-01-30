@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.8**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.3**/10
+*   Performance (60%) - **6.3**/undefined
     
-*   Design (20%) - **8.3**/10
+*   Design (20%) - **8.3**/undefined
     
-*   Usability (20%) - **6.6**/10
+*   Usability (20%) - **6.6**/undefined
     
 
 The Ninja AMZ493BRN might catch your eye with its sleek design and generous suite of accessories. However, there's unexpected downsides that could dampen your enthusiasm. Beyond its aesthetic charm and singular ability to crush ice with ease, the blender is an entire disappointment when faced with more complex tasks, especially ones that involve multiple ingredients.
@@ -35,17 +35,17 @@ But brace yourself, as the actual practicality awaits in the chaos of a real kit
 Performance
 -----------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **3.9**/10
+*   Smoothie (35%) - **3.9**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **6.3**/10
+*   Frozen Fruit Smoothie (20%) - **6.3**/undefined
     
-*   Protein Shake (15%) - **7.8**/10
+*   Protein Shake (15%) - **7.8**/undefined
     
-*   Almond Butter (20%) - **7.3**/10
+*   Almond Butter (20%) - **7.3**/undefined
     
-*   Crushed Ice (10%) - **10**/10
+*   Crushed Ice (10%) - **10**/undefined
     
 
 We challenged our Ninja AMZ493BRN with green smoothies brimming with tropical fruits and fibrous kale, frozen smoothies made with icy fruits, protein shakes packed with oats, raw nuts, and dried berries. We even undertook the delicate process of crushing ice and preparing butter from whole almonds. Although not being overly demanding, four out of the five tests received only an average score. Despite its reputation as a [heavy-duty blender](https://healthykitchen101.com/blenders/reviews/best/), the AMZ493BRN didn't bring much to the table. Its only standout performance was in its exceptional ability to crush ice.
@@ -123,13 +123,13 @@ The uniformity of the crushed ice was even further impressive, with each piece n
 Design
 ------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Blades (25%) - **6.0**/10
+*   Blades (25%) - **6.0**/undefined
     
-*   Control Panel (15%) - **9.5**/10
+*   Control Panel (15%) - **9.5**/undefined
     
 
 Although the Ninja AMZ493BRN occupies a moderate amount of countertop space, its height could present overhead limitations when it’s placed directly under kitchen cabinets. Despite showing minor wear over time, the blending container's functionality remains largely uncompromised. Key features such as automatic overload protection and non-slip feet are integrated for safety and stability, yet the absence of a suction feature slightly limits its secure placement on certain surfaces. Our tests confirm the blender’s consistent, prolonged performance, devoid of excessive vibrations or heat build-up.
@@ -289,15 +289,15 @@ Removable: N/A
 Usability
 ---------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **6.0**/10
+*   Ease of Blend (40%) - **6.0**/undefined
     
-*   Noise Level (20%) - **7.3**/10
+*   Noise Level (20%) - **7.3**/undefined
     
-*   Assembly (15%) - **7.5**/10
+*   Assembly (15%) - **7.5**/undefined
     
-*   Cleanability (25%) - **6.5**/10
+*   Cleanability (25%) - **6.5**/undefined
     
 
 The Ninja AMZ493BRN comes with less-than-convenient usability. Blending wasn't as effortless as we'd expected; we had to frequently halt to stir or scrape ingredients for even blending. Cleaning was mostly easy with dishwasher-safe components, but the blade assembly required extra care. Also, the 'coupling' in the blade assembly, trapping food particles, demanded a detailed scrubbing.
