@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.2**/10
+*   Performance (50%) - **5.2**/undefined
     
-*   Design (20%) - **7.3**/10
+*   Design (20%) - **7.3**/undefined
     
-*   Usability (30%) - **7.3**/10
+*   Usability (30%) - **7.3**/undefined
     
 
 In our testing, the GERYON E2900-MS vacuum sealer delivered a rather mediocre performance in its price range. It handled dry foods well but struggled with producing consistent suction for moist foods, resulting in very poor performance in this test. If you primarily vacuum-seal dry items like grains, this sealer should do the trick. However, if you frequently deal with moist foods like marinades and fresh fruits, you may have to look elsewhere.
@@ -35,11 +35,11 @@ However, if you did decide to take the plunge, what would you get for your money
 Performance
 -----------
 
-performance Scores: **5.2**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **5.6**/10
+*   Dry Food Test (60%) - **5.6**/undefined
     
-*   Moist Food Test (40%) - **4.7**/10
+*   Moist Food Test (40%) - **4.7**/undefined
     
 
 The CALOTO AP-12X's performance is quite disappointing. In our tests with both dry and moist foods, this sealer had trouble removing air from the bags, especially with moist items. Although it works reasonably fast, it can't make up for the weak suction. Since the AP-12X leaves more air in the bags, it could affect how well your food stays fresh.
@@ -83,15 +83,15 @@ On a positive note, the sealer excelled in cycle times, consistently ranging fro
 Design
 ------
 
-design Scores: **7.3**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
-*   Control Panel (20%) - **7.5**/10
+*   Control Panel (20%) - **7.5**/undefined
     
-*   Lid (20%) - **9.0**/10
+*   Lid (20%) - **9.0**/undefined
     
-*   Extra Features (10%) - **0**/10
+*   Extra Features (10%) - **0**/undefined
     
 
 The GERYON E2900-MS has a budget-friendly design dominated by lightweight plastic. Despite this, important components like the lid, sealing bar, and vacuum channel foam are well-made without any obvious flaws. The touch-sensitive control panel is user-friendly, but the lid's locks can be tricky to use one-handed.
@@ -183,13 +183,13 @@ The GERYON E900-MS doesn’t come with any extra features.
 Usability
 ---------
 
-usability Scores: **7.3**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **7.0**/10
+*   Ease of Use (70%) - **7.0**/undefined
     
-*   Safety & Noise (15%) - **9.0**/10
+*   Safety & Noise (15%) - **9.0**/undefined
     
-*   Indicator Lights and Chime (15%) - **7.0**/10
+*   Indicator Lights and Chime (15%) - **7.0**/undefined
     
 
 The GERYON E2900-MS received a "Good" usability rating from our reviewers. The control panel is easy to use, but the lid lock can be a bit finicky. Safety features, including warning stickers, are in place. However, the sealer is quite loud at 85.5 decibels, and the button and indicator lighting is somewhat dim, which can be a bit annoying for some users.
