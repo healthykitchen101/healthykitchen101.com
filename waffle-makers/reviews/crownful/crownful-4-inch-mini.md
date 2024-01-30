@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (20%) - **8.8**/10
+*   Design (20%) - **8.8**/undefined
     
-*   Ease of Use (30%) - **6.6**/10
+*   Ease of Use (30%) - **6.6**/undefined
     
 
 The Crownful 4-inch Mini Waffle Maker has the same basic design. It has an almost similar cooking performance compared to other [mini-sized waffle makers](https://healthykitchen101.com/waffle-makers/reviews/best/mini-waffle-makers/) in the same price range. In particular, it was able to cook some decently-tasting waffles in our performance tests. They weren’t restaurant-grade by any means, but at least they were edible.
@@ -36,11 +36,11 @@ But does it fare well in performance tests against our [list of front-lining waf
 Performance: Great Scoring Throughout
 -------------------------------------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **7.2**/10
+*   Self-Mixed Recipe (50%) - **7.2**/undefined
     
-*   Birch Benders Mix (50%) - **5.3**/10
+*   Birch Benders Mix (50%) - **5.3**/undefined
     
 
 In our cooking tests with the self-mixed recipe, the Crownful CF-WM01 waffle maker managed to achieve brilliant results across all three scoring criteria: color, texture, and taste. The waffles weren’t gourmet-grade, but they can still make for great breakfast treats for families and individuals.
@@ -140,13 +140,13 @@ But while the taste was great, the mouthfeel was subpar due to the mushy texture
 Design
 ------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **10**/10
+*   Build Quality (60%) - **10**/undefined
     
-*   Waffle Plates (30%) - **9.5**/10
+*   Waffle Plates (30%) - **9.5**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 The Crownful is visually striking compared to other mini-sized waffle makers in our database. Featuring a raised circular pattern on the lid and finished off with a light wooden handle, its aesthetic is the most remarkable part. The build quality is decent for the price point. A pair of solid hinges on the lid and the waffle plates are coated with a layer of functional non-stick coating.
@@ -252,15 +252,15 @@ The Crownful waffle maker doesn't come with any accessory.
 Ease of Use
 -----------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   Handling (25%) - **8.5**/10
+*   Handling (25%) - **8.5**/undefined
     
-*   Safety (40%) - **2.5**/10
+*   Safety (40%) - **2.5**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The lack of a control panel doesn’t mean the Crownful is hard to use. The opposite, in fact. Plug it in, wait for the signal light to go off, and pour your batter. Getting the perfect browning level can be tricky, but you’ll get the feel of it after some time using the waffle maker.
