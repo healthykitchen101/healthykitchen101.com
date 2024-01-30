@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (20%) - **5.2**/10
+*   Design (20%) - **5.2**/undefined
     
-*   Usability (30%) - **6.4**/10
+*   Usability (30%) - **6.4**/undefined
     
 
-The Elite Gourmet EHB-2425X demonstrates varied performance. It excels in simpler tasks like making mayonnaise and almond milk, yet it struggles with more demanding ones like blending frozen fruits and whipping egg whites. While its ability to puree soup is above average, the shorter blending wand could pose challenges in deeper pots. This model is perhaps best suited for users with basic, lighter blending needs, rather than those seeking a robust, [all-purpose blender](https://healthykitchen101.com/blenders/reviews/best/) capable of a wide range of heavy-duty tasks. 
+The Elite Gourmet EHB-2425X demonstrates varied performance. It excels in simpler tasks like making mayonnaise and almond milk, yet it struggles with more demanding ones like blending frozen fruits and whipping egg whites. While its ability to puree soup is above average, the shorter blending wand could pose challenges in deeper pots. This model is perhaps best suited for users with basic, lighter blending needs, rather than those seeking a robust, [all-purpose blender](https://healthykitchen101.com/blenders/reviews/best/) capable of a wide range of heavy-duty tasks.
 
 Beyond its operational capabilities, the blender's overall build quality and user experience are points of concern. The construction of the EHB-2425X doesn’t inspire confidence, with a general flimsiness that raises doubts about its long-term durability.  Additionally, the ergonomic aspects of the design are underwhelming. The handling and comfort during use are not up to par with what regular or intensive use would require.
 
@@ -32,17 +32,17 @@ Sporting a 150-watt motor, the Elite Gourmet EHB-2425X represents a [low-range i
 Performance
 -----------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.0**/10
+*   Hot Soup Purée (35%) - **8.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **3.5**/10
+*   Frozen Fruit Smoothie (30%) - **3.5**/undefined
     
-*   Mayonnaise (15%) - **9.0**/10
+*   Mayonnaise (15%) - **9.0**/undefined
     
-*   Almond Milk (15%) - **7.5**/10
+*   Almond Milk (15%) - **7.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 The Elite Gourmet EHB-2425X delivered adequate performance in soup preparation, effectively handling cooked ingredients and yielding a smooth result. It also fared reasonably well in making mayonnaise and grinding almonds for a batch of creamy almond milk. However, challenges arose when handling denser mixtures such as frozen fruit smoothies, where there was a noticeable decline in performance. The lack of an extra whisk attachment means our blender also underperformed in tasks that require aeration.
@@ -120,15 +120,15 @@ For aeration-heavy tasks like whipping egg whites, the Elite Gourmet EHB-2425X p
 Design
 ------
 
-design Scores: **5.2**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.0**/10
+*   Build Quality (60%) - **5.0**/undefined
     
-*   Blending Shaft (30%) - **5.5**/10
+*   Blending Shaft (30%) - **5.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 The Elite Gourmet EHB-2425X is designed with simplicity and affordability in mind. Its construction prioritizes cost-effectiveness, using materials that are economical rather than premium.
@@ -238,15 +238,15 @@ Removable: N/A
 Usability
 ---------
 
-usability Scores: **6.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **5.3**/10
+*   Ease of Use (60%) - **5.3**/undefined
     
-*   Blade Assembly (10%) - **7.0**/10
+*   Blade Assembly (10%) - **7.0**/undefined
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.5**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 The Elite Gourmet EHB-2425X, in its pursuit of extreme simplicity, ends up sacrificing essential features that contribute to convenience and ease of use. Its straightforward design, while making its operation instantly understandable, also strips away the versatility and comfort found in more advanced models.
