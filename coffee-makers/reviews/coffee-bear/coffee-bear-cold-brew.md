@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.2**/10
+*   Brew Quality (50%) - **7.2**/undefined
     
-*   Design (15%) - **8.8**/10
+*   Design (15%) - **8.8**/undefined
     
-*   Ease of Use (35%) - **8.7**/10
+*   Ease of Use (35%) - **8.7**/undefined
     
 
 Coffee Bear is an average cold brew coffee maker. While the brew it makes is good enough, it lacks complexity and doesn’t excite. For the quality of the brew, the design of the brewer and filter is sufficient. Coffee Bear appears to be a generic copy which fails to deliver any added value, and its attempt to impress with a silicone base pad doesn’t quite work.
@@ -29,13 +29,13 @@ The Coffee Bear brand has a limited range of coffeeware and not much of the info
 Brew Quality
 ------------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.0**/10
+*   Bouquet (10%) - **7.0**/undefined
     
-*   Drinkability (70%) - **7.0**/10
+*   Drinkability (70%) - **7.0**/undefined
     
-*   Sediment (20%) - **8.0**/10
+*   Sediment (20%) - **8.0**/undefined
     
 
 The brew quality of the Coffee Bear corresponded with its brew ratio and the functionality of its filter. The brew was decidedly average and lacked complexity with a watery aftertaste.
@@ -59,13 +59,13 @@ After allowing the brew to settle and decanting a second time, there was a moder
 Design
 ------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **8.0**/10
+*   Filter (40%) - **8.0**/undefined
     
-*   Build Quality (30%) - **8.5**/10
+*   Build Quality (30%) - **8.5**/undefined
     
 
 There’s nothing to fault about the quality of the glass carafe and the lid design. The silicone base pad, on the other hand, is not the best quality and the handle is a little small.
@@ -131,13 +131,13 @@ Overall we were satisfied with the build quality. The silicone base, however, se
 Ease of Use
 -----------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **8.5**/10
+*   Brewing (45%) - **8.5**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 Using the Coffee Bear is quite simple and straightforward. The most practical aspect is the lid, but besides that, the product doesn’t offer any added value. It’s easy to miss spots when cleaning the black-framed filter, but the detachable filter base does make a difference.
