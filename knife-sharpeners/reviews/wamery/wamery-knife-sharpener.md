@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.1**/10
+*   Performance (50%) - **8.1**/undefined
     
-*   Design (15%) - **6.8**/10
+*   Design (15%) - **6.8**/undefined
     
-*   Ease of Use (35%) - **7.7**/10
+*   Ease of Use (35%) - **7.7**/undefined
     
 
 The Wamery sharpener may not have the smartest design, nor will it restore your knife to factory sharpness. However, it’s fast to sharpen, easy to use, and is more gentle to the edge than most sharpeners.
@@ -32,15 +32,15 @@ Sure enough, it didn’t score well in the design department but it did impress 
 Performance
 -----------
 
-performance Scores: **8.1**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **9.2**/10
+*   Sharpening Time to Cut a Lemon (35%) - **9.2**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **6.0**/10
+*   Maximum Sharpness Achieved (20%) - **6.0**/undefined
     
-*   Edge Smoothness (20%) - **7.3**/10
+*   Edge Smoothness (20%) - **7.3**/undefined
     
-*   Material Retention (25%) - **9.0**/10
+*   Material Retention (25%) - **9.0**/undefined
     
 
 The Wamery offered a decent performance. While it didn’t take the knife far beyond the serviceable level, we were impressed with how fast the sharpener brought it back to life from dead dullness. Its ability to preserve the blade material has also been matched by no other.
@@ -86,11 +86,11 @@ Among the handheld sharpeners we put to the test, this is among the ones that yi
 Design: Finicky
 ---------------
 
-design Scores: **6.8**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **6.6**/10
+*   Build Quality (75%) - **6.6**/undefined
     
-*   Grip (25%) - **7.5**/10
+*   Grip (25%) - **7.5**/undefined
     
 
 The overall build is mediocre at best. It has a spacious grip and a wide base but its materials, fit, and finish are nothing to write home about.
@@ -164,17 +164,17 @@ The Wamery has a wide base, which partly makes up for its excessive height to ma
 Ease of Use
 -----------
 
-usability Scores: **7.7**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **9.0**/10
+*   Slot Arrangement (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **8.0**/10
+*   Insertion (20%) - **8.0**/undefined
     
-*   Pulling Through (10%) - **6.0**/10
+*   Pulling Through (10%) - **6.0**/undefined
     
-*   Stability on Clean Surface (40%) - **7.5**/10
+*   Stability on Clean Surface (40%) - **7.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.0**/undefined
     
 
 The Wamery sharpener scored fairly well in this section, in part due to its simple yet convenient design. The height makes it a little awkward to use at times but other than that, there’s no steep learning curve to master.
