@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.4**/10
+*   Performance (50%) - **9.4**/undefined
     
-*   Design (20%) - **9.1**/10
+*   Design (20%) - **9.1**/undefined
     
-*   Usability (30%) - **10.0**/10
+*   Usability (30%) - **10.0**/undefined
     
 
 Claiming the title as the best-performing faucet-mount water filter in our database (as of January 2023), the Waterdrop-WD-FC-6 is easily our top recommendation.
@@ -34,11 +34,11 @@ If you’re looking for a [mid-range water filter](https://healthykitchen101.com
 Performance
 -----------
 
-performance Scores: **9.4**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **9.0**/10
+*   Flow Rate Test (60%) - **9.0**/undefined
     
 
 The Waterdrop-WD-FC-06 has proven itself with a near-perfect score in the current performance testing methodology.
@@ -72,13 +72,13 @@ Interestingly, in terms of flow rate, the WD-FC-06 is only _slightly_ faster tha
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **8.3**/10
+*   Build Quality (40%) - **8.3**/undefined
     
-*   Filter Piece (50%) - **10**/10
+*   Filter Piece (50%) - **10**/undefined
     
-*   Routing Valve (10%) - **8.2**/10
+*   Routing Valve (10%) - **8.2**/undefined
     
 
 Waterdrop did a great job at giving this water filter an expensive, luxurious look with an outer shell made from glossy metal. The filter is assessed to be impeccably built. None of the components—from the routing valve to the mounting collar—have any visible design or manufacturing flaws.
@@ -158,15 +158,15 @@ The turning motion of our review unit is smooth and feels very solid. However, i
 Usability
 ---------
 
-usability Scores: **10.0**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **10**/10
+*   Maintenance (10%) - **10**/undefined
     
 
 Overall, the Waterdrop WD-FC-06 is easy to install and even easier to use. Once mounted on the faucet, you only need to switch the routing valve’s handle back and forth to switch between filtered or plain water.
