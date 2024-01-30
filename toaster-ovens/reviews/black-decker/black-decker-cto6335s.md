@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (25%) - **6.6**/10
+*   Design (25%) - **6.6**/undefined
     
-*   Usability (25%) - **6.1**/10
+*   Usability (25%) - **6.1**/undefined
     
 
 The silver stainless steel Black+Decker CTO6335S Countertop Convection Toaster Oven is a [good budget choice](https://healthykitchen101.com/toaster-ovens/reviews/best/) if you’re looking for a large unit. In addition, its cooking functions and accessories are useful for not only beginners in the kitchen but also experienced cooks.
@@ -35,15 +35,15 @@ The silver stainless steel Black+Decker CTO6335S is our first choice for a budge
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.0**/10
+*   Toast (40%) - **7.0**/undefined
     
-*   Pizza (25%) - **6.8**/10
+*   Pizza (25%) - **6.8**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.7**/10
+*   Whole Roasted Chicken (25%) - **7.7**/undefined
     
-*   Baked French Fries (10%) - **5.6**/10
+*   Baked French Fries (10%) - **5.6**/undefined
     
 
 The Black+Decker CTO6335S performed quite well in most of our test dishes except for the baked french fries. We speculated that 1500 W wasn’t able to heat the elements fast enough to keep up with the oven’s large capacity.
@@ -195,13 +195,13 @@ Our chef gave the resulting fries a 7/10 for taste.
 Design
 ------
 
-design Scores: **6.6**
+design Scores: **NaN**
 
-*   Exterior (20%) - **5.0**/10
+*   Exterior (20%) - **5.0**/undefined
     
-*   Interior (30%) - **7.0**/10
+*   Interior (30%) - **7.0**/undefined
     
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
 
 The Black+Decker CTO6335S has a sturdy construction. Standouts for us were the baking pan plus broiling rack combo and the quartz heating elements.
@@ -393,13 +393,13 @@ Throughout our tests, we noticed that the oven’s [large capacity](https://heal
 Usability
 ---------
 
-usability Scores: **6.1**
+usability Scores: **NaN**
 
-*   User Control (30%) - **8.0**/10
+*   User Control (30%) - **8.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **6.0**/10
+*   Cleanability (20%) - **6.0**/undefined
     
 
 The Black+Decker CTO6335S has an easy-to-use control panel. However, it doesn’t have any features that encompass convenience. Even the automatic preheat feature isn’t very useful. In addition, its door and buttons are a bit dodgy.
