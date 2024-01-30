@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **4.7**/10
+*   Performance (50%) - **4.7**/undefined
     
-*   Design (20%) - **6.1**/10
+*   Design (20%) - **6.1**/undefined
     
-*   Usability (30%) - **7.5**/10
+*   Usability (30%) - **7.5**/undefined
     
 
 We don’t consider the CALOTO AP-12X to be a good buy. Whether you took note of this sealer for its affordable price or its compact form factor, there are models on the market that can check both of these boxes while having better performance. Worse, the warranty information for this sealer is very unclear.
@@ -35,11 +35,11 @@ However, if you did decide to take the plunge, what would you get for your money
 Performance
 -----------
 
-performance Scores: **4.7**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **4.9**/10
+*   Dry Food Test (60%) - **4.9**/undefined
     
-*   Moist Food Test (40%) - **4.5**/10
+*   Moist Food Test (40%) - **4.5**/undefined
     
 
 The CALOTO AP-12X's performance is quite disappointing. In our tests with both dry and moist foods, this sealer had trouble removing air from the bags, especially with moist items. Although it works reasonably fast, it can't make up for the weak suction. Since the AP-12X leaves more air in the bags, it could affect how well your food stays fresh.
@@ -83,15 +83,15 @@ In summary, if you're specifically looking for a vacuum sealer to handle marinad
 Design
 ------
 
-design Scores: **6.1**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
-*   Control Panel (20%) - **5.0**/10
+*   Control Panel (20%) - **5.0**/undefined
     
-*   Lid (20%) - **8.0**/10
+*   Lid (20%) - **8.0**/undefined
     
-*   Extra Features (10%) - **0**/10
+*   Extra Features (10%) - **0**/undefined
     
 
 One of the standout features of the CALOTO AP-12X is its compact size. It won’t take up much counter space at all. The sealer is lightweight, as well, being made mostly from plastic (though in return, the flimsy plastic makes it far less sturdy.) The control panel is user-friendly despite looking a bit cheap, and the button labels aren’t very clear. Closing the lid requires even and firm pressure on both sides of the lid simultaneously, which can be inconvenient for one-handed use.
@@ -176,13 +176,13 @@ The BonsenKitchen VS2100 doesn’t come with any extra features of note.
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **8.0**/10
+*   Ease of Use (70%) - **8.0**/undefined
     
-*   Safety & Noise (15%) - **10**/10
+*   Safety & Noise (15%) - **10**/undefined
     
-*   Indicator Lights and Chime (15%) - **3.0**/10
+*   Indicator Lights and Chime (15%) - **3.0**/undefined
     
 
 The CALOTO AP-12X is fairly user-friendly with an easy-to-use control panel, although the lid can be slightly tricky. Safety features include a prominent orange strip on the hot heating bar, and noise levels are reasonable. However, the dim control panel indicators and the lack of an audible signal for cycle completion can be inconvenient.
