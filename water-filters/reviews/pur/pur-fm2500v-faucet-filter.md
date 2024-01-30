@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.8**/10
+*   Performance (50%) - **6.8**/undefined
     
-*   Design (20%) - **7.8**/10
+*   Design (20%) - **7.8**/undefined
     
-*   Usability (30%) - **9.4**/10
+*   Usability (30%) - **9.4**/undefined
     
 
 If you're looking for an affordable and easy-to-use faucet-mount water filter, the PUR Plus FM2500V may be a good option for you.
@@ -37,11 +37,11 @@ In this article, we’ll be taking a look at one of the more popular options: th
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **4.7**/10
+*   Flow Rate Test (60%) - **4.7**/undefined
     
 
 Before testing the FM2500V, we tested the [PUR Plus PFM3500V](https://healthykitchen101.com/water-filters/reviews/pur/pur-pfm350v-faucet-filter/), which uses the same filtering cartridge as this model. So, right out of the gate, we already expected their performance to be similar to one another.
@@ -79,13 +79,13 @@ For people who are used to having high-pressure water in the kitchen, using the 
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **7.5**/10
+*   Build Quality (40%) - **7.5**/undefined
     
-*   Filter Piece (50%) - **8.5**/10
+*   Filter Piece (50%) - **8.5**/undefined
     
-*   Routing Valve (10%) - **6.0**/10
+*   Routing Valve (10%) - **6.0**/undefined
     
 
 The build quality of the PUR water filter faucet (FM2500V) is quite high. We found no noticeable design or manufacturing flaws in the unit we received.
@@ -168,15 +168,15 @@ But while the handle functions just fine, it’s made from very thin plastic and
 Usability
 ---------
 
-usability Scores: **9.4**
+usability Scores: **NaN**
 
-*   Installation (25%) - **8.5**/10
+*   Installation (25%) - **8.5**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **8.0**/10
+*   Maintenance (10%) - **8.0**/undefined
     
 
 The PUR water filter faucet (FM2500V) — like most faucet-mount filters — is extremely to use once properly installed.
