@@ -1,4 +1,4 @@
-As single-serve units, personal blenders are particularly good for small batches of smoothies, protein shakes, sauces, and more. When it comes to prepping leaner, greener treats to take with you on the road, many also live up to the hype with their “grab and go” blending cups. From entry-level economy blenders to fancy, high-end ones, there is always something in the market for everyone—including sports enthusiasts and health-conscious folks who are after nutrient-rich drinks, certainly. 
+As single-serve units, personal blenders are particularly good for small batches of smoothies, protein shakes, sauces, and more. When it comes to prepping leaner, greener treats to take with you on the road, many also live up to the hype with their “grab and go” blending cups. From entry-level economy blenders to fancy, high-end ones, there is always something in the market for everyone—including sports enthusiasts and health-conscious folks who are after nutrient-rich drinks, certainly.
 
 How We Test
 -----------
