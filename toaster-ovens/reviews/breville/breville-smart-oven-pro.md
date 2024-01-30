@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.9**/10
+*   Performance (50%) - **6.9**/undefined
     
-*   Design (25%) - **9.3**/10
+*   Design (25%) - **9.3**/undefined
     
-*   Usability (25%) - **8.0**/10
+*   Usability (25%) - **8.0**/undefined
     
 
 The brushed stainless steel Breville BOV845BSS Smart Oven Pro Countertop Convection Toaster Oven justifies its price with its attention to detail. It’s suitable for people who are prepared to invest more in a large toaster oven of a high build quality and with an easy-to-operate control panel and easy-to-clean accessories.
@@ -37,15 +37,15 @@ Of course, the oven isn’t without flaws. Many of its automatic features failed
 Performance: Not As Expected
 ----------------------------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Toast (40%) - **6.8**/10
+*   Toast (40%) - **6.8**/undefined
     
-*   Pizza (25%) - **6.8**/10
+*   Pizza (25%) - **6.8**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.5**/10
+*   Whole Roasted Chicken (25%) - **7.5**/undefined
     
-*   Baked French Fries (10%) - **6.1**/10
+*   Baked French Fries (10%) - **6.1**/undefined
     
 
 The strong power output of 1800 W didn’t seem to help with the Breville’s performance in our test dishes as much as other toaster ovens with the same output, including the [Cosori CO130-AO](https://healthykitchen101.com/toaster-ovens/reviews/cosori/cosori-air-fryer/). It performed the best in roasting a whole chicken but not to an outstanding degree.
@@ -211,13 +211,13 @@ With all of that in mind, our chef couldn’t give a score higher than 6/10 afte
 Design: High-Quality Features
 -----------------------------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Exterior (20%) - **9.5**/10
+*   Exterior (20%) - **9.5**/undefined
     
-*   Interior (30%) - **9.5**/10
+*   Interior (30%) - **9.5**/undefined
     
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
 
 The Breville showed a lot of investment in its design from the exterior and interior to the accessories, especially compared to inexpensive units like the [Black+Decker CTO6335S](https://healthykitchen101.com/toaster-ovens/reviews/black-decker/black-decker-cto6335s/). For example, its carrying handles, interior safety hooks, convection system, internal lighting, feature toggles, and additional cooking functions. It does have some room for improvement, however.
@@ -452,13 +452,13 @@ Note: This product adheres to the California Proposition 65.
 Usability: A Few Things to Be Desired
 -------------------------------------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.5**/10
+*   User Control (30%) - **9.5**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 The Breville also shows investment in features of usability including the toggles and extra cooking functions in the user control as well as automatic mechanisms to increase ease of use. However, the actual delivery left a few things to be desired compared to the ones on our list of [Best Large Toaster Ovens](https://healthykitchen101.com/toaster-ovens/reviews/best/large-toaster-ovens/).
