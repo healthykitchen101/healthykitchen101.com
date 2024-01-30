@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.6**/10
+*   Performance (50%) - **9.6**/undefined
     
-*   Design (25%) - **8.7**/10
+*   Design (25%) - **8.7**/undefined
     
-*   Ease of Use (25%) - **8.3**/10
+*   Ease of Use (25%) - **8.3**/undefined
     
 
 The Avalon A5 is a [high-performance water cooler](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) well-suited for an office environment. It flawlessly dispensed enough cold water every hour to support up to 20 people. Reheating times and the back-to-back hot water serving capacity, on the other hand, are average at best. The water nozzles and buttons are especially well-designed for sanitary upkeep and an ozone function cleans the water lines. Best of all, we loved how easy it was to set up the filtration system.
@@ -32,11 +32,11 @@ The Avalon A5 is just one of Avalon’s point-of-use (POU) water cooler dispense
 Performance
 -----------
 
-performance Scores: **9.6**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **9.0**/10
+*   Hot Water Test (40%) - **9.0**/undefined
     
-*   Cold Water Test (60%) - **10**/10
+*   Cold Water Test (60%) - **10**/undefined
     
 
 The Avalon A5 is a bottleless water cooler dispenser that can perfectly meet the demands of a busy office. The cold water temperature and capacity are as good as it gets or 202 fl. oz. (6 L) per hour, which can serve up to 20 people. The hot water temperature also meets the upper range limit of 198 ℉ (92.2℃) and the flow rate is quite ideal too. It also consistently produced enough hot water for at least three cups of 7.4 fl. oz. (220 ml) each or 23 fl.oz. (680 ml). The added bonus is its ozone cleansing function.
@@ -104,15 +104,15 @@ The Avalon A5 can dispense **200 fl. oz. (6 L)** of perfectly chilled water ever
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **9.0**/10
+*   Build Quality (45%) - **9.0**/undefined
     
-*   Panel & Indicators (25%) - **9.0**/10
+*   Panel & Indicators (25%) - **9.0**/undefined
     
-*   Water Inlet Controls (20%) - **8.0**/10
+*   Water Inlet Controls (20%) - **8.0**/undefined
     
-*   Drip Tray (10%) - **8.3**/10
+*   Drip Tray (10%) - **8.3**/undefined
     
 
 This Avalon A5 has many design features that also appear on their other machines. However, we particularly liked the stainless steel panel, the nozzle design, the drip tray float, and the filter attachment setup. One thing we did not like is the fact that the drip tray is attached to the door — take care when opening it.
@@ -268,15 +268,15 @@ The plug and cable length is comparable to other Avalon machines. This machine r
 Ease of Use
 -----------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **9.0**/10
+*   Dispensing Water (40%) - **9.0**/undefined
     
-*   Hot Water Safety (15%) - **8.0**/10
+*   Hot Water Safety (15%) - **8.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **8.0**/10
+*   Bottle / Filter Changing (15%) - **8.0**/undefined
     
-*   Cleaning (30%) - **7.7**/10
+*   Cleaning (30%) - **7.7**/undefined
     
 
 The Avalon A5 is an all-round easy-to-use machine. Some people may feel uncertain, as we did, about installing a water filtration system. However, we were relieved by how easy and intuitive the machine was to set up. 
