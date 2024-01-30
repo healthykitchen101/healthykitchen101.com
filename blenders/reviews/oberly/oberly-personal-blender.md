@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.2**
+Overall Score: **NaN**
 
-*   Performance (60%) - **0.0**/10
+*   Performance (60%) - **0.0**/undefined
     
-*   Design (25%) - **5.9**/10
+*   Design (25%) - **5.9**/undefined
     
-*   Usability (15%) - **4.9**/10
+*   Usability (15%) - **4.9**/undefined
     
 
 The OBERLY cordless personal blender is not actually a great deal when compared to traditional models. It may win some fans for its take-along design, but otherwise it’s easily forgettable given its lackluster performance. Efficiency is compromised for the sake of style. The low-powered motor and flimsy blades entirely fall short in blending solid foods like raw nuts, dried fruits, and frozen ingredients. Therefore, it doesn’t make sense to believe that this blender is able to crush ice cubes as it’s advertised.
@@ -32,15 +32,15 @@ The OBERLY is a battery-powered personal blender with portable design and intuit
 Performance: An Underperformer
 ------------------------------
 
-performance Scores: **0.0**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **0**/10
+*   Protein Shake (40%) - **0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **0**/10
+*   Frozen Fruit Smoothie (30%) - **0**/undefined
     
-*   Fibrous Greens (20%) - **0**/10
+*   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice (10%) - **0**/undefined
     
 
 In our months of testing, this blender has often underperformed relative to our prediction. It struggled a lot to deliver its promises on efficiency, but there wasn’t even a successful effort in the end. None of the testing results it brought to the table was smooth enough. Some of them even came out very chunky, such as the protein shakes. If you were fortunate enough to own a [decent personal blender](https://healthykitchen101.com/blenders/reviews/best/personal-blenders/), you may find the OBERLY less likely an alternative you want. Certainly, this blender is not like what is marketed on paper.
@@ -92,13 +92,13 @@ If you’re specifically looking for a blender that excels at crushing ice, we r
 Design: Lots of Shortcomings
 ----------------------------
 
-design Scores: **5.9**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.5**/10
+*   Build Quality (60%) - **6.5**/undefined
     
-*   Blades (20%) - **5.0**/10
+*   Blades (20%) - **5.0**/undefined
     
-*   Blending Cup (20%) - **5.0**/10
+*   Blending Cup (20%) - **5.0**/undefined
     
 
 Our Oberly didn’t score big on quality and design. It's difficult to find a more portable design than this blender’s, which provides extreme blending comfort and convenience. Without this great mobility, however, most shoppers may hardly give it a second glance since there is a lack of sturdiness and overall quality here.
@@ -235,13 +235,13 @@ The OBERLY blender sports a built-in 2000mAh rechargeable battery that demands a
 Usability
 ---------
 
-usability Scores: **4.9**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **3.0**/10
+*   Hands-Free Operation (60%) - **3.0**/undefined
     
-*   Assembly (20%) - **7.5**/10
+*   Assembly (20%) - **7.5**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 We like the straightforward approach of a control panel that consists of a single button, a light indicator, and a . That being said, it doesn’t make the blender more enjoyable to use or easy to maneuver. Due to the weak motor, our OBERLY cannot draw the ingredients toward its blade on its own. To produce a smooth blend, It requires lots of manual interference for shaking and food dislodging. Cleaning and assembling can be bothersome in some cases, too.
