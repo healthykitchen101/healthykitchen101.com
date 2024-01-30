@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.9**/10
+*   Performance (60%) - **7.9**/undefined
     
-*   Design (15%) - **7.9**/10
+*   Design (15%) - **7.9**/undefined
     
-*   Usability (25%) - **7.8**/10
+*   Usability (25%) - **7.8**/undefined
     
 
 A countertop ice maker with good production capacity and excellent ice quality.
@@ -32,11 +32,11 @@ AGLucky is a brand name of Ningbo Rowan Electric Appliance based in China. They 
 Performance
 -----------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **7.4**/10
+*   Ice Capacity (60%) - **7.4**/undefined
     
-*   Ice Quality (40%) - **8.6**/10
+*   Ice Quality (40%) - **8.6**/undefined
     
 
 Although not the absolute best machine for ice capacity, the AGLucky HZB-12/B ranked as a very good runner-up. On average, it produces around 11 oz (304 g) of quality ice per hour. It took a little longer than some other machines to stabilize but, once it got into its ‘ice making groove’, it consistently made quite chunky bullets of at least 6 grams each.
@@ -74,15 +74,15 @@ The AGLucky HZB-12/B has proved to be one of the best machines we’ve tested fo
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.2**/10
+*   Build Quality (45%) - **8.2**/undefined
     
-*   Panel Design (15%) - **9.0**/10
+*   Panel Design (15%) - **9.0**/undefined
     
-*   Lid Design (25%) - **7.1**/10
+*   Lid Design (25%) - **7.1**/undefined
     
-*   Ice Basket (15%) - **7.0**/10
+*   Ice Basket (15%) - **7.0**/undefined
     
 
 The AGLucky HZB-12/B does stand out a little from other typical ice makers. It has a raised roof and control panel and the view window is a little smaller compared to other machines. We found the build quality of the plastic exterior to be good enough, but prone to scratching. Overall, the design and quality is acceptably good especially considering its excellent performance.
@@ -193,13 +193,13 @@ The electric power cord of the AGLuck HZB-12/B is a standard 71 inches (1.8 m) a
 Usability
 ---------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.5**/10
+*   Ease of Use (60%) - **7.5**/undefined
     
-*   Noise (25%) - **8.1**/10
+*   Noise (25%) - **8.1**/undefined
     
-*   Cleaning (15%) - **8.5**/10
+*   Cleaning (15%) - **8.5**/undefined
     
 
 The AGLucky is a very practical machine. We liked the raised control panel design and the buttons have good traction. The view window is smaller than some similar machines, but you can easily see the ice inside.
