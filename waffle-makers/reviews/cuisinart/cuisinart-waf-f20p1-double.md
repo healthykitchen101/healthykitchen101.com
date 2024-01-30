@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.1**/undefined
     
-*   Design (20%) - **9.2**/10
+*   Design (20%) - **9.2**/undefined
     
-*   Ease of Use (30%) - **8.7**/10
+*   Ease of Use (30%) - **8.7**/undefined
     
 
 Considered a high-end waffle maker, the Cuisinart Double Waffle Maker (WAF-F20P1) has the look and cooking performance to suit its price. The waffles we cooked using the WAF-F20P1 during performance tests always came out beautifully and tasty.
@@ -39,11 +39,11 @@ We’ve tested the WAF-F20P1 in our lab to see how good it is compared to [waffl
 Performance: Not Restaurant-Grade … But Close
 ---------------------------------------------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.5**/10
+*   Self-Mixed Recipe (50%) - **6.5**/undefined
     
-*   Birch Benders Mix (50%) - **9.6**/10
+*   Birch Benders Mix (50%) - **9.6**/undefined
     
 
 This waffle maker gets a passing score. It wasn’t restaurant-quality by any means, and there were plenty of flaws in terms of coloration and texture. Nonetheless, the WAF-F20P1 still produced a decent waffle in our self-mixed recipe test.
@@ -141,13 +141,13 @@ Although, as previously mentioned, the texture is too moist, it didn’t affect 
 Design
 ------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Waffle Plates (30%) - **9.5**/10
+*   Waffle Plates (30%) - **9.5**/undefined
     
-*   Control Panel (10%) - **9.5**/10
+*   Control Panel (10%) - **9.5**/undefined
     
 
 Thanks to its mostly-metal construction, the design of this waffle maker is undeniably solid and aesthetically pleasing. However, certain parts have been crafted from silver-painted plastic rather than actual metal.
@@ -259,15 +259,15 @@ The Cuisinart WAF-F20P1 comes with a dishwasher-safe measuring cup.
 Ease of Use
 -----------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.0**/10
+*   Handling (25%) - **9.0**/undefined
     
-*   Safety (40%) - **9.5**/10
+*   Safety (40%) - **9.5**/undefined
     
-*   Cleanability (25%) - **6.5**/10
+*   Cleanability (25%) - **6.5**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 Handling the Cuisinart WAF-F20P1 is a breeze with its easy-to-use locking system and smooth rotating mechanism. The handy indicator lights are bright enough to help you monitor the cooking process, even under harsh lighting or far away.
