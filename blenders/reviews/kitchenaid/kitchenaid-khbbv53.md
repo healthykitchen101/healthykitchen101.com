@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.9**/10
+*   Performance (50%) - **7.9**/undefined
     
-*   Design (20%) - **8.4**/10
+*   Design (20%) - **8.4**/undefined
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.8**/undefined
     
 
 As a battery-powered device, the KitchenAid KHBBV53 Cordless hand blender is more mobile than most. It expands your culinary space and maximizes the convenience of hand blending. However, in terms of capability, this is just an average hand blender with very little that makes it stand out from the crowd. And realistically, battery power translates to limited power, you should be ready to improvise if its battery runs dry while the blending is still in progress.
@@ -30,17 +30,17 @@ KitchenAid is one of the best-known brands in the world of cooking tools. Founde
 Performance: Top of the Segment
 -------------------------------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.5**/10
+*   Hot Soup Purée (35%) - **8.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **9.0**/10
+*   Frozen Fruit Smoothie (30%) - **9.0**/undefined
     
-*   Mayonnaise (15%) - **6.5**/10
+*   Mayonnaise (15%) - **6.5**/undefined
     
-*   Almond Milk (15%) - **8.3**/10
+*   Almond Milk (15%) - **8.3**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 KitchenAid’s manufacturers advertise that their [cordless stick blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) can do just about anything, but our hands-on testing suggests otherwise. Although our KitchenAid KHBBV53 could easily power through frozen fruits to create an icy smoothie, it failed to properly whisk egg whites. On the upside, it is simple to use and is powerful enough for light-duty tasks like making hot soup, emulsifying sauce, and grinding soaked nuts.
@@ -101,7 +101,7 @@ Moreover, this blender didn’t blend as evenly or as consistently as its mid-ra
 
 ### Whipped Egg-Whites
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl15snv3z0009gh884f4fbyfn.jpg" alt="The blending wand of the KitchenAid KHBBV53 is immersed in a plastic beaker on a white table containing its failed beaten egg-white." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clpj8vh0r0025mm887e6jdxps.jpg" alt="Putting the 24-oz plastic beaker containing testing beaten egg-white upside down on the table." width="300px" height="200px">
 
 Beating Time: N/A
 
@@ -114,15 +114,15 @@ The KitchenAid KHBBV53 was doomed to failure in this test since there was no way
 Design: The Way a Mind-Range Product Should
 -------------------------------------------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.5**/10
+*   Build Quality (60%) - **8.5**/undefined
     
-*   Blending Shaft (30%) - **7.8**/10
+*   Blending Shaft (30%) - **7.8**/undefined
     
-*   Battery (5%) - **10**/10
+*   Battery (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 Although the KitchenAid KHBBV53 isn’t as efficient as most corded blenders, it carves out a distinct identity in terms of overall construction. It looks trendy, appeals to us aesthetically, and feels very solid. And its straightforward design impressed us in ways none of the others did.
@@ -259,15 +259,15 @@ This blender set doesn’t come with any extra blending attachment.
 Usability: Issues with Head-Suction
 -----------------------------------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.9**/10
+*   Ease of Use (60%) - **7.9**/undefined
     
-*   Blade Assembly (10%) - **7.5**/10
+*   Blade Assembly (10%) - **7.5**/undefined
     
-*   Handling (20%) - **7.5**/10
+*   Handling (20%) - **7.5**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 Out of all the blenders we tested, this one’s simplicity makes it the easiest to use. However, it challenged our hand movements throughout the operations due to its bad suction control. It also has some significant drawbacks that caused most of our professional cooks to reject buying.
