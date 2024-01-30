@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.9**
+Overall Score: **NaN**
 
-*   Performance (60%) - **1.4**/10
+*   Performance (60%) - **1.4**/undefined
     
-*   Design (25%) - **5.0**/10
+*   Design (25%) - **5.0**/undefined
     
-*   Usability (15%) - **5.7**/10
+*   Usability (15%) - **5.7**/undefined
     
 
 The Hamilton Beach impressed us with its simplicity, budget-friendly price, and space-saving slender figure. That being said, none of these features really matter when its blending efficiency leaves much to be desired. After a course of testing, we found the low-powered motor (175 watts) to be insufficient to entirely break down solid ingredients like grains, frozen foods, raw nuts, and dried fruits. If you just want a tool for simple combinations of soft ingredients, this blender is fine for the price. Just be aware that its overall build quality comes substandard in exchange for its low cost.
@@ -31,15 +31,15 @@ The Hamilton Beach is a [low-range personal blender](https://healthykitchen101.c
 Performance: Very Lackluster
 ----------------------------
 
-performance Scores: **1.4**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **3.4**/10
+*   Protein Shake (40%) - **3.4**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **0**/10
+*   Frozen Fruit Smoothie (30%) - **0**/undefined
     
-*   Fibrous Greens (20%) - **0**/10
+*   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 We tested the Hamilton Beach against a range of [culinary blenders](https://healthykitchen101.com/blenders/reviews/best/), but this machine was surprisingly the only one that didn’t pass even a single test. With its weak motor and small blending blade, it failed to blend the foods completely, resulting in grainy, rough mixtures.
@@ -103,13 +103,13 @@ The Hamilton Beach wasn’t able to power through ice cubes, causing the final o
 Design: Just Average
 --------------------
 
-design Scores: **5.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.0**/10
+*   Build Quality (60%) - **5.0**/undefined
     
-*   Blades (20%) - **5.0**/10
+*   Blades (20%) - **5.0**/undefined
     
-*   Blending Cup (20%) - **5.0**/10
+*   Blending Cup (20%) - **5.0**/undefined
     
 
 The overall design of the Hamilton Beach is simple, but the blending cup with a fixed blade assembly inside seems to be impractical if used as a to-go cup. The materials are only average, making the blender itself look fairly jerkwater and not catchy. This, however, is expected for the price.
@@ -226,13 +226,13 @@ The Hamilton Beach allows you to get its single-speed through a simple button, w
 Usability: Too Much Problems
 ----------------------------
 
-usability Scores: **5.7**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **4.6**/10
+*   Hands-Free Operation (60%) - **4.6**/undefined
     
-*   Assembly (20%) - **6.0**/10
+*   Assembly (20%) - **6.0**/undefined
     
-*   Cleanability (20%) - **8.5**/10
+*   Cleanability (20%) - **8.5**/undefined
     
 
 Despite its intuitive design, the Hamilton Beach is somewhat uncomfortable to use. The blending jar attaches securely to the main body, but the assembly process is a bit of a hassle. Not only that, but it’s also more of a pain to clean than other blenders since the blade assembly isn’t removable.
