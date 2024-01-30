@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.6**/10
+*   Performance (50%) - **6.7**/undefined
     
-*   Design (25%) - **5.2**/10
+*   Design (25%) - **5.2**/undefined
     
-*   Usability (25%) - **6.4**/10
+*   Usability (25%) - **6.4**/undefined
     
 
 The brushed stainless steel Hamilton Beach 31127D Countertop Toaster Oven is suitable for anyone looking for a sturdy, inexpensive, medium-sized unit made of durable material. The oven has a simple control panel and no convection system.
@@ -36,15 +36,15 @@ The brushed stainless steel Hamilton Beach 31127D Countertop Toaster Oven is an 
 Performance: Needs More Power
 -----------------------------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.3**/10
+*   Toast (40%) - **7.3**/undefined
     
-*   Pizza (25%) - **6.6**/10
+*   Pizza (25%) - **6.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **6.3**/10
+*   Whole Roasted Chicken (25%) - **6.3**/undefined
     
-*   Baked French Fries (10%) - **5.1**/10
+*   Baked French Fries (10%) - **5.1**/undefined
     
 
 The Hamilton Beach 31127D did a good job at making toast but struggled with french fries. We suspect its 1400 W power draw isn’t sufficient for its capacity, so it couldn’t quite maintain high temperatures. Of course, the lack of a convection system didn’t help either. A more preferable but still affordable choice could be the [Toshiba AC25CEW-BS](https://healthykitchen101.com/toaster-ovens/reviews/toshiba/toshiba-ac25cew/).
@@ -198,13 +198,13 @@ Despite being spread out on the baking pan, the fries didn’t crisp up, so they
 Design: No Lighting or Convection
 ---------------------------------
 
-design Scores: **5.2**
+design Scores: **NaN**
 
-*   Exterior (20%) - **7.0**/10
+*   Exterior (20%) - **7.0**/undefined
     
-*   Interior (30%) - **1.0**/10
+*   Interior (30%) - **1.0**/undefined
     
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
 
 The design of the Hamilton Beach 31127D is basic with a simple stainless steel exterior. The oven has a similar capacity as other medium-sized toaster ovens, with greater length and width but less height. Its roll-top door is a unique feature that we found useful.
@@ -389,13 +389,13 @@ The Hamilton Beach is well-constructed out of durable stainless steel. Its conto
 Usability: No Noticable Problems
 --------------------------------
 
-usability Scores: **6.4**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **6.0**/10
+*   Ease of Use (50%) - **6.0**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 Although the Hamilton Beach 31127D doesn’t invest much in convenience, it also doesn't pose any problems. You may not be able to select an exact time and temperature with the analog control knobs, but realistically, you don’t lose much precision.
