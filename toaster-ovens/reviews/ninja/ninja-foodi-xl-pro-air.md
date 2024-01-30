@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.0**/undefined
     
-*   Design (25%) - **8.8**/10
+*   Design (25%) - **8.8**/undefined
     
-*   Usability (25%) - **9.5**/10
+*   Usability (25%) - **9.5**/undefined
     
 
 The stainless steel Ninja DT201 Foodi XL Pro Air Convection Air Fryer Toaster Oven is an [excellent family-sized choice](https://healthykitchen101.com/toaster-ovens/reviews/best/). Its 2-level even cooking feature makes it remarkably capable even during special occasions when you have a lot of dishes to prepare.
@@ -41,15 +41,15 @@ Introduced in 2020, the Ninja DT201 Foodi XL Pro Air Oven is currently the #5 be
 Performance: Outstanding for Large Servings
 -------------------------------------------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Toast (40%) - **8.3**/10
+*   Toast (40%) - **8.3**/undefined
     
-*   Pizza (25%) - **6.5**/10
+*   Pizza (25%) - **6.5**/undefined
     
-*   Whole Roasted Chicken (25%) - **9.0**/10
+*   Whole Roasted Chicken (25%) - **9.0**/undefined
     
-*   Baked French Fries (10%) - **7.8**/10
+*   Baked French Fries (10%) - **7.8**/undefined
     
 
 The Ninja DT201 performed differently on each of our tests but even at its worst, it still gave good results. We were most impressed with the oven’s ability to quickly reach and maintain its temperature despite the [large cooking chamber](https://healthykitchen101.com/toaster-ovens/reviews/best/large-toaster-ovens/). This could be attributed to the oven’s high power output, powerful convection system, and a total of 5 heating elements.
@@ -221,13 +221,13 @@ Considering the varied colors and textures of the fries, our chef awarded them a
 Design: Not As Flashy as It Looks
 ---------------------------------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Exterior (20%) - **7.0**/10
+*   Exterior (20%) - **7.0**/undefined
     
-*   Interior (30%) - **9.5**/10
+*   Interior (30%) - **9.5**/undefined
     
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
 
 The Ninja DT201 shows a high build quality in all of its design features from the exterior and interior to the included accessories. What stood out to us the most was the powerful convection system and the number of heating elements. We couldn’t confirm the accuracy of the Ninja’s claim that it had ‘up to ten times the convection power’ of a traditional full-size convection oven, though.
@@ -487,13 +487,13 @@ Moreover, the light button seemed to be broken when we received the oven. We cou
 Usability: Excellently Convenient
 ---------------------------------
 
-usability Scores: **9.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.9**/10
+*   User Control (30%) - **9.9**/undefined
     
-*   Ease of Use (50%) - **9.9**/10
+*   Ease of Use (50%) - **9.9**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 The straightforward control panel on the Ninja DT201 allowed for easy adjusting and readjusting of the cooking settings. Moreover, the informative display combined with distinguished buttons removed all of the guesswork when it came to operating the oven.
