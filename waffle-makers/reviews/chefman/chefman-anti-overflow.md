@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.6**/10
+*   Performance (50%) - **6.6**/undefined
     
-*   Design (20%) - **8.8**/10
+*   Design (20%) - **8.8**/undefined
     
-*   Ease of Use (30%) - **5.6**/10
+*   Ease of Use (30%) - **5.6**/undefined
     
 
 Our final verdict after intensively testing the Chefman anti-overflow waffle maker is that it is well worth the asked price. Performance, while not perfect, is consistently above average. We never had to deal with a terrible or unpalatable waffle. The waffles made by the Chefman have good and even coloring, the texture is soft and fluffy (though they tend to be slightly mushy), and flavors are almost always well-developed.
@@ -35,11 +35,11 @@ It's a big claim; testing it and comparing it with [other top-performing waffle 
 Performance: Great for the Price
 --------------------------------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.3**/10
+*   Self-Mixed Recipe (50%) - **6.3**/undefined
     
-*   Birch Benders Mix (50%) - **6.9**/10
+*   Birch Benders Mix (50%) - **6.9**/undefined
     
 
 The Chefman offers value well beyond its cost. All of the waffles it baked were good-looking and tasty during our performance tests. Even though the waffles may not be restaurant-grade, they could still serve up a wholesome breakfast for the family.
@@ -135,13 +135,13 @@ Despite the texture being less-than-ideal, the Chefman did its job. The machine 
 Design
 ------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.0**/10
+*   Build Quality (60%) - **8.0**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **9.5**/10
+*   Control Panel (10%) - **9.5**/undefined
     
 
 Given the Chefman’s relatively budget-friendly tag, the quality of its design is very markable. The housing is made from sturdy plastic with a nifty rubber coating at the top of the lid.
@@ -259,15 +259,15 @@ On the handle is a notch that can be used to hang the cup to the side of the bat
 Ease of Use
 -----------
 
-usability Scores: **5.6**
+usability Scores: **NaN**
 
-*   Handling (25%) - **7.5**/10
+*   Handling (25%) - **7.5**/undefined
     
-*   Safety (40%) - **2.5**/10
+*   Safety (40%) - **2.5**/undefined
     
-*   Cleanability (25%) - **7.0**/10
+*   Cleanability (25%) - **7.0**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 Unfortunately, the Chefman lost the momentum it had built in the previous tests in this section. During our safety tests, we found numerous issues. The lid-lock, while well-built and engineered, is difficult to use and potentially dangerous. The waffle maker's surfaces also heat up to dangerous temperatures after a few cooking sessions, which we consider another hazard.
