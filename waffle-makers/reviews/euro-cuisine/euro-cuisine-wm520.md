@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (20%) - **9.3**/10
+*   Design (20%) - **9.3**/undefined
     
-*   Ease of Use (30%) - **6.6**/10
+*   Ease of Use (30%) - **6.6**/undefined
     
 
 The Euro Cuisine WM520 is a good choice if you’re looking for a heart-shaped (Norwegian-style) waffle maker.
@@ -37,11 +37,11 @@ Here is how this model fares in our hands-on test.
 Performance: Consistent Throughout
 ----------------------------------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.3**/10
+*   Self-Mixed Recipe (50%) - **6.3**/undefined
     
-*   Birch Benders Mix (50%) - **6.4**/10
+*   Birch Benders Mix (50%) - **6.4**/undefined
     
 
 Using the Euro Cuisine WM520, we were pleased with its consistent performance throughout our tests. Although not of five-star quality, the fluffy waffles would still be an ideal accompaniment to any breakfast table.
@@ -141,13 +141,13 @@ Though the waffle was still considered mushy, our chef welcomed the soft texture
 Design: Luxurious & Intuitive
 -----------------------------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **9.5**/10
+*   Control Panel (10%) - **9.5**/undefined
     
 
 The Euro Cuisine WM520 has a luxe, chrome-plated housing. It gives the waffle maker a very luxurious appearance.
@@ -268,15 +268,15 @@ The Euro Cuisine WM520 doesn’t come with any accessories.
 Ease of Use
 -----------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   Handling (25%) - **8.5**/10
+*   Handling (25%) - **8.5**/undefined
     
-*   Safety (40%) - **2.5**/10
+*   Safety (40%) - **2.5**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The Euro Cuisine WM520's sole control input is the browning control dial, which lets you set the desired browning level by tuning it. Two indicator lights at the top inform you how far along your food is in cooking. Once you're finished cooking, the non-stick coating on the plates helps simplify cleaning.
