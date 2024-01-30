@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.7**/10
+*   Performance (50%) - **7.7**/undefined
     
-*   Design (25%) - **7.5**/10
+*   Design (25%) - **7.5**/undefined
     
-*   Usability (25%) - **6.8**/10
+*   Usability (25%) - **6.8**/undefined
     
 
 The Toshiba Toaster Oven AC25CEW is a product that offers the most value for its price among our [best toaster ovens](https://healthykitchen101.com/toaster-ovens/reviews/best/). With its convection system, it was able to perform well in all of our cooking tests. Its various functions and accessories are helpful for both newcomers in the kitchen and experienced cooks.
@@ -37,15 +37,15 @@ The black stainless steel Toshiba AC25CEW-BS Toaster Oven gives you more bang fo
 Performance
 -----------
 
-performance Scores: **7.7**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.2**/10
+*   Toast (40%) - **7.2**/undefined
     
-*   Pizza (25%) - **9.1**/10
+*   Pizza (25%) - **9.1**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.8**/10
+*   Whole Roasted Chicken (25%) - **7.8**/undefined
     
-*   Baked French Fries (10%) - **6.1**/10
+*   Baked French Fries (10%) - **6.1**/undefined
     
 
 The Toshiba Toaster Oven AC25CEW did well in all of our performance tests, mainly thanks to its convection system. It also got plus points for the convenient accessories, putting it above many of the same-sized units, e.g., the [Hamilton Beach 31127D](https://healthykitchen101.com/toaster-ovens/reviews/hamilton-beach/hamilton-beach-31127d/).
@@ -199,13 +199,13 @@ The fries only crisped up a little on the outside and were considerably moist in
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Exterior (20%) - **8.0**/10
+*   Exterior (20%) - **8.0**/undefined
     
-*   Interior (30%) - **6.5**/10
+*   Interior (30%) - **6.5**/undefined
     
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
 
 The Toshiba Toaster Oven AC25CEW is light, sturdy, and boasts a good design that encompasses its accessories. Features that stand out for us are its many ventilation holes, sturdy stands, and lightweight structure.
@@ -427,13 +427,13 @@ The Toshiba AC25CEW-BS is quite robust while still relatively light and small. I
 Usability
 ---------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.0**/10
+*   User Control (30%) - **9.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 The Toshiba AC25CEW Toaster Oven isn’t difficult to use but it’s not particularly convenient either. The accessories show signs of attention to detail but not so much the user interaction.
