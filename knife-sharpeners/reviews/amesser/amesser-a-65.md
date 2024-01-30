@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (15%) - **9.3**/10
+*   Design (15%) - **9.3**/undefined
     
-*   Ease of Use (35%) - **9.1**/10
+*   Ease of Use (35%) - **9.1**/undefined
     
 
 The Amesser A-65 did a decent enough job of sharpening a blunt knife's edge, though not without shaving a noticeable amount of material. It’s well built and comfortable to work with.
@@ -34,15 +34,15 @@ As a quick summary: This handheld sharpener took a bit longer than average to pr
 Performance
 -----------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **5.2**/10
+*   Sharpening Time to Cut a Lemon (35%) - **5.2**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **7.0**/10
+*   Maximum Sharpness Achieved (20%) - **7.0**/undefined
     
-*   Edge Smoothness (20%) - **7.7**/10
+*   Edge Smoothness (20%) - **7.7**/undefined
     
-*   Material Retention (25%) - **6.0**/10
+*   Material Retention (25%) - **6.0**/undefined
     
 
 The Amesser A-65 will certainly make a dull edge keener, though admittedly not to a remarkable level, and leave a nice, smooth edge. On the other hand, it does shear off more metal from the blade than you would expect given the achieved sharpness.
@@ -90,11 +90,11 @@ So, if you do purchase the Amesser A-65, it’d be a good idea to use the second
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **9.2**/10
+*   Build Quality (75%) - **9.2**/undefined
     
-*   Grip (25%) - **9.5**/10
+*   Grip (25%) - **9.5**/undefined
     
 
 While the Amesser A-65 isn’t among our [best performing sharpeners](https://healthykitchen101.com/knife-sharpeners/reviews/best/), it’s certainly one of the best built. The unit feels solid and sturdy from start to finish. The parts fit well together and the grip is only half a point shy of the perfect mark.
@@ -171,17 +171,17 @@ The Amesser’s base is a checker-patterned pad that gradually tapers toward the
 Ease of Use
 -----------
 
-usability Scores: **9.1**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **9.5**/10
+*   Pulling Through (10%) - **9.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **9.0**/10
+*   Stability on a Clean Surface (40%) - **9.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.5**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.5**/undefined
     
 
 The Amesser A-65 is straightforward to use since it doesn’t have any quirky features to be wary of. With the sharpening order progressing in a natural flow, you should have no trouble following the steps. And while the result didn’t turn out particularly well for the slippery countertop test, it represented more of a slight drawback that many people could see coming rather than a serious dealbreaker.
