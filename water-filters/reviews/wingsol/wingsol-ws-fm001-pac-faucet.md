@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.2**/10
+*   Performance (50%) - **9.2**/undefined
     
-*   Design (20%) - **7.9**/10
+*   Design (20%) - **7.9**/undefined
     
-*   Usability (30%) - **9.7**/10
+*   Usability (30%) - **9.7**/undefined
     
 
 The Wingsol WS-FM001 [faucet filter](https://healthykitchen101.com/water-filters/reviews/best/faucet-water-filters/) is a decent filter with its fair share of pros and cons. Though we’re fairly satisfied with its general performance, the WS-FM001 definitely didn’t perform as well as other models we have tested on the market.
@@ -39,11 +39,11 @@ After testing it in the lab and using it in our kitchen for a week, here's our f
 Performance
 -----------
 
-performance Scores: **9.2**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **9.5**/10
+*   Chlorine Test (40%) - **9.5**/undefined
     
-*   Flow Rate Test (60%) - **9.0**/10
+*   Flow Rate Test (60%) - **9.0**/undefined
     
 
 Performance-wise, the filter’s performance isn’t as good as most other filters we’ve tested. In the chlorine test, while it could filter out most of the free chlorine in the water, the test strip we used still showed a trace amount in the water. Fortunately, the amount is small enough that it won’t negatively affect the taste and smell of the water.
@@ -79,13 +79,13 @@ While the flow reduction is significant, it will still be usable for most people
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **7.2**/10
+*   Build Quality (40%) - **7.2**/undefined
     
-*   Filter Piece (50%) - **8.0**/10
+*   Filter Piece (50%) - **8.0**/undefined
     
-*   Routing Valve (10%) - **10**/10
+*   Routing Valve (10%) - **10**/undefined
     
 
 The Wingsol WS-FM001 is made almost entirely from stainless steel. The metallic exterior has a brushed texture, making it a great fit if you have a kitchen design that’s oriented toward being understated and simple. The filter is heavy in the hand due to its metal construction. However, despite being made from durable materials, the filter doesn’t feel quite as polished as other models we’ve tested.
@@ -167,15 +167,15 @@ As the handle turns, it operates a special ball joint inside the filter. The joi
 Usability
 ---------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **9.0**/10
+*   Ease of Use (30%) - **9.0**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **10**/10
+*   Maintenance (10%) - **10**/undefined
     
 
 Using the Wingsol WS-FM001 is as simple as installing it, then flipping the routing valve’s handle back and forth to either get plain or clean water through either nozzle of the filter.
