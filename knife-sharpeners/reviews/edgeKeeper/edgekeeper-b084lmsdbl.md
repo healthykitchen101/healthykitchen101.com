@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.1**
+Overall Score: **NaN**
 
-*   Performance (40%) - **5.0**/10
+*   Performance (40%) - **5.0**/undefined
     
-*   Design (30%) - **4.2**/10
+*   Design (30%) - **4.2**/undefined
     
-*   Ease of Use (30%) - **6.2**/10
+*   Ease of Use (30%) - **6.2**/undefined
     
 
 The EdgeKeeper electric sharpener gave a mediocre performance while it lasted, which was only a few days for us. The sharpener created a good enough edge with decent height and sharpness, but it took its time and ate away a lot of steel from the knife. While the overall design looks simple, it wasn’t the easiest to work with due to subpar abrasive construction and the lack of heat control.
@@ -34,15 +34,15 @@ Spoiler alert: We got less than what we paid for with this electric sharpener. F
 Performance
 -----------
 
-performance Scores: **5.0**
+performance Scores: **NaN**
 
-*   Speed (30%) - **5.5**/10
+*   Speed (30%) - **5.5**/undefined
     
-*   Edge Quality (40%) - **6.9**/10
+*   Edge Quality (40%) - **6.9**/undefined
     
-*   Material Retention (10%) - **6.0**/10
+*   Material Retention (10%) - **6.0**/undefined
     
-*   Continuous Operation Time (20%) - **0**/10
+*   Continuous Operation Time (20%) - **0**/undefined
     
 
 The EdgeKeeper isn’t as effective as it is pretty. It takes more time and material from the knife than many before bestowing an edge on it. The consolation is that the knife edge, though not exceptionally sharp or smooth, has a decent height and even bevels. Unfortunately, this electric sharpener didn’t stand our Continuous Operation Time (COT) test and pegged out before we could repeat the tests or carry out further experiments with it.
@@ -54,6 +54,8 @@ Target Sharpness: level 9 (Beef tendon)
 Sharpening Time: 6 minutes 05 seconds
 
 Number Of Strokes: 38
+
+Numberof Strokes:
 
 Cutting Feel: heavy
 
@@ -77,22 +79,22 @@ The EdgeKeeper removed a considerable amount of material from the knife, though 
 
 ### Continuous Operation Time
 
-COT As Tested: 23 minutes 50 seconds
+CO Tas Tested:
 
 The EdgeKeeper died without warning around the last minute of our test time, hence getting zero points for this test. We’d only had this unit for a month or two, and barely used it for testing when this happened. A quick look at the reviews on Amazon revealed that we’re not the only ones the machine has expired on. In our case it could have been overheating, but some others reported that it simply wouldn’t turn on after a few times of use.
 
 Design
 ------
 
-design Scores: **4.2**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **5.5**/10
+*   Build Quality (55%) - **5.5**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **5.5**/10
+*   Knife Size (15%) - **5.5**/undefined
     
-*   Edge Type (10%) - **1.0**/10
+*   Edge Type (10%) - **1.0**/undefined
     
 
 We really liked the neat, sleek, and pretty design of the EdgeKeeper. However, there was really less to it than meets the eye. The sharpener lacks quality in both material and craftsmanship. The design of the abrasives creates a lot of limits on the sizes of knives it can sharpen. The unit also offers no control in terms of grind angle and edge type.
@@ -153,17 +155,17 @@ The diamond-dust-coated discs on this sharpener can be a little too aggressive f
 Ease of Use
 -----------
 
-usability Scores: **6.2**
+usability Scores: **NaN**
 
-*   Setup (20%) - **9.0**/10
+*   Setup (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **7.0**/10
+*   Insertion (20%) - **7.0**/undefined
     
-*   Stability (20%) - **6.0**/10
+*   Stability (20%) - **6.0**/undefined
     
-*   Safety (30%) - **4.3**/10
+*   Safety (30%) - **4.3**/undefined
     
-*   Maintenance (10%) - **5.0**/10
+*   Maintenance (10%) - **5.0**/undefined
     
 
 The EdgeKeeper is very easy to set up, but its jolting abrasive discs can be tricky to work with. You’ll need to wear protective masks and glasses while sharpening to avoid health problems from the fine metal dust. The lack of heat-control features means you’ll have to guess when to stop using it or the motor will die on you; because if and when it does, it can be a hassle to claim the warranty.
