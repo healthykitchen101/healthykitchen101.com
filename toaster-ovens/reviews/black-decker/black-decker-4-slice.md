@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.1**/10
+*   Performance (50%) - **6.1**/undefined
     
-*   Design (25%) - **4.6**/10
+*   Design (25%) - **4.6**/undefined
     
-*   Usability (25%) - **5.5**/10
+*   Usability (25%) - **5.5**/undefined
     
 
 The Black+Decker TO1760SS is a simple, small countertop toaster oven. Despite being inexpensive, it has a sturdy build, and is made from stainless steel. It’s suitable for consumers looking for a unit to save space on the kitchen counter, serve its function, and consume less energy.
@@ -35,15 +35,15 @@ The polished stainless steel Black+Decker TO1760SS 4-Slice Natural Convection Co
 Performance: Varied Results
 ---------------------------
 
-performance Scores: **6.1**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.1**/10
+*   Toast (40%) - **7.1**/undefined
     
-*   Pizza (25%) - **5.6**/10
+*   Pizza (25%) - **5.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **6.1**/10
+*   Whole Roasted Chicken (25%) - **6.1**/undefined
     
-*   Baked French Fries (10%) - **3.2**/10
+*   Baked French Fries (10%) - **3.2**/undefined
     
 
 The Black+Decker TO1760SS performed to various degrees throughout our four tests. It was at its best toasting bread despite a minor inconvenience from the timer. With baking pizza, french fries, and roasting a whole chicken, however, the oven’s low power output affected the results by quite a lot.
@@ -195,13 +195,13 @@ The same can be said for the texture of the fries which was not crispy, earning 
 Design: Standard
 ----------------
 
-design Scores: **4.6**
+design Scores: **NaN**
 
-*   Exterior (20%) - **4.0**/10
+*   Exterior (20%) - **4.0**/undefined
     
-*   Interior (30%) - **1.0**/10
+*   Interior (30%) - **1.0**/undefined
     
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
 
 Featuring a standard design of a small toaster oven, the Black+Decker TO1760SS has all the basic features, with no noticeable strengths and weaknesses. The quartz heating elements may appeal to you if you want to opt for energy-saving devices.
@@ -391,13 +391,13 @@ The oven, equipped with a tamper-resistant screw to prevent removal of the outer
 Usability: Limited Features
 ---------------------------
 
-usability Scores: **5.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **6.0**/10
+*   Cleanability (20%) - **6.0**/undefined
     
 
 Due to its small size, the Black+Decker has some obvious limitations when it comes to features of usability, especially compared to our top choices. For example, it has no non-stick coating to help with cleaning, and the control panel has a lot of room for errors. Moreover, its advertised advanced technologies are more misses than hits.
