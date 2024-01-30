@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (25%) - **5.3**/10
+*   Design (25%) - **5.3**/undefined
     
-*   Usability (25%) - **5.2**/10
+*   Usability (25%) - **5.2**/undefined
     
 
 The Mueller MT-175 is suitable for one-person or two-people servings and saving space on your kitchen counter. For a small toaster oven, it cooked the foods for our performance tests very well, especially our Toast, Pizza, and Whole Chicken tests.
@@ -37,15 +37,15 @@ The grey stainless steel Mueller MT-175 Small Countertop Toaster Oven is a high-
 Performance: Good Heat Distribution
 -----------------------------------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.5**/10
+*   Toast (40%) - **7.5**/undefined
     
-*   Pizza (25%) - **7.6**/10
+*   Pizza (25%) - **7.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.0**/10
+*   Whole Roasted Chicken (25%) - **7.0**/undefined
     
-*   Baked French Fries (10%) - **3.6**/10
+*   Baked French Fries (10%) - **3.6**/undefined
     
 
 The Mueller showed its strength in heat distribution with its score in toasting bread, baking pizza, and roasting a whole chicken. However, baking french fries showed its weakness of low power draw which is common in small toaster ovens.
@@ -207,13 +207,13 @@ Fortunately, the fries were cooked through and not soggy, so our chef could give
 Design: Standard
 ----------------
 
-design Scores: **5.3**
+design Scores: **NaN**
 
-*   Exterior (20%) - **5.0**/10
+*   Exterior (20%) - **5.0**/undefined
     
-*   Interior (30%) - **1.0**/10
+*   Interior (30%) - **1.0**/undefined
     
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
 
 The Mueller has a standard design for a small oven which further highlights its detachable crumb tray. Its quartz heating elements can be another factor worth considering if you’re into energy efficiency.
@@ -388,13 +388,13 @@ For a simple small toaster oven, build quality is all about how durable it is an
 Usability: Easy but Not Convenient to Use
 -----------------------------------------
 
-usability Scores: **5.2**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **4.0**/10
+*   Ease of Use (50%) - **4.0**/undefined
     
-*   Cleanability (20%) - **7.0**/10
+*   Cleanability (20%) - **7.0**/undefined
     
 
 Similar to most small toaster ovens, the Mueller is easy to operate but not the most convenient to use. For instance, the control panel has a lot of room for errors and the oven’s interior doesn’t have a non-stick coating for easy cleaning.
