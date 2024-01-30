@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.0**/10
+*   Performance (50%) - **6.0**/undefined
     
-*   Design (20%) - **6.2**/10
+*   Design (20%) - **6.2**/undefined
     
-*   Ease of Use (30%) - **5.0**/10
+*   Ease of Use (30%) - **5.0**/undefined
     
 
 The Oster Belgian waffle maker is unimpressive even after we have given it many leeways for its entry-level price. Performance is mediocre, even approaching unacceptable at times. We've never once managed to make a waffle with bright, even coloration with the Oster. The same goes for texture and taste, which almost always turn out to be mushy and bland.
@@ -37,11 +37,11 @@ Is that claim legitimate? We’re not convinced. After testing the Oster waffle 
 Performance: Often Disappoint More than It Please
 -------------------------------------------------
 
-performance Scores: **6.0**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **5.2**/10
+*   Self-Mixed Recipe (50%) - **5.2**/undefined
     
-*   Birch Benders Mix (50%) - **6.8**/10
+*   Birch Benders Mix (50%) - **6.8**/undefined
     
 
 The Oster waffle maker failed to impress in both waffle test recipes. All the waffles we baked with it were undercooked or burnt. Even after a dozen different test sessions, we still haven’t seen a waffle that’s right between these extremes baked by the Oster.
@@ -147,13 +147,13 @@ Taste is the best part of this test. Compared to the earlier test done with self
 Design
 ------
 
-design Scores: **6.2**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **4.5**/10
+*   Build Quality (60%) - **4.5**/undefined
     
-*   Waffle Plates (30%) - **8.5**/10
+*   Waffle Plates (30%) - **8.5**/undefined
     
-*   Control Panel (10%) - **9.0**/10
+*   Control Panel (10%) - **9.0**/undefined
     
 
 The flimsy craftsmanship of the waffle maker became immediately evident, with exposed electrical wires and poorly put-together details.
@@ -270,15 +270,15 @@ The Oster waffle maker doesn’t come with any extra accessories. Once again, at
 Ease of Use
 -----------
 
-usability Scores: **5.0**
+usability Scores: **NaN**
 
-*   Handling (25%) - **6.5**/10
+*   Handling (25%) - **6.5**/undefined
     
-*   Safety (40%) - **1.7**/10
+*   Safety (40%) - **1.7**/undefined
     
-*   Cleanability (25%) - **9.0**/10
+*   Cleanability (25%) - **9.0**/undefined
     
-*   Indicator Light Visibility (10%) - **4.5**/10
+*   Indicator Light Visibility (10%) - **4.5**/undefined
     
 
 The Oster waffle maker struggled greatly during our safety tests. After a couple of cooking sessions, we noticed that every surface of the machine became dangerously hot. This, combined with its mediocre build quality and many build quality issues like exposed wiring in the back, pushed us to give it a failing grade.
