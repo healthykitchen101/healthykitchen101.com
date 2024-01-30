@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.6**/10
+*   Performance (50%) - **7.6**/undefined
     
-*   Design (20%) - **6.7**/10
+*   Design (20%) - **6.7**/undefined
     
-*   Usability (30%) - **8.9**/10
+*   Usability (30%) - **8.9**/undefined
     
 
 The Brita Basic will be a decent [faucet filter](https://healthykitchen101.com/water-filters/reviews/best/faucet-water-filters/) for most people. It’s affordable and capable of filtering out most of the problematic chemicals in tap water, such as chlorine. And while its flow rate could be better, it’s understandable for the price.
@@ -36,11 +36,11 @@ Our review team has tested the Brita Basic faucet-mount water filter in our lab 
 Performance
 -----------
 
-performance Scores: **7.6**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **6.0**/10
+*   Flow Rate Test (60%) - **6.0**/undefined
     
 
 Brita didn’t let us down with the Brita Basic filter. In our chlorine filtration test, the filter performed excellently and removed nearly all traces of free chlorine in the water.
@@ -80,13 +80,13 @@ As such, using the Brita Basic can be a bit annoying if you have a high-pressure
 Design
 ------
 
-design Scores: **6.7**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **6.2**/10
+*   Build Quality (40%) - **6.2**/undefined
     
-*   Filter Piece (50%) - **7.0**/10
+*   Filter Piece (50%) - **7.0**/undefined
     
-*   Routing Valve (10%) - **7.0**/10
+*   Routing Valve (10%) - **7.0**/undefined
     
 
 Our impression of the Brita Basic is that it’s a good-looking and well-built faucet filter. Its exterior is chrome-plated, giving it an expensive shine that fits right into any kitchen. However, do note that the filter is chrome-plated and is not made from metal.
@@ -181,15 +181,15 @@ Alternatively, if you only want to use plain water and bypass the filter, rotate
 Usability
 ---------
 
-usability Scores: **8.9**
+usability Scores: **NaN**
 
-*   Installation (25%) - **8.0**/10
+*   Installation (25%) - **8.0**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **9.0**/10
+*   Leak (35%) - **9.0**/undefined
     
-*   Maintenance (10%) - **8.0**/10
+*   Maintenance (10%) - **8.0**/undefined
     
 
 The Brita Basic is very easy to install and use. Installation can be done in less than five minutes at most, even if you have a faucet with internal threading. Once it’s been installed, you only need to turn on the tap and switch back and forth between plain and filtered water modes as you see fit.
