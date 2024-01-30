@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.3**/10
+*   Performance (50%) - **5.3**/undefined
     
-*   Design (25%) - **2.9**/10
+*   Design (25%) - **2.9**/undefined
     
-*   Usability (25%) - **4.5**/10
+*   Usability (25%) - **4.5**/undefined
     
 
 The Comfee CFO-BB101 is an adequate extra small, budget countertop toaster oven compared to the [best picks](https://healthykitchen101.com/toaster-ovens/reviews/best/). It’s suitable for someone who just wants a unit that serves its functions, doesn’t use a lot of energy, and saves space on the kitchen counter.
@@ -36,15 +36,15 @@ The polished white stainless steel COMFEE CFO-BB101 is our first choice for an e
 Performance
 -----------
 
-performance Scores: **5.3**
+performance Scores: **NaN**
 
-*   Toast (40%) - **4.5**/10
+*   Toast (40%) - **4.5**/undefined
     
-*   Pizza (25%) - **5.0**/10
+*   Pizza (25%) - **5.0**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.1**/10
+*   Whole Roasted Chicken (25%) - **7.1**/undefined
     
-*   Baked French Fries (10%) - **4.7**/10
+*   Baked French Fries (10%) - **4.7**/undefined
     
 
 The Comfee CFO-BB101 has only two heating elements, and this often resulted in uneven coloring on our test dishes. Our speculation was that the low power output hinders the oven’s performance in test dishes that require a high temperature (> 400°F), including pizza and fries. One solution could be to decrease the amount of food compared to what we used for our test amount.
@@ -206,13 +206,13 @@ The fries lacked color, so they got a 6/10. The oven basically thawed the fries 
 Design
 ------
 
-design Scores: **2.9**
+design Scores: **NaN**
 
-*   Exterior (20%) - **8.0**/10
+*   Exterior (20%) - **8.0**/undefined
     
-*   Interior (30%) - **1.0**/10
+*   Interior (30%) - **1.0**/undefined
     
-*   Build Quality (50%) - **2.0**/10
+*   Build Quality (50%) - **2.0**/undefined
     
 
 While being compact, the Comfee CFO-BB101 has a good capacity compared to the similar-sized [Hamilton Beach 31401](https://healthykitchen101.com/toaster-ovens/reviews/hamilton-beach/hamilton-beach-31401-countertop/). Moreover, it still has all the standard exterior features, plus a neat detachable crumb tray. However, it’s very lacking in terms of the interior even though it uses quartz heating elements. Its overall construction also leaves a lot to be desired.
@@ -382,13 +382,13 @@ Being a compact product, it’s understandable that the Comfee doesn’t have as
 Usability
 ---------
 
-usability Scores: **4.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **5.0**/10
+*   User Control (30%) - **5.0**/undefined
     
-*   Ease of Use (50%) - **4.0**/10
+*   Ease of Use (50%) - **4.0**/undefined
     
-*   Cleanability (20%) - **5.0**/10
+*   Cleanability (20%) - **5.0**/undefined
     
 
 The Comfee CFO-BB101 doesn’t have anything strong going for it in terms of usability. The simple control has some drawbacks and doesn’t provide much convenience. However, a detachable crumb tray makes it easier to clean the oven, especially if the oven is of this size.
