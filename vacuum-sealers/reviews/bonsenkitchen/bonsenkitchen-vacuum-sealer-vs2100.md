@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **3.3**/10
+*   Performance (50%) - **3.3**/undefined
     
-*   Design (20%) - **6.3**/10
+*   Design (20%) - **6.3**/undefined
     
-*   Usability (30%) - **6.8**/10
+*   Usability (30%) - **6.8**/undefined
     
 
 The BonsenKitchen VS2100, a budget vacuum sealer, falls short in performance compared to mid and high-end models. It has a cheap-looking design with a faux metal lid made of plastic. On the upside, it's easy to clean due to its detachable top part. One positive point is its quiet operation, measuring at only 76.1 dBA, making it one of the quietest sealers we've tested.
@@ -33,11 +33,11 @@ Here's our full report after a week of testing the BonsenKitchen VS2100 in our l
 Performance
 -----------
 
-performance Scores: **3.3**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **4.8**/10
+*   Dry Food Test (60%) - **4.8**/undefined
     
-*   Moist Food Test (40%) - **1.2**/10
+*   Moist Food Test (40%) - **1.2**/undefined
     
 
 The BonsenKitchen VS2100 performed poorly in our tests. It couldn't meet the minimum passing score for both dry and moist food tests, primarily because of its weak suction in both tests and excessively long sealing time when handling moist foods.
@@ -83,15 +83,15 @@ If you frequently vacuum-seal moist or liquid-heavy foods, we strongly advise ag
 Design
 ------
 
-design Scores: **6.3**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
-*   Control Panel (20%) - **9.0**/10
+*   Control Panel (20%) - **9.0**/undefined
     
-*   Lid (20%) - **5.0**/10
+*   Lid (20%) - **5.0**/undefined
     
-*   Extra Features (10%) - **0**/10
+*   Extra Features (10%) - **0**/undefined
     
 
 The BonsenKitchen VS2100 has an unremarkable design, despite attempts to make it look premium with a faux-metal top lid. It's clearly a budget-friendly, entry-level vacuum sealer with a somewhat cheap and flimsy feel. One standout feature, though, is its detachable top portion, which greatly simplifies cleaning.
@@ -168,13 +168,13 @@ The BonsenKitchen VS2100 doesn’t come with any extra features of note.
 Usability
 ---------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **6.0**/10
+*   Ease of Use (70%) - **6.0**/undefined
     
-*   Safety & Noise (15%) - **10**/10
+*   Safety & Noise (15%) - **10**/undefined
     
-*   Indicator Lights and Chime (15%) - **7.0**/10
+*   Indicator Lights and Chime (15%) - **7.0**/undefined
     
 
 The BonsenKitchen VS2100 is user-friendly for the most part. The using experience is great, although it has a couple of drawbacks, such as a tricky locking mechanism and the absence of bag hooks, which can make bag alignment a bit challenging. However, it makes up for these drawbacks with its quiet operation, decent safety features, and bright indicator lights.
