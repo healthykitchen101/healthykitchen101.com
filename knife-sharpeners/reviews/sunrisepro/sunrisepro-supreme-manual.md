@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.5**/10
+*   Performance (50%) - **7.5**/undefined
     
-*   Design (15%) - **8.0**/10
+*   Design (15%) - **8.0**/undefined
     
-*   Ease of Use (35%) - **7.0**/10
+*   Ease of Use (35%) - **7.0**/undefined
     
 
 **The SunrisePro pull-through sharpene**r is fast and effective — if you want a workable blade in under a minute, you can rely on this device. Its downsides include a limited number of surfaces it can stick to and the high rate of blade metal removal.
@@ -36,15 +36,15 @@ Read on for the details of our experience with the sharpener.
 Performance
 -----------
 
-performance Scores: **7.5**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **9.6**/10
+*   Sharpening Time to Cut a Lemon (35%) - **9.6**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **5.0**/10
+*   Edge Smoothness (20%) - **5.0**/undefined
     
-*   Material Retention (25%) - **6.0**/10
+*   Material Retention (25%) - **6.0**/undefined
     
 
 The SunrisePro offers faster sharpening than most multi-stage devices. Unfortunately, it does so at the expense of the knife edge.
@@ -88,11 +88,11 @@ Also, some users suggest using a honing strop, which we think is a great idea. O
 Design
 ------
 
-design Scores: **8.0**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **8.0**/10
+*   Build Quality (75%) - **8.0**/undefined
     
-*   Grip (25%) - **8.0**/10
+*   Grip (25%) - **8.0**/undefined
     
 
 As small as it is, the SunrisePro is strong, solid, and sturdy. We could tell it’s made with attention to detail and quality.
@@ -164,17 +164,17 @@ Tip: If it’s a spotless surface and the suction cup is not working, spreading 
 Ease of Use
 -----------
 
-usability Scores: **7.0**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **7.5**/10
+*   Insertion (20%) - **7.5**/undefined
     
-*   Pulling Through (10%) - **6.0**/10
+*   Pulling Through (10%) - **6.0**/undefined
     
-*   Stability on a Clean Surface (40%) - **6.5**/10
+*   Stability on a Clean Surface (40%) - **6.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **3.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **3.0**/undefined
     
 
 The SunrisePro’s suction mechanism may take some time to get used to, and even then, it can from time to time be challenging to get it to work properly. You may also want to be mindful of the sharpening pressure or risk having your blade eaten away by the device.
