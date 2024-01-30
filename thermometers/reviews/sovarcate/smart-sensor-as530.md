@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (70%) - **4.8**/10
+*   Performance (70%) - **4.8**/undefined
     
-*   Design (20%) - **8.6**/10
+*   Design (20%) - **8.6**/undefined
     
-*   Usability (10%) - **5.8**/10
+*   Usability (10%) - **5.8**/undefined
     
 
 Compared to the positive reviews we saw on Amazon, the Smart Sensor AS530 was a letdown. The unit we received failed one of the two most critical accuracy tests. We recommend looking elsewhere if you expect an [accurate infrared thermometer](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/) that can help you in the kitchen or any other measuring application.
@@ -35,11 +35,11 @@ See our full test report here for more details.
 Performance
 -----------
 
-performance Scores: **4.8**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **2.6**/10
+*   Cold Test with Ice (40%) - **2.6**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **6.2**/10
+*   Hot Test with Cooking Oil (60%) - **6.2**/undefined
     
 
 Our benchmark gives the Smart Sensor AS530 a failing mark in the performance section. Although it got a passable total score on the hot test with cooking oil (6.17 out of 10), the thermometer got a failing total score on the cold test with ice, with a total score of 2.65 due to its high inaccuracy.
@@ -87,13 +87,13 @@ While this score is fairly average, plenty of other infrared thermometers in our
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **8.5**/10
+*   Build Quality (50%) - **8.5**/undefined
     
-*   Laser Emitter (25%) - **9.5**/10
+*   Laser Emitter (25%) - **9.5**/undefined
     
-*   Display Panel (25%) - **8.0**/10
+*   Display Panel (25%) - **8.0**/undefined
     
 
 The Smart Sensor AS530’s compactness and light weight make it easy to store and use one-handed. The build is solid, with a textured handle for a secure grip and well-constructed parts. Its laser emitter is exceptionally bright and provides a single-dot pattern, allowing easy tracking even in well-lit environments. The backlit LCD display panel is decent, with a bright backlight for reading in dark conditions, although the viewing angle is limited.
@@ -161,13 +161,13 @@ The Smart Sensor AS530 uses triple-A batteries. Free batteries are provided in t
 Usability
 ---------
 
-usability Scores: **5.8**
+usability Scores: **NaN**
 
-*   Handling (50%) - **8.5**/10
+*   Handling (50%) - **8.5**/undefined
     
-*   Measurement Modes (30%) - **0**/10
+*   Measurement Modes (30%) - **0**/undefined
     
-*   Audio Cues (20%) - **8.0**/10
+*   Audio Cues (20%) - **8.0**/undefined
     
 
 The Smart Sensor AS530 has received positive feedback from our reviewer with regard to handling. It has an easy-to-grip handle featuring textured indents and a satisfying click trigger. The textured handle allows the thermometer to be easily used, even with wet hands.
