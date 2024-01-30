@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.9**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (20%) - **9.7**/10
+*   Design (20%) - **9.7**/undefined
     
-*   Ease of Use (30%) - **9.7**/10
+*   Ease of Use (30%) - **9.7**/undefined
     
 
 For over a week, we tested the Hamilton Beach 26031 with many waffle recipes and handled everything reliably. The waffles it produced were well-browned as well as tasty. They weren’t perfect: some waffles were slightly mushy. But despite that, the Hamilton Beach 26031 is a good waffle maker for breakfasts.
@@ -36,11 +36,11 @@ So, we bought one and put it through its paces in the lab to see how it fares co
 Performance: Almost Excellent
 -----------------------------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.8**/10
+*   Self-Mixed Recipe (50%) - **6.8**/undefined
     
-*   Birch Benders Mix (50%) - **7.1**/10
+*   Birch Benders Mix (50%) - **7.1**/undefined
     
 
 The Hamilton Beach 26031 did excellently in all of our cooking test sessions. The texture and taste of the waffles were impressive, according to our chef. However, the coloration of the waffles could still be improved. Most of the waffles we made had dark colorings, which wasn’t ideal.
@@ -136,13 +136,13 @@ Our chef awarded the Hamilton Beach 26031 a good score for this category. The ae
 Design
 ------
 
-design Scores: **9.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **10**/10
+*   Control Panel (10%) - **10**/undefined
     
 
 The Hamilton Beach 26031 boasts a sleek, luxurious design crafted from stainless steel. We’re quite impressed with the build quality of the ceramic waffle plates. The smooth coating and solid feel of the plates in hand leave no doubt that Hamilton Beach has paid close attention to its construction.
@@ -267,15 +267,15 @@ The drip tray is removable and goes into a slot directly under the waffle maker�
 Ease of Use
 -----------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.5**/10
+*   Handling (25%) - **9.5**/undefined
     
-*   Safety (40%) - **10**/10
+*   Safety (40%) - **10**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
-*   Indicator Light Visibility (10%) - **9.0**/10
+*   Indicator Light Visibility (10%) - **9.0**/undefined
     
 
 The Hamilton Beach 26031 has been given a high ease of use score thanks to the simple controls and effortless operation.
