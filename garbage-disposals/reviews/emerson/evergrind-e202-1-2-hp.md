@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **3.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **1.0**/10
+*   Performance (60%) - **1.0**/undefined
     
-*   Design (25%) - **7.5**/10
+*   Design (25%) - **7.5**/undefined
     
-*   Usability (15%) - **7.6**/10
+*   Usability (15%) - **7.6**/undefined
     
 
 The Emerson Evergrind E202 1/2 HP Garbage Disposal could be a reliable appliance if its strong metal construction and generous chamber capacity did not have to compensate for the ineffective motor. Its lack of verticality and the absence of a removable splash guard also limit its overall performance compared to more modern models.
@@ -32,13 +32,13 @@ The Evergrind E202 and the [InSinkErator Badger 5](https://healthykitchen101.com
 Performance
 -----------
 
-performance Scores: **1.0**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **0**/10
+*   Scrap Mix (50%) - **0**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **3.9**/10
+*   Raw Chicken Scraps (25%) - **3.9**/undefined
     
 
 The Evergrind E202 1/2-hp garbage disposal failed two out of three tests and barely passed the one with passable results. The disposal even overheated more than once during the process. It seemed to do okay with easy-to-grind foods (fruit slices, for example) in small amounts but tough fruit peels—like lemon peels—could easily give the disposal a hard time.
@@ -134,13 +134,13 @@ Somehow, the Evergrind managed to do much better with raw chicken bones. The bri
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **6.5**/10
+*   Grind Chamber (30%) - **6.5**/undefined
     
-*   Motor (30%) - **7.0**/10
+*   Motor (30%) - **7.0**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 Similar to the InSinkErator Badger 5, the Emerson E202 is strong with a full-metal construction. The heavy housing may be heavy, but it is built to last. The disposal has a large capacity for a 1/2-hp unit, yet is compact in cabinets under the sink.
@@ -277,15 +277,15 @@ All that said, the disposal delivering poor results in performance evaluation ha
 Usability
 ---------
 
-usability Scores: **7.6**
+usability Scores: **NaN**
 
-*   Installation (30%) - **8.0**/10
+*   Installation (30%) - **8.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **7.0**/10
+*   Smooth Operation (25%) - **7.0**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 The data we collected, especially the results in the Scrap Mix test, suggests that even common scraps in normal amounts could potentially give the Emerson Evergrind E202 a hard time. In specs, the disposal is a promising unit if it wasn’t for the machine’s disappointing motor.
