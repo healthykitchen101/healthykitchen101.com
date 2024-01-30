@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.4**
+Overall Score: **NaN**
 
-*   Performance (60%) - **4.9**/10
+*   Performance (60%) - **5.0**/undefined
     
-*   Design (25%) - **9.0**/10
+*   Design (25%) - **9.0**/undefined
     
-*   Usability (15%) - **7.9**/10
+*   Usability (15%) - **7.9**/undefined
     
 
 The Waste King L3200 3/4 HP is a decent garbage disposal for daily cooking needs. It can easily handle most common food scraps, including avocado pits and cooked chicken bones, and its motor’s high rotation speeds allow for near-jamless performance. For what it costs and offers, the disposal can be a bargain.
@@ -33,13 +33,13 @@ The unit we received was sturdy enough. The casing felt thick but not as close-f
 Performance
 -----------
 
-performance Scores: **4.9**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **7.1**/10
+*   Scrap Mix (50%) - **7.1**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **5.7**/10
+*   Raw Chicken Scraps (25%) - **5.7**/undefined
     
 
 The Waste King L3200 is below average among the twenty models of [kitchen waste disposers](https://healthykitchen101.com/garbage-disposals/reviews/best/) that we’ve tested. The disposal did adequately with a large mishmash of assorted scraps. However, a major part of its scoring was affected by how unqualified the disposal had been at processing raw fish scraps. 
@@ -141,13 +141,13 @@ Then again, the L3200 completely processed the boney parts from the input. Most 
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **9.5**/10
+*   Motor (30%) - **9.5**/undefined
     
-*   Build Quality (40%) - **9.0**/10
+*   Build Quality (40%) - **9.0**/undefined
     
 
 The Waste King Legend Series model L3200 was one of the few back in the day that dominated the scene. Its high-speed permanent magnet motor and chamber layout delivered efficient and near-jamless operation compared to induction motors. 
@@ -274,15 +274,15 @@ Luckily, that’s about the only weakness of the L3200. Its body casing provides
 Usability
 ---------
 
-usability Scores: **7.9**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.0**/10
+*   Installation (30%) - **9.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The Waste King L3200 3/4 HP was once a force to be reckoned with. Today, competition in the market is fierce and the disposal is not the best at what it does anymore. However, based on our data from performance evaluation, it’s still very much qualified to deal with common daily food scraps.
