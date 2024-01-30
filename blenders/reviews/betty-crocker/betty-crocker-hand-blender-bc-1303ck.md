@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.1**/10
+*   Performance (50%) - **5.1**/undefined
     
-*   Design (20%) - **5.5**/10
+*   Design (20%) - **5.5**/undefined
     
-*   Usability (30%) - **5.9**/10
+*   Usability (30%) - **5.9**/undefined
     
 
-The Betty Crocker’s performance is adequate for simple tasks such as puréeing soups, making nut milk, and concocting mayonnaise. Yet, its proficiency is tested and found wanting with the challenge of frozen fruit smoothies; the power of the motor is insufficient for achieving the desired creamy texture. Moreover, when it's a question of whipping efficiency, the blender is outpaced by competitors that boast whisk attachments. 
+The Betty Crocker’s performance is adequate for simple tasks such as puréeing soups, making nut milk, and concocting mayonnaise. Yet, its proficiency is tested and found wanting with the challenge of frozen fruit smoothies; the power of the motor is insufficient for achieving the desired creamy texture. Moreover, when it's a question of whipping efficiency, the blender is outpaced by competitors that boast whisk attachments.
 
 The blender’s build also leaves room for improvement. Its plastic components point to a design that prioritizes cost-saving over durability. And this was quickly proven to be a drawback, as evidenced by a broken part that emerged after our testing.
 
@@ -30,17 +30,17 @@ The blender’s build also leaves room for improvement. Its plastic components p
 Performance
 -----------
 
-performance Scores: **5.1**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.0**/10
+*   Hot Soup Purée (35%) - **7.0**/undefined
     
-*   Smoothie (30%) - **2.0**/10
+*   Smoothie (30%) - **2.0**/undefined
     
-*   Mayonnaise (15%) - **6.5**/10
+*   Mayonnaise (15%) - **6.5**/undefined
     
-*   Almond Milk (15%) - **7.0**/10
+*   Almond Milk (15%) - **7.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 The Betty Crocker blender serves pretty well for regular, uncomplicated pureeing tasks, offering just the right amount of power for daily kitchen activities. Its limitations become evident, though, in scenarios requiring higher power. In comparison to other [highered-powered blenders](https://healthykitchen101.com/blenders/reviews/best/), especially those with additional attachments like whisks, it also tends to lag in versatility and effectiveness. 
@@ -118,15 +118,15 @@ In the test to assess Betty Crocker's ability to whip egg whites, the lack of a 
 Design
 ------
 
-design Scores: **5.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.5**/10
+*   Build Quality (60%) - **5.5**/undefined
     
-*   Blending Shaft (30%) - **4.0**/10
+*   Blending Shaft (30%) - **4.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The Betty Crocker features a straightforward, no-frills design. Given its lower price point, it's understood that it won't match the durability or advanced features of more expensive models. Yet, we would rightfully expect a certain level of reliable and steady performance. However, this is where the Betty Crocker blender disappoints; our **blending shaft was damaged** after only a few uses. 
@@ -241,15 +241,15 @@ The Betty Crocker’s usability is hampered by its inefficient vortex creation a
 Usability
 ---------
 
-usability Scores: **5.9**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **4.9**/10
+*   Ease of Use (60%) - **4.9**/undefined
     
-*   Blade Assembly (10%) - **9.0**/10
+*   Blade Assembly (10%) - **9.0**/undefined
     
-*   Handling (20%) - **6.5**/10
+*   Handling (20%) - **6.5**/undefined
     
-*   Cleanability (10%) - **7.5**/10
+*   Cleanability (10%) - **7.5**/undefined
     
 
 The Betty Crocker’s usability is hampered by its inefficient vortex creation and uncomfortable vibrations. The overall design also contributes to its limitations, as its ergonomics and weight distribution are not as conducive to comfortable handle as those of other blenders in the market.
