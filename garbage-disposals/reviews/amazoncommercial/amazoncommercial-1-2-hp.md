@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (60%) - **5.3**/10
+*   Performance (60%) - **5.2**/undefined
     
-*   Design (25%) - **8.5**/10
+*   Design (25%) - **8.5**/undefined
     
-*   Usability (15%) - **7.7**/10
+*   Usability (15%) - **7.7**/undefined
     
 
 The AmazonCommercial B07XGBKT1Z 1/2 Horsepower stands out amidst our small garbage disposal collection not just because of the bright orange casing. Boasting a full stainless steel grind assembly and a high-velocity motor, the disposal pulverizes common food scraps with ease. While it struggles with tough animal scraps, the machine is an affordable but strong option for a place with 1-2 people who cook simple foods.
@@ -30,13 +30,13 @@ The AmazonCommercial 1/2-HP looks like one of those generic garbage disposals th
 Performance: Disappointing but not Surprising
 ---------------------------------------------
 
-performance Scores: **5.3**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.6**/10
+*   Scrap Mix (50%) - **6.6**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **7.8**/10
+*   Raw Chicken Scraps (25%) - **7.8**/undefined
     
 
 The AmazonCommercial 1/2-HP is not too bad against your typical kitchen scraps, including corn cobs and cooked bones. It also did a surprisingly good job pulverizing uncooked chicken scraps.
@@ -140,13 +140,13 @@ The disposal also did well with Layer 1 and Layer 2. Most of the output was able
 Design: Another Budget In-Sink Grinder
 --------------------------------------
 
-design Scores: **8.5**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.0**/10
+*   Grind Chamber (30%) - **8.0**/undefined
     
-*   Motor (30%) - **9.0**/10
+*   Motor (30%) - **9.0**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 The AmazonCommercial B07XGBKT1Z wears a vivid orange casing that helps it stand out among the popular blacks and grays of the market. Its grind chamber offers a fair extent of holding capacity and depth for a small disposal. 
@@ -273,15 +273,15 @@ The plastic casing itself is tinted, so there’s no paint job at all. It looked
 Usability: As Basics as They Go
 -------------------------------
 
-usability Scores: **7.7**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.5**/10
+*   Installation (30%) - **9.5**/undefined
     
-*   Ease of Use (40%) - **7.0**/10
+*   Ease of Use (40%) - **7.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The AmazonCommercial 1/2 Horsepower B07XGBKT1Z offers little in terms of extras, but it suffices as far as garbage disposals go. The permanent magnet motor and the stainless steel grind assembly make for a solid setup, suitable for simple kitchen routines.
