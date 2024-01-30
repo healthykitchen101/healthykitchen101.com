@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.2**/10
+*   Performance (50%) - **6.2**/undefined
     
-*   Design (20%) - **8.8**/10
+*   Design (20%) - **8.8**/undefined
     
-*   Ease of Use (30%) - **9.2**/10
+*   Ease of Use (30%) - **9.2**/undefined
     
 
 Affordability is the main attractor that drew people to the Black and Decker WMD200B Double Waffle Maker. However, the waffle maker can offer more than just a wallet-friendly price tag. Its performance is acceptable across all waffle recipes in our tests. Although there is still room for improvement concerning the waffles' quality, none of the waffles were considered unpalatable by our chef.
@@ -42,11 +42,11 @@ Black and Decker Double Waffle Maker - Birch Benders Mix Video
 Performance: Tasty, but Uneven
 ------------------------------
 
-performance Scores: **6.2**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.1**/10
+*   Self-Mixed Recipe (50%) - **6.1**/undefined
     
-*   Birch Benders Mix (50%) - **6.3**/10
+*   Birch Benders Mix (50%) - **6.3**/undefined
     
 
 Our head chef labeled the waffles made by the WMD200B as “decently tasty.” Unfortunately, the coloration and texture of the waffle could still use some improvements.
@@ -148,13 +148,13 @@ Unfortunately, the undercooked bottom impacted the mouthfeel of the waffle, whic
 Design: Cheaper Than it Looks
 -----------------------------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **10**/10
+*   Build Quality (60%) - **10**/undefined
     
-*   Waffle Plates (30%) - **9.5**/10
+*   Waffle Plates (30%) - **9.5**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 The BLACK+DECKER WMD200B is an incredibly well-crafted machine for an entry-level product. Though it is made mostly from plastic, the waffle maker doesn’t look cheap. It’s not hard to imagine it as a mid-range or even a high-end model.
@@ -266,15 +266,15 @@ The BLACK+DECKER WMD200B comes with a plastic drip tray.
 Ease of Use
 -----------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.5**/10
+*   Handling (25%) - **9.5**/undefined
     
-*   Safety (40%) - **9.9**/10
+*   Safety (40%) - **9.9**/undefined
     
-*   Cleanability (25%) - **8.5**/10
+*   Cleanability (25%) - **8.5**/undefined
     
-*   Indicator Light Visibility (10%) - **7.0**/10
+*   Indicator Light Visibility (10%) - **7.0**/undefined
     
 
 The BLACK+DECKER WMD200B is very easy to use overall. It can be operated with just one hand, from lifting the lid to flipping it. 
