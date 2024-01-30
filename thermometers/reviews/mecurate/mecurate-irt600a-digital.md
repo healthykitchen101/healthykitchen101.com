@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.5**
+Overall Score: **NaN**
 
-*   Performance (70%) - **6.9**/10
+*   Performance (70%) - **6.9**/undefined
     
-*   Design (20%) - **9.5**/10
+*   Design (20%) - **9.5**/undefined
     
-*   Usability (10%) - **7.9**/10
+*   Usability (10%) - **7.9**/undefined
     
 
 Overall, the Mecurate IRT600A is a good buy if you’re looking for a good-looking, comfortable-to-use, and durable infrared thermometer. This thermometer is user-friendly and packed with many great features, such as the ability to set the EMS (Emissivity). The 13-dot laser pattern can also aid with improved accuracy.
@@ -36,11 +36,11 @@ Besides this strange quirk, the Mecurate infrared thermometer is a decent purcha
 Performance
 -----------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **8.6**/10
+*   Cold Test with Ice (40%) - **8.6**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **5.8**/10
+*   Hot Test with Cooking Oil (60%) - **5.8**/undefined
     
 
 As explained earlier, the Mecurate IRT600A has fairly unreliable measuring performance. During our accuracy tests using an ice bath and boiling oil, the Mecurate gives inaccurate readings at first (compared to the temperature probes we use as a reference). However, after a few sessions, the thermometer seemed to “re-calibrate” and began to yield accurate readings.
@@ -86,13 +86,13 @@ Averaging it out, the Mecurate recorded a temperature of 369°F against the refe
 Design
 ------
 
-design Scores: **9.5**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
-*   Laser Emitter (25%) - **10**/10
+*   Laser Emitter (25%) - **10**/undefined
     
-*   Display Panel (25%) - **10**/10
+*   Display Panel (25%) - **10**/undefined
     
 
 The Mecurate IRT600A thermometer comes with a meat thermometer and two AAA batteries in a sturdy cardboard box.
@@ -168,13 +168,13 @@ The thermometer is powered by two triple-A batteries (included in the box.) The 
 Usability
 ---------
 
-usability Scores: **7.9**
+usability Scores: **NaN**
 
-*   Handling (50%) - **9.0**/10
+*   Handling (50%) - **9.0**/undefined
     
-*   Measurement Modes (30%) - **6.0**/10
+*   Measurement Modes (30%) - **6.0**/undefined
     
-*   Audio Cues (20%) - **8.0**/10
+*   Audio Cues (20%) - **8.0**/undefined
     
 
 The thermometer is extremely easy to use. For most kitchen applications, you only need to install the batteries,press the trigger to activate the thermometer, point it toward the object or surface you want to measure, and check the readings.
