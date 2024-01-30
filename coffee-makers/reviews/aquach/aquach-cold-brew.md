@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.2**/10
+*   Brew Quality (50%) - **7.2**/undefined
     
-*   Design (15%) - **9.2**/10
+*   Design (15%) - **9.2**/undefined
     
-*   Ease of Use (35%) - **9.0**/10
+*   Ease of Use (35%) - **9.0**/undefined
     
 
 The Aquach cold brew coffee maker is a beautifully designed product. The appearance of the decanter, the quality of the silicone seals, and air tightness are great. The super-fine laser-cut filter looks impressive but shows its flaws in practice. It seems the design doesn’t allow for enough permeability to produce a brew that’s both strong and complex. The Aquach may not be the brewer for a connoisseur, but we still appreciate its style and versatility.
@@ -29,13 +29,13 @@ The Aquach is a stylish cold brew coffee maker with minimal plastic parts. It’
 Brew Quality
 ------------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.0**/10
+*   Bouquet (10%) - **7.0**/undefined
     
-*   Drinkability (70%) - **7.0**/10
+*   Drinkability (70%) - **7.0**/undefined
     
-*   Sediment (20%) - **8.0**/10
+*   Sediment (20%) - **8.0**/undefined
     
 
 As with any immersion filter brewer, the filter needs to be permeable enough to infuse sufficient flavor into the brew while keeping sediment contained. Unfortunately, the Aquach didn’t quite succeed here as our test results revealed it failed to produce a strong brew and it lacked a complex flavor. The brew ratio is also not the best.
@@ -61,13 +61,13 @@ The Aquach, with its super-fine filter, produced little sediment with only fine 
 Design
 ------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **8.0**/10
+*   Filter (40%) - **8.0**/undefined
     
-*   Build Quality (30%) - **10**/10
+*   Build Quality (30%) - **10**/undefined
     
 
 The Aquach has one of the most aesthetically pleasing and practical designs for an immersion cold coffee brewer. There’s very little not to like about it and the materials are first rate. However, the filter, as we suspected and our tests revealed, is not the best design for a high-quality cold brew experience.
@@ -136,13 +136,13 @@ The Aquatch Cold Brew Coffee Maker is a really well-designed product. It looks v
 Ease of Use
 -----------
 
-usability Scores: **9.0**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **9.0**/10
+*   Cleaning and Storage (20%) - **9.0**/undefined
     
 
 Because of its practical design, the Aquach is one of the easiest cold brew coffee makers to use. Not only that, but the hole at the bottom of the filter makes it easy to drain all remaining brew. For the most part, cleaning is also effortless.
