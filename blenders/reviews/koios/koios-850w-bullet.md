@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.1**/10
+*   Performance (60%) - **7.1**/undefined
     
-*   Design (25%) - **8.3**/10
+*   Design (25%) - **8.3**/undefined
     
-*   Usability (15%) - **7.3**/10
+*   Usability (15%) - **7.3**/undefined
     
 
 The KOIOS Bullet is a bargain if you’re willing to compromise on the heavy-duty side of performance. We tested it with multiple recipes, and it was able to handle everything except for crushing ice cubes. Its ability to process leafy greens was just average, but the frozen fruit smoothies and protein shakes it produced were among the smoothest.
@@ -34,15 +34,15 @@ After testing the 850-watt KOIOS Bullet in our lab, we can honestly say this is 
 Performance: Above-Average
 --------------------------
 
-performance Scores: **7.1**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **9.2**/10
+*   Protein Shake (40%) - **9.2**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.0**/10
+*   Frozen Fruit Smoothie (30%) - **8.0**/undefined
     
-*   Fibrous Greens (20%) - **5.0**/10
+*   Fibrous Greens (20%) - **5.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 The KOIOS Bullet did relatively well in three out of our four tests. It couldn’t power through ice cubes in the final round, but that didn’t worry us — the same is true for most mid-range blenders. The blended fruity drinks were above average. However, the fibrous greens should be blended longer than our 20-second time limit if you want decent results.
@@ -98,13 +98,13 @@ In this test, its performance was lackluster. The machine itself is incapable of
 Design: Worth the Price
 -----------------------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.0**/10
+*   Build Quality (60%) - **8.0**/undefined
     
-*   Blades (20%) - **7.5**/10
+*   Blades (20%) - **7.5**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The KOIOS Bullet comes standard with a compact motor base and stainless steel blades. It features only one speed setting, which is not unusual for this type of machine. Sleek and shiny looking, it has a cute, distinctive personality you won’t find in many rival personal blenders. Unfortunately, its motor base has some poor-quality inner components — we expect better even at this price point.
@@ -225,13 +225,13 @@ Like many personal blenders, the KOIOS offers only one speed option but doesn’
 Usability: Compromises is Unavoidable
 -------------------------------------
 
-usability Scores: **7.3**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **5.7**/10
+*   Hands-Free Operation (60%) - **5.7**/undefined
     
-*   Assembly (20%) - **10**/10
+*   Assembly (20%) - **10**/undefined
     
-*   Cleanability (20%) - **9.5**/10
+*   Cleanability (20%) - **9.5**/undefined
     
 
 The KOIOS didn’t receive a higher usability score because it doesn’t allow for hands-free operation. However, it is still among the most user-friendly personal blenders out there on the merits of its straightforward operation, easy assembly, and effortless cleaning.
