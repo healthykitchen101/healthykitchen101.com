@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.9**/10
+*   Performance (50%) - **6.9**/undefined
     
-*   Design (15%) - **9.2**/10
+*   Design (15%) - **9.2**/undefined
     
-*   Ease of Use (35%) - **9.1**/10
+*   Ease of Use (35%) - **9.1**/undefined
     
 
 **The Kitchellence sharpener** comes without any major design flaws. It’s well-built, has high-quality abrasives and substantial sharpening rods. We don’t like how it tapers at its base and handle but despite this, Kitchellence has found a way to ensure stability.
@@ -34,15 +34,15 @@ The device has an excellent build and is safe and easy to use; however, we weren
 Performance
 -----------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **4.8**/10
+*   Sharpening Time to Cut a Lemon (35%) - **4.8**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **7.0**/10
+*   Maximum Sharpness Achieved (20%) - **7.0**/undefined
     
-*   Edge Smoothness (20%) - **7.7**/10
+*   Edge Smoothness (20%) - **7.7**/undefined
     
-*   Material Retention (25%) - **9.0**/10
+*   Material Retention (25%) - **9.0**/undefined
     
 
 The Kitchellence could bring the knife to a serviceable keenness level without peeling a bunch of swarfs off the blade. However, it was slow to sharpen, which defeats the purpose of a ‘convenient sharpener’.
@@ -88,11 +88,11 @@ This is mostly thanks to the design of the tungsten carbide blades themselves. H
 Design
 ------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **9.3**/10
+*   Build Quality (75%) - **9.3**/undefined
     
-*   Grip (25%) - **9.0**/10
+*   Grip (25%) - **9.0**/undefined
     
 
 We fell in love with the Kitchellence the moment we had it in our hands: It’s neat, simple, and strikes an excellent balance between aesthetics and functionality. We could tell the maker of it paid attention to every detail.
@@ -170,17 +170,17 @@ Among all the devices we tested, the Kitchellence offers the best grip. It has a
 Ease of Use
 -----------
 
-usability Scores: **9.1**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **9.5**/10
+*   Pulling Through (10%) - **9.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **9.0**/10
+*   Stability on a Clean Surface (40%) - **9.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.5**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.5**/undefined
     
 
 Its weight and design makes the Kitchellence a breeze to use: if you know how to use a knife, you will have no problem working with this device. The only mild problem is when you try to sharpen on a wet surface — but hey, it’s not hard to give your countertop a quick wipe, right?
