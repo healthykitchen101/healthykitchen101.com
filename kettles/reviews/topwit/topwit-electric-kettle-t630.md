@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.2**/10
+*   Performance (40%) - **7.2**/undefined
     
-*   Design (25%) - **5.9**/10
+*   Design (25%) - **5.9**/undefined
     
-*   Usability (35%) - **6.6**/10
+*   Usability (35%) - **6.6**/undefined
     
 
 The Topwit T630 has the largest capacity we’ve seen in an electric kettle while remaining lighter than most. However, it doesn’t have the fastest boiling speed, far from it. It could also use a proper limescale filter so that we don’t need to descale it as frequently.
@@ -36,15 +36,15 @@ We chose the color white for variety but it’s no different from the black one.
 Performance
 -----------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **6.0**/10
+*   Boiling Time (45%) - **6.0**/undefined
     
-*   Energy Consumption (30%) - **8.0**/10
+*   Energy Consumption (30%) - **8.0**/undefined
     
-*   Noise Level (15%) - **9.6**/10
+*   Noise Level (15%) - **9.6**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 The Topwit Electric Glass Kettle had the best score in Noise Level among our tested kettles. Its Energy Consumption and Keep Warm scores were good as well. However, its slow boiling time was a detrimental weakness.
@@ -96,15 +96,15 @@ The glass carafe of the Topwit doesn’t have the best property for heat retenti
 Design
 ------
 
-design Scores: **5.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **6.0**/10
+*   Carafe (50%) - **6.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **6.0**/10
+*   Lid (20%) - **6.0**/undefined
     
-*   Base (20%) - **5.0**/10
+*   Base (20%) - **5.0**/undefined
     
 
 The Topwit Electric Glass Kettle has an extra large capacity and a few desirable features like water-level markings and an LED ring. However, the lid open mechanism and limescale filter could be better.
@@ -219,13 +219,13 @@ The Topwit has a 22.83 inch round power cord, which is one of the shortest we’
 Usability
 ---------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **5.0**/10
+*   Cleaning (20%) - **5.0**/undefined
     
 
 The Topwit Electric Glass Kettle is large but lightweight, making it still effortless to carry and pour. And, its clip-lock lid doesn’t pose a problem. However, the kettle not having a mesh filter will require you to descale it more frequently.
@@ -246,7 +246,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
