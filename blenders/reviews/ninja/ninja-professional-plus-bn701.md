@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.6**/10
+*   Performance (60%) - **6.6**/undefined
     
-*   Design (20%) - **6.1**/10
+*   Design (20%) - **6.1**/undefined
     
-*   Usability (20%) - **6.7**/10
+*   Usability (20%) - **6.7**/undefined
     
 
 In our testing, the Ninja BN701 Professional Plus Blender proved to be effective at crushing ice. To its credit, this Ninja has a powerful rotation speed and solid blades. It’s just that when put to the test with tough items like kale, oatmeal, almonds, dried berries, and frozen fruit, the performance was average at best.
@@ -30,17 +30,17 @@ As Ninja continuously innovates and introduces new blender models, the BN701 Pro
 Performance
 -----------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **4.6**/10
+*   Smoothie (35%) - **4.6**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **6.5**/10
+*   Frozen Fruit Smoothie (20%) - **6.5**/undefined
     
-*   Protein Shake (15%) - **7.6**/10
+*   Protein Shake (15%) - **7.6**/undefined
     
-*   Almond Butter (20%) - **7.8**/10
+*   Almond Butter (20%) - **7.8**/undefined
     
-*   Crushed Ice (10%) - **10**/10
+*   Crushed Ice (10%) - **10**/undefined
     
 
 For lovers of fruit smoothies and those who need an ice-crushing blender, the Ninja BN 701 might just be the one. However, if green smoothies or perhaps homemade almond butter are more your style, this Ninja is a definite let-down.
@@ -118,13 +118,13 @@ Among all the tests we’ve performed, crushing ice is wherethe Ninja BN 701 tru
 Design
 ------
 
-design Scores: **6.1**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.5**/10
+*   Build Quality (60%) - **5.5**/undefined
     
-*   Blades (25%) - **6.0**/10
+*   Blades (25%) - **6.0**/undefined
     
-*   Control Panel (15%) - **8.5**/10
+*   Control Panel (15%) - **8.5**/undefined
     
 
 The Ninja BN701 blender is17 inches tall and weighs 8 pounds. It takes up a fair amount of countertop space, but is lightweight and easy to move around. The built quality appears good but there are lingering durability issues. For one, the plastic container tends to scratch easily and the stacked blade assembly can damage if misaligned.
@@ -267,15 +267,15 @@ The Ninja BN701 blender does not come with any extra accessories.
 Usability
 ---------
 
-usability Scores: **6.7**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **6.0**/10
+*   Ease of Blend (40%) - **6.0**/undefined
     
-*   Noise Level (20%) - **7.1**/10
+*   Noise Level (20%) - **7.1**/undefined
     
-*   Assembly (15%) - **8.5**/10
+*   Assembly (15%) - **8.5**/undefined
     
-*   Cleanability (25%) - **6.5**/10
+*   Cleanability (25%) - **6.5**/undefined
     
 
 The Ninja BN701 is not quite a 'set and forget' blender. Because the vortex action doesn’t draw ingredients efficiently towards the blades, it’s often necessary to manually intervene. As a large-sized blender, the noise level is relatively high but tolerable. On the other hand, assembly is a breeze, but the blade assembly's alignment requires extra attention due to the lack of clear indicator
