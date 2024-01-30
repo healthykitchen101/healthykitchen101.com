@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.9**/10
+*   Performance (40%) - **7.9**/undefined
     
-*   Design (30%) - **6.0**/10
+*   Design (30%) - **6.0**/undefined
     
-*   Ease of Use (30%) - **6.8**/10
+*   Ease of Use (30%) - **6.8**/undefined
     
 
 **The Presto 08800 EverSharp** isn’t the fastest or most effective electric sharpener on the market, but it’s far from mediocre. It offers only one sharpening angle and does eat away lots of steel, but given its price and performance, this sharpener is a very good value buy.
@@ -30,15 +30,15 @@ After one year, we updated our testing methods and ran the machine through the t
 Performance
 -----------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Speed (30%) - **8.0**/10
+*   Speed (30%) - **8.0**/undefined
     
-*   Edge Quality (40%) - **7.7**/10
+*   Edge Quality (40%) - **7.7**/undefined
     
-*   Material Retention (10%) - **4.5**/10
+*   Material Retention (10%) - **4.5**/undefined
     
-*   Continuous Operation Time (20%) - **10**/10
+*   Continuous Operation Time (20%) - **10**/undefined
     
 
 The EverSharp gave us better performance than most. It’s quick to create a sharp, durable edge and can sharpen several knives in succession with no issues. Its biggest weakness is a tendency to grind away too much knife material.
@@ -50,6 +50,8 @@ Target Sharpness: Level 9 (beef tendon)
 Sharpening Time: 4 minutes 25 seconds
 
 Number Of Strokes: 26
+
+Numberof Strokes:
 
 Cutting Feel: normal
 
@@ -75,22 +77,22 @@ It’s also not a good idea to sharpen knives with full bolsters using the EverS
 
 ### Continuous Operation Time
 
-COT As Tested: 25 minutes
+CO Tas Tested:
 
 We didn’t see any information on how long the Presto EverSharp can run at a time, but it ran through the course of our test without issues. It did get quite hot, as we’ll discuss in the Safety section, but there were no signs of overheating. Given how quickly it can give a tendon-cutting edge to a blunt knife, you should be able to sharpen at least 5 knives in one go with this machine.
 
 Design
 ------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **7.0**/10
+*   Build Quality (55%) - **7.0**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **7.0**/10
+*   Knife Size (15%) - **7.0**/undefined
     
-*   Edge Type (10%) - **8.5**/10
+*   Edge Type (10%) - **8.5**/undefined
     
 
 The Presto has a decent build with a simple, strong, and durable body. The abrasive wheels are the right size and shape to accommodate more types of knives than most, though it’s best for bigger knives. Its main weakness is its non-adjustable edge angle.
@@ -152,17 +154,17 @@ The user guide suggests that you can sharpen serrated knives on Stage 2. While i
 Ease of Use
 -----------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   Setup (20%) - **9.0**/10
+*   Setup (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **8.0**/10
+*   Insertion (20%) - **8.0**/undefined
     
-*   Stability (20%) - **7.0**/10
+*   Stability (20%) - **7.0**/undefined
     
-*   Safety (30%) - **4.7**/10
+*   Safety (30%) - **4.7**/undefined
     
-*   Maintenance (10%) - **6.0**/10
+*   Maintenance (10%) - **6.0**/undefined
     
 
 The Presto EverSharp is simple enough to work with, but the lack of dust-prevention features means you may have to wear a mask and glasses when sharpening with it. It comes with a standard warranty and isn’t overly demanding in terms of maintenance. We’re having a hard time tracking down potential major replacement parts, though.
