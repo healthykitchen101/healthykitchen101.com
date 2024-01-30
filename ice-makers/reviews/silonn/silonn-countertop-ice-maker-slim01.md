@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.2**/10
+*   Performance (60%) - **7.2**/undefined
     
-*   Design (15%) - **8.3**/10
+*   Design (15%) - **8.3**/undefined
     
-*   Usability (25%) - **8.0**/10
+*   Usability (25%) - **8.0**/undefined
     
 
 An average performing ice maker, but you might just like the design.
@@ -30,11 +30,11 @@ Silonn is an electronics manufacturer based in Hong Kong. They manufacture a ran
 Performance
 -----------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **6.9**/10
+*   Ice Capacity (60%) - **6.9**/undefined
     
-*   Ice Quality (40%) - **7.6**/10
+*   Ice Quality (40%) - **7.6**/undefined
     
 
 In the ice capacity test, the Silonn proved average at best. It took around 95 minutes to produce a basket full of ice and the capacity per hour was a rather low average. While not the lowest ranking machine, it puts out an estimated 14 lbs (6.5 kg) per day based on our testing criteria. Although the large ice bullets were weighty enough, the quality was inconsistent and not all bullets were smoothly shaped. There was also a noticeable amount of waste ice produced.
@@ -74,15 +74,15 @@ For these two reasons, the machine did not score so well in terms of consistentl
 Design
 ------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.5**/10
+*   Build Quality (45%) - **8.5**/undefined
     
-*   Panel Design (15%) - **9.5**/10
+*   Panel Design (15%) - **9.5**/undefined
     
-*   Lid Design (25%) - **7.8**/10
+*   Lid Design (25%) - **7.8**/undefined
     
-*   Ice Basket (15%) - **7.0**/10
+*   Ice Basket (15%) - **7.0**/undefined
     
 
 The Silonn is eye-catching for its more original design of wide triangular control panel which is slightly raised. Despite the large control panel, it still has a wide transparent lid for viewing inside. We liked the design overall, and the materials were average to good quality much like the performance of the machine.
@@ -191,13 +191,13 @@ The cord of the Silonn is 72 inches which is about an inch more than the standar
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.0**/10
+*   Ease of Use (60%) - **8.0**/undefined
     
-*   Noise (25%) - **8.0**/10
+*   Noise (25%) - **8.0**/undefined
     
-*   Cleaning (15%) - **7.8**/10
+*   Cleaning (15%) - **7.8**/undefined
     
 
 The Silonn, much like most ice makers, is an easy to use and trouble-free machine. Its large view window and spacious control panel are two nice features. As an overall average kind of machine, it uses a standard generic ice basket that is a little small and flimsy, the stainless steel body tends to easily pick up fingerprints, and it’s slightly noisier than some other machines. General cleaning and maintenance is no issue and the water guard is very easy to remove.
