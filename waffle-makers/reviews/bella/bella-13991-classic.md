@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (20%) - **7.8**/10
+*   Design (20%) - **7.8**/undefined
     
-*   Ease of Use (30%) - **6.8**/10
+*   Ease of Use (30%) - **6.8**/undefined
     
 
-The Bella 13991 outperformed many expensive Belgian-style waffle models in our performance tests. While the coloration of the waffles wasn’t too great, the texture and taste were quite good. 
+The Bella 13991 outperformed many expensive Belgian-style waffle models in our performance tests. While the coloration of the waffles wasn’t too great, the texture and taste were quite good.
 
 It has a stately, compact design and is very easy to use and handle. Cleaning the waffle maker is painless, thanks to an included drip tray.
 
@@ -39,11 +39,11 @@ Here are our test results!
 Performance: Not Great, Not Terrible
 ------------------------------------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.9**/10
+*   Self-Mixed Recipe (50%) - **6.9**/undefined
     
-*   Birch Benders Mix (50%) - **7.2**/10
+*   Birch Benders Mix (50%) - **7.2**/undefined
     
 
 Although our first impression of the waffle maker wasn’t great due to some glaring design issues, the Bella waffle maker did fairly well across both waffle test recipes. The texture and flavor of its waffles were great — they’re not restaurant-level, but they aren’t bad for family breakfasts and light meals.
@@ -141,13 +141,13 @@ As a whole, the waffle’s flavor profile was decent. It had the signature sweet
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Waffle Plates (30%) - **9.0**/10
+*   Waffle Plates (30%) - **9.0**/undefined
     
-*   Control Panel (10%) - **8.5**/10
+*   Control Panel (10%) - **8.5**/undefined
     
 
 With its glossy stainless steel exterior similar to pricier models like the [Cuisinart WAF-F20P1](https://healthykitchen101.com/waffle-makers/reviews/cuisinart/cuisinart-waf-f20p1-double/) or the [Hamilton Beach 26031](https://healthykitchen101.com/waffle-makers/reviews/hamilton-beach/hamilton-beach-26031/), the Bella 13991 has all the hallmarks of a premium machine. But upon closer inspection, we found that the build quality isn’t very high, mainly due to the dangerously wobbly lid.
@@ -253,15 +253,15 @@ A drip tray accompanies the waffle maker in the shipping box. It slides in under
 Ease of Use
 -----------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   Handling (25%) - **3.0**/10
+*   Handling (25%) - **3.0**/undefined
     
-*   Safety (40%) - **7.9**/10
+*   Safety (40%) - **7.9**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
-*   Indicator Light Visibility (10%) - **5.0**/10
+*   Indicator Light Visibility (10%) - **5.0**/undefined
     
 
 The Bella 13991’s flimsy construction didn’t do very well in both our handling and safety tests, but it scored points for being very easy to clean. Overall, the waffle maker only squeaked past the test by a hair.
