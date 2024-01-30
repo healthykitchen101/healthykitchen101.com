@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.2**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.0**/10
+*   Performance (40%) - **7.0**/undefined
     
-*   Design (25%) - **7.4**/10
+*   Design (25%) - **7.4**/undefined
     
-*   Usability (35%) - **7.3**/10
+*   Usability (35%) - **7.3**/undefined
     
 
 All things considered, the Comfee Electric Kettle CEKG003 is an all-around good glass kettle. It shows a positive performance, except for maybe its comparatively high energy consumption.
@@ -36,15 +36,15 @@ On a side note, this kettle has other similar models if you’re interested. One
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **7.4**/10
+*   Boiling Time (45%) - **7.4**/undefined
     
-*   Energy Consumption (30%) - **5.8**/10
+*   Energy Consumption (30%) - **5.8**/undefined
     
-*   Noise Level (15%) - **8.9**/10
+*   Noise Level (15%) - **8.9**/undefined
     
-*   Keep Warm (10%) - **6.0**/10
+*   Keep Warm (10%) - **6.0**/undefined
     
 
 The Comfee Glass Electric Kettle has a pretty fast and very quiet boiling phase. However, it consumes quite a bit more energy compared to other kettles on our list. Its ability to keep warm isn’t anything to write home about either.
@@ -96,15 +96,15 @@ The glass carafe of the Comfee doesn’t have the best material for heat retenti
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Comfee Glass Electric Kettle has a pretty standard design but the build quality is quite high. It also has all the desirable features, including a mesh filter, a blue LED ring, a large opening, and a pop-up lid.
@@ -217,13 +217,13 @@ The Comfee has a 29.72-inch flat power cord, which should be enough for househol
 Usability
 ---------
 
-usability Scores: **7.3**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 With a standard design, we didn’t expect the Comfee Glass Electric Kettle to excel at usability in any way. So, the fact that it was easy to use, carry, pour, and clean was all we wanted. If there’s anything to complain about, it would be that the cord didn’t wrap neatly around its storage.
@@ -244,7 +244,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
