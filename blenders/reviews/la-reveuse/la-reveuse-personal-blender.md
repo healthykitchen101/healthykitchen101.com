@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.8**/10
+*   Performance (60%) - **6.8**/undefined
     
-*   Design (25%) - **7.4**/10
+*   Design (25%) - **7.4**/undefined
     
-*   Usability (15%) - **9.2**/10
+*   Usability (15%) - **9.2**/undefined
     
 
 The La Reveuse gets our recommendation for its balance of price versus capability. It is a fairly average personal blender that doesn’t excel in pulverizing raw nuts or dried fruits, but will have you covered if your ideas of beverages include fresh plant-based food. It’s even impressively capable of making frozen fruit smoothies and fibrous greens mixtures. Just noted that your La Reveuse has taken some lumps for being not as speedy as its [higher-powered competitor](https://healthykitchen101.com/blenders/reviews/best/).
@@ -31,15 +31,15 @@ As a [standard personal blender](https://healthykitchen101.com/blenders/reviews/
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **6.7**/10
+*   Protein Shake (40%) - **6.7**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.0**/10
+*   Frozen Fruit Smoothie (30%) - **8.0**/undefined
     
-*   Fibrous Greens (20%) - **8.5**/10
+*   Fibrous Greens (20%) - **8.5**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 In our test, the 300-watt motor of this blender was just sufficient for smooth blends of frozen fruit smoothies and fibrous mixtures. It didn’t mix protein shake as evenly as the counterparts. It also fell short in crushing ice cubes, though this appears to be the case with most mid-powered personal blenders. If you want more capabilities than what the La Reveuse offers, there are the [Ninja Fit](https://healthykitchen101.com/blenders/reviews/ninja/ninja-qb3001ss-fit/), [NutriBullet](https://healthykitchen101.com/blenders/reviews/nutribullet/nutribullet-900-watt-pro/), and the [Ninja BN401 Nutri](https://healthykitchen101.com/blenders/reviews/ninja/ninja-bn401-nutri-pro/).
@@ -95,13 +95,13 @@ The ability to crush ice cubes is made possible by the strength of the blender's
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blades (20%) - **6.0**/10
+*   Blades (20%) - **6.0**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The La Reveuse is built for the price with a basic set of features. Its simplicity is a big draw, but the lack of upscale feel ultimately holds it back. To be blunt, the plastic housing feels cheap and does not give a sense of durability. We had hoped for a blender that was not only efficient but also visually appealing, but this one falls short in drawing attention to itself. There is a lot of room for improvement should this blender want to become competitive with its peers. Sharing the same kind of styling, the Oster or the Black+Decker looks more eye-catching and beautifully sportier.
@@ -215,13 +215,13 @@ The La Reveuse has only one speed. While this may make it a little bit harder to
 Usability
 ---------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **9.3**/10
+*   Hands-Free Operation (60%) - **9.3**/undefined
     
-*   Assembly (20%) - **10**/10
+*   Assembly (20%) - **10**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 The design is very intuitive so finding how this blender works didn’t take us much time at all. There is only one speed option, but we found it was rather easy to get pulse mode by pressing and releasing the cup in short intervals. Hand washing the cup and the blade’s backsides was challenging particularly due to their styling, but if you have a cleaning brush available, you’ll get all things spackling again in no time.
