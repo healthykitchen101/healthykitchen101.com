@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **2.8**
+Overall Score: **NaN**
 
-*   Performance (60%) - **1.0**/10
+*   Performance (60%) - **1.0**/undefined
     
-*   Design (20%) - **4.7**/10
+*   Design (20%) - **4.7**/undefined
     
-*   Usability (20%) - **6.5**/10
+*   Usability (20%) - **6.5**/undefined
     
 
 Don’t let the low price and 700-watt motor power of this blender fool you. These are simply appealing facets of a story that takes some unexpected turns in terms of performance.
@@ -37,17 +37,17 @@ Does the blender have what it takes to survive? Can its more traditional technol
 Performance
 -----------
 
-performance Scores: **1.0**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **0**/10
+*   Smoothie (35%) - **0**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **0**/10
+*   Frozen Fruit Smoothie (20%) - **0**/undefined
     
-*   Protein Shake (15%) - **6.7**/10
+*   Protein Shake (15%) - **6.7**/undefined
     
-*   Almond Butter (20%) - **0**/10
+*   Almond Butter (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice (10%) - **0**/undefined
     
 
 The Hamilton Beach testing performance was notably lackluster. It faltered in a variety of tasks, from blending fresh and frozen fruits to grinding nuts and crushing ice. Despite running for extended periods and attempting manual interventions, its illy-equipped blades and insufficient power merely agitated the liquid rather than breaking down the ingredients. However, it wasn’t a total flop—the protein shake it produced was exceptionally smooth. Nonetheless, if you’re looking for a kitchen superstar, the Hamilton Beach blender might not be ready for the big stage. 
@@ -129,13 +129,13 @@ If turning ice into a cloud-like dream is your calling, the [Ninja AMZ493BRN](ht
 Design
 ------
 
-design Scores: **4.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.0**/10
+*   Build Quality (60%) - **5.0**/undefined
     
-*   Blades (25%) - **4.5**/10
+*   Blades (25%) - **4.5**/undefined
     
-*   Control Panel (15%) - **4.0**/10
+*   Control Panel (15%) - **4.0**/undefined
     
 
 In addition to its underwhelming performance, the build quality of the Hamilton Beach also leaves much to be desired. The motor base lacks essential features like overload protection and at high speeds it works quite unstably. Plus, the control panel suffers from a cramped layout that not only results in unintended button presses but also makes it challenging to press the buttons due to their stiffness.
@@ -291,15 +291,15 @@ The Hamilton Beach Wave Crusher does not come with any extra accessories. 
 Usability
 ---------
 
-usability Scores: **6.5**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **5.0**/10
+*   Ease of Blend (40%) - **5.0**/undefined
     
-*   Noise Level (20%) - **7.7**/10
+*   Noise Level (20%) - **7.7**/undefined
     
-*   Assembly (15%) - **6.5**/10
+*   Assembly (15%) - **6.5**/undefined
     
-*   Cleanability (25%) - **8.0**/10
+*   Cleanability (25%) - **8.0**/undefined
     
 
 The Hamilton Beach blender has its strengths, particularly in terms of ease of cleaning. However, its overall usability is significantly hampered by the lid design and cumbersome controlling buttons. The persistent need for manual intervention during blending is also a drawback. It disrupts the workflow and potentially leads to dissatisfaction among users seeking a smooth blending experience.
