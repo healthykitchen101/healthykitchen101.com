@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.0**/10
+*   Performance (40%) - **8.0**/undefined
     
-*   Design (30%) - **7.2**/10
+*   Design (30%) - **7.2**/undefined
     
-*   Ease of Use (30%) - **8.7**/10
+*   Ease of Use (30%) - **8.7**/undefined
     
 
 The Chef’s Choice Trizor XV is a highly effective and powerful electric knife sharpener with a safe and simple design. It can produce a sharp, durable edge—one that’s sometimes better than that of a brand-new knife. And to top things off, it works quickly, requires minimal effort, and is simple to use, even for beginners.
@@ -35,15 +35,15 @@ The machine doesn’t disappoint. It has its quirks, but test results proved, ag
 Performance: Sharpness at a Price
 ---------------------------------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Speed (30%) - **7.0**/10
+*   Speed (30%) - **7.0**/undefined
     
-*   Edge Quality (40%) - **8.7**/10
+*   Edge Quality (40%) - **8.7**/undefined
     
-*   Material Retention (10%) - **4.5**/10
+*   Material Retention (10%) - **4.5**/undefined
     
-*   Continuous Operation Time (20%) - **10**/10
+*   Continuous Operation Time (20%) - **10**/undefined
     
 
 Sharpening at a small grind angle, the Chef’s Choice Trizor XV shaves a considerable amount of steel from the knife. On the other hand, it creates a sharp, strong, and smooth edge. 
@@ -57,6 +57,8 @@ Target Sharpness: Level 9 (beef tendon)
 Sharpening Time: 5 minutes 51 seconds
 
 Number Of Strokes: 32
+
+Numberof Strokes:
 
 Cutting Feel: Effortless
 
@@ -86,7 +88,7 @@ We wouldn’t sharpen a blade with a full bolster on this sharpener either, lest
 
 ### Continuous Operation Time
 
-COT As Tested: 25 minutes
+CO Tas Tested:
 
 The Trizor XV ran smoothly without stopping or pausing through the testing duration of 25 minutes. The machine didn’t even get very hot at the end.
 
@@ -95,15 +97,15 @@ We suspect it could go on for an hour without issues, though we didn’t try tha
 Design
 ------
 
-design Scores: **7.2**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **8.8**/10
+*   Build Quality (55%) - **8.8**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **8.0**/10
+*   Knife Size (15%) - **8.0**/undefined
     
-*   Edge Type (10%) - **10**/10
+*   Edge Type (10%) - **10**/undefined
     
 
 The Chef’s Choice Trizor XV is large and robust with a practical design. It’s not versatile in terms of grind angle, but it can accept various knife sizes and can even hone serrated knives.
@@ -178,17 +180,17 @@ You can sharpen a serrated knife with the Chef’s Choice Trizor XV by using the
 Ease of Use
 -----------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Setup (20%) - **9.0**/10
+*   Setup (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Stability (20%) - **9.0**/10
+*   Stability (20%) - **9.0**/undefined
     
-*   Safety (30%) - **8.3**/10
+*   Safety (30%) - **8.3**/undefined
     
-*   Maintenance (10%) - **8.5**/10
+*   Maintenance (10%) - **8.5**/undefined
     
 
 The Chef’s Choice Trizor XV is simple to use and easy to maintain, even for an electric knife sharpener. It’s really made to simplify sharpening so you can focus on your cooking. A noob can set it up and start sharpening within seconds! 
