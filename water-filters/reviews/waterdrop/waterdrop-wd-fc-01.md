@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.2**/10
+*   Performance (50%) - **9.2**/undefined
     
-*   Design (20%) - **9.1**/10
+*   Design (20%) - **9.1**/undefined
     
-*   Usability (30%) - **10.0**/10
+*   Usability (30%) - **10.0**/undefined
     
 
 The Waterdrop WD-FC-01 will be a good purchase for all. With its affordable pricing, high flow rate, and certifiably great filtering performance against chlorine, it’s currently one of the [top choices](https://healthykitchen101.com/water-filters/reviews/best/) out there value-wise.
@@ -37,11 +37,11 @@ Here is our complete test report on the Waterdrop WD-FC-01’s performance, desi
 Performance
 -----------
 
-performance Scores: **9.2**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **9.5**/10
+*   Chlorine Test (40%) - **9.5**/undefined
     
-*   Flow Rate Test (60%) - **9.0**/10
+*   Flow Rate Test (60%) - **9.0**/undefined
     
 
 The overall performance of the Waterdrop WD-FC-01 is very good. In the chlorine filtration test, the filter removed nearly 100% of the free chlorine in the chlorinated water we pumped through it.
@@ -81,13 +81,13 @@ Overall, the filtering flow rate of the WD-FC-01 is impressive. If you have a hi
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **8.3**/10
+*   Build Quality (40%) - **8.3**/undefined
     
-*   Filter Piece (50%) - **10**/10
+*   Filter Piece (50%) - **10**/undefined
     
-*   Routing Valve (10%) - **8.2**/10
+*   Routing Valve (10%) - **8.2**/undefined
     
 
 The Waterdrop WD-FC-01 is built mostly from plastic. Although the unit feels solid and high-quality, the plastic construction doesn’t bode well for the filter’s long-term durability.
@@ -166,15 +166,15 @@ On the outside of the handle are clear markings on which way to rotate if you wa
 Usability
 ---------
 
-usability Scores: **10.0**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **10**/10
+*   Maintenance (10%) - **10**/undefined
     
 
 The filter’s usability isn’t as high as we had hoped. It’s mostly hampered by a lower score in the installation section than most due to having a unique installation system. Instead of a rotating collar like most models, the WD-FC-01 has a removable plastic ring that fastens to a faucet adapter. We had to read the manual (a first!) to know how to put it on correctly.
