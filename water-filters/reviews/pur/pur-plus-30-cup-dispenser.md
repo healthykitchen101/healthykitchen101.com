@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.6**/10
+*   Performance (50%) - **5.6**/undefined
     
-*   Design (20%) - **8.7**/10
+*   Design (20%) - **8.7**/undefined
     
-*   Usability (30%) - **8.4**/10
+*   Usability (30%) - **8.4**/undefined
     
 
 The PUR Plus 30 cup water filter dispenser features a well-built and effective filter. Its slow flow may be frustrating to some, but if you refill it in time, the spacious reservoir ensures you will have clean water when you need it. Though there are no whistles and bells, its function-oriented design makes the dispenser easy to work with. Assembling, refilling, dispensing, cleaning, and filter replacement each takes less than a few minutes.
@@ -33,13 +33,13 @@ It turned out that the two have more similarities than differences, even down to
 Performance
 -----------
 
-performance Scores: **5.6**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.5**/10
+*   Chlorine (50%) - **8.5**/undefined
     
-*   Flow Rate (40%) - **1.0**/10
+*   Flow Rate (40%) - **1.0**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 The PUR filter had no problem tackling the high concentration of chlorine in our test water. It produced clear, crisp water; unfortunately, it did so at a speed inappreciable by someone in a hurry. You can rely on this filter dispenser to turn your stale tap water into something more drinkable as long as you remember to refill it immediately after emptying it.
@@ -81,13 +81,13 @@ Our three testers were happy with the water produced by the PUR filter. It taste
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **9.5**/10
+*   Build Quality (30%) - **9.5**/undefined
     
-*   Conveniences (20%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/undefined
     
-*   Filter (50%) - **8.5**/10
+*   Filter (50%) - **8.5**/undefined
     
 
 There’s not much to write home about the design of the PUR 30-cup dispenser—it looked low key and function-oriented, the only flashy part being the indicator lights. We could tell, however, that it was built with good materials and great fit and finish. Even its filter piece felt more solid and durable than most.
@@ -157,15 +157,15 @@ The filter piece feels strong, solid, and robustly built. Assembling is effortle
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **9.2**/10
+*   Assembling (20%) - **9.2**/undefined
     
-*   Refilling (30%) - **7.7**/10
+*   Refilling (30%) - **7.7**/undefined
     
-*   Dispensing (40%) - **8.7**/10
+*   Dispensing (40%) - **8.7**/undefined
     
-*   Cleaning (10%) - **8.0**/10
+*   Cleaning (10%) - **8.0**/undefined
     
 
 Its straight-forward design means the PUR Plus 30-cup filter dispenser is user-friendly. It takes mere minutes to put it together or take it apart, and cleaning is pretty much a breeze. While it would be more convenient if we didn't have to remove the entire lid for refilling, there are few other drawbacks to mention about the usability of this dispenser.
