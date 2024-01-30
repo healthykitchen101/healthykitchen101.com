@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.3**/10
+*   Performance (50%) - **5.3**/undefined
     
-*   Design (20%) - **6.6**/10
+*   Design (20%) - **6.6**/undefined
     
-*   Usability (30%) - **7.5**/10
+*   Usability (30%) - **7.5**/undefined
     
 
 The Brita Marella XL water filter pitcher was a miss for us. Its Maxtra filter core proved super effective in our high chlorine concentration test producing fine-tasting water. However, it took its sweet time to do the job and left visible particle traces in the filtered water. The design has strong points, namely a stable handle and a convenient pour-through lid, but those were not enough to make up for its faults. For one, the overly tight lid made every cleaning or replacement session a struggle. Additionally, the lack of a spigot means dispensing at full capacity requires some strength for its XL size and weight.
@@ -35,13 +35,13 @@ Yet, the sleek look and brand moniker didn’t get it very far in our tests. If 
 Performance
 -----------
 
-performance Scores: **5.3**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.0**/10
+*   Chlorine (50%) - **8.0**/undefined
     
-*   Flow Rate (40%) - **1.0**/10
+*   Flow Rate (40%) - **1.0**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 A filter pitcher’s performance depends heavily on the filter, and the Marella XL is no exception. The Brita Maxtra filter core worked great to reduce chlorine and improve the taste and smell of the water while retaining total dissolved solids (TDS). On the other hand, you have to suffer a slow flow rate.
@@ -81,13 +81,13 @@ The Brita Maxtra filter managed to reduce the chlorine without removing too much
 Design
 ------
 
-design Scores: **6.6**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **6.5**/10
+*   Build Quality (30%) - **6.5**/undefined
     
-*   Conveniences (20%) - **7.0**/10
+*   Conveniences (20%) - **7.0**/undefined
     
-*   Filter (50%) - **6.5**/10
+*   Filter (50%) - **6.5**/undefined
     
 
 The Brita Marella XL features a strong handle that supports its heavy weight during pouring and refilling. It also has a convenient pour-through door which is more hygienic than most other pitchers. Unfortunately, the ill-fitted lid was a hassle to deal with and was prone to damage during cleaning and replacement. The filter also leaked particles into filtered water. In addition, the XL size suggests a spigot would have been useful.
@@ -155,15 +155,15 @@ Although it was highly effective against chlorine, small filter particles leaked
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **5.2**/10
+*   Assembling (20%) - **5.2**/undefined
     
-*   Refilling (30%) - **8.0**/10
+*   Refilling (30%) - **8.0**/undefined
     
-*   Dispensing (40%) - **8.2**/10
+*   Dispensing (40%) - **8.2**/undefined
     
-*   Cleaning (10%) - **8.0**/10
+*   Cleaning (10%) - **8.0**/undefined
     
 
 Though it doesn’t look so different from other Britas, the Marella XL proved to be a lot less user-friendly. Its weight when full made lifting a light arm and wrist workout, while the ill-fitted lid sometimes required both tact and strength to remove or resecure. 
