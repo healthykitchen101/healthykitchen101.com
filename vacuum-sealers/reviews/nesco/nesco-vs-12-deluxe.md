@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.5**/10
+*   Performance (50%) - **8.5**/undefined
     
-*   Design (20%) - **9.9**/10
+*   Design (20%) - **9.9**/undefined
     
-*   Usability (30%) - **9.6**/10
+*   Usability (30%) - **9.6**/undefined
     
 
 The Nesco VS-12 is undoubtedly one of the best vacuum sealers you can find for your money. Not only does it deliver strong sealing performance, but it also boasts a robust build and a range of built-in features, including a convenient internal bag holding compartment and an integrated cutter. Despite its control panel looking somewhat complex with numerous functions and buttons, it's surprisingly user-friendly.
@@ -32,11 +32,11 @@ For a comprehensive overview, feel free to explore our complete test report in t
 Performance
 -----------
 
-performance Scores: **8.5**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **8.8**/10
+*   Dry Food Test (60%) - **8.8**/undefined
     
-*   Moist Food Test (40%) - **8.0**/10
+*   Moist Food Test (40%) - **8.0**/undefined
     
 
 The Nesco VS-12 achieved one of the highest performance ratings in our vacuum sealer tests. It consistently scored no lower than 8.0 in both dry and moist tests. The result is an impressive overall performance score of 8.5/10.
@@ -74,15 +74,15 @@ Remarkably, even with the significantly stronger suction in the second test, the
 Design
 ------
 
-design Scores: **9.9**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **10**/10
+*   Build Quality (50%) - **10**/undefined
     
-*   Control Panel (20%) - **10**/10
+*   Control Panel (20%) - **10**/undefined
     
-*   Lid (20%) - **10**/10
+*   Lid (20%) - **10**/undefined
     
-*   Extra Features (10%) - **9.0**/10
+*   Extra Features (10%) - **9.0**/undefined
     
 
 The Nesco VS-12 stands out thanks to its sturdy design, which earned it high praise from our reviewers. Every other aspect, from the control panel to the lid and the included extras like the cutter and plastic bag roll holder, is exceptionally well-crafted and has received top marks from our reviewers. As a result, the unit achieved an impressive score of 9.0/10 in this category.
@@ -165,13 +165,13 @@ The Nesco VS-12 has a roomy compartment inside for storing a roll of plastic bag
 Usability
 ---------
 
-usability Scores: **9.6**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **9.5**/10
+*   Ease of Use (70%) - **9.5**/undefined
     
-*   Safety & Noise (15%) - **10**/10
+*   Safety & Noise (15%) - **10**/undefined
     
-*   Indicator Lights and Chime (15%) - **9.5**/10
+*   Indicator Lights and Chime (15%) - **9.5**/undefined
     
 
 Despite its advanced control system, the Nesco VS-12 vacuum sealer remains user-friendly with clearly labeled buttons and an LED progress panel. Safety is not an issue with this unit, with warning stickers for hot spots, and its noise level matches competitors with even weaker performance. Bright indicator lights are visible in various lighting conditions.
@@ -204,7 +204,7 @@ In terms of noise, it registers at 83.4 dBA during the dry food test. While it's
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/nesco-vs-12-deluxe-vacuum-sealer-indicator-lights-clpgkfg2h001wmm88bjwv528i.jpg" alt="The small LED screen that indicates the sealer’s progress on the control panel." width="300px" height="200px">
 
-Numberof Indicators: 9
+Number of Indicators: 9
 
 Progress Bar: Yes
 
