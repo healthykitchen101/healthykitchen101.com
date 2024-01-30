@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.4**/10
+*   Performance (60%) - **7.5**/undefined
     
-*   Design (25%) - **9.5**/10
+*   Design (25%) - **9.5**/undefined
     
-*   Usability (15%) - **7.3**/10
+*   Usability (15%) - **7.3**/undefined
     
 
 All things considered, the GE 1 HP Continuous Feed Garbage Disposal is a well-built machine. It delivers strong performance on common foods and works fairly well against more challenging materials. It offers a fast and powerful motor, durable stainless steel grinding components, and quality augmented details.
@@ -34,13 +34,13 @@ The GFC1020N is a bulky machine. It has a tall body and is quite heavy too. From
 Performance: Consistently Stable
 --------------------------------
 
-performance Scores: **7.4**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **7.9**/10
+*   Scrap Mix (50%) - **7.9**/undefined
     
-*   Raw Fish Scraps (25%) - **7.7**/10
+*   Raw Fish Scraps (25%) - **7.7**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.4**/10
+*   Raw Chicken Scraps (25%) - **6.4**/undefined
     
 
 Prior to the GFC1020N, we’d tested two other disposers from GE Appliances and they both performed exceptionally. The GFC1020N didn’t disappoint, either; it ran through our tests with strong consistency and had little to no trouble swallowing the toughest scraps that we’d prepared, e.g. raw salmon remains.
@@ -144,13 +144,13 @@ Technically, the disposer finished around the 2-minute mark (when the amount of 
 Design: Bulky and Tough
 -----------------------
 
-design Scores: **9.5**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **9.0**/10
+*   Grind Chamber (30%) - **9.0**/undefined
     
-*   Motor (30%) - **10**/10
+*   Motor (30%) - **10**/undefined
     
-*   Build Quality (40%) - **9.5**/10
+*   Build Quality (40%) - **9.5**/undefined
     
 
 The GE GFC1020N is one of the **biggest garbage disposers** we’ve tested. It sports a thick plastic protective case with soundproof cushioning. It runs on an efficient motor and enjoys high-quality grinding components. Although the disposer is not the heaviest in our lineup, it does carry a decent amount of weight.
@@ -308,15 +308,15 @@ The quality of the casing is also reliable. Its thick plastic construction makes
 Usability: Could be Better
 --------------------------
 
-usability Scores: **7.3**
+usability Scores: **NaN**
 
-*   Installation (30%) - **7.0**/10
+*   Installation (30%) - **7.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 During our time with the GE GFC1020N 1 HP Disposer, we didn’t spot any major shortcomings or dealbreakers. It performed consistently and with might as it should. Our only issue with the product was its control, or rather the lack of such, over the byproduct noises.
