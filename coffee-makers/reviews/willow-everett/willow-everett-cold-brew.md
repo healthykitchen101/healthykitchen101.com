@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.2**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **8.4**/10
+*   Brew Quality (50%) - **8.4**/undefined
     
-*   Design (15%) - **7.4**/10
+*   Design (15%) - **7.4**/undefined
     
-*   Ease of Use (35%) - **8.3**/10
+*   Ease of Use (35%) - **8.3**/undefined
     
 
 **The Willow & Everett** device produced one of the highest-quality brews of any immersion cold brew coffee maker that we’ve tested. The brew was bold, flavorful, and also smooth to drink. On the other hand, the design and build quality left much to be desired. Furthermore, its packaging was inadequate considering the fragile glass around the tap. Additionally, the tap didn't work so well and decanting was not near as straightforward as it should have been. If you’re okay making some compromises in order to get a good brew, it's not a bad choice.
@@ -31,13 +31,13 @@ Since carafe-style cold brew coffee makers are a dime a dozen, we really appreci
 Brew Quality
 ------------
 
-performance Scores: **8.4**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **8.5**/10
+*   Bouquet (10%) - **8.5**/undefined
     
-*   Drinkability (70%) - **8.5**/10
+*   Drinkability (70%) - **8.5**/undefined
     
-*   Sediment (20%) - **8.0**/10
+*   Sediment (20%) - **8.0**/undefined
     
 
 The Willow & Everett produced a relatively strong and delicious brew. In fact, it was one of the best brews we got out of any immersion-filter cold brew coffee maker. Overall, the taste was defined by a deep roasted flavor and an almost bitter aftertaste. If you enjoy a strong coffee, or are looking for a quality cold brew concentrate to mix into something else, this is one of the better choices.
@@ -63,13 +63,13 @@ A moderate amount of sediment, mostly a fine sludge, was left behind in the brew
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **7.0**/10
+*   Stopper / Lid (30%) - **7.0**/undefined
     
-*   Filter (40%) - **8.0**/10
+*   Filter (40%) - **8.0**/undefined
     
-*   Build Quality (30%) - **7.0**/10
+*   Build Quality (30%) - **7.0**/undefined
     
 
 Although the Willow & Everett looks neat and handy, the build quality and design didn’t quite match our expectations. The lid and filter, in particular, are poorly made and the tap mechanism is not well thought out. Cleaning is straightforward, and as long as you handle the jar carefully, you may be perfectly happy with this product.
@@ -139,13 +139,13 @@ Overall, we were not too satisfied with the build quality of the Willow & Everet
 Ease of Use
 -----------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **7.0**/10
+*   Decanting (35%) - **7.0**/undefined
     
-*   Cleaning and Storage (20%) - **9.0**/10
+*   Cleaning and Storage (20%) - **9.0**/undefined
     
 
 Brewing with the Willow & Everett is very straightforward, as is cleaning and storage. Unfortunately, the design makes decanting somewhat cumbersome. The tap does not work so well and leaves about 20% of the liquid behind. That means you must decant it into a smaller vessel, largely negating the value of a tap in the first place.
