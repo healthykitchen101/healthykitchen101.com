@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.3**/10
+*   Performance (50%) - **9.3**/undefined
     
-*   Design (25%) - **8.4**/10
+*   Design (25%) - **8.4**/undefined
     
-*   Ease of Use (25%) - **7.5**/10
+*   Ease of Use (25%) - **7.5**/undefined
     
 
 The Frigidaire Stainless Steel EFWC519 is one of our top-performing water machines. It’s one of the [best water coolers for an office](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/#2-best-for-office-frigidaire-efwc519-water-cooler-dispenser) since it performs particularly well with cold water and the temperature can be adjusted within 3℃. However, it’s not the best capacity machine for hot water during peak hours like mornings or lunchtimes. Although the design is a little dated, the build quality is good and the stainless steel body looks elegant. The machine body stays relatively cool even when pushed to perform, and it’s comparatively lightweight.
@@ -31,11 +31,11 @@ Frigidaire makes a number of water cooler dispensers and this EFWC519 is one of 
 Performance
 -----------
 
-performance Scores: **9.3**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **8.2**/10
+*   Hot Water Test (40%) - **8.2**/undefined
     
-*   Cold Water Test (60%) - **10**/10
+*   Cold Water Test (60%) - **10**/undefined
     
 
 The Frigidaire EFWC519 is a particularly well-performing water cooler dispenser. It’s one of the best machines for cold water capacity, but the hot water performance and capacity is comparatively not as good. The flow rate is a little slower than other top-ranking machines —especially those with buttons—but it still pours comfortably enough.
@@ -103,15 +103,15 @@ Another noticeable feature was the fact that, unlike other machines, the Frigida
 Design
 ------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **9.0**/10
+*   Build Quality (45%) - **9.0**/undefined
     
-*   Panel & Indicators (25%) - **8.5**/10
+*   Panel & Indicators (25%) - **8.5**/undefined
     
-*   Water Inlet Controls (20%) - **8.0**/10
+*   Water Inlet Controls (20%) - **8.0**/undefined
     
-*   Drip Tray (10%) - **6.5**/10
+*   Drip Tray (10%) - **6.5**/undefined
     
 
 The Frigidaire EFWC519 is a well-designed machine, its materials are high-quality, and the performance meets high standards. The overall look is somewhat dated, but if the price suits you, that’s a minor consideration.
@@ -255,15 +255,15 @@ In a departure from most, the Frigidaire’s power cord is at the bottom, 4 inch
 Ease of Use
 -----------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **8.0**/10
+*   Dispensing Water (40%) - **8.0**/undefined
     
-*   Hot Water Safety (15%) - **6.0**/10
+*   Hot Water Safety (15%) - **6.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **7.0**/10
+*   Bottle / Filter Changing (15%) - **7.0**/undefined
     
-*   Cleaning (30%) - **7.9**/10
+*   Cleaning (30%) - **7.9**/undefined
     
 
 We found dispensing cold water to be easy enough for the spigot design. The hot water safety mechanism, however, was less than ideal. On the other hand, changing the bottle was standard for a top loading dispenser, while cleaning and descaling is relatively straightforward.
