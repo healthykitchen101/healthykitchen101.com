@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (60%) - **8.5**/10
+*   Performance (60%) - **8.5**/undefined
     
-*   Design (15%) - **7.6**/10
+*   Design (15%) - **7.6**/undefined
     
-*   Usability (25%) - **8.6**/10
+*   Usability (25%) - **8.6**/undefined
     
 
 The Vivo Home has a somewhat bulky and dated design. At the same time, it is one of the best performing portable ice makers we have tested, especially for chunky and weighty ice bullets.
@@ -32,11 +32,11 @@ Vivo Home is a California based company that manufactures a wide range of home, 
 Performance
 -----------
 
-performance Scores: **8.5**
+performance Scores: **NaN**
 
-*   Ice Capacity Test (60%) - **7.5**/10
+*   Ice Capacity Test (60%) - **7.5**/undefined
     
-*   Ice Quality Test (40%) - **9.9**/10
+*   Ice Quality Test (40%) - **9.9**/undefined
     
 
 The Vivo Home has convincingly proved itself one of the best performing portable ice makers we have tested. It topped the charts in terms of ice quality with ice bullet size and weight often while producing zero amounts of waste ice. Its overall capacity was only slightly less than two of its closest rivals. If you’re looking for really thick and chunky ice bullets, this may be the machine for you.
@@ -74,15 +74,15 @@ Put into perspective, its close rival the Frigidaire EFIC189 rarely reached 7g, 
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.0**/10
+*   Build Quality (45%) - **8.0**/undefined
     
-*   Panel Design (15%) - **8.9**/10
+*   Panel Design (15%) - **8.9**/undefined
     
-*   Lid Design (25%) - **5.8**/10
+*   Lid Design (25%) - **5.8**/undefined
     
-*   Ice Basket (15%) - **8.3**/10
+*   Ice Basket (15%) - **8.3**/undefined
     
 
 The immediate impression of the Vivo Home is that of an older, more bulky kind of design. What stands out, though, is the spacious control panel on the upper part of the lid. It also has a comfortably sized basket. Despite the solid build quality, the lid showed comparatively poor insulation design.
@@ -195,13 +195,13 @@ The white cord of the Vivo Home is 70 inches or 5.8 ft long, which is one inch s
 Usability
 ---------
 
-usability Scores: **8.6**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.7**/10
+*   Ease of Use (60%) - **8.7**/undefined
     
-*   Noise (25%) - **8.3**/10
+*   Noise (25%) - **8.3**/undefined
     
-*   Cleaning (15%) - **8.5**/10
+*   Cleaning (15%) - **8.5**/undefined
     
 
 Despite its more dated bulky design, the Vivo Home ranks high in terms of usability. The control panel is spacious and positioned on the upper end of the lid. Furthermore, the body is easy to keep clean, and the wide ice basket has a comfortable scoop leverage. It is also one of the quietest machines we tested, if only by one decibel point.
