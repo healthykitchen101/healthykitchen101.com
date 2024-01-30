@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.2**
+Overall Score: **NaN**
 
-*   Performance (60%) - **8.8**/10
+*   Performance (60%) - **8.8**/undefined
     
-*   Design (25%) - **9.7**/10
+*   Design (25%) - **9.7**/undefined
     
-*   Usability (15%) - **9.7**/10
+*   Usability (15%) - **9.7**/undefined
     
 
 The Ninja BL480D Nutri is special with its own goodies, but for a machine that costs this much money, we had hoped for the best quality textures; this blender’s testing results simply didn’t blow our minds.
@@ -38,15 +38,15 @@ The Ninja BL480D Nutri is meant to provide powerful performance and consistent r
 Performance: Top-Rated Results
 ------------------------------
 
-performance Scores: **8.8**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **8.8**/10
+*   Protein Shake (40%) - **8.8**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **9.5**/10
+*   Frozen Fruit Smoothie (30%) - **9.5**/undefined
     
-*   Fibrous Greens (20%) - **8.0**/10
+*   Fibrous Greens (20%) - **8.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **8.0**/10
+*   Crushed Ice Cubes (10%) - **8.0**/undefined
     
 
 While the Ninja Nutri is advertised as a personal blender, it actually features a powerful motor worthy of a full-sized blender. As such, in our hands-on testing, it was more efficient than most rivals. Still, its outcomes were not always the best. Ultimately, we don’t think you need to fork over so much cash for a personal blender when there are cheaper, smaller, and better options like the [NutriBullet](https://healthykitchen101.com/blenders/reviews/nutribullet/nutribullet-900-watt-pro/) and the [Ninja QB3001SS Fit](https://healthykitchen101.com/blenders/reviews/ninja/ninja-qb3001ss-fit/).
@@ -104,13 +104,13 @@ As a personal blender, this Nutri Ninja didn’t perform half bad, grinding 6 oz
 Design
 ------
 
-design Scores: **9.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blades (20%) - **10**/10
+*   Blades (20%) - **10**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The Ninja Nutri is a very capable blender, so it scores well in most of our evaluations. The trouble is that it is very expensive and far bulkier and more complex than any personal blender should be. If you are short on cooking space, don’t want to fuss with settings, and expect to get your money’s worth, then those are issues.
@@ -230,13 +230,13 @@ This set includes two blending cups which can be used interchangeably with the e
 Usability: Excellent Blending Comfort
 -------------------------------------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **10**/10
+*   Hands-Free Operation (60%) - **10**/undefined
     
-*   Assembly (20%) - **9.5**/10
+*   Assembly (20%) - **9.5**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 The Ninja Nutri is kind of impressive in that it looks fussy and technical, but is easy to figure out in practice. Once you get used to it, cleaning and assembling are simple as well.
