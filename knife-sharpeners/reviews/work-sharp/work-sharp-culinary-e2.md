@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **NaN**
 
-*   Performance (40%) - **6.8**/10
+*   Performance (40%) - **6.8**/undefined
     
-*   Design (30%) - **6.3**/10
+*   Design (30%) - **6.3**/undefined
     
-*   Ease of Use (30%) - **8.3**/10
+*   Ease of Use (30%) - **8.3**/undefined
     
 
 The Work Sharp Culinary E2 electric sharpener won’t give you a surgically sharp edge, but will keep your knives keen and strong enough for most cutting tasks. The sharpener is lightweight, safe, and easy to use. It has flimsy parts; however, replacements are easily available online. It’s a practical choice if you’re looking for a convenient sharpener that does its job without costing an arm and a leg.
@@ -35,15 +35,15 @@ Build-quality-wise, the Work Sharp E2 lacks robustness. On the other hand, the c
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Speed (30%) - **6.5**/10
+*   Speed (30%) - **6.5**/undefined
     
-*   Edge Quality (40%) - **6.1**/10
+*   Edge Quality (40%) - **6.1**/undefined
     
-*   Material Retention (10%) - **6.5**/10
+*   Material Retention (10%) - **6.5**/undefined
     
-*   Continuous Operation Time (20%) - **9.0**/10
+*   Continuous Operation Time (20%) - **9.0**/undefined
     
 
 The Work Sharp E2 is fast to sharpen but will take longer than average to bring the knife to a high level of sharpness. It produces a straight edge with a modest height. It shaves off quite a lot of steel from the knife; however, the metal residue is much better contained compared to the Ken Onion.
@@ -57,6 +57,8 @@ Target Sharpness: Level 9 (Beef tendon)
 Sharpening Time: 5 minutes 33 seconds
 
 Number Of Strokes: 70
+
+Numberof Strokes:
 
 Cutting Feel: Adequate
 
@@ -86,22 +88,22 @@ Metal takeoff was more than we expected for such a modest edge height. Still, it
 
 ### Continuous Operation Time
 
-COT As Tested: 25 minutes
+CO Tas Tested:
 
 The Work Sharp E2 lost 1 point in this test due to its short work cycle, which makes it turn off every 50 seconds. The cycle is timed perfectly to sharpen one knife, but when you have a very dull one or want to sharpen several, you’ll have to restart the machine a few times. That being said, it needed no wait time—all you need to do is push the power button and it’ll run again immediately. It didn’t stall or stop unexpectedly through the duration of the test.
 
 Design
 ------
 
-design Scores: **6.3**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **7.3**/10
+*   Build Quality (55%) - **7.3**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **8.0**/10
+*   Knife Size (15%) - **8.0**/undefined
     
-*   Edge Type (10%) - **8.5**/10
+*   Edge Type (10%) - **8.5**/undefined
     
 
 The Work Sharp E2 sports a compact and smart design, with a power cord holder right underneath for neat and easy storage. The unit isn’t made of the best plastics, which is understandable given the budget-friendly price tag. However, the delicate pulley band could really benefit from a tougher material. 
@@ -170,17 +172,17 @@ You can, however, sharpen scissors with this machine, which is a nice extra.
 Ease of Use
 -----------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Setup (20%) - **9.0**/10
+*   Setup (20%) - **9.0**/undefined
     
-*   Insertion (20%) - **8.0**/10
+*   Insertion (20%) - **8.0**/undefined
     
-*   Stability (20%) - **8.0**/10
+*   Stability (20%) - **8.0**/undefined
     
-*   Safety (30%) - **8.0**/10
+*   Safety (30%) - **8.0**/undefined
     
-*   Maintenance (10%) - **9.0**/10
+*   Maintenance (10%) - **9.0**/undefined
     
 
 The Work Sharp E2 facilitates quick sharpening without any guesswork. The sharpening time and speed are set, there are guides to keep the sharpening angle consistent, and the power button is easy to see and reach. All you have to do is press the button and put a knife in.
