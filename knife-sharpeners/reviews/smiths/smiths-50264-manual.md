@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.0**/10
+*   Performance (50%) - **6.0**/undefined
     
-*   Design (15%) - **7.8**/10
+*   Design (15%) - **7.8**/undefined
     
-*   Ease of Use (35%) - **7.5**/10
+*   Ease of Use (35%) - **7.5**/undefined
     
 
 In a short time, the **Smith’s Pull-Thru Adjustable** managed to restore a useless knife back to sharpness with minimal effort. It also accommodates more types of knives than any other pull-through sharpeners on the market. Whether a knife needs a complete overhaul or just light honing, this sharpener can do it all.
@@ -34,15 +34,15 @@ However, the sharpener has several minuses preventing it from getting into our [
 Performance
 -----------
 
-performance Scores: **6.0**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **8.0**/10
+*   Sharpening Time to Cut a Lemon (35%) - **8.0**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **4.5**/10
+*   Edge Smoothness (20%) - **4.5**/undefined
     
-*   Material Retention (25%) - **3.0**/10
+*   Material Retention (25%) - **3.0**/undefined
     
 
 The Smith’s Pull-Thru pulled off good grades when it came to sharpening time and maximal keenness. However, it failed to replicate the same success for other aspects.
@@ -86,11 +86,11 @@ In the process of sharpening, the abrasives took a massive toll on the knife’s
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **8.2**/10
+*   Build Quality (75%) - **8.2**/undefined
     
-*   Grip (25%) - **6.5**/10
+*   Grip (25%) - **6.5**/undefined
     
 
 The Smith’s Pull Thru sharpener is made with decent materials and enjoys a nice fit and finish. Unfortunately, it suffers from poor design, in particular an elevated working section and a long and narrow base.
@@ -169,17 +169,17 @@ Do you notice anything missing in between the sharpener’s underside and the fl
 Ease of Use
 -----------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **7.0**/10
+*   Slot Arrangement (20%) - **7.0**/undefined
     
-*   Insertion (20%) - **10**/10
+*   Insertion (20%) - **10**/undefined
     
-*   Pulling Through (10%) - **7.5**/10
+*   Pulling Through (10%) - **7.5**/undefined
     
-*   Stability on Clean Surface (40%) - **7.0**/10
+*   Stability on Clean Surface (40%) - **7.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **6.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **6.0**/undefined
     
 
 On the whole, the Smith’s Pull-Thru was one of the most versatile and convenient handheld sharpeners we’d experimented with so far. However, it was due to two major flaws that some points were docked away: the odd sharpening order and the feeling of unsteadiness.
