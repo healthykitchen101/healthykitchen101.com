@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.6**/10
+*   Performance (50%) - **5.6**/undefined
     
-*   Design (15%) - **9.1**/10
+*   Design (15%) - **9.1**/undefined
     
-*   Ease of Use (35%) - **8.2**/10
+*   Ease of Use (35%) - **8.2**/undefined
     
 
 **The Longzon 4-stage sharpener** is a well-made device with solid build and great usability. It’s gentle on your blade and the beautiful edge it creates can hardly be matched by any other devices of its type.
@@ -35,15 +35,15 @@ But a strong and stylish build doesn’t always translate to excellent sharpenin
 Performance
 -----------
 
-performance Scores: **5.6**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **1.0**/10
+*   Sharpening Time to Cut a Lemon (35%) - **1.0**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **6.0**/10
+*   Maximum Sharpness Achieved (20%) - **6.0**/undefined
     
-*   Edge Smoothness (20%) - **9.0**/10
+*   Edge Smoothness (20%) - **9.0**/undefined
     
-*   Material Retention (25%) - **9.0**/10
+*   Material Retention (25%) - **9.0**/undefined
     
 
 The Longzon 4-stage knife sharpener creates one of the finest edges we’ve seen with a device of this type. Unfortunately, the edge’s functionality doesn’t match up with its aesthetics. It only became keen after more than 3 minutes of sharpening, and a prolonged sharpening time didn’t get it much further on the sharpness scale either.
@@ -85,11 +85,11 @@ On most devices that employ tungsten carbide blades as the sharpening ‘abrasiv
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **9.1**/10
+*   Build Quality (75%) - **9.1**/undefined
     
-*   Grip (25%) - **9.0**/10
+*   Grip (25%) - **9.0**/undefined
     
 
 The Longzon looks identical to the [Mueller handheld sharpener](https://healthykitchen101.com/knife-sharpeners/reviews/mueller-austria/mueller-4-stage/) and has a much better build and design than its affordable price suggests. There’s no shoddy parts or gimmicky details — everything fits together securely and seamlessly to serve its purpose.
@@ -165,17 +165,17 @@ It boasts two flat, but effective, anti-slip pads underneath the working section
 Ease of Use
 -----------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **7.0**/10
+*   Slot Arrangement (20%) - **7.0**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **8.0**/10
+*   Pulling Through (10%) - **8.0**/undefined
     
-*   Stability on a Clean Surface (40%) - **8.5**/10
+*   Stability on a Clean Surface (40%) - **8.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **8.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **8.0**/undefined
     
 
 The Longzon is straightforward, and there are visual cues on the device if you’re not sure how to use it at first glance. Its large grip and wide working section make sharpening natural and effortless. Though we think a more modest height would make it safer to use, its stability is well above average.
