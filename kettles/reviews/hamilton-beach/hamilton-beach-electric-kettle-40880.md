@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.8**/10
+*   Performance (40%) - **7.8**/undefined
     
-*   Design (25%) - **6.9**/10
+*   Design (25%) - **6.9**/undefined
     
-*   Usability (35%) - **6.5**/10
+*   Usability (35%) - **6.5**/undefined
     
 
 The main strength of the Hamilton Beach Stainless Steel Electric Kettle (40880) lies in its overall good performance. A durable stainless steel carafe and an affordable price are the cherry on top for this product.
@@ -36,15 +36,15 @@ On a side note, besides the brushed stainless steel version that we chose, there
 Performance
 -----------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **7.9**/10
+*   Boiling Time (45%) - **7.9**/undefined
     
-*   Energy Consumption (30%) - **7.6**/10
+*   Energy Consumption (30%) - **7.6**/undefined
     
-*   Noise Level (15%) - **8.7**/10
+*   Noise Level (15%) - **8.7**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 The Hamilton Beach Stainless Steel Electric Kettle performed well in all of our tests, including boiling time, energy consumption, noise level, and keep warm. It didn’t excel at anything but it provided good results matching its specifications and that was everything we could ask for.
@@ -98,15 +98,15 @@ After 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C.
 Design
 ------
 
-design Scores: **6.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **6.0**/10
+*   Carafe (50%) - **6.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The most desirable design traits of the Hamilton Beach Stainless Steel Electric Kettle for us are its stainless steel carafe and spout. It also has other beneficial features like a removable mesh filter and a water level window. However, it has the detriments of a small opening and wobbly kettle-to-base assembly.
@@ -211,13 +211,13 @@ The Hamilton Beach has a 26.18 inch flat power cord, which is a little short for
 Usability
 ---------
 
-usability Scores: **6.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The Hamilton Beach Stainless Steel Electric Kettle poses no problem controlling, carrying, filling, and pouring. However, its small opening makes it more difficult to clean than its peers. And the fact that the kettle wobbles, although only slightly, when boiling can be worrisome.
@@ -238,7 +238,7 @@ Presets: 5
 
 Keep Warm: 30 minutes
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
