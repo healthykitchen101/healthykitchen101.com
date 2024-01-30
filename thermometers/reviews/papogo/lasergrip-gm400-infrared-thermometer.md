@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.4**
+Overall Score: **NaN**
 
-*   Performance (70%) - **5.3**/10
+*   Performance (70%) - **5.3**/undefined
     
-*   Design (20%) - **6.1**/10
+*   Design (20%) - **6.1**/undefined
     
-*   Usability (10%) - **4.3**/10
+*   Usability (10%) - **4.3**/undefined
     
 
 It is difficult for us to recommend the Lasergrip GM400 to anyone, for any use, with it having one of the poorest measurement accuracies in our database. In addition to its lackluster and cheap design and the absence of extra measurement modes and features, the price tag of the GM400 far exceeds its value.
@@ -35,11 +35,11 @@ For more detailed testing results, see our detailed report below.
 Performance
 -----------
 
-performance Scores: **5.3**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **2.9**/10
+*   Cold Test with Ice (40%) - **2.9**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **7.0**/10
+*   Hot Test with Cooking Oil (60%) - **7.0**/undefined
     
 
 In the cold test with ice, the Lasergrip GM400 has the worst score out of all the infrared thermometers in our test. Its total score is saved somewhat by having a passing score in the hot test with cooking oil. But overall, the Lasergrip GM400 is still considered to have failed the performance test.
@@ -77,13 +77,13 @@ While the results are still higher than the ±2.7°F tolerance of the thermomete
 Design
 ------
 
-design Scores: **6.1**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **6.0**/10
+*   Build Quality (50%) - **6.0**/undefined
     
-*   Laser Emitter (25%) - **5.0**/10
+*   Laser Emitter (25%) - **5.0**/undefined
     
-*   Display Panel (25%) - **7.5**/10
+*   Display Panel (25%) - **7.5**/undefined
     
 
 The Lasergrip GM400 infrared thermometer is one of the lightest IR thermometers in our database, weighing 4.3 ounces. The build quality is rated as "passable," but the plastic material feels flimsy, and the trigger lacks a satisfying click. The Lasergrip GM400 also got “Passable” ratings in all other aspects. It has a very dim laser emitter that’s hard to track under harsh lighting or white background. The display panel can accurately show data, but its brightness is still not the best we’ve seen.
@@ -151,13 +151,13 @@ Two triple-A batteries power the Lasergrip GM400. A pack of two complimentary ba
 Usability
 ---------
 
-usability Scores: **4.3**
+usability Scores: **NaN**
 
-*   Handling (50%) - **7.0**/10
+*   Handling (50%) - **7.0**/undefined
     
-*   Measurement Modes (30%) - **0**/10
+*   Measurement Modes (30%) - **0**/undefined
     
-*   Audio Cues (20%) - **4.0**/10
+*   Audio Cues (20%) - **4.0**/undefined
     
 
 The handling score of the Lasergrip GM400 is affected by the squishy trigger and the lack of texturing on the handle, which can make using the thermometer with wet hands a problem. The GM400 notably lacks additional measurement modes, and while the unit does come with a speaker, the sound volume is very small.
