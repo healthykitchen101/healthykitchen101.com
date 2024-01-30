@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.8**/10
+*   Performance (40%) - **7.8**/undefined
     
-*   Design (25%) - **7.6**/10
+*   Design (25%) - **7.6**/undefined
     
-*   Usability (35%) - **7.6**/10
+*   Usability (35%) - **7.6**/undefined
     
 
 The key attraction of the Secura Electric Stainless Steel Double-Wall Kettle (SWK-1701DA) is its good heat retention and cool-to-touch safe exterior Furthermore, hot water only comes in contact with stainless steel, meaning no internal plastic parts like other kettles we’ve tested.
@@ -35,15 +35,15 @@ We chose the simple black version but this model also comes in black onyx, dark 
 Performance
 -----------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **7.8**/10
+*   Boiling Time (45%) - **7.8**/undefined
     
-*   Energy Consumption (30%) - **7.0**/10
+*   Energy Consumption (30%) - **7.0**/undefined
     
-*   Noise Level (15%) - **8.6**/10
+*   Noise Level (15%) - **8.6**/undefined
     
-*   Keep Warm (10%) - **8.5**/10
+*   Keep Warm (10%) - **8.5**/undefined
     
 
 Our performance tests confirm the product’s claim that the double-wall stainless steel leads to faster boiling times and better heat retention. As a bonus, the kettle was comparatively quiet when boiling. It did consume a bit more energy than other kettles, but this was compensated by excellent heat retention.
@@ -99,15 +99,15 @@ After 5 minutes, the temperature only dropped from 212°F / 100°C to 205°F / 9
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **8.0**/10
+*   Lid (20%) - **8.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Secura Electric Stainless Steel Double-Wall Kettle has good build quality overall, not just in its titular feature. However,  a silicone band around the lid for tighter a tighter fit, a mesh filter, and a water-level window similar to the Cuisinart CPK-17P1 PerfecTemp would be nice improvements.
@@ -220,13 +220,13 @@ The Secura has a 33.66 inch round power cord, which is easily long enough for ho
 Usability
 ---------
 
-usability Scores: **7.6**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **9.0**/10
+*   Ease of Use (50%) - **9.0**/undefined
     
-*   Cleaning (20%) - **5.0**/10
+*   Cleaning (20%) - **5.0**/undefined
     
 
 The Secura Electric Kettle is both safe and easy to use thanks to its cool-touch exterior. Moreover, the stainless steel double-wall construction only makes it slightly larger and heavier than comparable kettles. The carafe’s large lid opening also makes it extremely easy to fill as well as for periodic cleaning.
@@ -247,7 +247,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
