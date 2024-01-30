@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.9**/10
+*   Performance (50%) - **7.9**/undefined
     
-*   Design (20%) - **7.6**/10
+*   Design (20%) - **7.6**/undefined
     
-*   Usability (30%) - **8.3**/10
+*   Usability (30%) - **8.3**/undefined
     
 
 There’s not much to disparage about the KOIOS 4-in-1 hand blender, given its inexpensive price. Of all of the low-range blenders we tested, it is the only one that doesn’t feel cheap or particularly flimsy. While it certainly isn’t a high-performance machine, it allows for consistent use and is really good at light-duty tasks like making whole-food combinations, emulsifying basic sauces, and pureeing baby food. It’s unclear if this blender can stand up against years of use, but for the most part, we're satisfied with its current efficiency.
@@ -31,17 +31,17 @@ We tested a variety of [hand-held blenders](https://healthykitchen101.com/blende
 Performance: Good Enough
 ------------------------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.5**/10
+*   Hot Soup Purée (35%) - **7.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **7.8**/10
+*   Frozen Fruit Smoothie (30%) - **7.8**/undefined
     
-*   Mayonnaise (15%) - **9.8**/10
+*   Mayonnaise (15%) - **9.8**/undefined
     
-*   Almond Milk (15%) - **7.5**/10
+*   Almond Milk (15%) - **7.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **7.0**/10
+*   Whipped Egg-Whites (5%) - **7.0**/undefined
     
 
 The KOIOS 4-in-1 wasn’t designed for powerful performance, but it passed all of our tests without much difficulty. As you might assume, a low-range hand blender won’t churn out velvety results, but all the blends were definitely better than we expected.
@@ -115,15 +115,15 @@ On a pragmatic note, the whole beating process lasted nearly 3 minutes, but it d
 Design: Practical Simplicity
 ----------------------------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.5**/10
+*   Build Quality (60%) - **7.5**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 Nothing is particularly unique in the KOIOS 4-in-1’s design, but common features like the stainless steel blades and control buttons are built well enough to make the blender itself stand out.
@@ -268,15 +268,15 @@ We haven’t conducted tests on this attachment, but the stainless steel S-blade
 Usability
 ---------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.3**/10
+*   Ease of Use (60%) - **8.3**/undefined
     
-*   Blade Assembly (10%) - **8.5**/10
+*   Blade Assembly (10%) - **8.5**/undefined
     
-*   Handling (20%) - **8.0**/10
+*   Handling (20%) - **8.0**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 Despite utilizing the same key design features as other low-range blenders such as the Muller Ultra-Stick, the KOIOS 4-in-1 manages to provide a better blending experience.
