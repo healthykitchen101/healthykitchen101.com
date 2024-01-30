@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.3**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.8**/10
+*   Brew Quality (50%) - **7.8**/undefined
     
-*   Design (15%) - **8.9**/10
+*   Design (15%) - **8.9**/undefined
     
-*   Ease of Use (35%) - **8.8**/10
+*   Ease of Use (35%) - **8.8**/undefined
     
 
 The Takeya Cold Brew Coffee Maker is an affordable brewer, especially for larger volumes. We love how the completely air-tight design can lay on its side in the refrigerator. It’s easy to use and produces a medium to strong brew.
@@ -35,13 +35,13 @@ The Takeya Cold Brew Coffee Maker uses an immersion polyester filter. The cold b
 Brew Quality
 ------------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **8.5**/10
+*   Bouquet (10%) - **8.5**/undefined
     
-*   Drinkability (70%) - **8.0**/10
+*   Drinkability (70%) - **8.0**/undefined
     
-*   Sediment (20%) - **7.0**/10
+*   Sediment (20%) - **7.0**/undefined
     
 
 We found that the Takeya produced a medium-strength brew of reasonable quality, which could be expected from its brew ratio of around 1:9. While the brew was quite smooth to drink, it wasn’t particularly robust. We feel it’s a good brew to mix with a milk base. The filter, however, is not so well constructed and can give varying results.
@@ -65,13 +65,13 @@ With repeated testing, we found that the Takeya has a tendency to produce quite 
 Design
 ------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **8.0**/10
+*   Filter (40%) - **8.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 The Takeya was shipped to us in just a plastic sleeve in a parcel package. It’s a very durable product, so some may not mind the minimal packaging. However, a proper box would look nicer and might also be good for long term storage or moving.
@@ -139,13 +139,13 @@ It comes in two parts, and the upper extender detaches for easy cleaning, which 
 Ease of Use
 -----------
 
-usability Scores: **8.8**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **8.5**/10
+*   Brewing (45%) - **8.5**/undefined
     
-*   Decanting (35%) - **9.5**/10
+*   Decanting (35%) - **9.5**/undefined
     
-*   Cleaning and Storage (20%) - **8.0**/10
+*   Cleaning and Storage (20%) - **8.0**/undefined
     
 
 A key highlight of the Takeya is how easy brewing and decanting was. The overall design is quite practical, but the filter could be fitted better. Cleaning also required a little more attention than we initially anticipated.
