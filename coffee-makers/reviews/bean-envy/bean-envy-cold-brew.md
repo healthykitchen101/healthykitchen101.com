@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.9**/10
+*   Brew Quality (50%) - **7.9**/undefined
     
-*   Design (15%) - **9.3**/10
+*   Design (15%) - **9.3**/undefined
     
-*   Ease of Use (35%) - **9.1**/10
+*   Ease of Use (35%) - **9.1**/undefined
     
 
 In our cold brew coffee maker testing and product appraisal, **Bean Envy** came out as one of our top-ranking immersion filter brewers. It sports a couple of unique design features which set it aside from other similar brewers. The quality of the brew produced was also above average.
@@ -29,13 +29,13 @@ Bean Envy is a dedicated designer and manufacturer of coffeeware. Currently, the
 Brew Quality
 ------------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **8.0**/10
+*   Bouquet (10%) - **8.0**/undefined
     
-*   Drinkability (70%) - **8.0**/10
+*   Drinkability (70%) - **8.0**/undefined
     
-*   Sediment (20%) - **7.5**/10
+*   Sediment (20%) - **7.5**/undefined
     
 
 For an immersion filter brewer, the Bean Envy ranks very competitively and the brew quality is relatively good. The brew is strong, flavorful, and smooth but not as complex as a cold brew can be. We found it brewed more towards the bitter flavors rather than the sweeter ones.
@@ -59,13 +59,13 @@ After allowing the brew to settle, we decanted the contents to see how much sedi
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **9.5**/10
+*   Stopper / Lid (30%) - **9.5**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **9.5**/10
+*   Build Quality (30%) - **9.5**/undefined
     
 
 Bean Envy is an all-round top-quality product and it makes a fairly good brew. The silicone base and the two-lid design are particularly nice, and the stainless steel filter was well-machined. Unfortunately, pouring with the silicone lid popped up was not so smooth.
@@ -138,13 +138,13 @@ Overall, we were very satisfied with the quality of the Bean Envy cold coffee br
 Ease of Use
 -----------
 
-usability Scores: **9.1**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.5**/10
+*   Brewing (45%) - **9.5**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 Brewing and decanting required minimal effort. Additionally, the volume markings on the carafe are great for telling how much yield is produced and how much coffee you have remaining during use. For hand-washing, you will need a bottle brush and a little extra care is required so as not to misplace either of the lids in storage.
