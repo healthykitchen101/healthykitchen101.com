@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.4**/10
+*   Performance (50%) - **6.4**/undefined
     
-*   Design (25%) - **6.7**/10
+*   Design (25%) - **6.7**/undefined
     
-*   Usability (25%) - **6.4**/10
+*   Usability (25%) - **6.4**/undefined
     
 
 The Oster TSSTTVFDDG Digital French Door Convection Toaster Oven is one of the [largest capacity ovens we’ve tested](https://healthykitchen101.com/toaster-ovens/reviews/best/large-toaster-ovens/). Even so, its sleek, elongated design fits spaces well, and the polished stainless steel casing is aesthetically pleasing in any kitchen.
@@ -37,15 +37,15 @@ The polished stainless steel Oster TSSTTVFDDG Digital French Door Convection Toa
 Performance: Medium Heat Only
 -----------------------------
 
-performance Scores: **6.4**
+performance Scores: **NaN**
 
-*   Toast (40%) - **6.0**/10
+*   Toast (40%) - **6.0**/undefined
     
-*   Pizza (25%) - **6.3**/10
+*   Pizza (25%) - **6.3**/undefined
     
-*   Whole Roasted Chicken (25%) - **8.1**/10
+*   Whole Roasted Chicken (25%) - **8.1**/undefined
     
-*   Baked French Fries (10%) - **4.1**/10
+*   Baked French Fries (10%) - **4.1**/undefined
     
 
 For roasting (which doesn’t require high heat) the Oster TSSTTVFDDG did well. However, it took time to reach higher temperatures. Additionally, it didn’t perform well with toast, pizza, and especially french fries that require higher temperatures for longer.
@@ -209,13 +209,13 @@ Texture-wise, the fries were soft but dry on the outside, barely enough for a 5.
 Design: Aesthetic Only
 ----------------------
 
-design Scores: **6.7**
+design Scores: **NaN**
 
-*   Exterior (20%) - **8.0**/10
+*   Exterior (20%) - **8.0**/undefined
     
-*   Interior (30%) - **7.0**/10
+*   Interior (30%) - **7.0**/undefined
     
-*   Build Quality (50%) - **6.0**/10
+*   Build Quality (50%) - **6.0**/undefined
     
 
 The Oster TSSTTVFDDG is one of the largest capacity ovens we have tested. However, it lacks premium features often seen in the same price range including having more than 3 rack levels or a non-stick interior,e.g., the [Breville BOV845BSS](https://healthykitchen101.com/toaster-ovens/reviews/breville/breville-smart-oven-pro/). Features worth mentioning are good ventilation on all sides and the upper heating element.
@@ -425,13 +425,13 @@ Unfortunately, we found that the flat buttons often required some force to regis
 Usability: Could Be Improved
 ----------------------------
 
-usability Scores: **6.4**
+usability Scores: **NaN**
 
-*   User Control (30%) - **8.0**/10
+*   User Control (30%) - **8.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **7.5**/10
+*   Cleanability (20%) - **7.5**/undefined
     
 
 While the Oster TSSTTVFDDG is straightforward to use, it lacks premium features expected of similar-priced ovens including light and convection toggles as well as safety mechanisms.
