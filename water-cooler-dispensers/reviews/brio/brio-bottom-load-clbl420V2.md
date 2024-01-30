@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **3.2**/10
+*   Performance (50%) - **3.2**/undefined
     
-*   Design (25%) - **5.9**/10
+*   Design (25%) - **5.9**/undefined
     
-*   Ease of Use (25%) - **6.8**/10
+*   Ease of Use (25%) - **6.8**/undefined
     
 
 We purchased the Brio 400 in order to evaluate a more budget-priced [bottom loading water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/). Of the initial nine machines we purchased for testing, only the Brio 400 arrived not in working order.
@@ -35,11 +35,11 @@ Brio is a fairly well-established name in water cooler dispensers. They carry a 
 Performance
 -----------
 
-performance Scores: **3.2**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **8.0**/10
+*   Hot Water Test (40%) - **8.0**/undefined
     
-*   Cold Water Test (60%) - **0**/10
+*   Cold Water Test (60%) - **0**/undefined
     
 
 The Brio 400 was one of our major disappointments in the testing room. Not only was the build quality sub standard, but parts of the design were flawed and the performance wanting. 
@@ -109,15 +109,15 @@ We hope to test other Brio models to gauge more accurately the quality and perfo
 Design
 ------
 
-design Scores: **5.9**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **5.0**/10
+*   Build Quality (45%) - **5.0**/undefined
     
-*   Panel & Indicators (25%) - **5.5**/10
+*   Panel & Indicators (25%) - **5.5**/undefined
     
-*   Water Inlet Controls (20%) - **7.5**/10
+*   Water Inlet Controls (20%) - **7.5**/undefined
     
-*   Drip Tray (10%) - **7.3**/10
+*   Drip Tray (10%) - **7.3**/undefined
     
 
 The Brio 400 is a machine lacking in design foresight, especially concerning the working panel indicators and buttons. The build quality of the cabinet door and the drip tray were noticeably poor. On the other hand, we appreciated the color design with light gray offset against the black panel and sides.
@@ -275,15 +275,15 @@ The plug of the Brio 400 water cooler dispenser is the required three-pronged pl
 Ease of Use
 -----------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **6.5**/10
+*   Dispensing Water (40%) - **6.5**/undefined
     
-*   Hot Water Safety (15%) - **7.5**/10
+*   Hot Water Safety (15%) - **7.5**/undefined
     
-*   Bottle / Filter Changing (15%) - **8.0**/10
+*   Bottle / Filter Changing (15%) - **8.0**/undefined
     
-*   Cleaning (30%) - **6.3**/10
+*   Cleaning (30%) - **6.3**/undefined
     
 
 The Brio 400 only measured up to competitive standards, as per our [evaluation criteria](https://healthykitchen101.com/water-cooler-dispensers/tests/), when it came to changing the water bottle. The buttons were somewhat clunky, the hot water safety uncomfortable to operate, and sanitary design was not ideal. We also encountered issues with periodic descaling.
