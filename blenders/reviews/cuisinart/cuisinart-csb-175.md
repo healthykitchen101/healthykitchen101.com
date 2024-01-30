@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.4**/10
+*   Performance (50%) - **7.4**/undefined
     
-*   Design (20%) - **8.5**/10
+*   Design (20%) - **8.5**/undefined
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.8**/undefined
     
 
-In our tests, the Cuisinart CSB-175 Smart Stick pureéd all the ingredients to create an acceptably silky soup in just 30 seconds, which was not always possible with some of its mid-range counterparts. The smoothie wasn’t blended to perfection, but its texture was above average with just a small mattering of kales. 
+In our tests, the Cuisinart CSB-175 Smart Stick pureéd all the ingredients to create an acceptably silky soup in just 30 seconds, which was not always possible with some of its mid-range counterparts. The smoothie wasn’t blended to perfection, but its texture was above average with just a small mattering of kales.
 
 The lack of a whisk attachment prevented it from passing the egg-beating test, but this didn’t impair our blender’s advantage in preparing mayonnaise. The excellent ability to grind almonds even boosted its appeal a bit further.
 
@@ -37,17 +37,17 @@ We’ve been reviewing blenders for years and the increasing demand for quick, g
 Performance: Pretty Good
 ------------------------
 
-performance Scores: **7.4**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.0**/10
+*   Hot Soup Purée (35%) - **7.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **7.5**/10
+*   Frozen Fruit Smoothie (30%) - **7.5**/undefined
     
-*   Mayonnaise (15%) - **9.3**/10
+*   Mayonnaise (15%) - **9.3**/undefined
     
-*   Almond Milk (15%) - **9.0**/10
+*   Almond Milk (15%) - **9.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 As a [mid-powered blender](https://healthykitchen101.com/blenders/reviews/best/), the Cuisinart Smart Stick is designed for certain kinds of blended drinks, including cocktails, milkshakes, and fresh fruit smoothies. It can even handle thicker blends such as hummus or sorbet without too much trouble.
@@ -117,15 +117,15 @@ Of all the blenders we tested, only machines with whisk attachments could draw e
 Design: Thoughtful-Crafted for the Price
 ----------------------------------------
 
-design Scores: **8.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.5**/10
+*   Build Quality (60%) - **8.5**/undefined
     
-*   Blending Shaft (30%) - **8.0**/10
+*   Blending Shaft (30%) - **8.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 This Cuisinart is a well-priced device to suit the needs of many users, though there are some limitations in its overall design that entirely dissatisfied us. Like most immersion blenders, it can only run for a limited amount of time (60 seconds) before needing a break to prevent its motor overheating.
@@ -260,15 +260,15 @@ The Cuisinart doesn’t come with any accessories other than the 24-oz pitcher.
 Usability: Fine and Not Really Impressive
 -----------------------------------------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.6**/10
+*   Ease of Use (60%) - **7.6**/undefined
     
-*   Blade Assembly (10%) - **9.0**/10
+*   Blade Assembly (10%) - **9.0**/undefined
     
-*   Handling (20%) - **8.0**/10
+*   Handling (20%) - **8.0**/undefined
     
-*   Cleanability (10%) - **7.5**/10
+*   Cleanability (10%) - **7.5**/undefined
     
 
 Cuisinart packs its blender with many unique features to create the most enjoyable blending experience for the users, and we appreciate this effort. However, none of its things really impress us, with the exception of the blender’s cleanability.
