@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.2**/10
+*   Performance (50%) - **7.2**/undefined
     
-*   Design (20%) - **8.6**/10
+*   Design (20%) - **8.6**/undefined
     
-*   Usability (30%) - **6.6**/10
+*   Usability (30%) - **6.6**/undefined
     
 
 The Inkbird Plus INK-VS01 is a good option if you want a compact sealer that gets the job done decently. While it's not without its flaws, such as its somewhat cheap-looking appearance given the price and room for improvement in terms of user-friendliness, overall, the Inkbird does a commendable job with this sealer, offering a [great sealing solution](https://healthykitchen101.com/vacuum-sealers/reviews/best/) that won't take up much space on your countertop.
@@ -30,11 +30,11 @@ With a brand-new unit in our lab, it's only fair to put it through rigorous test
 Performance
 -----------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **8.0**/10
+*   Dry Food Test (60%) - **8.0**/undefined
     
-*   Moist Food Test (40%) - **6.0**/10
+*   Moist Food Test (40%) - **6.0**/undefined
     
 
 Our reviewers were pleasantly surprised by the Inkbird Plus INK-VS01 in this area. Even though it's small in size, this sealer boasts impressive power. It performed excellently in both of our tests, earning a solid score of 7.2/10. It impressed us with its strong suction during the dry test and its gentle yet effective suction power in the moist food test.
@@ -74,15 +74,15 @@ So, if you’re expecting to pack a lot of moist or soft food with your next sea
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
-*   Control Panel (20%) - **9.0**/10
+*   Control Panel (20%) - **9.0**/undefined
     
-*   Lid (20%) - **9.0**/10
+*   Lid (20%) - **9.0**/undefined
     
-*   Extra Features (10%) - **5.0**/10
+*   Extra Features (10%) - **5.0**/undefined
     
 
 For a sealer with such performance, the Inkbird Plus INK-VS01 has a very compact form factor, which is perfect if you don’t have a lot of countertop real estate. While the sealer feels slightly cheap, all its components are solid, and there are no significant design flaws. However, its lack of extra features is a downside, albeit understandable given its small size.
@@ -172,13 +172,13 @@ Additionally, inside the vacuum channel, you'll discover a pair of bag hooks tha
 Usability
 ---------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **6.0**/10
+*   Ease of Use (70%) - **6.0**/undefined
     
-*   Safety & Noise (15%) - **9.0**/10
+*   Safety & Noise (15%) - **9.0**/undefined
     
-*   Indicator Lights and Chime (15%) - **7.0**/10
+*   Indicator Lights and Chime (15%) - **7.0**/undefined
     
 
 The Inkbird Plus INK-VS01 could be easier to use, especially when closing the lid with one hand. Aligning the bag and sealing it can be challenging due to the narrow vacuum channel and compact size. This led to some sealing issues during our tests. On the bright side, it's safe and quiet, though it doesn't have a chime feature.
