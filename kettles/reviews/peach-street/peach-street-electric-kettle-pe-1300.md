@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.0**/10
+*   Performance (40%) - **8.0**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (35%) - **8.0**/10
+*   Usability (35%) - **8.0**/undefined
     
 
 For an electric kettle that has no unique features, the Peach Street PE-1300 was quite the performer with how fast and quiet it boils water. It did consume slightly more energy than some top-listers but that’s only nitpicking from us.
@@ -35,15 +35,15 @@ From the first look, the kettle has a relatively standard design. And, our first
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **8.0**/10
+*   Boiling Time (45%) - **8.0**/undefined
     
-*   Energy Consumption (30%) - **7.6**/10
+*   Energy Consumption (30%) - **7.6**/undefined
     
-*   Noise Level (15%) - **9.3**/10
+*   Noise Level (15%) - **9.3**/undefined
     
-*   Keep Warm (10%) - **7.5**/10
+*   Keep Warm (10%) - **7.5**/undefined
     
 
 The Peach Street Electric Glass Kettle had good scores in the tests of Boiling Time, and Keep Warm. It was even excellent in the Noise Level test. Its Energy Consumption score wasn’t as high as some of its competitors though.
@@ -95,15 +95,15 @@ Although the glass carafe of the Peach Street doesn’t have the best properties
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 Despite its standard design, the Peach Street Electric Glass Kettle still has most of the desirable features like water-level markings, an LED ring, and a removable mesh filter. The lid would be improved with a stainless steel interior and a rubber band around its circumference but it wasn’t a problem.
@@ -216,13 +216,13 @@ The Peach Street has a 29.92 inch round power cord, which should be plenty enoug
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **9.0**/10
+*   Ease of Use (50%) - **9.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 The Peach Street Electric Glass Kettle checked all the boxes when it comes to how easy it is to use. It also takes no effort to clean thanks to its large lid opening and removable limescale filter.
@@ -243,7 +243,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
