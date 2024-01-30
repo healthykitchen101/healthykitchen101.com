@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **8.6**/10
+*   Performance (60%) - **8.6**/undefined
     
-*   Design (20%) - **9.3**/10
+*   Design (20%) - **9.3**/undefined
     
-*   Usability (20%) - **8.0**/10
+*   Usability (20%) - **8.0**/undefined
     
 
 Among the mid-tier blenders we tested, the NutriBullet ZNBF30500Z emerged as the top performer. Although nut butter may not be its forte, this blender boasts notable power and an optimal rotation speed, allowing it to produce velvety smooth smoothies packed with fresh ingredients, frozen fruits, or leafy vegetables. Even the most challenging ingredients, like raw almonds, dried blueberries, oatmeal, and whole ice cubes, are no match for this machine. Consequently, the protein shake and crushed ice it produced were nothing short of impressive.
@@ -36,17 +36,17 @@ This [high-performance blender](https://healthykitchen101.com/blenders/reviews/b
 Performance
 -----------
 
-performance Scores: **8.6**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **9.7**/10
+*   Smoothie (35%) - **9.7**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **8.8**/10
+*   Frozen Fruit Smoothie (20%) - **8.8**/undefined
     
-*   Protein Shake (15%) - **9.1**/10
+*   Protein Shake (15%) - **9.1**/undefined
     
-*   Almond Butter (20%) - **5.5**/10
+*   Almond Butter (20%) - **5.5**/undefined
     
-*   Crushed Ice (10%) - **10**/10
+*   Crushed Ice (10%) - **10**/undefined
     
 
 The NutriBullet ZNBF30500Z isn’t great at making nut butter. In our test, it took significantly longer than average to turn 2 cups of almonds into a spreadable consistency. And even then, the final result was not as smooth as those produced by its faster rivals, like the [Oster Pro](https://healthykitchen101.com/blenders/reviews/oster/oster-pro-1200-blender/). 
@@ -134,13 +134,13 @@ With its superior ice-crushing prowess, the NutriBullet ZNBF30500Z stands out as
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Blades (25%) - **10**/10
+*   Blades (25%) - **10**/undefined
     
-*   Control Panel (15%) - **9.5**/10
+*   Control Panel (15%) - **9.5**/undefined
     
 
 The NutriBullet ZNBF30500Z successfully merges aesthetics with functionality. Its sleek, contemporary look is complemented by a sturdy construction and a minimalist interface. Despite the powerful 1200W motor, which is typically associated with larger models, it also sits on a relatively compact footprint. It’s a refreshing deviation from the more common "bigger-is-stronger" design ethic. As a result, the blender not only delivers potent blending power but also conserves valuable kitchen space. So far, we haven’t had any serious complaints about its overall design or build quality, especially considering its price.
@@ -312,15 +312,15 @@ On the other hand, the NutriBullet's shorter, wider container doesn’t match as
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **8.5**/10
+*   Ease of Blend (40%) - **8.5**/undefined
     
-*   Noise Level (20%) - **7.0**/10
+*   Noise Level (20%) - **7.0**/undefined
     
-*   Assembly (15%) - **8.0**/10
+*   Assembly (15%) - **8.0**/undefined
     
-*   Cleanability (25%) - **8.0**/10
+*   Cleanability (25%) - **8.0**/undefined
     
 
 The NutriBullet blender's control panel is very user-friendly. We could quickly grasp its workings without much effort. The broad, compact form of the container is also easy to clean. However, multiple grooves at its bottom can be a little frustrating to scrub. Food remnants may linger in these areas, potentially leading to odors if not cleaned thoroughly.
