@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.7**/10
+*   Performance (50%) - **5.7**/undefined
     
-*   Design (20%) - **6.0**/10
+*   Design (20%) - **6.0**/undefined
     
-*   Usability (30%) - **6.4**/10
+*   Usability (30%) - **6.4**/undefined
     
 
 This Hamilton Beach 2 speed hand blender is by far the worst immersion blender we’ve tested. It feels cheap, looks flimsy, and is not easy to use. Although it did a fine job of preparing baby food, its 225-watt motor wasn’t strong enough to churn through solid ingredients like frozen fruits or raw root veggies.
@@ -33,17 +33,17 @@ After our course of hands-on testing, however, this machine turned out to be nei
 Performance
 -----------
 
-performance Scores: **5.7**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.0**/10
+*   Hot Soup Purée (35%) - **8.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **5.3**/10
+*   Frozen Fruit Smoothie (30%) - **5.3**/undefined
     
-*   Mayonnaise (15%) - **0**/10
+*   Mayonnaise (15%) - **0**/undefined
     
-*   Almond Milk (15%) - **6.8**/10
+*   Almond Milk (15%) - **6.8**/undefined
     
-*   Whipped Egg-Whites (5%) - **5.0**/10
+*   Whipped Egg-Whites (5%) - **5.0**/undefined
     
 
 The Hamilton Beach is designed to be an affordable solution for heavy-duty tasks, but in practice, it ends up a flimsy stick of plastic with low efficiency and inconsistent performance, especially when it comes to processing solid ingredients. If you’re expecting its portability and cheapness to make it fun to use, then you might be surprised to learn its performance was at best dreary in almost all of our tests. For superior alternatives, we recommend considering the [Braun MultiQuick-5](https://healthykitchen101.com/blenders/reviews/braun/braun-multiquick-5-blender/), [Vitamix 5-speed](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/), or [cordless Chefman](https://healthykitchen101.com/blenders/reviews/chefman/chefman-cordless/) blenders.
@@ -115,15 +115,15 @@ However, strengthening that network for a good stiff peak can be a lengthy proce
 Design
 ------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.0**/10
+*   Build Quality (60%) - **6.0**/undefined
     
-*   Blending Shaft (30%) - **6.5**/10
+*   Blending Shaft (30%) - **6.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 Efficiency aside, the Hamilton Beach’s compact footprint makes it suitable for those who have limited storage space and want to prepare small batches of puree at a time. Still, it is so poorly constructed that we couldn’t consider it a reliable blender. Our Hamilton actually broke right after it finished the final test. 
@@ -253,15 +253,15 @@ We haven’t tested this attachment on a specific recipe, but upon activating it
 Usability
 ---------
 
-usability Scores: **6.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **5.8**/10
+*   Ease of Use (60%) - **5.8**/undefined
     
-*   Blade Assembly (10%) - **8.0**/10
+*   Blade Assembly (10%) - **8.0**/undefined
     
-*   Handling (20%) - **6.5**/10
+*   Handling (20%) - **6.5**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 When we talk about ease of blending, we mean the immersion blender in question has practical controls, good cleanability, and a user-friendly design —one that allows you to operate your device with minimum distraction. That said, none of the Hamilton Beach 59765 features meet such criteria. In spite of its simple design, it doesn’t work as comfortably as we’d like. 
