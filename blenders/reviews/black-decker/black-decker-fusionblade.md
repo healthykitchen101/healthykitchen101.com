@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.1**/10
+*   Performance (60%) - **6.1**/undefined
     
-*   Design (25%) - **7.4**/10
+*   Design (25%) - **7.4**/undefined
     
-*   Usability (15%) - **7.0**/10
+*   Usability (15%) - **7.0**/undefined
     
 
 Considering its affordable price, **the BLACK+DECKER FusionBlade** is a fairly impressive single-serving blender. Its appeal isn’t just about the stylish appearance and compact footprint. It has overall quality well covered too.
@@ -33,15 +33,15 @@ We loved the BLACK+DECKER FusionBlade from the get-go but had a few concerns abo
 Performance: Just Fine for Simple Blends
 ----------------------------------------
 
-performance Scores: **6.1**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **7.2**/10
+*   Protein Shake (40%) - **7.2**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **6.0**/10
+*   Frozen Fruit Smoothie (30%) - **6.0**/undefined
     
-*   Fibrous Greens (20%) - **7.0**/10
+*   Fibrous Greens (20%) - **7.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 The BLACK+DECKER FusionBlade performed acceptably in our tests, but didn’t blow our socks off. Although it wasn’t as quick as more [robust blenders](https://healthykitchen101.com/blenders/reviews/best/), its blended mixture, either packed with frozen fruits or raw nuts, was almost as smooth. We were disappointed when our leafy veggies couldn’t be blended to the finest consistency in the third test, but we still got better results than with other blenders in this price range.
@@ -95,13 +95,13 @@ Overall, the BLACK+DECKER FusionBlade’s performance was not all bad, and we re
 Design: Everything Comes Standard
 ---------------------------------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blades (20%) - **6.0**/10
+*   Blades (20%) - **6.0**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 You may fall in love with this blender the moment you lay eyes on it. Compact and beautiful, the BLACK+DECKER FusionBlade is decently made and equipped for the price. It’s refined and as simple to use as any personal blender out there.
@@ -215,13 +215,13 @@ There is one button in the front, which you’ll use to switch the motor on. It 
 Usability
 ---------
 
-usability Scores: **7.0**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **5.3**/10
+*   Hands-Free Operation (60%) - **5.3**/undefined
     
-*   Assembly (20%) - **10**/10
+*   Assembly (20%) - **10**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 Given its simplicity, the BLACK+DECKER blender is easy to understand in the first few minutes. Cleaning it, on the other hand, isn’t as easy. The blending cup is too narrow for your hands to reach inside, but you can entirely remove food tailings from any hard-to-reach spots using a bottle brush.
