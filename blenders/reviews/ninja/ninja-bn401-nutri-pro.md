@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.5**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.4**/10
+*   Performance (60%) - **9.4**/undefined
     
-*   Design (25%) - **9.6**/10
+*   Design (25%) - **9.6**/undefined
     
-*   Usability (15%) - **9.7**/10
+*   Usability (15%) - **9.7**/undefined
     
 
 The Ninja BN401 Nutri Pro is among our [top-rated personal blenders](https://healthykitchen101.com/blenders/reviews/best/personal-blenders/), tackling heavy-duty blending performance with confidence and consistency. Raw nuts and dried fruits were not its strongest point, but this blender will still do the job if it’s not under time constraints. In more common tasks like pulverizing frozen ingredients, liquefying leafy greens, or crushing ice cubes, your Ninja Nutri Pro will create a smooth, even blend in seconds.
@@ -32,15 +32,15 @@ At the time of writing, the Ninja BN401 Nutri Pro is the newest product in [Ninj
 Performance: Top-Notch Efficiency
 ---------------------------------
 
-performance Scores: **9.4**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **8.8**/10
+*   Protein Shake (40%) - **8.8**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **10**/10
+*   Frozen Fruit Smoothie (30%) - **10**/undefined
     
-*   Fibrous Greens (20%) - **9.5**/10
+*   Fibrous Greens (20%) - **9.5**/undefined
     
-*   Crushed Ice Cubes (10%) - **10**/10
+*   Crushed Ice Cubes (10%) - **10**/undefined
     
 
 The Ninja BN401 Nutri Pro doesn’t just look good. In our tests, it did a lot of things well, rarely compromising the way many single-serving blenders do. We made a quick protein shake from whole-food ingredients, a fibrous mixture with full nutrients, and a smoothie that couldn’t be silkier. But where our Ninja BN401 Nutri Pro really stood out was its ability to crush ice—you can fully pulverize 6 oz of whole ice cubes in only 14 seconds.
@@ -104,13 +104,13 @@ The blade spins very fast and is sturdily designed. This, combined with a mighty
 Design
 ------
 
-design Scores: **9.6**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blades (20%) - **9.5**/10
+*   Blades (20%) - **9.5**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The Ninja BN401 Ninja Pro looks sporty on our kitchen counter. Its appeal is a combination of elegant style and sturdiness. The quality of build materials is impressively high and there is a wealth of hi-tech features so the price seems justified. Some people may find the two Auto-iQ presets convenient, but we don’t think they make much of a difference.
@@ -232,13 +232,13 @@ _This Ninja BN401’s personality reminds us of the_ [_Ninja Nutri Auto-iQ_](htt
 Usability
 ---------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **10**/10
+*   Hands-Free Operation (60%) - **10**/undefined
     
-*   Assembly (20%) - **9.5**/10
+*   Assembly (20%) - **9.5**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 Visually, much of this Ninja’s appeal comes from its Auto-iQ technology. To create a level playing field, however, we didn’t use this advanced feature in our scored tests. Instead, we employed the manual setting that is common to most personal blenders. But regardless of the setting, this blender is perfectly pleasant to use. It allows for entirely hands-free operation and its control buttons are very responsive.
