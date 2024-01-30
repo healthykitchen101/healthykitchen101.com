@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.9**/10
+*   Performance (40%) - **7.9**/undefined
     
-*   Design (25%) - **7.5**/10
+*   Design (25%) - **7.5**/undefined
     
-*   Usability (35%) - **7.5**/10
+*   Usability (35%) - **7.5**/undefined
     
 
 The Amazon Basics has just the right features to be a simple and easy-to-use electric kettle. Besides a glass carafe, there’s nothing fancy about its design. Nevertheless, its performance scores are actually quite high across the board, making it a good and low-cost choice.
@@ -31,15 +31,15 @@ With our electric kettle series in hand, we bought the Amazon Basics Electric Gl
 Performance
 -----------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **7.8**/10
+*   Boiling Time (45%) - **7.8**/undefined
     
-*   Energy Consumption (30%) - **8.0**/10
+*   Energy Consumption (30%) - **8.0**/undefined
     
-*   Noise Level (15%) - **8.5**/10
+*   Noise Level (15%) - **8.5**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 For such a standard kettle as the Amazon Basics, performance is what you should be focused on. Looking at the scores, we’d say it delivered well on boiling time, energy consumption, noise level, and heat retention.
@@ -91,15 +91,15 @@ The glass carafe of the Amazon Basics doesn’t have the best material for heat 
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **8.0**/10
+*   Lid (20%) - **8.0**/undefined
     
-*   Base (20%) - **6.0**/10
+*   Base (20%) - **6.0**/undefined
     
 
 The Amazon Basics has a standard design, and we don’t mean that as a criticism. All the features of its carafe, spout, handle, lid, base, and power cord do well what they are meant to do. The only thing subpar about the kettle is the slightly wobbly kettle-to-base assembly.
@@ -214,13 +214,13 @@ The Amazon Basics has a 29.72-inch flat power cord, which should be enough for h
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 The Amazon Basics doesn’t try to be anything more than it is— a standard and easy-to-use electric kettle. Therefore, the kettle doesn’t create any unnecessary difficulties in controlling and using it.
@@ -241,7 +241,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
