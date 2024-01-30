@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **6.5**/10
+*   Brew Quality (50%) - **6.5**/undefined
     
-*   Design (15%) - **7.2**/10
+*   Design (15%) - **7.2**/undefined
     
-*   Ease of Use (35%) - **9.7**/10
+*   Ease of Use (35%) - **9.7**/undefined
     
 
 The Hario brand is a respected name for quality coffeeware. For this reason, we chose to do a hands-on review of their cold brew coffee maker, **the Hario Mizudashi**. Though the device looks nice, we found the Hario brew quality weak, the flavor sub-par, and the design flawed. In particular, since the brew decanter isn’t airtight, it’s not a great thing to have in your refrigerator. While many of Hario’s products are top class, we do not recommend the Mizudashi as a worthwhile cold brew coffee maker.
@@ -30,13 +30,13 @@ The Hario Mizudashi is an attractive cold coffee brewer. It’s quite slender, t
 Brew Quality
 ------------
 
-performance Scores: **6.5**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.0**/10
+*   Bouquet (10%) - **7.0**/undefined
     
-*   Drinkability (70%) - **6.0**/10
+*   Drinkability (70%) - **6.0**/undefined
     
-*   Sediment (20%) - **8.0**/10
+*   Sediment (20%) - **8.0**/undefined
     
 
 The Hario Mizudashi was an overall poor performer. The brew lacked complexity and had an overall sourish taste. This was largely down to a short filter, a poor brew ratio, and a non-airtight vessel. One way to improve the brew quality would be hot blooming where you pour hot water over the grounds and allow to bloom for 30 to 40 seconds before pouring cold water.
@@ -60,13 +60,13 @@ The Hario produced noticeable sediment, but most of it is relatively fine with o
 Design
 ------
 
-design Scores: **7.2**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **7.0**/10
+*   Stopper / Lid (30%) - **7.0**/undefined
     
-*   Filter (40%) - **6.0**/10
+*   Filter (40%) - **6.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 The Hario scored well for its build quality, but it fell short on the key fundamentals of the lid and filter design. Overall, the design did not contribute to producing a good quality brew.
@@ -132,13 +132,13 @@ The Hario Mizudashi is well built. The brew decanter is elegant and the plastic 
 Ease of Use
 -----------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **10**/10
+*   Brewing (45%) - **10**/undefined
     
-*   Decanting (35%) - **10**/10
+*   Decanting (35%) - **10**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 The Hario Mizudashi is really easy to use because it requires little effort. Additionally, it is easy to brew without having to measure out the grounds or water. The tall size is a little troublesome when hand washing, but everything is dishwasher safe. Our key issue, however, is with the non-airtight design.
