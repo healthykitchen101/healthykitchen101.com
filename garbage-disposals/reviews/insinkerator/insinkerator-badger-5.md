@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.0**
+Overall Score: **NaN**
 
-*   Performance (60%) - **1.6**/10
+*   Performance (60%) - **1.6**/undefined
     
-*   Design (25%) - **7.5**/10
+*   Design (25%) - **7.5**/undefined
     
-*   Usability (15%) - **7.6**/10
+*   Usability (15%) - **7.6**/undefined
     
 
 The InSinkErator Badger 5 1/2 Horsepower is a space-saving garbage disposal with a durable full-metal build. It has one of the most compact designs on the market, yet its grind chamber is the largest in the small disposal category.
@@ -36,13 +36,13 @@ InSinkerator Badger 5 Garbage Disposal Review Video
 Performance: Under Average
 --------------------------
 
-performance Scores: **1.6**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **3.2**/10
+*   Scrap Mix (50%) - **3.2**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **0**/10
+*   Raw Chicken Scraps (25%) - **0**/undefined
     
 
 To put it simply, the InSinkErator Badger 5 disappointed us. The disposal struggled through our entire process; it flat out failed in our two toughest tests and barely pulled through in the least challenging one. Although the results in the easy test were technically passable, it was difficult for us to decide whether the disposal was capable enough.
@@ -142,13 +142,13 @@ The Badger 5 was somewhat successful at crushing hard chicken bones, but it neve
 Design: Strong but Outdated
 ---------------------------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **6.5**/10
+*   Grind Chamber (30%) - **6.5**/undefined
     
-*   Motor (30%) - **7.0**/10
+*   Motor (30%) - **7.0**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 The InSinkErator Badger 5 is renowned for its well-crafted full-metal build. This hefty casing, though heavy, is physically strong and long-lasting. The disposal enjoys a spacious holding chamber for its power rating yet still hangs neatly under the sink.
@@ -285,15 +285,15 @@ The steel casing has a good-looking paint job that doesn’t scratch easily. The
 Usability: Not as Good as We Thought
 ------------------------------------
 
-usability Scores: **7.6**
+usability Scores: **NaN**
 
-*   Installation (30%) - **8.0**/10
+*   Installation (30%) - **8.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **7.0**/10
+*   Smooth Operation (25%) - **7.0**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 Our experience with the Insinkerator Badger 5 has not been the smoothest. The disposal’s results in performance testing were surprisingly disappointing and it also jammed during one of our procedures. But to be fair, our tests were designed partly to push limits. If you don’t cook much and most of your kitchen scraps are from vegetables and fruits, the disposal is decent.
