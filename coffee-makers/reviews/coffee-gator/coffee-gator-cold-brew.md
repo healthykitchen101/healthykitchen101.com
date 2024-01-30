@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.2**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.2**/10
+*   Brew Quality (50%) - **7.2**/undefined
     
-*   Design (15%) - **8.9**/10
+*   Design (15%) - **8.9**/undefined
     
-*   Ease of Use (35%) - **9.2**/10
+*   Ease of Use (35%) - **9.2**/undefined
     
 
 Coffee Gator is a good value cold brew coffee maker. It comes with a personalized message and an extended warranty with discounts on future purchases upon registration. The airtight lid is well-designed for easy pouring and the silicone funnel and measuring spoon make all the difference with brewing. The carafe is a good fit for any kind of refrigerator door, but the plastic-framed filter may not be for everyone. The brew itself is strong enough to drink as it is but lacks complexity and character. All in all, it’s an average-ranking brewer, but the extras are nice.
@@ -30,13 +30,13 @@ Coffee Gator is a small coffee brand that manufactures other manual coffee brewe
 Brew Quality
 ------------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.0**/10
+*   Bouquet (10%) - **7.0**/undefined
     
-*   Drinkability (70%) - **7.0**/10
+*   Drinkability (70%) - **7.0**/undefined
     
-*   Sediment (20%) - **8.0**/10
+*   Sediment (20%) - **8.0**/undefined
     
 
 The brew quality of the Coffee Gator was fairly average and much in line with other immersion brewers with a similar ratio. The brew lacked complexity overall but was drinkable enough without dilution. Hot blooming may be an option, but many people prefer a stainless steel filter for this.
@@ -60,13 +60,13 @@ After decanting the brew, there was a moderate amount of fine granular sediment 
 Design
 ------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **8.0**/10
+*   Filter (40%) - **8.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 The overall design of the Coffee Gator is simple and practical. The way the lid works is particularly nice, but the handle needs rethinking. The stainless steel measuring spoon and silicone funnel are also quite versatile in and of themselves.
@@ -137,13 +137,13 @@ The overall build quality is really good. The carafe is solid and the lid an exc
 Ease of Use
 -----------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.5**/10
+*   Brewing (45%) - **9.5**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **9.0**/10
+*   Cleaning and Storage (20%) - **9.0**/undefined
     
 
 Coffee Gator is exceptionally easy to use because of the included measuring spoon and silicone pouring funnel. The filter attaches securely and effortlessly, and the lid design is most practical. Hand cleaning is also no issue.
