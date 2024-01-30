@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **5.9**/10
+*   Performance (60%) - **5.9**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (15%) - **7.4**/10
+*   Usability (15%) - **7.4**/undefined
     
 
 For an affordable alternative, the Waste King L1001 1/2 HP Garbage Disposal offers useful values. Its clever design with a compact body and a highly efficient motor allows the disposal to help out in kitchens of different sizes.
@@ -32,13 +32,13 @@ Based on its specifications alone, the Waste King L1001 1/2 HP Garbage Disposal 
 Performance
 -----------
 
-performance Scores: **5.9**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **5.9**/10
+*   Scrap Mix (50%) - **5.9**/undefined
     
-*   Raw Fish Scraps (25%) - **5.9**/10
+*   Raw Fish Scraps (25%) - **5.9**/undefined
     
-*   Raw Chicken Scraps (25%) - **5.7**/10
+*   Raw Chicken Scraps (25%) - **5.7**/undefined
     
 
 Although the L1001 did not have the best runs out of the twenty models we were testing, it performed admirably for a small disposal. In the tests, it handled a wide range of kitchen scraps quite effortlessly despite the toppling amount. And as anticipated, the disposal failed to deliver safe output with raw meat scraps.
@@ -140,13 +140,13 @@ Compared to what the L1001 delivered with the raw fish scraps test, it did have 
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **6.5**/10
+*   Grind Chamber (30%) - **6.5**/undefined
     
-*   Motor (30%) - **8.5**/10
+*   Motor (30%) - **8.5**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 If it wasn’t for the easily scratchable coat of paint, the L1001 would have been perfect. Admittedly, it isn’t a heavily featured product, but for a compact and affordable garbage disposal, it offers a good extent of practicality.
@@ -274,15 +274,15 @@ The Waste King L1001 is a well-made product with securely fitted details and qua
 Usability
 ---------
 
-usability Scores: **7.4**
+usability Scores: **NaN**
 
-*   Installation (30%) - **10**/10
+*   Installation (30%) - **10**/undefined
     
-*   Ease of Use (40%) - **6.0**/10
+*   Ease of Use (40%) - **6.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 If you’re in need of a quick and capable grinder, the L1001 1/2 HP Garbage Disposal is a promising buy. It’s easy to set up and its grinder performance is not bad at all as long as you don’t abuse it. The disposal is far from perfect; still, its utility in the kitchen is something anyone would benefit from.
