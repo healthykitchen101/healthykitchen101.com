@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.9**/10
+*   Performance (50%) - **5.9**/undefined
     
-*   Design (20%) - **7.2**/10
+*   Design (20%) - **7.2**/undefined
     
-*   Usability (30%) - **7.5**/10
+*   Usability (30%) - **7.5**/undefined
     
 
 The LifeStraw 7-cup water filter pitcher features an excellent system of filters that passed our chlorine reduction and taste and smell tests with flying colors. Its design is not only elegant, but also more secure and sturdy than any other we’ve tested thus far, and we’ve tested a dozen water pitcher filters.
@@ -38,13 +38,13 @@ Spoiler alert: It did, to some extent, but couldn’t make it to our [Best Water
 Performance
 -----------
 
-performance Scores: **5.9**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **9.0**/10
+*   Chlorine (50%) - **9.0**/undefined
     
-*   Flow Rate (40%) - **1.0**/10
+*   Flow Rate (40%) - **1.0**/undefined
     
-*   Taste & Smell (10%) - **10**/10
+*   Taste & Smell (10%) - **10**/undefined
     
 
 Featuring a carbon-ion exchange filter and a membrane microfilter, the LifeStraw was excellent at removing chlorine and producing crisp, clear water. Its faux pas is with the snail-like flow rate that would frustrate even Internet Explorer users.
@@ -86,13 +86,13 @@ Though it did not remove all of the dissolved solids (TDS), the LifeStraw produc
 Design
 ------
 
-design Scores: **7.2**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **8.0**/10
+*   Build Quality (30%) - **8.0**/undefined
     
-*   Conveniences (20%) - **4.0**/10
+*   Conveniences (20%) - **4.0**/undefined
     
-*   Filter (50%) - **8.0**/10
+*   Filter (50%) - **8.0**/undefined
     
 
 The LifeStraw 7-cup pitcher is clearly made of quality materials with great fit and finish. It has a more elegant design than your typical Brita and looks nice on the countertop, but its tall, slender body proved a difficult fit in the fridge. Additionally, the lid has a smart design with a refill door and anti-overflow ridge, but lacks a filter life indicator.
@@ -151,15 +151,15 @@ The LifeStraw is the only pitcher we’ve tested that features a membrane microf
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **6.6**/10
+*   Assembling (20%) - **6.6**/undefined
     
-*   Refilling (30%) - **7.8**/10
+*   Refilling (30%) - **7.8**/undefined
     
-*   Dispensing (40%) - **8.0**/10
+*   Dispensing (40%) - **8.0**/undefined
     
-*   Cleaning (10%) - **6.5**/10
+*   Cleaning (10%) - **6.5**/undefined
     
 
 The LifeStraw 7 cup filter pitcher is small, lightweight, and secure in all parts, ensuring effortless refilling and dispensing. The problem lies at its long, narrow reservoir, which is challenging to detach and complicates the filter replacement process more than necessary. 
