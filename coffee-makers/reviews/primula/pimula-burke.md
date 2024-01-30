@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **6.6**/10
+*   Brew Quality (50%) - **6.6**/undefined
     
-*   Design (15%) - **8.1**/10
+*   Design (15%) - **8.1**/undefined
     
-*   Ease of Use (35%) - **9.2**/10
+*   Ease of Use (35%) - **9.2**/undefined
     
 
 The Primula Burke Delux cold brew coffee maker is obviously a product that took careful thought and attentive design. It’s well-made and very practical. Although a little heavy when full, it’s nicely sized in the medium bracket so neither too big nor too small.
@@ -33,13 +33,13 @@ Primula has a range of cold brew coffee makers, including a handy on-the-go trav
 Brew Quality
 ------------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **6.0**/10
+*   Bouquet (10%) - **6.0**/undefined
     
-*   Drinkability (70%) - **6.0**/10
+*   Drinkability (70%) - **6.0**/undefined
     
-*   Sediment (20%) - **9.0**/10
+*   Sediment (20%) - **9.0**/undefined
     
 
 With its unique and practical design, the Primula was a pleasure to brew with. As such, we expected better results. However, the Primula failed to deliver a worthy cold brew coffee concentrate even when compared to brewers using a similar brew ratio. The design of the filter is fundamentally flawed, and the brew quality ranks as one of the lowest we have tested.
@@ -67,13 +67,13 @@ The Primula recorded very little sediment, which at the same time betrayed its f
 Design
 ------
 
-design Scores: **8.1**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **6.0**/10
+*   Filter (40%) - **6.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 The Primula cold brew coffee maker boasts a couple of design features to really appreciate. One is the plastic jacket which also includes a base cushion, the other is the practical lid design. The height is comparatively low which allows you to brew easily on a refrigerator shelf, or in the door.
@@ -140,13 +140,13 @@ Overall we love the high quality of the materials and the convenient design. The
 Ease of Use
 -----------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **10**/10
+*   Cleaning and Storage (20%) - **10**/undefined
     
 
 The Primula certainly can’t be faulted for its easy-to-use design. Parts are minimal, with only a couple of silicone gaskets to keep an eye on. They fit well, are high quality, and the double lid design is an excellent feature. You can easily remove the inner lid to stir the contents, and also close the spout by turning it.
