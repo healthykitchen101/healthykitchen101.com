@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.3**/10
+*   Performance (50%) - **5.3**/undefined
     
-*   Design (20%) - **8.0**/10
+*   Design (20%) - **8.0**/undefined
     
-*   Usability (30%) - **7.7**/10
+*   Usability (30%) - **7.7**/undefined
     
 
 The ZeroWater 23 water filter dispenser features a substantial filter piece that certifiably does a great job at removing chlorine. True to its name, the filter was able to reduce the Total Dissolved Solid (TDS) down to 0 ppm. However, this performance comes with a cost: the filter’s less-than-stellar flow rate. While the material quality and design are nothing to write home about, it is easy to use as a whole. Its biggest shortcoming is at the spigot, which has an unusual design that can easily lead to spillage during dispensing.
@@ -34,13 +34,13 @@ The 23 cup dispenser has a different size and design, but looks pretty much iden
 Performance
 -----------
 
-performance Scores: **5.3**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.0**/10
+*   Chlorine (50%) - **8.0**/undefined
     
-*   Flow Rate (40%) - **1.0**/10
+*   Flow Rate (40%) - **1.0**/undefined
     
-*   Taste & Smell (10%) - **9.0**/10
+*   Taste & Smell (10%) - **9.0**/undefined
     
 
 The ZeroWater filter piece on this dispenser offers very consistent performance, mirroring the efficacy of the one found in the 10-cup pitcher. It did an excellent job at filtering out a high concentration of chlorine and taking out off-tasting dissolved solids to produce more refreshing water. Unfortunately, its subpar flow rate combined with a small reservoir-to-water-tank ratio, this dispenser will need to be refilled quite often.
@@ -86,13 +86,13 @@ This resulted in a crisp and subtly acidic water taste, which gained a 9/10 from
 Design
 ------
 
-design Scores: **8.0**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **7.5**/10
+*   Build Quality (30%) - **7.5**/undefined
     
-*   Conveniences (20%) - **8.5**/10
+*   Conveniences (20%) - **8.5**/undefined
     
-*   Filter (50%) - **8.0**/10
+*   Filter (50%) - **8.0**/undefined
     
 
 The ZeroWater filter dispenser isn’t made from premium plastic, but it’s reassuringly BPA-free and feels durable. The filter piece is disposable. In general, the filter has a simple and effective design, similar to most dispensers of this type. The differences lie in its inclusion of a TDS meter and an innovative, albeit somewhat functionally problematic spigot design (more on that later.)
@@ -157,15 +157,15 @@ The ZeroWater filter piece can last anywhere from one to several months dependin
 Usability
 ---------
 
-usability Scores: **7.7**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **7.2**/10
+*   Assembling (20%) - **7.2**/undefined
     
-*   Refilling (30%) - **7.7**/10
+*   Refilling (30%) - **7.7**/undefined
     
-*   Dispensing (40%) - **7.7**/10
+*   Dispensing (40%) - **7.7**/undefined
     
-*   Cleaning (10%) - **9.0**/10
+*   Cleaning (10%) - **9.0**/undefined
     
 
 If you’ve ever used a pitcher, you shouldn’t have any problem using the ZeroWater 23 cup dispenser. Assembling, refilling, and cleaning are all straightforward. The spigot design requires you to be a bit attentive while dispensing, but it gets easier with practice. Due to its size and weight, certain people with weaker wrists may have difficulty moving the dispenser around.
