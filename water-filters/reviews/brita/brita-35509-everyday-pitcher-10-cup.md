@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.8**/10
+*   Performance (50%) - **7.8**/undefined
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **7.0**/undefined
     
-*   Usability (30%) - **7.9**/10
+*   Usability (30%) - **7.9**/undefined
     
 
 The Brita Everyday filter pitcher lives up to its reputation. While not as good as others in removing chlorine in our tests, its [NSF-certified filter](https://www.nsf.org/consumer-resources/articles/standards-water-treatment-systems) did the job. The pitcher has an average capacity but excellent flow rate, which allows it to produce more clean water than most other similar capacity pitchers. It may not be the most stylish pitcher, but the Brita build quality is good and looks decent enough on your countertop. Some people may find its lack of convenience features such as a refilling trap door, spigot, or filter life indicator a dealbreaker. However, others will appreciate it as a basic water filter pitcher that does a good job.
@@ -30,13 +30,13 @@ What makes it so popular? Is it because of the Brita moniker, or is this filter 
 Performance
 -----------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **6.0**/10
+*   Chlorine (50%) - **6.0**/undefined
     
-*   Flow Rate (40%) - **10**/10
+*   Flow Rate (40%) - **10**/undefined
     
-*   Taste & Smell (10%) - **8.3**/10
+*   Taste & Smell (10%) - **8.3**/undefined
     
 
 The Brita has an excellent flow rate, but its effectiveness in removing chlorine and improving water aesthetics is not the best. Interestingly, its standard filter was slightly better at lowering the total dissolved solids (TDS) than some newer Brita models with the Maxtra filter core. 
@@ -82,13 +82,13 @@ The pitcher was able to reduce some dissolved solids from the water, a major par
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **8.0**/10
+*   Build Quality (30%) - **8.0**/undefined
     
-*   Conveniences (20%) - **3.0**/10
+*   Conveniences (20%) - **3.0**/undefined
     
-*   Filter (50%) - **8.0**/10
+*   Filter (50%) - **8.0**/undefined
     
 
 As one of the earliest commercial water filter jugs, the Brita Everyday lacks niceties that we take for granted these days, such as a trap door, a light indicator, or spigot. However, it has the strong build and timeless design of a veteran pitcher.
@@ -152,15 +152,15 @@ We also saw black particles of (hopefully) activated charcoal in the reservoir. 
 Usability
 ---------
 
-usability Scores: **7.9**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **8.0**/10
+*   Assembling (20%) - **8.0**/undefined
     
-*   Refilling (30%) - **7.0**/10
+*   Refilling (30%) - **7.0**/undefined
     
-*   Dispensing (40%) - **8.5**/10
+*   Dispensing (40%) - **8.5**/undefined
     
-*   Cleaning (10%) - **8.0**/10
+*   Cleaning (10%) - **8.0**/undefined
     
 
 Even without handy extras, the Brita Everyday is surprisingly user-friendly. It’s easy to use and maintain thanks to its simple, gimmick-free design. The biggest faux pas is the lack of a trap door, which makes refilling inconvenient.
