@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (15%) - **7.2**/10
+*   Design (15%) - **7.2**/undefined
     
-*   Ease of Use (35%) - **7.2**/10
+*   Ease of Use (35%) - **7.2**/undefined
     
 
 The Sharpal sharpener is a device where every strength seems to be accompanied by an equally critical weakness.
@@ -36,15 +36,15 @@ We tested it and here’s our take on the results.
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **6.4**/10
+*   Sharpening Time to Cut a Lemon (35%) - **6.4**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **7.5**/10
+*   Edge Smoothness (20%) - **7.5**/undefined
     
-*   Material Retention (25%) - **6.7**/10
+*   Material Retention (25%) - **6.7**/undefined
     
 
 The Sharpal can rejuvenate your dull knife, leaving it capable of carrying out most food prep tasks, but it takes a while to get there. It also creates a finer edge than most other two-stage devices despite removing quite an alarming amount of steel from the blade.
@@ -82,11 +82,11 @@ We didn’t feel its ceramic rod did anything to refine the edge, but the Sharpa
 Design
 ------
 
-design Scores: **7.2**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **7.2**/10
+*   Build Quality (75%) - **7.2**/undefined
     
-*   Grip (25%) - **7.0**/10
+*   Grip (25%) - **7.0**/undefined
     
 
 The Sharpal has a cool look, and important parts such as the lever and base appear to be made with high-quality materials. However, we think a larger size and more substantial weight would serve it better.
@@ -161,17 +161,17 @@ The suction cup works great on a completely flat and fine surface, such as a mar
 Ease of Use
 -----------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **6.5**/10
+*   Slot Arrangement (20%) - **6.5**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **6.0**/10
+*   Pulling Through (10%) - **6.0**/undefined
     
-*   Stability on a Clean Surface (40%) - **8.0**/10
+*   Stability on a Clean Surface (40%) - **8.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **3.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **3.0**/undefined
     
 
 Effective use of the Sharpal may involve a small learning curve: You’ll have to learn the right direction to pull your knife, what kinds of surfaces are suitable, and how much water you should add to maximize the suction cup’s effectiveness. But even after all that, a smooth sharpening experience wouldn't be guaranteed. 
