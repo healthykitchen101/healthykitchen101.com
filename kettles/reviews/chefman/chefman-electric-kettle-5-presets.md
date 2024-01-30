@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (40%) - **6.7**/10
+*   Performance (40%) - **6.7**/undefined
     
-*   Design (25%) - **7.7**/10
+*   Design (25%) - **7.7**/undefined
     
-*   Usability (35%) - **6.8**/10
+*   Usability (35%) - **6.8**/undefined
     
 
 The Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) is only average in terms of performance but strikingly **inexpensive** for the features it offers. Standing out from similarly-priced kettles, the Chefman has a mesh filter, a tea infuser, and most remarkably, 5 presets for green tea, white tea, Oolong tea, French Press coffee, and Herbal tea or black tea.
@@ -36,15 +36,15 @@ However, upon first interactions, we weren’t happy with its control. The kettl
 Performance
 -----------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **5.6**/10
+*   Boiling Time (45%) - **5.6**/undefined
     
-*   Energy Consumption (30%) - **7.0**/10
+*   Energy Consumption (30%) - **7.0**/undefined
     
-*   Noise Level (15%) - **9.1**/10
+*   Noise Level (15%) - **9.1**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 The Chefman Electric Kettle’s total performance score was quite good but that was mostly because of how quiet it was when boiling water. The kettle had a really slow boiling time—the most important aspect of electric kettles’ performance evaluation. Its energy consumption and ability to keep warm were both average.
@@ -96,15 +96,15 @@ The glass carafe of the Chefman doesn’t have the best material for heat retent
 Design
 ------
 
-design Scores: **7.7**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **5.0**/10
+*   Handle (10%) - **5.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Chefman Electric Kettle was quite well-designed in its carafe, lid, and power base. However, the handle could have better contour and grip support. Its control panel is quite compact, considering the 5 presets it has. Also, the removable tea infuser is quite a rare addition, especially for the kettle’s price.
@@ -223,13 +223,13 @@ The Chefman has a 29.72-inch flat power cord, which should be enough for househo
 Usability
 ---------
 
-usability Scores: **6.8**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The Chefman Electric Kettle’s usability could be improved slightly. The handle was awkward to hold and the cord storage didn’t wrap well. In addition, the carafe’s opening was quite small, making it difficult to fill or clean the kettle.
@@ -250,7 +250,7 @@ Presets: 5
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
