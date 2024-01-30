@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.4**/10
+*   Performance (50%) - **8.4**/undefined
     
-*   Design (20%) - **9.6**/10
+*   Design (20%) - **9.6**/undefined
     
-*   Usability (30%) - **8.4**/10
+*   Usability (30%) - **8.4**/undefined
     
 
 For a blend of efficiency, quality, and affordability, the Ninja CI101 Foodi Power Mixer System is a compelling pick, especially for those on the lookout for a [blender-mixer combo](https://healthykitchen101.com/blenders/reviews/best/). Our hands-on experience reveals this blender excels in nearly every aspect. Its performance is top-notch, offering a smooth and efficient blending experience. From blending frozen fruit smoothies to mixing cookie dough, and even whisking up egg-white to stiff peaks, the Ninja CI101 does it all with precision and ease.
@@ -29,17 +29,17 @@ Always something beyond the ordinary, the Ninja CI101 Foodi Power Mixer System i
 Performance
 -----------
 
-performance Scores: **8.4**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **10**/10
+*   Hot Soup Purée (35%) - **10**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **6.8**/10
+*   Frozen Fruit Smoothie (30%) - **6.8**/undefined
     
-*   Mayonnaise (15%) - **7.8**/10
+*   Mayonnaise (15%) - **7.8**/undefined
     
-*   Almond Milk (15%) - **8.0**/10
+*   Almond Milk (15%) - **8.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **10**/10
+*   Whipped Egg-Whites (5%) - **10**/undefined
     
 
 The Ninja CI101 Foodi is a decent immersion blender that can provide heavy blending performance. Our extensive testing confirmed its exceptional capabilities. With a force so powerful that you can feel it in each rotation, this blender defied all challenges, be it rock-solid frozen fruits to high-fiber ingredients like celery and raw almonds. To harness its full potential, however, ensure you pair the blender's larger head with a suitably sized mixing container. 
@@ -111,15 +111,15 @@ Outfitted with its whisk attachment, the Ninja Foodi shifts its role from immers
 Design
 ------
 
-design Scores: **9.6**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blending Shaft (30%) - **9.5**/10
+*   Blending Shaft (30%) - **9.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The Ninja CI101 Foodi Power Mixer System combines high performance with a sophisticated design. Its build quality is excellent, with a catchy, luxurious visual and a finer refinement than typically seen in this category. However, its larger size does mean that it requires more storage space, and it may not conveniently fit in a drawer, especially considering the array of accessories it includes. It might also make your blender less maneuverable for quick, small tasks or when blending in smaller containers. 
@@ -254,15 +254,15 @@ The Ninja Foodi also comes with a set of beaters as part of its attachment reper
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.1**/10
+*   Ease of Use (60%) - **8.1**/undefined
     
-*   Blade Assembly (10%) - **9.5**/10
+*   Blade Assembly (10%) - **9.5**/undefined
     
-*   Handling (20%) - **9.0**/10
+*   Handling (20%) - **9.0**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 Despite being on the heavier side, the Ninja CI101 is still ranked as our most user-friendly immersion blender. If you're considering this blender, you're choosing a model with straightforward controls, easy-to-change attachments, and a hassle-free cleaning process – all key factors for excellent usability."
