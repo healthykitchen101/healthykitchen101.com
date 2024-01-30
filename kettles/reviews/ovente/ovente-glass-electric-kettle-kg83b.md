@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (40%) - **6.9**/10
+*   Performance (40%) - **6.9**/undefined
     
-*   Design (25%) - **7.4**/10
+*   Design (25%) - **7.4**/undefined
     
-*   Usability (35%) - **6.5**/10
+*   Usability (35%) - **6.5**/undefined
     
 
 The Ovente Electric Glass Kettle KG83B is a pretty average product. Its strongest points are low energy consumption at a very low price. This means, you can at least save money in the long run. That is, if you don’t mind the slow boiling time and inconvenient button placement.
@@ -33,15 +33,15 @@ This model does have a very low price tag. In addition to the white version that
 Performance
 -----------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **5.3**/10
+*   Boiling Time (45%) - **5.3**/undefined
     
-*   Energy Consumption (30%) - **8.0**/10
+*   Energy Consumption (30%) - **8.0**/undefined
     
-*   Noise Level (15%) - **9.3**/10
+*   Noise Level (15%) - **9.3**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 The Ovente Electric Glass Kettle scored well in our Energy Consumption, Noise Level, and Keep Warm tests. However, its slow boiling time really dragged it down.
@@ -93,15 +93,15 @@ The glass carafe of the Ovente doesn’t have the best property for heat retenti
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Ovente Electric Glass Kettle’s small capacity doesn’t affect its build quality. In addition, it has all the design features we want in an electric kettle, including a mesh filter, water-level markings, and an LED ring.
@@ -214,13 +214,13 @@ The Ovente has a 29.53 inch round power cord, which should be enough for househo
 Usability
 ---------
 
-usability Scores: **6.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The main issue with the usability of the Ovente Electric Glass Kettle is its button placement. The risk of accidentally pushing one button instead of the other is just unnecessary frustration to an otherwise easy to use and clean kettle.
@@ -241,7 +241,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
