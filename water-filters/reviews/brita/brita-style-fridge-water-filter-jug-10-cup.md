@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.6**/10
+*   Performance (50%) - **6.6**/undefined
     
-*   Design (20%) - **9.1**/10
+*   Design (20%) - **9.1**/undefined
     
-*   Usability (30%) - **9.4**/10
+*   Usability (30%) - **9.4**/undefined
     
 
 The Brita Style filter pitcher, featuring the Maxtra+ filter, performed exceptionally well in reducing chlorine taste and odor and improving water quality.This high degree of effectiveness came at the cost of a slightly reduced flow rate. The pitcher stands out as an exception to Brita's typical basic design, boasting a sleek and stylish appearance. The pitcher's compact size and manageable weight make it user-friendly, allowing anyone to handle it even when filled to capacity.
@@ -33,13 +33,13 @@ The pitcher and filter performed just as expected. Here are the details of how i
 Performance
 -----------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **9.0**/10
+*   Chlorine (50%) - **9.0**/undefined
     
-*   Flow Rate (40%) - **3.0**/10
+*   Flow Rate (40%) - **3.0**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 Featuring the Maxtra+ filter, the Brita Style was one of our best performers in the chlorine reduction test. It effectively eliminated chlorine odor and taste from tap water. However, the slow flow rate was a compromise to this high degree of effectiveness.
@@ -79,13 +79,13 @@ Though it did not go to the extreme in reducing the TDS like a WaterZero filter,
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **10**/10
+*   Build Quality (30%) - **10**/undefined
     
-*   Conveniences (20%) - **9.0**/10
+*   Conveniences (20%) - **9.0**/undefined
     
-*   Filter (50%) - **8.5**/10
+*   Filter (50%) - **8.5**/undefined
     
 
 Brita pitchers are not usually famous for their looks, but this Brita Style is, true to its name, an exception and an epitome of style when it comes to filter pitchers. It features a minimalist design with posh colors and elegant rounded corners. All the plastic parts are BPA-free, sturdy, and fit together securely. Its filter life indicator and pour-through lid—both practically designed—are also the most graceful we’ve seen on a Brita.
@@ -152,15 +152,15 @@ Like most other filters, this one left traces of filtration materials in the fil
 Usability
 ---------
 
-usability Scores: **9.4**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **9.7**/10
+*   Assembling (20%) - **9.7**/undefined
     
-*   Refilling (30%) - **9.8**/10
+*   Refilling (30%) - **9.8**/undefined
     
-*   Dispensing (40%) - **9.0**/10
+*   Dispensing (40%) - **9.0**/undefined
     
-*   Cleaning (10%) - **9.0**/10
+*   Cleaning (10%) - **9.0**/undefined
     
 
 Brita seems to have taken criticisms of previous products to heart and implemented improvements on the Style. The pitcher boasts an impeccably designed lid, offering hassle-free refilling and secure dispensing. The assembly and disassembly process is now effortless thanks to the precise fit. Its compact size and modest weight means anyone can pick it up at full capacity and use it with ease. 
