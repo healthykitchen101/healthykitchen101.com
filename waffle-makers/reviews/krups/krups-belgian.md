@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **2.8**/10
+*   Performance (50%) - **2.8**/undefined
     
-*   Design (20%) - **9.9**/10
+*   Design (20%) - **9.9**/undefined
     
-*   Ease of Use (30%) - **9.6**/10
+*   Ease of Use (30%) - **9.6**/undefined
     
 
 The KRUPS Belgian waffle maker has a beautiful presentation. The waffle maker’s frame is solid, and it has the look of an expensive waffle maker. Unfortunately, its look belies its performance. In one test, the KRUPS only produced a mediocre waffle. In another, it ultimately failed to make an edible waffle at all.
@@ -39,11 +39,11 @@ Here’s a more comprehensive report.
 Performance: Disappointing for the Price
 ----------------------------------------
 
-performance Scores: **2.8**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **5.5**/10
+*   Self-Mixed Recipe (50%) - **5.5**/undefined
     
-*   Birch Benders Mix (50%) - **0**/10
+*   Birch Benders Mix (50%) - **0**/undefined
     
 
 By June 2022, the KRUPS waffle maker was the sole model that failed our performance test. It miserably earned last place on our rankings after its inability to cook self-made batter and even worse, transforming Birch Benders mix into an inedible mush in the second test.
@@ -139,13 +139,13 @@ It was evident from the start that the waffle was inedible. It tasted terrible, 
 Design: Premium Design & Build Quality
 --------------------------------------
 
-design Scores: **9.9**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **10**/10
+*   Build Quality (60%) - **10**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **9.5**/10
+*   Control Panel (10%) - **9.5**/undefined
     
 
 Contrary to its performance, the KRUPS waffle maker has one of the best designs and overall build quality in our database. From the sturdy, stainless steel top lid to the solid weight and feel of the machine, it's clear just by looking at it that the KRUPS is a high-end waffle maker.
@@ -258,15 +258,15 @@ The KRUPS waffle maker does not come with any extra accessory.
 Ease of Use
 -----------
 
-usability Scores: **9.6**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.0**/10
+*   Handling (25%) - **9.0**/undefined
     
-*   Safety (40%) - **9.7**/10
+*   Safety (40%) - **9.7**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The KRUPS waffle maker has outstanding safety ratings. During our thermal safety tests, all of the oft-touched surfaces on the waffle maker (the handle, the lid, and the bottom side) are all cool. It’s very easy to clean and boasts user-friendly features like straightforward controls and an audible chime that make it easier to interact with the machine. We also like the oversized handle and lid lock, which greatly enhance the user experience.
