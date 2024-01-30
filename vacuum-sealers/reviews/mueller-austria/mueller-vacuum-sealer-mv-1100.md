@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.0**/10
+*   Performance (50%) - **6.0**/undefined
     
-*   Design (20%) - **5.5**/10
+*   Design (20%) - **5.5**/undefined
     
-*   Usability (30%) - **6.0**/10
+*   Usability (30%) - **6.0**/undefined
     
 
 The Mueller MV-1100 vacuum sealer presents a combination of strengths and weaknesses. In comparison to other vacuum sealers in our database, this model falls into the middle tier in terms of performance.
@@ -35,11 +35,11 @@ For a week, we tested the MV-1100 sealer in our lab, carefully evaluating its pe
 Performance
 -----------
 
-performance Scores: **6.0**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **5.8**/10
+*   Dry Food Test (60%) - **5.8**/undefined
     
-*   Moist Food Test (40%) - **6.5**/10
+*   Moist Food Test (40%) - **6.5**/undefined
     
 
 The performance of the Mueller vacuum sealer is underwhelming. It received mediocre scores in both dry and moist food tests. Although it managed to seal bags of dry food without leaving air bubbles and didn’t crush the fresh mango slices in the moist food test, our reviewers still found its performance lacking.
@@ -75,15 +75,15 @@ In this test, the sealer outperformed the dry food test but still has room for i
 Design
 ------
 
-design Scores: **5.5**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **6.0**/10
+*   Build Quality (50%) - **6.0**/undefined
     
-*   Control Panel (20%) - **8.5**/10
+*   Control Panel (20%) - **8.5**/undefined
     
-*   Lid (20%) - **4.0**/10
+*   Lid (20%) - **4.0**/undefined
     
-*   Extra Features (10%) - **0**/10
+*   Extra Features (10%) - **0**/undefined
     
 
 The Mueller MV-1100's design matches its affordable price — it's not particularly eye-catching. While the company attempted to add some stylish touches, such as a metallic top lid and touch-sensitive buttons, you can still tell it's a budget-friendly model once you’ve picked it up due to its stiff lid locks and the absence of extra features. Thankfully, we didn't uncover any major design flaws that might impact the unit's long-term durability.
@@ -164,13 +164,13 @@ The Mueller doesn’t come with any extra features.
 Usability
 ---------
 
-usability Scores: **6.0**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **5.0**/10
+*   Ease of Use (70%) - **5.0**/undefined
     
-*   Safety & Noise (15%) - **8.0**/10
+*   Safety & Noise (15%) - **8.0**/undefined
     
-*   Indicator Lights and Chime (15%) - **9.0**/10
+*   Indicator Lights and Chime (15%) - **9.0**/undefined
     
 
 The Mueller MV-1100's user-friendliness could use some improvement. Firstly, the lid locks are quite problematic as they tend to be unreliable and require a considerable amount of force to securely lock. Additionally, the touch-sensitive buttons are overly sensitive and can sometimes misinterpret commands. However, despite these concerns, the unit performs well in terms of safety, noise level, and indicator light brightness, making it a solid choice overall.
@@ -195,7 +195,7 @@ While the Mueller is not the noisiest model in the latest batch of vacuum sealer
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/mueller-vacuum-sealer-mv-1100-indicator-lights-clprusdee000ipz88doii81fn.jpg" alt="Besides the four indicator lights that display vacuuming and food modes, there are also two lights beneath the two function buttons (“Seal” and “Vac Seal”) and the progress bar." width="300px" height="200px">
 
-Numberof Indicators: 6
+Number of Indicators: 6
 
 Progress Bar: Yes
 
