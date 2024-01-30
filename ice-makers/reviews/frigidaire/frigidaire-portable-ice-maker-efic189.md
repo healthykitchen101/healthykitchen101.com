@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Performance (60%) - **8.0**/10
+*   Performance (60%) - **8.0**/undefined
     
-*   Design (15%) - **8.3**/10
+*   Design (15%) - **8.3**/undefined
     
-*   Usability (25%) - **8.4**/10
+*   Usability (25%) - **8.4**/undefined
     
 
 To date, the Frigidaire is one of the best portable bullet ice makers we have tested. It not only has good capacity, but also consistently good ice bullet size, shape, and weight. We also liked the large view window and the basket length proved just right for comfortable ice scooping.
@@ -33,11 +33,11 @@ Frigidaire has a number of ice makers but we purchased and reviewed the   EFIC1
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **7.7**/10
+*   Ice Capacity (60%) - **7.7**/undefined
     
-*   Ice Quality (40%) - **8.5**/10
+*   Ice Quality (40%) - **8.5**/undefined
     
 
 There were a couple of factors that gave the Frigidaire the performance edge over its closest rivals. One was the good average capacity per basket as well as the amount of ice produced per hour. The latter we attributed to the wider basket design and the functioning of the scooping mechanism.
@@ -75,15 +75,15 @@ Our extensive testing of portable ice makers shows that the large ice bullets sh
 Design
 ------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **9.0**/10
+*   Build Quality (45%) - **9.0**/undefined
     
-*   Panel Design (15%) - **7.5**/10
+*   Panel Design (15%) - **7.5**/undefined
     
-*   Lid Design (25%) - **7.5**/10
+*   Lid Design (25%) - **7.5**/undefined
     
-*   Ice Basket (15%) - **8.0**/10
+*   Ice Basket (15%) - **8.0**/undefined
     
 
 We purchased the popular Frigidaire EFIC189-Silver Compact Ice Maker for $99.99 on Amazon. It has a rounded front design with a large transparent lid and additional view window in the rear. Features that stand out are the larger ice basket, less cramped interior, and open design with high visibility. The larger water reservoir can hold up to 2.3 quarts or 2.2 liters.
@@ -194,13 +194,13 @@ This Frigidaire has a white power cord which measures a standard 71 in. (1.8 m).
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.5**/10
+*   Ease of Use (60%) - **8.5**/undefined
     
-*   Noise (25%) - **8.2**/10
+*   Noise (25%) - **8.2**/undefined
     
-*   Cleaning (15%) - **8.3**/10
+*   Cleaning (15%) - **8.3**/undefined
     
 
 The Frigidaire operates within a very comfortable noise range, has excellent visibility, scoop leverage, and the fingerprint-free body is easy to keep clean. The controls, however, are a little cramped and far back, while the drainage plug and water guard are not the easiest to deal with.
