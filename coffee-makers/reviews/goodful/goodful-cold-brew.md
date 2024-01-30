@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.5**/10
+*   Brew Quality (50%) - **7.5**/undefined
     
-*   Design (15%) - **8.7**/10
+*   Design (15%) - **8.7**/undefined
     
-*   Ease of Use (35%) - **8.8**/10
+*   Ease of Use (35%) - **8.8**/undefined
     
 
 Goodful is a larger and taller kind of cold coffee maker that can produce up to two liters of coffee. It fits in the door of a standard-sized refrigerator, but may not fit a small or apartment-sized refrigerator door. After removing the filter, you can store the decanter on its side. The brew quality is reasonably good, but it’s not a concentrate to be diluted. We liked the design of the filter, but the lid of the brewer is somewhat clunky.
@@ -28,13 +28,13 @@ Goodful is a brand that is owned by the media company Buzzfeed Inc. Goodful as a
 Brew Quality
 ------------
 
-performance Scores: **7.5**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.0**/10
+*   Bouquet (10%) - **7.0**/undefined
     
-*   Drinkability (70%) - **7.5**/10
+*   Drinkability (70%) - **7.5**/undefined
     
-*   Sediment (20%) - **7.5**/10
+*   Sediment (20%) - **7.5**/undefined
     
 
 The brew produced by the Goodful was reasonable. We liked the slightly bitter edge to the otherwise mild-roasted flavor. The brew also had a sweetish aftertaste, but with a watery finish. We recommend drinking it straight rather than diluting it too much.
@@ -60,13 +60,13 @@ We would recommend letting the brew settle after removing the filter, then decan
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **8.5**/10
+*   Stopper / Lid (30%) - **8.5**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **8.5**/10
+*   Build Quality (30%) - **8.5**/undefined
     
 
 The Goodful is a relatively large capacity brewer. It’s therefore quite tall and is best set inside a refrigerator door, however, it’s unlikely to fit a small refrigerator. The materials are hardy and durable, but the lid is clunky, and more detailed information on the device is lacking. The quality and look of the filter are a big plus overall.
@@ -137,13 +137,13 @@ The Goodful cold coffee maker is pretty solid and durable. We liked the quality 
 Ease of Use
 -----------
 
-usability Scores: **8.8**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **8.5**/10
+*   Decanting (35%) - **8.5**/undefined
     
-*   Cleaning and Storage (20%) - **9.0**/10
+*   Cleaning and Storage (20%) - **9.0**/undefined
     
 
 It’s quite easy to brew with the Goodful without measuring—although we measured everything carefully for our testing procedure. We particularly liked the filter design with a little handle to lift it out of the container.
