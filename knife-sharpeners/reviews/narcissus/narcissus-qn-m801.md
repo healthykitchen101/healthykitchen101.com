@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (40%) - **5.1**/10
+*   Performance (40%) - **5.1**/undefined
     
-*   Design (30%) - **5.6**/10
+*   Design (30%) - **5.6**/undefined
     
-*   Ease of Use (30%) - **6.6**/10
+*   Ease of Use (30%) - **6.6**/undefined
     
 
 **The Narcissus electric sharpener** is an affordable machine that is well built and relatively easy to use. It offers a mediocre performance in terms of speed and edge quality, but also doesn’t eat away the blade like many others do. The machine doesn’t work very well on short or narrow knives. On the other hand, it accommodates more tools (scissors and screwdrivers).
@@ -34,15 +34,15 @@ However, the machine gave a rather mediocre performance. The overheating protect
 Performance
 -----------
 
-performance Scores: **5.1**
+performance Scores: **NaN**
 
-*   Speed (30%) - **5.5**/10
+*   Speed (30%) - **5.5**/undefined
     
-*   Edge Quality (40%) - **6.5**/10
+*   Edge Quality (40%) - **6.5**/undefined
     
-*   Material Retention (10%) - **8.5**/10
+*   Material Retention (10%) - **8.5**/undefined
     
-*   Continuous Operation Time (20%) - **0**/10
+*   Continuous Operation Time (20%) - **0**/undefined
     
 
 The Narcissus takes its sweet time to bring an edge to the knife. It also can’t run long enough to sharpen more than one knife at a time. On the bright side, it shaves off very little material from the knife and produces straight, even bevels.
@@ -54,6 +54,8 @@ Target Sharpness: level 9 (Beef tendon)
 Sharpening Time: 6 minutes 30 seconds
 
 Number Of Strokes: 34
+
+Numberof Strokes:
 
 Cutting Feel: heavy
 
@@ -77,7 +79,7 @@ As can be expected from the narrow bevel width, the Narcissus only grinds off a 
 
 ### Continuous Operation Time
 
-COT As Tested:  5 minutes
+CO Tas Tested:
 
 It’s stated in the [user guide](https://m.media-amazon.com/images/I/91HwtvKLeGL.pdf) that the machine is not to be used continuously for longer than 8 minutes, but it’s really hit or miss. The sharpener has an automatic thermal shutdown that prevents damage from overheating. Sometimes it can work for more than 10 minutes, other times it pauses after only 5 minutes of sharpening, which is about the time it takes to sharpen a knife. It can be frustrating if you’re sharpening more than one knife.
 
@@ -86,15 +88,15 @@ The machine also turns itself on automatically after the recovery period, which 
 Design
 ------
 
-design Scores: **5.6**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **7.8**/10
+*   Build Quality (55%) - **7.8**/undefined
     
-*   Angle Adjustability (20%) - **1.0**/10
+*   Angle Adjustability (20%) - **1.0**/undefined
     
-*   Knife Size (15%) - **4.0**/10
+*   Knife Size (15%) - **4.0**/undefined
     
-*   Edge Type (10%) - **5.0**/10
+*   Edge Type (10%) - **5.0**/undefined
     
 
 The Narcissus has a robust body with a neat and stylish shell. It’s one of the rare sharpeners that reserve separate slots for sharpening scissors and screwdrivers; however, its improper placement of abrasives causes a lot of difficulties when sharpening small kitchen knives.
@@ -156,17 +158,17 @@ The coarse stones on the Narcissus aren’t meant for serrated edges. On the oth
 Ease of Use
 -----------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   Setup (20%) - **8.0**/10
+*   Setup (20%) - **8.0**/undefined
     
-*   Insertion (20%) - **6.0**/10
+*   Insertion (20%) - **6.0**/undefined
     
-*   Stability (20%) - **8.0**/10
+*   Stability (20%) - **8.0**/undefined
     
-*   Safety (30%) - **5.1**/10
+*   Safety (30%) - **5.1**/undefined
     
-*   Maintenance (10%) - **7.0**/10
+*   Maintenance (10%) - **7.0**/undefined
     
 
 Despite its simple-looking design, the Narcissus is a little trickier to use than most. Its grinding wheels are hard to reach, while the heat-protection mechanism only reacts when the temperature gets to a dangerous high, which happens every few minutes. 
