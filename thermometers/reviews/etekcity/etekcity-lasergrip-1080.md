@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.9**
+Overall Score: **NaN**
 
-*   Performance (70%) - **4.1**/10
+*   Performance (70%) - **4.1**/undefined
     
-*   Design (20%) - **7.3**/10
+*   Design (20%) - **7.3**/undefined
     
-*   Usability (10%) - **5.5**/10
+*   Usability (10%) - **5.5**/undefined
     
 
 As of May 2023, the Etekcity Lasergrip 1080 is the lowest-performing infrared thermometer in [our database](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/). It exhibits poor measurement accuracy, and build quality leaves much to be desired. Specifically, the trigger's metallic clicky sound gives the impression of a manufacturing defect.
@@ -32,11 +32,11 @@ You can check our detailed assessment below if you want to read more about the E
 Performance
 -----------
 
-performance Scores: **4.1**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **7.8**/10
+*   Cold Test with Ice (40%) - **7.8**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **1.6**/10
+*   Hot Test with Cooking Oil (60%) - **1.6**/undefined
     
 
 The Etekcity Lasergrip 1080 performed decently well in the cold test with ice. However, it completely failed the hot test with cooking oil by returning results that were dozens of degrees above the set temperature of the oil (361°F.)
@@ -76,13 +76,13 @@ As of May 2023, the Lasergrip 1080 has the poorest score in the hot test out of 
 Design
 ------
 
-design Scores: **7.3**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
-*   Laser Emitter (25%) - **8.0**/10
+*   Laser Emitter (25%) - **8.0**/undefined
     
-*   Display Panel (25%) - **7.0**/10
+*   Display Panel (25%) - **7.0**/undefined
     
 
 The Etekcity Lasergrip 1080 comes in a minimalistic shipping box with plastic packaging and pre-installed AAA batteries. At 4.59 ounces, the Lasergrip 1080 is lighter by 1.7 ounces than its sibling model, the Lasergrip 800.
@@ -150,13 +150,13 @@ The Etekcity Lasergrip 1080 is powered by two AAA batteries, which are already i
 Usability
 ---------
 
-usability Scores: **5.5**
+usability Scores: **NaN**
 
-*   Handling (50%) - **7.5**/10
+*   Handling (50%) - **7.5**/undefined
     
-*   Measurement Modes (30%) - **6.0**/10
+*   Measurement Modes (30%) - **6.0**/undefined
     
-*   Audio Cues (20%) - **0**/10
+*   Audio Cues (20%) - **0**/undefined
     
 
 The Etekcity Lasergrip 1080 infrared thermometer has a user-friendly grip with indents and a textured front portion for a secure hold, even with wet hands. However, the trigger's excessive clickiness is considered bothersome, described by our reviewer as a "grating" metallic sound. The thermometer offers two measurement modes, allowing adjustment of the emissivity setting within a range of 0.10 to 1.00. It also features a "Max Mode" that displays the maximum recorded temperature. However, it lacks audio cues as it doesn't have a speaker.
