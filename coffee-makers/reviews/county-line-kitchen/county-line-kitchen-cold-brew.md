@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.8**/10
+*   Brew Quality (50%) - **7.8**/undefined
     
-*   Design (15%) - **9.6**/10
+*   Design (15%) - **9.6**/undefined
     
-*   Ease of Use (35%) - **9.2**/10
+*   Ease of Use (35%) - **9.2**/undefined
     
 
 There are many things to like about the County Line Kitchen cold brew coffee maker. The design is very practical and we like how the brewer brings out sweeter profiles.
@@ -36,13 +36,13 @@ We purchased the 1-quart jar and put County Line Kitchen through our rigorous te
 Brew Quality
 ------------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **7.5**/10
+*   Bouquet (10%) - **7.5**/undefined
     
-*   Drinkability (70%) - **8.0**/10
+*   Drinkability (70%) - **8.0**/undefined
     
-*   Sediment (20%) - **7.0**/10
+*   Sediment (20%) - **7.0**/undefined
     
 
 We found the brew quality of the County Line Kitchen cold brew coffee maker to be promising. It did well to bring out sweet profiles, but at the same time, the brew lacked complexity. We recommend brewing for longer than our test standard of 18 hours. The amount of sediment indicated that the filter was not so effective, but nonetheless a good compromise on the brew quality.
@@ -68,13 +68,13 @@ The filter is a rough mesh rather than a laser-cut stainless steel filter as see
 Design
 ------
 
-design Scores: **9.6**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **10**/10
+*   Build Quality (30%) - **10**/undefined
     
 
 The County Line Kitchen cold brew coffee maker is a practical design which captures the aesthetic of a traditional homestead. The screw-top lid can be purchased with or without a handle. The flip lid is very convenient and pours well. The brewer is airtight with a silicone seal, and you can also fit the mason jar with a traditional metal screw cap.
@@ -140,13 +140,13 @@ It’s difficult not to like the design of the County Line Kitchen cold brew cof
 Ease of Use
 -----------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **10**/10
+*   Brewing (45%) - **10**/undefined
     
-*   Decanting (35%) - **8.5**/10
+*   Decanting (35%) - **8.5**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 Brewing with the County Line Kitchen is very easy and straightforward. It’s not necessary to weigh or measure either grounds or water. Just fill the filter and jar as described below.
