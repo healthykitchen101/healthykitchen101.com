@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.2**/10
+*   Performance (50%) - **9.2**/undefined
     
-*   Design (20%) - **9.0**/10
+*   Design (20%) - **9.0**/undefined
     
-*   Usability (30%) - **8.9**/10
+*   Usability (30%) - **8.9**/undefined
     
 
 The Waterdrop Chubby filter pitcher impressed with its outstanding performance of reducing chlorine by over 90% at an excellent flow rate. It delivered crisp and pleasant-tasting water while preserving mineral content. The design strikes a fine balance between aesthetics and functionality, with meticulous craftsmanship evident in each part. Furthermore, easy assembly and disassembly add to the overall positive experience.
@@ -29,13 +29,13 @@ Waterdrop filter pitchers are known for their sleek designs, and the Chubby is n
 Performance
 -----------
 
-performance Scores: **9.2**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.5**/10
+*   Chlorine (50%) - **8.5**/undefined
     
-*   Flow Rate (40%) - **10**/10
+*   Flow Rate (40%) - **10**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 The Waterdrop Chubby was the second-best performer among all the filter pitchers we’ve tested thus far (0.2 points behind [the Aquagear,](https://healthykitchen101.com/water-filters/reviews/aquagear/aquagear-water-filter-pitcher-10-cup/) which ended up with lower Design and Usability scores). It reduced chlorine by more than 90% in our extremely high chlorinated test water—and did so at an unmatched speed. Its NSF 42 certified double filter produced crisp, sweet tasting water without stripping off total dissolved solids (TDS) which may contain beneficial minerals.
@@ -79,13 +79,13 @@ While stripping away most of the chlorine, the Waterdrop filter kept the TDS at 
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
-*   Conveniences (20%) - **9.0**/10
+*   Conveniences (20%) - **9.0**/undefined
     
-*   Filter (50%) - **9.0**/10
+*   Filter (50%) - **9.0**/undefined
     
 
 The Waterdrop Chubby perfectly blends aesthetics with top-notch functionality. Each part embraces a modest and refined design. Likewise, the craftsmanship has a superb fit and finish so it looks delightful on a countertop. The PF-01A duo-filter is highly effective, well-built, and easy to work with.
@@ -149,15 +149,15 @@ Like all other Waterdrop filter pitchers, the Chubby uses the PF-01A, which is a
 Usability
 ---------
 
-usability Scores: **8.9**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **9.5**/10
+*   Assembling (20%) - **9.5**/undefined
     
-*   Refilling (30%) - **8.2**/10
+*   Refilling (30%) - **8.2**/undefined
     
-*   Dispensing (40%) - **9.0**/10
+*   Dispensing (40%) - **9.0**/undefined
     
-*   Cleaning (10%) - **9.0**/10
+*   Cleaning (10%) - **9.0**/undefined
     
 
 The Waterdrop Chubby is easy to assemble and disassemble, with secure yet easy-to-remove parts. Its rounded corners add to the safety and sleek appearance. The pitcher features a trap door for convenient refilling and a firm, grippy wood handle. Handwashing takes only a few minutes to maintain its cleanliness.
