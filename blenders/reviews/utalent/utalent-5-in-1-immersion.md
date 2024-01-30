@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.9**/10
+*   Performance (50%) - **5.9**/undefined
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **7.0**/undefined
     
-*   Usability (30%) - **7.2**/10
+*   Usability (30%) - **7.2**/undefined
     
 
 The UTALENT 5-in1 is distinguishable by its eye-catching design and inexpensive price tag, but it's not as efficient or comfortable to use as pricier rivals. With a low-powered 250-watt motor, it is only moderately good at blending soft ingredients. Heavier-duty tasks like making frozen smoothies or grinding raw nuts often demand a considerable amount of blending time that still cannot ensure silky results. If you do plan to buy this blender, don’t expect too much from it.
@@ -32,17 +32,17 @@ As such, we decided to buy the UTALENT and test it rigorously against several ot
 Performance: Just Average
 -------------------------
 
-performance Scores: **5.9**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **5.0**/10
+*   Hot Soup Purée (35%) - **5.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **5.8**/10
+*   Frozen Fruit Smoothie (30%) - **5.8**/undefined
     
-*   Mayonnaise (15%) - **8.0**/10
+*   Mayonnaise (15%) - **8.0**/undefined
     
-*   Almond Milk (15%) - **5.8**/10
+*   Almond Milk (15%) - **5.8**/undefined
     
-*   Whipped Egg-Whites (5%) - **7.0**/10
+*   Whipped Egg-Whites (5%) - **7.0**/undefined
     
 
 The UTALENT didn’t perform as well as other blenders we’ve tested. Although it includes all the standard features of a decent hand blender, it still couldn’t blend evenly or cleanly. It is also worth noting that during our testing, we encountered a great deal of frustration with its operation.
@@ -116,15 +116,15 @@ The low power rating made this blender lag behind its rivals. We had to spend a 
 Design: Not too Much Impression
 -------------------------------
 
-design Scores: **7.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.5**/10
+*   Build Quality (60%) - **6.5**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 At first, we were mightily impressed with the blending shaft's unique design, but its disappointing testing results then diminished our excitement. Sure enough, the UTALENT’s distinctive design doesn’t make it any more effective or easier to use.
@@ -276,15 +276,15 @@ We haven’t tested the milk frother, either. Nevertheless, we do not expect it 
 Usability: The Lack of Smooth Operation
 ---------------------------------------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.2**/10
+*   Ease of Use (60%) - **7.2**/undefined
     
-*   Blade Assembly (10%) - **7.0**/10
+*   Blade Assembly (10%) - **7.0**/undefined
     
-*   Handling (20%) - **7.5**/10
+*   Handling (20%) - **7.5**/undefined
     
-*   Cleanability (10%) - **6.5**/10
+*   Cleanability (10%) - **6.5**/undefined
     
 
 As mentioned above, the UTALENT is quite complicated to use and cannot ensure smooth operation. More to the point, it lacks a few nice features that we like about some other more user-friendly models.
