@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.0**/10
+*   Performance (50%) - **6.0**/undefined
     
-*   Design (20%) - **9.1**/10
+*   Design (20%) - **9.1**/undefined
     
-*   Usability (30%) - **8.0**/10
+*   Usability (30%) - **8.0**/undefined
     
 
 The All-Clad 10942212300 didn’t rank high in our ratings even when it was excellent at grinding soaked nuts and liquifying frozen fruits. This was because it failed to complete the task of emulsifying mayonnaise where most other immersion blenders we tested could handle with ease. The lack of an extra whisk attachment meant it couldn’t whip egg white, either.
@@ -34,17 +34,17 @@ The All-Clad 10942212300 is a [heavy-duty immersion blender](https://healthykitc
 Performance: Some Competitors Performed Better
 ----------------------------------------------
 
-performance Scores: **6.0**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **6.5**/10
+*   Hot Soup Purée (35%) - **6.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.3**/10
+*   Frozen Fruit Smoothie (30%) - **8.3**/undefined
     
-*   Mayonnaise (15%) - **0**/10
+*   Mayonnaise (15%) - **0**/undefined
     
-*   Almond Milk (15%) - **8.0**/10
+*   Almond Milk (15%) - **8.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 We had high hopes for the All-Clad 10942212300 in terms of performance, but it didn't quite hit the mark. This isn't to label it a subpar blender; it can indeed handle specific tasks very well. However, there are numerous other [all-around blenders](https://healthykitchen101.com/blenders/reviews/best/) available at a significantly lower price point that might offer more value.
@@ -114,15 +114,15 @@ Any whipping task will likely exceed your All-Clad’s capability, but that’s 
 Design: Lots of Premium Features
 --------------------------------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blending Shaft (30%) - **9.5**/10
+*   Blending Shaft (30%) - **9.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 Everything about the All-Clad 10942212300 is expensive, from packaging to engineering and design. There are some alternatives that share many of the same qualities, such as the [Vitamix 5-speed](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/), but this All-Clad does look slightly tougher than the competition.
@@ -236,15 +236,15 @@ No additional attachments are included. If you want to use aftermarket attachmen
 Usability: Not Bad, but Not Great Either.
 -----------------------------------------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.8**/10
+*   Ease of Use (60%) - **7.8**/undefined
     
-*   Blade Assembly (10%) - **8.0**/10
+*   Blade Assembly (10%) - **8.0**/undefined
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.5**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 The blender’s design is straightforward but it’s not as comfortable to use as it should be. Luckily, cleaning is a simple process since the blending wand is dishwasher safe. We still recommend hand washing, though, to keep it looking new for longer.
