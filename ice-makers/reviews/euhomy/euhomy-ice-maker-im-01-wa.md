@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.7**/10
+*   Performance (60%) - **6.7**/undefined
     
-*   Design (15%) - **8.4**/10
+*   Design (15%) - **8.4**/undefined
     
-*   Usability (25%) - **8.0**/10
+*   Usability (25%) - **8.0**/undefined
     
 
 There is a lot about the EUhomy to like. Its exterior build quality is excellent, the front control panel indicators easy to see from afar, and the ice basket well-designed. Some people may even prefer the darker colored lid instead of the usual transparent design.
@@ -32,11 +32,11 @@ EUhomy is a company dedicated to small refrigeration appliances. They also manuf
 Performance
 -----------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **6.1**/10
+*   Ice Capacity (60%) - **6.1**/undefined
     
-*   Ice Quality (40%) - **7.6**/10
+*   Ice Quality (40%) - **7.6**/undefined
     
 
 Out of the two performance tests we do, EUhomy did much better on the ice quality test. Even still, it only occasionally managed to make large bullets of over 6 grams. The time to fill a basket of ice was also somewhat lengthy compared to the capacity it could produce. Generally, performance was below average which contrasted to its good external build quality and slightly original design.
@@ -76,15 +76,15 @@ In short, the EUhomy took a lot longer to produce less ice which sometimes wasnâ
 Design
 ------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.6**/10
+*   Build Quality (45%) - **8.6**/undefined
     
-*   Panel Design (15%) - **8.5**/10
+*   Panel Design (15%) - **8.5**/undefined
     
-*   Lid Design (25%) - **7.7**/10
+*   Lid Design (25%) - **7.7**/undefined
     
-*   Ice Basket (15%) - **9.0**/10
+*   Ice Basket (15%) - **9.0**/undefined
     
 
 The EUhomy stands out for its material quality and different design aesthetic. It doesn't have a modern sleek edge to it, but there are useful and user-friendly features. Unfortunately, with the EUhomy, internal mechanics and performance donâ€™t match up to the external build quality. In our grading system, we subtract 1 point from the design score for every one point discrepancy to performance.
@@ -198,13 +198,13 @@ The EUhomy has a black cord which measured a full 73 inches (185 cm), or a full 
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.8**/10
+*   Ease of Use (60%) - **7.8**/undefined
     
-*   Noise (25%) - **8.2**/10
+*   Noise (25%) - **8.2**/undefined
     
-*   Cleaning (15%) - **8.5**/10
+*   Cleaning (15%) - **8.5**/undefined
     
 
 The EUhomy is an easy-to-use machine because of its larger sized ice basket and control panel on the front of the machine. Some people may not like the darker colored lid which is not easy to see through, and removing the water guard for cleaning is not so easy. However, the body of the machine is not prone to fingerprints and it has a classic looking aesthetic.
