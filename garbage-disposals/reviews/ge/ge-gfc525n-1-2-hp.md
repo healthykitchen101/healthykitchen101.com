@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.0**/10
+*   Performance (60%) - **6.0**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (15%) - **7.4**/10
+*   Usability (15%) - **7.4**/undefined
     
 
 The GE GFC525N Disposall 1/2 HP Garbage Disposal is a quick and affordable option for any kitchen. Its compact build fits easily in cabinets of varied sizes and installing it is surprisingly easy. The employment of a high-speed permanent magnet motor is also a big plus.
@@ -33,13 +33,13 @@ In the GE Disposall series, the GFC525N is the less popular one. Most positive r
 Performance
 -----------
 
-performance Scores: **6.0**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **5.8**/10
+*   Scrap Mix (50%) - **5.8**/undefined
     
-*   Raw Fish Scraps (25%) - **5.6**/10
+*   Raw Fish Scraps (25%) - **5.6**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.8**/10
+*   Raw Chicken Scraps (25%) - **6.8**/undefined
     
 
 The GE GFC525N performed as we had anticipated. In our tests, it was adequate against a variety of foods, including cooked chicken bones. The disposal even managed to process raw meat scraps quite heavily. Unfortunately, the results were still a long way from being drain-safe.
@@ -139,13 +139,13 @@ The disposal didn’t have the easiest time with the uncooked chicken bones as i
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **6.5**/10
+*   Grind Chamber (30%) - **6.5**/undefined
     
-*   Motor (30%) - **8.5**/10
+*   Motor (30%) - **8.5**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 As an affordable kitchen garbage disposal, it’s understandable the GE GFC525N doesn’t offer much. It’s a small unit with a grinding assembly and a high-speed motor. That should make the disposal a simple buy but its questionable build quality makes it a rather risky one. 
@@ -269,15 +269,15 @@ Although the GE GFC525N Disposall 1/2-horsepower is an affordable alternative, s
 Usability
 ---------
 
-usability Scores: **7.4**
+usability Scores: **NaN**
 
-*   Installation (30%) - **10**/10
+*   Installation (30%) - **10**/undefined
     
-*   Ease of Use (40%) - **6.0**/10
+*   Ease of Use (40%) - **6.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 As compact as the GFC525N, its strongest point of usability is in how quickly and easily any regular person can buy the disposal and set it up to run. That, however, is a trade-off in itself since the product’s overall quality suffers and both the chamber and motor have to be small.
