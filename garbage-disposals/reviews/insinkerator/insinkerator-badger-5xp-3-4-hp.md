@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.3**
+Overall Score: **NaN**
 
-*   Performance (60%) - **3.6**/10
+*   Performance (60%) - **3.6**/undefined
     
-*   Design (25%) - **7.8**/10
+*   Design (25%) - **7.8**/undefined
     
-*   Usability (15%) - **7.7**/10
+*   Usability (15%) - **7.7**/undefined
     
 
 The InSinkErator Badger 5XP 3/4 HP Garbage Disposal is a simple product with minimal features. It offers conventional values, with a little boost in power (as compared to the [Badger 5 1/2 HP](https://healthykitchen101.com/garbage-disposals/reviews/insinkerator/insinkerator-badger-5/)) and impressive build quality.
@@ -35,13 +35,13 @@ We anticipate that the Badger 5XP will do better than the Badger 5 because of th
 Performance
 -----------
 
-performance Scores: **3.6**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **4.4**/10
+*   Scrap Mix (50%) - **4.4**/undefined
     
-*   Raw Fish Scraps (25%) - **0**/10
+*   Raw Fish Scraps (25%) - **0**/undefined
     
-*   Raw Chicken Scraps (25%) - **5.7**/10
+*   Raw Chicken Scraps (25%) - **5.7**/undefined
     
 
 Although the results suggest that the Badger 5XP outperformed the Badger 5, the difference in reality, especially where it counts, is not remarkable. The 5XP indeed did better at breaking up tougher materials like raw bones, where every bit of power is needed. But in overview, the disposal leaves a lot to be desired.
@@ -139,13 +139,13 @@ The Badger 5XP delivered more interesting data when we let it process uncooked c
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **6.5**/10
+*   Grind Chamber (30%) - **6.5**/undefined
     
-*   Motor (30%) - **8.0**/10
+*   Motor (30%) - **8.0**/undefined
     
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
 
 The Badger 5XP is basically a stronger Badger 5. It takes everything that the Badger 5 offers, namely strong craftsmanship and durable parts, and runs them on a beefier AC motor. Unfortunately, the benefits of the extra power don’t translate very well and leave the disposal’s grinding performance with a lot to be desired. 
@@ -282,15 +282,15 @@ What the disposal lacks are features that smooth out the experience. There is no
 Usability
 ---------
 
-usability Scores: **7.7**
+usability Scores: **NaN**
 
-*   Installation (30%) - **7.5**/10
+*   Installation (30%) - **7.5**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 The Power Badger series is InSinkErator packing more power into the original Badger design. Besides their generous holding capacity, models in the series are known for their durability and affordability. 
