@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (70%) - **6.7**/10
+*   Performance (70%) - **6.7**/undefined
     
-*   Design (20%) - **9.5**/10
+*   Design (20%) - **9.5**/undefined
     
-*   Usability (10%) - **7.2**/10
+*   Usability (10%) - **7.2**/undefined
     
 
 The Sovarcate HS960D is identical to the [Sovarcate HS980E](https://healthykitchen101.com/thermometers/reviews/sovarcate/sovarcate-hs980e-digital/) in almost every single way, saving for the lack of extra measurement modes. The unit is well-constructed and performs well in our measurement accuracy tests.
@@ -36,11 +36,11 @@ Check out our performance report for more details!
 Performance
 -----------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **8.4**/10
+*   Cold Test with Ice (40%) - **8.4**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **5.6**/10
+*   Hot Test with Cooking Oil (60%) - **5.6**/undefined
     
 
 The Sovarcate HS960Dâ€™s performance is mediocre compared to the rest of the models in our database. It received a very high score in the cold test with ice, but its total performance score was dragged down by lackluster performance in the hot test with cooking oil.
@@ -80,13 +80,13 @@ In contrast, its counterpart, the [Sovercate HS980E](https://healthykitchen101.c
 Design
 ------
 
-design Scores: **9.5**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.5**/10
+*   Build Quality (50%) - **9.5**/undefined
     
-*   Laser Emitter (25%) - **9.5**/10
+*   Laser Emitter (25%) - **9.5**/undefined
     
-*   Display Panel (25%) - **9.5**/10
+*   Display Panel (25%) - **9.5**/undefined
     
 
 The Sovarcate HS960D dimensions and weight of the HS960D are average for infrared thermometers. It boasts excellent build quality with durable construction. The laser emitter features a single-dot pattern, and the LCD VA panel display is bright and viewable from various angles.
@@ -156,13 +156,13 @@ The Sovarcate HS960D infrared thermometer is powered by triple-A batteries. Youâ
 Usability
 ---------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Handling (50%) - **9.0**/10
+*   Handling (50%) - **9.0**/undefined
     
-*   Measurement Modes (30%) - **3.0**/10
+*   Measurement Modes (30%) - **3.0**/undefined
     
-*   Audio Cues (20%) - **9.0**/10
+*   Audio Cues (20%) - **9.0**/undefined
     
 
 The Sovarcate HS960D is highly reviewed for its textured and indented handle, clicky trigger, and responsive control panel. The only drawback we found is that it only offers a single measurement mode for adjusting the emissivity setting. The thermometer has a speaker emitting loud beeps when switching between SCAN and HOLD modes.
