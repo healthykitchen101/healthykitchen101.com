@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.0**/10
+*   Performance (50%) - **9.0**/undefined
     
-*   Design (20%) - **8.2**/10
+*   Design (20%) - **8.2**/undefined
     
-*   Usability (30%) - **8.3**/10
+*   Usability (30%) - **8.3**/undefined
     
 
 The Brita UltraMax 27 cup water filter dispenser comes with a powerful Elite filter that is well-built and lasts longer than most. It could easily filter out high concentrations of chlorine while maintaining an excellent flow rate. What’s more, the filter doesn’t leak material—a problem affecting many pitchers and dispensers of this type. While there is some room for improvement in its design, the Brita UltraMax is generally easy to work with. If you’re a small family or household (up to five people) looking for a fridge-fitting water dispenser that doesn’t require constant refilling, the UltraMax is a good choice.
@@ -33,13 +33,13 @@ We installed the Elite filter and discarded the first tank of water as per instr
 Performance
 -----------
 
-performance Scores: **9.0**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.0**/10
+*   Chlorine (50%) - **8.0**/undefined
     
-*   Flow Rate (40%) - **10**/10
+*   Flow Rate (40%) - **10**/undefined
     
-*   Taste & Smell (10%) - **9.7**/10
+*   Taste & Smell (10%) - **9.7**/undefined
     
 
 The Elite filter worked like a charm against chlorine. It produced crisp, odor-free water without stripping off all the dissolved solids. The filter also took the same amount of time as some other pitchers, such as the [Brita Style](https://healthykitchen101.com/water-filters/reviews/brita/brita-style-fridge-water-filter-jug-10-cup/), to produce double the amount of clean water. If you’re tired of having to refill your pitcher constantly, this large capacity UltraMax-Elite filter combo  might just be the answer.
@@ -81,13 +81,13 @@ All three testers agreed that the UltraMax provided water with excellent aesthet
 Design
 ------
 
-design Scores: **8.2**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **7.0**/10
+*   Build Quality (30%) - **7.0**/undefined
     
-*   Conveniences (20%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/undefined
     
-*   Filter (50%) - **9.0**/10
+*   Filter (50%) - **9.0**/undefined
     
 
 The Brita UltraMax’s design may not be a conversation starter—it looks as basic as it can possibly be. The tank walls may even feel a little flimsy, while the grips are not ideally positioned. However, other small details, such as the lid flap, the indentation at the bottom for drainage, and the two-way spigot, are all well designed and made. These user-friendly and convenient features set the UltraMax apart from many similar-looking filter dispensers.
@@ -150,15 +150,15 @@ Apart from its ability to reduce chlorine, the Elite is also NSF certified to re
 Usability
 ---------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **8.2**/10
+*   Assembling (20%) - **8.2**/undefined
     
-*   Refilling (30%) - **7.7**/10
+*   Refilling (30%) - **7.7**/undefined
     
-*   Dispensing (40%) - **8.8**/10
+*   Dispensing (40%) - **8.8**/undefined
     
-*   Cleaning (10%) - **8.0**/10
+*   Cleaning (10%) - **8.0**/undefined
     
 
 Considering its size and weight, moving the Brita UltraMax at full capacity and placing it into the fridge might be a little challenging to those with short or weak arms. Other than that, this filter dispenser is comparatively easy to use, assemble, and maintain.
