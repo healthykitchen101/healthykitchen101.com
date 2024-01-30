@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.1**/10
+*   Performance (40%) - **8.1**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (35%) - **7.5**/10
+*   Usability (35%) - **7.5**/undefined
     
 
 The Mueller Ultra Electric Kettle (M99S) offers a significantly high performance at an affordable price. Moreover, it has all the design features you’d want in an electric kettle, all of which are high quality.
@@ -33,15 +33,15 @@ From what we could find, the Mueller Ultra Electric Kettle (M99S) is the only ke
 Performance
 -----------
 
-performance Scores: **8.1**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **7.8**/10
+*   Boiling Time (45%) - **7.8**/undefined
     
-*   Energy Consumption (30%) - **8.4**/10
+*   Energy Consumption (30%) - **8.4**/undefined
     
-*   Noise Level (15%) - **9.0**/10
+*   Noise Level (15%) - **9.0**/undefined
     
-*   Keep Warm (10%) - **7.5**/10
+*   Keep Warm (10%) - **7.5**/undefined
     
 
 We were pleasantly surprised with the performance of the Mueller Ultra Electric Kettle across all four of our tests. Compared to many of its competitors, it had a faster boiling time, consumed less energy, was more quiet, and was able to maintain a higher temperature after 5 minutes.
@@ -97,15 +97,15 @@ Nonetheless, the kettle was able to maintain a slightly higher temperature than 
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Mueller Ultra Electric Kettle has a high build quality and all the desirable features including a mesh filter, an LED ring, water-level markings, and so on. The noteworthy thing about its design is that, despite its uncommon shape, it’s quite standard, which makes its high performance quite peculiar to us.
@@ -216,13 +216,13 @@ The Mueller has a 30.31 inch round power cord, which should be plenty enough for
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 The Mueller Ultra Electric Kettle is simply straightforward to use. We had no problem controlling, filling, and pouring with it. However, it had an unfortunate inconvenience due to the handle.
@@ -243,7 +243,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
