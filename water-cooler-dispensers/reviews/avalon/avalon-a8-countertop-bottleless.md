@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.6**/10
+*   Performance (50%) - **6.6**/undefined
     
-*   Design (25%) - **8.9**/10
+*   Design (25%) - **8.9**/undefined
     
-*   Ease of Use (25%) - **8.8**/10
+*   Ease of Use (25%) - **8.8**/undefined
     
 
 The Avalon A8 is our [top recommendation for a countertop](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) hot and cold water dispenser. The hot water volume, heating time, and temperature make it well-suited for a home kitchen and the filter is easy to set up.
@@ -38,11 +38,11 @@ The Avalon A8 is a small countertop bottleless water cooler dispenser with a fil
 Performance
 -----------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **9.0**/10
+*   Hot Water Test (40%) - **9.0**/undefined
     
-*   Cold Water Test (60%) - **5.0**/10
+*   Cold Water Test (60%) - **5.0**/undefined
     
 
 For its small size, the Avalon A8 countertop bottleless water cooler performed well for hot water heating time, temperature, and single draw capacity. This matched its overall build quality and attractive looks. For cold water, it was only able to produce 2.7 L/hr or one 300 ml cup every 7 minutes. For a small machine, this was not too bad, except that overall cooling times are very lengthy and the machine gets inordinately hot.
@@ -112,15 +112,15 @@ After exhaustive testing, we found the Avalon A8 can produce around 91 fl. oz. (
 Design
 ------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **9.0**/10
+*   Build Quality (45%) - **9.0**/undefined
     
-*   Panel & Indicators (25%) - **9.5**/10
+*   Panel & Indicators (25%) - **9.5**/undefined
     
-*   Water Inlet Controls (20%) - **8.5**/10
+*   Water Inlet Controls (20%) - **8.5**/undefined
     
-*   Drip Tray (10%) - **7.8**/10
+*   Drip Tray (10%) - **7.8**/undefined
     
 
 The Avalon A8 countertop bottleless water cooler has excellent overall build quality from the well-ventilated metal sides, to the compact panel indicators, to nice pocket handles for easy lifting.
@@ -282,15 +282,15 @@ The cord outlet is three inches above the ground and one inch above the drainage
 Ease of Use
 -----------
 
-usability Scores: **8.8**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **8.5**/10
+*   Dispensing Water (40%) - **8.5**/undefined
     
-*   Hot Water Safety (15%) - **9.0**/10
+*   Hot Water Safety (15%) - **9.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **9.5**/10
+*   Bottle / Filter Changing (15%) - **9.5**/undefined
     
-*   Cleaning (30%) - **8.8**/10
+*   Cleaning (30%) - **8.8**/undefined
     
 
 The Avalon A8 countertop hot and cold water dispenser was easy to set up with minimal technical skill needed for the filter installation. Its neat side pocket handles make it easy to move around, and the switches are easy to reach.
