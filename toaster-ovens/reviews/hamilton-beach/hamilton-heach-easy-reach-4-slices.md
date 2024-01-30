@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (25%) - **5.1**/10
+*   Design (25%) - **5.1**/undefined
     
-*   Usability (25%) - **5.5**/10
+*   Usability (25%) - **5.5**/undefined
     
 
 The Hamilton Beach 31344DA can save a lot of space on your kitchen counter thanks to its small size and roll-top door. It’s also lightweight and easy to move around, which makes it suitable for people who are constantly on the go and not staying in one place for long.
@@ -39,15 +39,15 @@ The silver alloy steel Hamilton Beach 31344DA Small Countertop Roll-Top Toaster 
 Performance: Adequate but With a Weakness
 -----------------------------------------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Toast (40%) - **6.7**/10
+*   Toast (40%) - **6.7**/undefined
     
-*   Pizza (25%) - **6.6**/10
+*   Pizza (25%) - **6.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **6.6**/10
+*   Whole Roasted Chicken (25%) - **6.6**/undefined
     
-*   Baked French Fries (10%) - **3.6**/10
+*   Baked French Fries (10%) - **3.6**/undefined
     
 
 The Hamilton Beach 31344DA delivered an adequate cooking performance for a small toaster oven—not as high as the [Breville BOV450XL](https://healthykitchen101.com/toaster-ovens/reviews/breville/breville-bov450xl/). It was able to do the job of roasting a whole chicken, even though the cooking chamber didn’t have enough space. However, our Baked French Fries test exposed the oven’s weakness of low power output.
@@ -213,13 +213,13 @@ After tasting this batch of french fries that lacked both color and texture, our
 Design: Some Shortcomings
 -------------------------
 
-design Scores: **5.1**
+design Scores: **NaN**
 
-*   Exterior (20%) - **5.0**/10
+*   Exterior (20%) - **5.0**/undefined
     
-*   Interior (30%) - **2.0**/10
+*   Interior (30%) - **2.0**/undefined
     
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
 
 It’s understandable that an oven designed to be this simple would not have additional features. However, the Hamilton Beach 31344DA has some shortcomings in terms of capacity and cleaning.
@@ -408,13 +408,13 @@ The casing also seems to have good heat insulation and only got hot to the touch
 Usability: Not Much To Offer
 ----------------------------
 
-usability Scores: **5.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **6.0**/10
+*   Cleanability (20%) - **6.0**/undefined
     
 
 The Hamilton Beach 31344DA is intended to be simple and therefore doesn’t offer much when it comes to user control, ease of use, and cleanability. However, cleaning was quite an issue due to the design limitations.
