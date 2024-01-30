@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.2**/10
+*   Performance (40%) - **7.2**/undefined
     
-*   Design (25%) - **5.9**/10
+*   Design (25%) - **5.9**/undefined
     
-*   Usability (35%) - **6.6**/10
+*   Usability (35%) - **6.6**/undefined
     
 
 The Dezin Electric Glass Kettle DZ380 has an extremely quiet boiling phase while consuming a standard amount of energy. It also has better heat retention than a lot of similar glass kettles. However, its slow boiling speed really sour the experience.
@@ -36,15 +36,15 @@ On the first look, the kettle’s lid open mechanism is quite unfamiliar to us. 
 Performance
 -----------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **6.0**/10
+*   Boiling Time (45%) - **6.0**/undefined
     
-*   Energy Consumption (30%) - **8.0**/10
+*   Energy Consumption (30%) - **8.0**/undefined
     
-*   Noise Level (15%) - **9.3**/10
+*   Noise Level (15%) - **9.3**/undefined
     
-*   Keep Warm (10%) - **7.5**/10
+*   Keep Warm (10%) - **7.5**/undefined
     
 
 The Dezin Electric Glass Kettle has one of the best Noise Level scores we’ve had so far. Unfortunately, its Boiling Time result is the complete opposite. Its above-average energy consumption and heat retention couldn’t help much.
@@ -96,15 +96,15 @@ Although the glass carafe of the Dezin doesn’t have the best property for heat
 Design
 ------
 
-design Scores: **5.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **6.0**/10
+*   Carafe (50%) - **6.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **6.0**/10
+*   Lid (20%) - **6.0**/undefined
     
-*   Base (20%) - **5.0**/10
+*   Base (20%) - **5.0**/undefined
     
 
 The Dezin Electric Glass Kettle is below average in terms of design. It still has some desirable features like water-level markings and an LED ring. However, the kettle cut some corners by having a make-shift filter and no cord storage or anti-slip pads for the base.
@@ -219,13 +219,13 @@ The Dezin has a 21.46 inch round power cord, which is a little bit short for our
 Usability
 ---------
 
-usability Scores: **6.6**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **5.0**/10
+*   Cleaning (20%) - **5.0**/undefined
     
 
 The Dezin Electric Glass Kettle is overall easy to use and its clip-lock lid, though inconvenient, doesn’t pose any danger. However, due to the kettle not having a mesh filter, you’ll need to descale it more frequently, about once a week to ensure the kettle’s heating capability and its longevity.
@@ -246,7 +246,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
