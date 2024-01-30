@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.1**/10
+*   Performance (50%) - **5.1**/undefined
     
-*   Design (25%) - **3.6**/10
+*   Design (25%) - **3.6**/undefined
     
-*   Usability (25%) - **4.6**/10
+*   Usability (25%) - **4.6**/undefined
     
 
 The stainless steel Hamilton Beach 31401 Countertop Toaster Oven & Pizza Maker has a basic, lightweight, and small-sized structure. It saves energy with a low power output and quartz heating elements.
@@ -37,15 +37,15 @@ The stainless steel Hamilton Beach 31401 Countertop Toaster Oven & Pizza Maker i
 Performance: Good for Toast Only
 --------------------------------
 
-performance Scores: **5.1**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.7**/10
+*   Toast (40%) - **7.7**/undefined
     
-*   Pizza (25%) - **5.5**/10
+*   Pizza (25%) - **5.5**/undefined
     
-*   Whole Roasted Chicken (25%) - **1.0**/10
+*   Whole Roasted Chicken (25%) - **1.0**/undefined
     
-*   Baked French Fries (10%) - **4.0**/10
+*   Baked French Fries (10%) - **4.0**/undefined
     
 
 Our test results showed that the Hamilton Beach 31401 did a good job of making toast. However, it didn’t perform well in dishes that require a long cooking time and/or a high temperature, including pizza, whole roasted chicken, and baked french fries.
@@ -193,13 +193,13 @@ There was no change in the fries’ color so they received a 5/10. The oven basi
 Design: No Stand-Out Features
 -----------------------------
 
-design Scores: **3.6**
+design Scores: **NaN**
 
-*   Exterior (20%) - **4.0**/10
+*   Exterior (20%) - **4.0**/undefined
     
-*   Interior (30%) - **1.0**/10
+*   Interior (30%) - **1.0**/undefined
     
-*   Build Quality (50%) - **5.0**/10
+*   Build Quality (50%) - **5.0**/undefined
     
 
 With a basic design, the Hamilton Beach 31401 doesn’t have any exterior feature that stands out. It makes up a little for this with its interior having quartz heating elements with safeguards.
@@ -382,13 +382,13 @@ The Hamilton uses durable material but its construction isn’t very sturdy. Eve
 Usability: Not Much Offered
 ---------------------------
 
-usability Scores: **4.6**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **3.0**/10
+*   Ease of Use (50%) - **3.0**/undefined
     
-*   Cleanability (20%) - **5.0**/10
+*   Cleanability (20%) - **5.0**/undefined
     
 
 While the Hamilton Beach 31401 doesn’t offer much in terms of usability, it also doesn’t cause any inconvenience. Although the analog control knobs can make it difficult to pinpoint an exact time and temperature, it wasn’t a big problem.
