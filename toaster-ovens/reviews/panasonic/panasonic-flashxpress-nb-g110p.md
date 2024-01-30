@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.6**/10
+*   Performance (50%) - **6.6**/undefined
     
-*   Design (25%) - **6.0**/10
+*   Design (25%) - **6.0**/undefined
     
-*   Usability (25%) - **4.9**/10
+*   Usability (25%) - **4.9**/undefined
     
 
 The Panasonic NB-G110P FlashXpress Digital Small Toaster Oven stands out to us by having powerful heating elements despite its low power draw of 1300 W. Not only does having powerful heating elements reduce cooking times, but having a low power draw also decreases energy consumption. These features made the oven suitable for people who want a small unit that can deliver good cooking performances while saving energy.
@@ -39,15 +39,15 @@ The silver stainless steel Panasonic NB-G110P FlashXpress Digital Small Toaster 
 Performance: Short Cooking Times
 --------------------------------
 
-performance Scores: **6.6**
+performance Scores: **NaN**
 
-*   Toast (40%) - **6.0**/10
+*   Toast (40%) - **6.0**/undefined
     
-*   Pizza (25%) - **7.3**/10
+*   Pizza (25%) - **7.3**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.1**/10
+*   Whole Roasted Chicken (25%) - **7.1**/undefined
     
-*   Baked French Fries (10%) - **6.1**/10
+*   Baked French Fries (10%) - **6.1**/undefined
     
 
 The Panasonic NB-G110P has very powerful heating elements so it could reduce the cooking time. However, the oven had a shortcoming that kept it from being a [top contender](https://healthykitchen101.com/toaster-ovens/reviews/best/): uneven heat distribution. Nonetheless, it was able to bake pizzas and roast a whole chicken well.
@@ -213,13 +213,13 @@ With such subpar colors and textures, our chef could only give the fries a 6.5/1
 Design: High Build Quality Only
 -------------------------------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Exterior (20%) - **5.0**/10
+*   Exterior (20%) - **5.0**/undefined
     
-*   Interior (30%) - **5.0**/10
+*   Interior (30%) - **5.0**/undefined
     
-*   Build Quality (50%) - **7.0**/10
+*   Build Quality (50%) - **7.0**/undefined
     
 
 The Panasonic NB-G110P has a high build quality which justifies its price. However, it has no noticeable additional design features compared to other less expensive small toaster ovens—including the [Mueller MT-175](https://healthykitchen101.com/toaster-ovens/reviews/mueller/mueller-4-slice/)—besides an interior light and an auto-pull rack.
@@ -408,13 +408,13 @@ The LCD is black and glows red creating good color contrast and the analog butto
 Usability: Lacking Premium Features
 -----------------------------------
 
-usability Scores: **4.9**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **3.0**/10
+*   Ease of Use (50%) - **3.0**/undefined
     
-*   Cleanability (20%) - **6.5**/10
+*   Cleanability (20%) - **6.5**/undefined
     
 
 For what it’s worth, the Panasonic NB-G110P had respectable scores in terms of user control and cleanability. However, it lacks premium features of ease of use which can commonly be seen in units of this price range.
