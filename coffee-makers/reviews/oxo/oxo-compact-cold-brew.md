@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.0**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **9.0**/10
+*   Brew Quality (50%) - **9.0**/undefined
     
-*   Design (15%) - **9.0**/10
+*   Design (15%) - **9.0**/undefined
     
-*   Ease of Use (35%) - **8.9**/10
+*   Ease of Use (35%) - **8.9**/undefined
     
 
 The OXO Compact cold brew coffee maker is one of the simplest brewers to use. We’re impressed with its fast decanting and convenient inbuilt measurements. It stores really neatly too.
@@ -35,13 +35,13 @@ We unboxed the OXO Compact to see what you get in such a neat package. We also t
 Brew Quality
 ------------
 
-performance Scores: **9.0**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **9.0**/10
+*   Bouquet (10%) - **9.0**/undefined
     
-*   Drinkability (70%) - **9.0**/10
+*   Drinkability (70%) - **9.0**/undefined
     
-*   Sediment (20%) - **9.0**/10
+*   Sediment (20%) - **9.0**/undefined
     
 
 Overall, the OXO Compact produced a smooth and full-bodied brew. It was very satisfying to drink with a simple dilution. However, the brew tended to lack sweeter flavor subtleties and the complexity one would expect from a cold brew.
@@ -69,13 +69,13 @@ The OXO Compact uses a simple reusable mesh filter. It didn’t clog the brewer 
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **9.0**/10
+*   Stopper / Lid (30%) - **9.0**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
 
 We unboxed the OXO Compact cold coffee brewer to see what came in such a neat and small package. The initial impression was a product that delights and excites.
@@ -168,13 +168,13 @@ The OXO Compact is a very well-built product. It’s stylish, high quality, and 
 Ease of Use
 -----------
 
-usability Scores: **8.9**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **9.0**/10
+*   Decanting (35%) - **9.0**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 The OXO Compact is one of the easiest cold brew coffee makers to use. You simply measure your ingredients using the markings on its brew vessel and decanter. Decanting was fast and effortless, and cleaning straightward. It also stored very neatly, adding to its compact appeal. The only thing to be careful of is the sensitive decanting spring valve.
