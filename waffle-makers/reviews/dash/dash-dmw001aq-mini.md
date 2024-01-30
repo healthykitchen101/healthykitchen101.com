@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.5**/10
+*   Performance (50%) - **6.5**/undefined
     
-*   Design (20%) - **6.0**/10
+*   Design (20%) - **6.0**/undefined
     
-*   Ease of Use (30%) - **8.3**/10
+*   Ease of Use (30%) - **8.3**/undefined
     
 
 The Dash DMW001AQ Mini Waffle Maker is great to have around for a midday snack. A plate of these mini-sized waffles constitutes a quick, healthy breakfast if you live alone. Quality, however,  isn’t going to be restaurant-like: It tends to unevenly cook the top of the waffle while leaving the inside slightly undercooked. Nonetheless, the waffles should still be palatable.
@@ -35,11 +35,11 @@ Ok, so it’s small and convenient but is it actually good at making waffles? We
 Performance: A Mixed Bag
 ------------------------
 
-performance Scores: **6.5**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.0**/10
+*   Self-Mixed Recipe (50%) - **6.0**/undefined
     
-*   Birch Benders Mix (50%) - **7.0**/10
+*   Birch Benders Mix (50%) - **7.0**/undefined
     
 
 The Dash Mini waffle maker produced less-than-desirable results in our test using the self-mixed recipe. Most of the waffles had charrings on the exterior, while the insides were still undercooked and soggy. However, after changing to a pre-made Birch Benders waffle mix, the quality of the waffles was significantly improved. The color, texture, and taste were all acceptable, according to our chef.
@@ -139,13 +139,13 @@ The Dash Mini was able to bring out the complete flavor profile of the batter. S
 Design: Expectedly Mediocre
 ---------------------------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **5.0**/10
+*   Build Quality (60%) - **5.0**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 Since it’s such an affordable model, when we ordered the Dash DMW001AQ Mini waffle maker, we already expected its design to be unremarkable. And true to our expectation, the waffle maker didn’t score well in design assessments. The build quality is low and our reviewers have spotted many design-related issues, resulting in a low overall design score.
@@ -244,15 +244,15 @@ The Dash Mini waffle maker does not come with any kind of accessory.
 Ease of Use
 -----------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Handling (25%) - **8.0**/10
+*   Handling (25%) - **8.0**/undefined
     
-*   Safety (40%) - **8.1**/10
+*   Safety (40%) - **8.1**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **6.0**/10
+*   Indicator Light Visibility (10%) - **6.0**/undefined
     
 
 At first glance, the waffle maker appears quite simple to use. Wait until the indicator light at the top turns off, pour in your batter, and then patiently wait out the cooking time—easy enough.
