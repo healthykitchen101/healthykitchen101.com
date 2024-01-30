@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.3**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.4**/10
+*   Performance (60%) - **9.3**/undefined
     
-*   Design (25%) - **9.6**/10
+*   Design (25%) - **9.6**/undefined
     
-*   Usability (15%) - **8.5**/10
+*   Usability (15%) - **8.5**/undefined
     
 
 The InSinkErator Evolution Excel Garbage Disposal 1 HP is a top-tier in-sink grinder. With premium features such as a high-torque motor, an augmented chamber, and an advanced insulation system, it stands head and shoulders above most others. It’s the only model that we feel confident recommending when dealing with raw meat scraps.
@@ -36,13 +36,13 @@ At first glance, the Evolution Excel struck us as a competent unit that is made 
 Performance: Almost Perfect
 ---------------------------
 
-performance Scores: **9.4**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **9.8**/10
+*   Scrap Mix (50%) - **9.8**/undefined
     
-*   Raw Fish Scraps (25%) - **9.3**/10
+*   Raw Fish Scraps (25%) - **9.3**/undefined
     
-*   Raw Chicken Scraps (25%) - **8.5**/10
+*   Raw Chicken Scraps (25%) - **8.5**/undefined
     
 
 Across all three challenging tests, the Excel both met and exceeded our expectations. Nothing we had prepared could hold it back—not the eleven types of food including fruit pits and chicken bones, and not even the tough uncooked fish scraps. 
@@ -150,13 +150,13 @@ In terms of fineness, the samples in Layer 1 and Layer 2 meet our requirements. 
 Design: Heavy with Premium Features
 -----------------------------------
 
-design Scores: **9.6**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **9.5**/10
+*   Grind Chamber (30%) - **9.5**/undefined
     
-*   Motor (30%) - **9.0**/10
+*   Motor (30%) - **9.0**/undefined
     
-*   Build Quality (40%) - **10**/10
+*   Build Quality (40%) - **10**/undefined
     
 
 The InSinkErator Evolution Excel has been the most expensive garbage disposal for years. But that’s not too surprising considering its premium features and InSinkErator’s quality control. 
@@ -334,15 +334,15 @@ The three extra bolts are shorter than the standard mounting bolts. They’re in
 Usability: Top of the Line
 --------------------------
 
-usability Scores: **8.5**
+usability Scores: **NaN**
 
-*   Installation (30%) - **5.0**/10
+*   Installation (30%) - **5.0**/undefined
     
-*   Ease of Use (40%) - **10**/10
+*   Ease of Use (40%) - **10**/undefined
     
-*   Smooth Operation (25%) - **10**/10
+*   Smooth Operation (25%) - **10**/undefined
     
-*   Unjam Mechanics (5%) - **10**/10
+*   Unjam Mechanics (5%) - **10**/undefined
     
 
 Throughout our experience with the Evolution Excel, usability has never been a problem. With its strong motor, capable grind chamber, and impressive build quality, the garbage disposal has dealt handily with anything thrown its way. The only thing that might set the Excel back is its weight and space-consuming stature.
