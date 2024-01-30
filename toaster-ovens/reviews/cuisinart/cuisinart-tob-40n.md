@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.8**/10
+*   Performance (50%) - **6.8**/undefined
     
-*   Design (25%) - **6.2**/10
+*   Design (25%) - **6.2**/undefined
     
-*   Usability (25%) - **5.8**/10
+*   Usability (25%) - **5.8**/undefined
     
 
 The black stainless steel Cuisinart TOB-40N Custom Classic Toaster Oven Broiler is a decent medium-sized [budget toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/) with a big capacity and no convection system.
@@ -37,15 +37,15 @@ The black stainless steel Cuisinart TOB-40N Custom Classic Toaster Oven Broiler 
 Performance: Could Be Improved
 ------------------------------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.1**/10
+*   Toast (40%) - **7.1**/undefined
     
-*   Pizza (25%) - **6.5**/10
+*   Pizza (25%) - **6.5**/undefined
     
-*   Whole Roasted Chicken (25%) - **7.4**/10
+*   Whole Roasted Chicken (25%) - **7.4**/undefined
     
-*   Baked French Fries (10%) - **5.1**/10
+*   Baked French Fries (10%) - **5.1**/undefined
     
 
 The Cuisinart TOB-40N performed well in making toast and whole roasted chicken despite not having a convection system. However, the lack of convection resulted in uneven surface colors on our test dishes.
@@ -203,13 +203,13 @@ The fries gained an acceptable color, enough for a 6.5/10. Even though the bakin
 Design: Simple and Spacious
 ---------------------------
 
-design Scores: **6.2**
+design Scores: **NaN**
 
-*   Exterior (20%) - **7.0**/10
+*   Exterior (20%) - **7.0**/undefined
     
-*   Interior (30%) - **6.0**/10
+*   Interior (30%) - **6.0**/undefined
     
-*   Build Quality (50%) - **6.0**/10
+*   Build Quality (50%) - **6.0**/undefined
     
 
 The Cuisinart TOB-40N has a simple design but with some nice attention to detail. To accommodate its spacious interior, the oven uses 1800 W.
@@ -379,13 +379,13 @@ The Cuisinart has a sturdy construction and durable material. Its auto-slide rac
 Usability: Only Standard Features
 ---------------------------------
 
-usability Scores: **5.8**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleanability (20%) - **6.0**/10
+*   Cleanability (20%) - **6.0**/undefined
     
 
 The Cuisinart TOB-40N doesn’t offer much in terms of ease of use. While the control panel is simple, not having a timer means you’ll need an external timer when using this oven. The oven posed no difficulties in cleaning but nothing to help either.
