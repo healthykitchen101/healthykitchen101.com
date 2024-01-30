@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.7**
+Overall Score: **NaN**
 
-*   Performance (60%) - **5.7**/10
+*   Performance (60%) - **5.7**/undefined
     
-*   Design (25%) - **7.8**/10
+*   Design (25%) - **7.8**/undefined
     
-*   Usability (15%) - **8.7**/10
+*   Usability (15%) - **8.7**/undefined
     
 
 The BELLA is built for the price so it lacks the aesthetic appeal and sturdy feel of pricer models’. Nevertheless, it is not a bad choice for those who don't need fancy features, and consider affordability is a priority. In the protein shake test, it outperformed many of its mid-range rivals in blending dried fruits and raw nuts, producing a relatively smooth consistency without much struggle. Its ability to blend frozen fruits is also noteworthy in its price range. This makes it possible to enjoy delicious and healthy smoothies all year round. The mid-powered motor means it is unable to crush ice cubes, but this is a common shortcoming of most [household blenders](https://healthykitchen101.com/blenders/reviews/best/). Quickly turning high-fiber food into liquid form proved to be a demanding task, too, but it can still perform the task adequately as long as time is not a factor.
@@ -30,15 +30,15 @@ The BELLA is a [mid-range personal blender](https://healthykitchen101.com/blende
 Performance
 -----------
 
-performance Scores: **5.7**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **7.5**/10
+*   Protein Shake (40%) - **7.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **9.0**/10
+*   Frozen Fruit Smoothie (30%) - **9.0**/undefined
     
-*   Fibrous Greens (20%) - **0**/10
+*   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 The BELLA is finely capable of preparing protein shakes and frozen fruit smoothies, but comes up short in liquifying leafy greens and pulverizing ice cues. For those that can make such compromises, this blender is the easy choice considering its price and the long list of extra accessories. Otherwise, we suggest considering the [KOIOS Pro](https://healthykitchen101.com/blenders/reviews/koios/koios-850w-bullet/), which is similarly priced but offers more advanced capabilities.
@@ -92,13 +92,13 @@ The BELLA appeared to lack the necessary strength for such a tough application. 
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.5**/10
+*   Build Quality (60%) - **7.5**/undefined
     
-*   Blades (20%) - **6.5**/10
+*   Blades (20%) - **6.5**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The overall design of the BELLA is functional, but not particularly eye-catching so we’re not fans of neither its styling nor quality. Nevertheless, considering its affordability, along with a suit of practical accessories, we agree this blender is still a good value for money.
@@ -212,13 +212,13 @@ The BELLA is a single speed design and doesn’t have a pulse function. This may
 Usability
 ---------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **8.6**/10
+*   Hands-Free Operation (60%) - **8.6**/undefined
     
-*   Assembly (20%) - **9.0**/10
+*   Assembly (20%) - **9.0**/undefined
     
-*   Cleanability (20%) - **8.5**/10
+*   Cleanability (20%) - **8.5**/undefined
     
 
 The BELLA remains one of the most user-friendly personal blenders on the market due to its simple operation, straightforward assembly, and hassle-free cleaning process. The lack of pulse function may make it tricky to create chunky textures, but we believe it won’t take much time to find the way
