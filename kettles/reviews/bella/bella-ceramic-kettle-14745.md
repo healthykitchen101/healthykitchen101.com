@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.0**/10
+*   Performance (40%) - **7.0**/undefined
     
-*   Design (25%) - **5.8**/10
+*   Design (25%) - **5.8**/undefined
     
-*   Usability (35%) - **5.7**/10
+*   Usability (35%) - **5.7**/undefined
     
 
 Our overall verdict for the Bella Ceramic Gooseneck Electric Kettle did not disappoint on  our first impressions. We really like the ceramic carafe and gooseneck spout of the kettle, enough to overlook its relatively slow boiling time.
@@ -36,15 +36,15 @@ The Bella Kettle caught our eye with its attractive design. The kettle’s rare 
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **6.8**/10
+*   Boiling Time (45%) - **6.8**/undefined
     
-*   Energy Consumption (30%) - **6.4**/10
+*   Energy Consumption (30%) - **6.4**/undefined
     
-*   Noise Level (15%) - **8.7**/10
+*   Noise Level (15%) - **8.7**/undefined
     
-*   Keep Warm (10%) - **7.0**/10
+*   Keep Warm (10%) - **7.0**/undefined
     
 
 The Bella Ceramic Gooseneck Electric Kettle showed a good performance all things considered. Its boiling time was a bit slow, but otherwise energy consumption and noise levels were average. Unfortunately, our high hopes in the heat retention department were dashed because the material of design failed to deliver.
@@ -100,15 +100,15 @@ It’s worth noting that this kettle also doesn’t have temperature control for
 Design
 ------
 
-design Scores: **5.8**
+design Scores: **NaN**
 
-*   Carafe (50%) - **5.0**/10
+*   Carafe (50%) - **5.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **6.0**/10
+*   Base (20%) - **6.0**/undefined
     
 
 The Bella Ceramic Gooseneck Electric Kettle has an aesthetically pleasing design encompassing its practical gooseneck spout. However, due to the  ceramic material there is no LED ring to light things up  in the dark nor is there a mesh filter to remove limescale. The kettle also cut some corners with the quality of its base.
@@ -218,13 +218,13 @@ The Bella has a 32.67-inch flat power cord, which should be plenty enough for ho
 Usability
 ---------
 
-usability Scores: **5.7**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **5.0**/10
+*   Ease of Use (50%) - **5.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 Reflecting the nature and limitations of its design, the Bella Ceramic Gooseneck Electric Kettle did not do so well in terms of its user-friendliness. Key issues were the heavy carafe and its smooth handle lacking additional grip. The silver lining is perhaps how easy it is to clean.
@@ -245,7 +245,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
