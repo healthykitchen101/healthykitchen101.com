@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.8**/10
+*   Performance (50%) - **7.8**/undefined
     
-*   Design (20%) - **9.8**/10
+*   Design (20%) - **9.8**/undefined
     
-*   Usability (30%) - **8.6**/10
+*   Usability (30%) - **8.6**/undefined
     
 
 The Anova Precision Vacuum Sealer Pro is one of our [top picks for vacuum sealers](https://healthykitchen101.com/vacuum-sealers/reviews/best/) in 2023 because it performs well, looks great, and is easy to use. However, when compared to some other options like the Nesco VS-12, it may not be the absolute best choice in terms of performance and durability.
@@ -35,11 +35,11 @@ Given its popularity among consumers, our editors were intrigued enough to purch
 Performance
 -----------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Dry Food Test (60%) - **8.9**/10
+*   Dry Food Test (60%) - **8.9**/undefined
     
-*   Moist Food Test (40%) - **6.1**/10
+*   Moist Food Test (40%) - **6.1**/undefined
     
 
 The Anova Precision Pro sealer shines in terms of performance. It excelled in the dry food test, although it had a somewhat average score in the moist food test. Nevertheless, it earned a respectable total performance score of 8.0/10.
@@ -83,15 +83,15 @@ Despite not crushing the fruit slices to the point of them leaking out the juice
 Design
 ------
 
-design Scores: **9.8**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **10**/10
+*   Build Quality (50%) - **10**/undefined
     
-*   Control Panel (20%) - **10**/10
+*   Control Panel (20%) - **10**/undefined
     
-*   Lid (20%) - **10**/10
+*   Lid (20%) - **10**/undefined
     
-*   Extra Features (10%) - **8.0**/10
+*   Extra Features (10%) - **8.0**/undefined
     
 
 The Anova Precision Pro vacuum sealer stands out with its sleek black plastic design that adds a touch of elegance to any kitchen. It's well-built, easy to use with one hand thanks to the handle lock, and features a user-friendly control panel with just a few buttons. It even has some handy extras, like a compartment for holding plastic bag rolls and a built-in cutter.
@@ -183,13 +183,13 @@ The only thing it doesn’t have is a removable drip tray.
 Usability
 ---------
 
-usability Scores: **8.6**
+usability Scores: **NaN**
 
-*   Ease of Use (70%) - **9.0**/10
+*   Ease of Use (70%) - **9.0**/undefined
     
-*   Safety & Noise (15%) - **8.0**/10
+*   Safety & Noise (15%) - **8.0**/undefined
     
-*   Indicator Lights and Chime (15%) - **7.0**/10
+*   Indicator Lights and Chime (15%) - **7.0**/undefined
     
 
 The Anova Precision Pro excels in usability. Its user-friendly control panel is complemented by thoughtful safety features, such as the handle lock and a visible warning strip on the hot heating bar. However, it could benefit from an audible chime for added ease of use.
@@ -220,7 +220,7 @@ When it comes to noise, the Anova Precision Pro is on par with other sealers we'
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/anova-precision-vacuum-sealer-pro-indicator-lights-clpgd7wr9001imm88a3a62xc2.jpg" alt="The indicator lights are built into the individual button. The Dry vacuuming mode is on at the moment." width="300px" height="200px">
 
-Numberof Indicators: 9
+Number of Indicators: 9
 
 Progress Bar: Yes
 
