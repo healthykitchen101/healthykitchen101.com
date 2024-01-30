@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.9**/10
+*   Performance (50%) - **5.9**/undefined
     
-*   Design (25%) - **5.1**/10
+*   Design (25%) - **5.1**/undefined
     
-*   Ease of Use (25%) - **6.0**/10
+*   Ease of Use (25%) - **6.0**/undefined
     
 
 The Costway [5-gallon water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) is a low-cost choice for a top-loading machine. There are several things we really like about the Costway, but it’s not without its flaws and disappointing for the cheap corners it cuts.
@@ -36,11 +36,11 @@ Costway makes a wide range of large and small appliances, outdoor and indoor fur
 Performance
 -----------
 
-performance Scores: **5.9**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **7.2**/10
+*   Hot Water Test (40%) - **7.2**/undefined
     
-*   Cold Water Test (60%) - **5.0**/10
+*   Cold Water Test (60%) - **5.0**/undefined
     
 
 Considering its smaller design, and budget features, the performance of the Costway was quite reasonable. The hot water temperature was about as high as it gets, while heating times and hot water capacity were good averages. The cold water capacity and performance were good enough for a small personal water cooler dispenser. The only performance disappointment was the rather slow flow rate.
@@ -110,15 +110,15 @@ The machine itself is very light and can easily be lifted or moved around. It’
 Design
 ------
 
-design Scores: **5.1**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **4.9**/10
+*   Build Quality (45%) - **4.9**/undefined
     
-*   Panel & Indicators (25%) - **6.0**/10
+*   Panel & Indicators (25%) - **6.0**/undefined
     
-*   Water Inlet Controls (20%) - **6.0**/10
+*   Water Inlet Controls (20%) - **6.0**/undefined
     
-*   Drip Tray (10%) - **2.0**/10
+*   Drip Tray (10%) - **2.0**/undefined
     
 
 The Costway is a neat looking water cooler dispenser. Its convenient size also fits a niche between the typical freestanding dispenser and the small countertop variety. It’s also considerably light weight and easy to move around or transport. 
@@ -272,15 +272,15 @@ The length of the cord is much the same as larger freestanding water cooler disp
 Ease of Use
 -----------
 
-usability Scores: **6.0**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **5.0**/10
+*   Dispensing Water (40%) - **5.0**/undefined
     
-*   Hot Water Safety (15%) - **5.5**/10
+*   Hot Water Safety (15%) - **5.5**/undefined
     
-*   Bottle / Filter Changing (15%) - **7.5**/10
+*   Bottle / Filter Changing (15%) - **7.5**/undefined
     
-*   Cleaning (30%) - **6.8**/10
+*   Cleaning (30%) - **6.8**/undefined
     
 
 The only performance score to affect ease of use was the flow rate. The flow rate was rather slow but not entirely unexpected for the faucet-type dispensing levers and the budget cost of the machine.
