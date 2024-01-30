@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.1**/10
+*   Performance (60%) - **7.1**/undefined
     
-*   Design (20%) - **7.4**/10
+*   Design (20%) - **7.4**/undefined
     
-*   Usability (20%) - **7.8**/10
+*   Usability (20%) - **7.8**/undefined
     
 
 Between its powerful 1200-watt motor and compact footprint, the Oster Pro is a comfortable and practical machine. It's smaller and more affordable than most other high-powered blenders but gives up little in terms of versatility. It's a nice option for those looking to enrich their kitchen arsenal without committing to a significant investment.
@@ -31,17 +31,17 @@ The Oster Pro is a 1200-watt blender that goes for around $70—quite a bit less
 Performance
 -----------
 
-performance Scores: **7.1**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **9.0**/10
+*   Smoothie (35%) - **9.0**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **0**/10
+*   Frozen Fruit Smoothie (20%) - **0**/undefined
     
-*   Protein Shake (15%) - **8.5**/10
+*   Protein Shake (15%) - **8.5**/undefined
     
-*   Almond Butter (20%) - **8.3**/10
+*   Almond Butter (20%) - **8.3**/undefined
     
-*   Crushed Ice (10%) - **10**/10
+*   Crushed Ice (10%) - **10**/undefined
     
 
 In our hands-on testing, the Oster Pro came up short in terms of making frozen fruit smoothies. However, it pleasantly surprised us with its exceptional performance in other tasks. Not only was it able to create a velvety texture with various fresh fruits, but it also successfully made almond butter and protein shakes. Most notably, it outperformed many other [mid-priced blenders](https://healthykitchen101.com/blenders/reviews/best/) when crushing ice cubes.
@@ -111,13 +111,13 @@ With its great ice-crushing capabilities, the Oster Pro is perfect for your refr
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blades (25%) - **8.0**/10
+*   Blades (25%) - **8.0**/undefined
     
-*   Control Panel (15%) - **8.0**/10
+*   Control Panel (15%) - **8.0**/undefined
     
 
 The Oster Pro comes in a brushed nickel finish. Opinions are mixed on it—some people like the throwback elegance while others find it tacky. At the end of the day, though, the most important thing is its functionality.
@@ -266,15 +266,15 @@ Included as a convenient addition to the package is a 24-ounce smoothie cup that
 Usability
 ---------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **7.5**/10
+*   Ease of Blend (40%) - **7.5**/undefined
     
-*   Noise Level (20%) - **7.1**/10
+*   Noise Level (20%) - **7.1**/undefined
     
-*   Assembly (15%) - **8.5**/10
+*   Assembly (15%) - **8.5**/undefined
     
-*   Cleanability (25%) - **8.5**/10
+*   Cleanability (25%) - **8.5**/undefined
     
 
 While the Oster Pro blender has some confusing buttons, it offers a quite user-friendly experience. The noise it generates is similar to typical household appliances and is usually bearable. Assembly is simple and cleaning is a breeze. Just be careful with the sharp blade.
