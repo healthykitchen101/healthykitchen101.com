@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.7**/10
+*   Performance (50%) - **7.7**/undefined
     
-*   Design (20%) - **7.4**/10
+*   Design (20%) - **7.4**/undefined
     
-*   Usability (30%) - **8.8**/10
+*   Usability (30%) - **8.8**/undefined
     
 
 The Chefman cordless is our [favorite blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) even when it wasn’t up to the task of beating eggs. We can’t say for sure whether you’ll love its soup-making capability since it performed just moderately in our pureéing test.
@@ -37,17 +37,17 @@ In the growing market of cordless immersion blenders, the Chefman stands out for
 Performance: Good enough
 ------------------------
 
-performance Scores: **7.7**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.0**/10
+*   Hot Soup Purée (35%) - **7.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **9.0**/10
+*   Frozen Fruit Smoothie (30%) - **9.0**/undefined
     
-*   Mayonnaise (15%) - **8.8**/10
+*   Mayonnaise (15%) - **8.8**/undefined
     
-*   Almond Milk (15%) - **8.5**/10
+*   Almond Milk (15%) - **8.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 The Chefman is a moderately [capable blender](https://healthykitchen101.com/blenders/reviews/best/). With stable battery power, it brings quite a lot to the table. In our tests, it didn’t work particularly quickly, nor were the results among the best, but based on its testing performance, we’re confident that the capabilities of this blender extend beyond soup, smoothies, and mayonnaise.
@@ -117,15 +117,15 @@ This machine’s blending shaft was unable to beat the eggs, but it shares this 
 Design: Pleasing Collection of Features
 ---------------------------------------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.0**/10
+*   Build Quality (60%) - **8.0**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Battery (5%) - **10**/10
+*   Battery (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 We like the look of this blender, especially the color-coded LED ring on top. It lights up during operation to create a fancy blending experience. The overall quality is fine with all parts coming as standard. However, we did have a few reservations about the blades’ metal housing, which presents some shortcomings that you may feel uncomfortable with.
@@ -256,15 +256,15 @@ No extra blending attachments are included.
 Usability: Excellent Mobility
 -----------------------------
 
-usability Scores: **8.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.8**/10
+*   Ease of Use (60%) - **8.8**/undefined
     
-*   Blade Assembly (10%) - **9.5**/10
+*   Blade Assembly (10%) - **9.5**/undefined
     
-*   Handling (20%) - **9.0**/10
+*   Handling (20%) - **9.0**/undefined
     
-*   Cleanability (10%) - **8.0**/10
+*   Cleanability (10%) - **8.0**/undefined
     
 
 The Chefman’s usability is great. There’s no cord to accidentally yank on, allowing for maximum flexibility while blending. With the balanced size, it isn’t cumbersome, creating a comfortable experience even when you're pureeing a large batch.
