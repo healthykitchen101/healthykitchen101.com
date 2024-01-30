@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.8**/10
+*   Performance (50%) - **6.8**/undefined
     
-*   Design (25%) - **6.4**/10
+*   Design (25%) - **6.4**/undefined
     
-*   Usability (25%) - **6.2**/10
+*   Usability (25%) - **6.2**/undefined
     
 
 The brushed stainless steel Breville BOV450XL is one of the best choices if you’re looking for a smart countertop toaster oven in the [small category](https://healthykitchen101.com/toaster-ovens/reviews/best/small-toaster-ovens/). It also has a well-constructed outer shell and control panel. In addition, the interior coating makes cleaning easy.
@@ -35,15 +35,15 @@ The brushed stainless steel Breville BOV450XL Mini Smart Countertop Toaster Oven
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.8**/10
+*   Toast (40%) - **7.8**/undefined
     
-*   Pizza (25%) - **5.5**/10
+*   Pizza (25%) - **5.5**/undefined
     
-*   Whole Roasted Chicken (25%) - **6.6**/10
+*   Whole Roasted Chicken (25%) - **6.6**/undefined
     
-*   Baked French Fries (10%) - **6.5**/10
+*   Baked French Fries (10%) - **6.5**/undefined
     
 
 The Breville BOV450XL produced great toast and adequate results when roasting a whole chicken and baking french fries. However, it left a lot to be desired when we tried a pizza. We suspect this was due to the inconsistent heating of the oven.
@@ -205,13 +205,13 @@ Our chef gave the fries a 7/10 for taste.
 Design
 ------
 
-design Scores: **6.4**
+design Scores: **NaN**
 
-*   Exterior (20%) - **6.0**/10
+*   Exterior (20%) - **6.0**/undefined
     
-*   Interior (30%) - **4.0**/10
+*   Interior (30%) - **4.0**/undefined
     
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
 
 The Breville BOV450XL has a good capacity for a small oven. However, while it has a high wattage and quartz heating elements, it lacks a convection system, so the fancy heating elements don’t improve performance much.
@@ -402,13 +402,13 @@ Thanks to the good insulation of the casing, the oven gets hot to the touch only
 Usability
 ---------
 
-usability Scores: **6.2**
+usability Scores: **NaN**
 
-*   User Control (30%) - **8.0**/10
+*   User Control (30%) - **8.0**/undefined
     
-*   Ease of Use (50%) - **4.0**/10
+*   Ease of Use (50%) - **4.0**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 The Breville BOV450XL is simple to use and to clean. Unfortunately, most of its unique features aren’t useful, including the toggles and cooking presets. Its smart heating algorithms as well as automatic preheat phase also didn’t add much to the test dishes we cooked. Cleaning it was an extremely easy task, though.
