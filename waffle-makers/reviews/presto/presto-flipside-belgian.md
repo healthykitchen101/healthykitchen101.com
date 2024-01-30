@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.5**/10
+*   Performance (50%) - **6.5**/undefined
     
-*   Design (20%) - **6.6**/10
+*   Design (20%) - **6.6**/undefined
     
-*   Ease of Use (30%) - **9.2**/10
+*   Ease of Use (30%) - **9.2**/undefined
     
 
 With the Flipside 03510, Presto has succeeded at what it set out to do: create a [flippable Belgian waffle maker](https://healthykitchen101.com/waffle-makers/reviews/best/belgian-waffle-makers/) that’s more compact and unique-looking than its competitors. It easily stands out among other waffle makers with more traditional designs.
@@ -38,11 +38,11 @@ Here are the results!
 Performance: More than Meets the Eyes
 -------------------------------------
 
-performance Scores: **6.5**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.0**/10
+*   Self-Mixed Recipe (50%) - **6.0**/undefined
     
-*   Birch Benders Mix (50%) - **7.0**/10
+*   Birch Benders Mix (50%) - **7.0**/undefined
     
 
 In our self-mixed recipe test, the Presto’s performance was lackluster at best. The waffles were disappointing, with a blackened, charred coloring and little to no flavor or texture.
@@ -142,13 +142,13 @@ Our chef rated the waffle as flavorful: savory, and pleasantly sweet. But the mu
 Design
 ------
 
-design Scores: **6.6**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.0**/10
+*   Build Quality (60%) - **6.0**/undefined
     
-*   Waffle Plates (30%) - **8.0**/10
+*   Waffle Plates (30%) - **8.0**/undefined
     
-*   Control Panel (10%) - **6.0**/10
+*   Control Panel (10%) - **6.0**/undefined
     
 
 Our first impression of the Presto 03510 waffle maker was that it’s a luxurious waffle maker. Unfortunately, upon closer inspection, many deficiencies were revealed. Its overall build quality isn’t very good, having many dents and gaps on various parts of its bodywork. This gave us the impression that its manufacture was done hastily.
@@ -267,15 +267,15 @@ The Presto waffle maker does not come with any accessories.
 Ease of Use
 -----------
 
-usability Scores: **9.2**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.5**/10
+*   Handling (25%) - **9.5**/undefined
     
-*   Safety (40%) - **9.8**/10
+*   Safety (40%) - **9.8**/undefined
     
-*   Cleanability (25%) - **7.5**/10
+*   Cleanability (25%) - **7.5**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The Presto waffle maker is easy to use overall. You may initially feel slightly unfamiliar with its flipping function, but you'll get a grip on it in only a few minutes. 
