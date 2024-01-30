@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.3**/10
+*   Performance (40%) - **7.3**/undefined
     
-*   Design (25%) - **7.6**/10
+*   Design (25%) - **7.6**/undefined
     
-*   Usability (35%) - **7.5**/10
+*   Usability (35%) - **7.5**/undefined
     
 
 From a user perspective, the main selling point of the Cosori Original Electric Glass Kettle to us is the fact that there’s no plastic coming into contact with the water. And of course, we have the kettle’s glass carafe and spout as well as its stainless steel inner lid to thank for that. Speaking of which, the carafe also stands out quite a bit with its large and unobstructed opening for easy cleaning and filling.
@@ -35,15 +35,15 @@ On a side note, beside the black handle, glass carafe, and mesh filter version t
 Performance
 -----------
 
-performance Scores: **7.3**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **8.0**/10
+*   Boiling Time (45%) - **8.0**/undefined
     
-*   Energy Consumption (30%) - **5.8**/10
+*   Energy Consumption (30%) - **5.8**/undefined
     
-*   Noise Level (15%) - **9.0**/10
+*   Noise Level (15%) - **9.0**/undefined
     
-*   Keep Warm (10%) - **6.5**/10
+*   Keep Warm (10%) - **6.5**/undefined
     
 
 The Cosori Original Electric Glass Kettle has a pretty fast and very quiet boiling phase, which is great for its performance. However, its ability to keep warm is only average and its energy consumption is significantly higher than many other products with the same power draw.
@@ -95,15 +95,15 @@ The glass carafe of the Cosori doesn’t have the best material for heat retenti
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **8.0**/10
+*   Lid (20%) - **8.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Cosori Original Electric Glass Kettle has some interesting tweaks on an otherwise pretty standard design. Most notably, its spout is shaped out of the glass carafe and the inner lid is stainless steel—meaning absolutely no plastic is coming into contact with the water.
@@ -218,13 +218,13 @@ The Cosori has a 29.53 inch flat power cord, which should be plenty enough for h
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 The Cosori Original Electric Glass Kettle has a slightly higher usability than its peers mostly thanks to the structure of its entire carafe. Its large and unobstructed opening made it easier to fill water and clean afterward. Other than that, the kettle was easy to use, carry, and pour to an acceptable standard. If only we could wrap the cord neatly around its storage.
