@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.7**/10
+*   Performance (50%) - **6.7**/undefined
     
-*   Design (15%) - **9.1**/10
+*   Design (15%) - **9.1**/undefined
     
-*   Ease of Use (35%) - **8.2**/10
+*   Ease of Use (35%) - **8.2**/undefined
     
 
 If you’re simply looking for an affordable and fuss-free sharpener that works, the Mueller KS-4ST knife sharpener may be it. It’s versatile, easy to work with, and looks like it will last a few years.
@@ -33,15 +33,15 @@ So we bought it to test out in our lab. Here, we discuss our experience with it.
 Performance
 -----------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **8.8**/10
+*   Sharpening Time to Cut a Lemon (35%) - **8.8**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **4.0**/10
+*   Edge Smoothness (20%) - **4.0**/undefined
     
-*   Material Retention (25%) - **5.0**/10
+*   Material Retention (25%) - **5.0**/undefined
     
 
 It won’t make your knife razor-sharp, but the Mueller takes little time getting a dull edge ready for common cutting tasks in the kitchen. Contrary to its twin, the Longzon, however, it eats away the blade and leaves a rough, uneven edge.
@@ -83,11 +83,11 @@ The diamond dust and ceramic rods didn’t seem to do much if anything to smooth
 Design
 ------
 
-design Scores: **9.1**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **9.1**/10
+*   Build Quality (75%) - **9.1**/undefined
     
-*   Grip (25%) - **9.0**/10
+*   Grip (25%) - **9.0**/undefined
     
 
 Despite its affordable price, the Muller 4-stage sharpener has a strong, solid build, substantial abrasives, and tightly-fitting parts. It has a nice fit and finish and a spacious grip that’s comfortable to the touch. However, a lower working section would offer better control and stability.
@@ -155,17 +155,17 @@ The Muller has a base running from the heel of its handle to underneath its work
 Ease of Use
 -----------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **7.0**/10
+*   Slot Arrangement (20%) - **7.0**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **7.5**/10
+*   Pulling Through (10%) - **7.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **8.5**/10
+*   Stability on a Clean Surface (40%) - **8.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **8.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **8.0**/undefined
     
 
 Though the Mueller is a bit tall, it offers decent balance and stability. Its large size and substantial abrasives give you a lot of confidence when sharpening. The slot layout could be improved, in our opinion, but it doesn’t pose much of a problem in terms of usability.
