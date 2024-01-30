@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.1**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **9.1**/10
+*   Brew Quality (50%) - **9.1**/undefined
     
-*   Design (15%) - **9.8**/10
+*   Design (15%) - **9.8**/undefined
     
-*   Ease of Use (35%) - **8.7**/10
+*   Ease of Use (35%) - **8.7**/undefined
     
 
 **The Bodum** is one of our favorite cold brew coffee makers we’ve tested. We loved the freestyle brewing setup where you can manage your own brew ratio, or brew to a preferred technique. Filtering and decanting was swift, effective, and easy, and the lever which opens and closes the spout is a nice feature. The brew quality was excellent, except we were disappointed by the brew's lack of overall complexity. In terms of design, the brew vessel could offer more in the form of measuring guides, and you may need to provide your own separate decanter.
@@ -31,13 +31,13 @@ Bodum made a name for itself in coffeeware in 1944 first with its popular siphon
 Brew Quality
 ------------
 
-performance Scores: **9.1**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **9.0**/10
+*   Bouquet (10%) - **9.0**/undefined
     
-*   Drinkability (70%) - **8.8**/10
+*   Drinkability (70%) - **8.8**/undefined
     
-*   Sediment (20%) - **10**/10
+*   Sediment (20%) - **10**/undefined
     
 
 Taking the brew method into account, the Bodum produces a high-quality, strong cold brew coffee concentrate. It’s beautifully smooth to drink and full-bodied, however, it didn’t capture the complexity that our leading brewer was capable of. The filtration method, however, was one of the best.
@@ -61,13 +61,13 @@ The sediment test result of this coffee maker was excellent. There was hardly an
 Design
 ------
 
-design Scores: **9.8**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **9.5**/10
+*   Stopper / Lid (30%) - **9.5**/undefined
     
-*   Filter (40%) - **10**/10
+*   Filter (40%) - **10**/undefined
     
-*   Build Quality (30%) - **10**/10
+*   Build Quality (30%) - **10**/undefined
     
 
 The Bodum cold brew coffee maker is an adaptation of a French press. It uses a similar fast and convenient plunge filter. Since it’s only meant for cold brewing, the entire body is made from plastic. This makes it light, convenient, and affordable. There’s a lid with a plunger attached for decanting and filtering, and a simple lid for brewing.
@@ -136,13 +136,13 @@ For the price, the Bodum has excellent build quality. The lids fit perfectly, th
 Ease of Use
 -----------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **8.5**/10
+*   Decanting (35%) - **8.5**/undefined
     
-*   Cleaning and Storage (20%) - **8.5**/10
+*   Cleaning and Storage (20%) - **8.5**/undefined
     
 
 The Bodum doesn’t come with any ‘easy-to-use’ instructions. This means you have to decide your own brew ratio. We chose a 1:5 ratio of grounds to water, and everything else was straightforward. Decanting, however, can be a bit involved.
