@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.7**/10
+*   Performance (50%) - **6.7**/undefined
     
-*   Design (20%) - **8.7**/10
+*   Design (20%) - **8.7**/undefined
     
-*   Ease of Use (30%) - **9.6**/10
+*   Ease of Use (30%) - **9.6**/undefined
     
 
 The DASH No-Drip Belgian waffle maker (DNMWM400AQ) is an excellent buy for the price. Its decent cooking performance and bulk-cooking capability make it especially suitable for large families. The waffle maker may not look very luxurious with its plastic construction but its high build quality makes up for its unremarkable appearance.
@@ -37,11 +37,11 @@ But that’s only the surface information. Whether it’s worth buying or not re
 Performance: Great in All But One Thing
 ---------------------------------------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.5**/10
+*   Self-Mixed Recipe (50%) - **6.5**/undefined
     
-*   Birch Benders Mix (50%) - **6.9**/10
+*   Birch Benders Mix (50%) - **6.9**/undefined
     
 
 The DASH No-Drip performed acceptably in both performance tests. However, it was found lacking in one key area: cooking a waffle's crust to a nice color tone. The waffle maker failed to make waffles with our desired golden-brown tone in both test recipes.
@@ -143,13 +143,13 @@ Our chef gave the waffle a “Good” score. It was flavorful: the sweet and sli
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 Although the design of the DASH No-Drip Belgian Waffle Maker isn't very luxurious with its plain plastic housing, the build quality is excellent. The lid hinges are solid, the waffle plates are coated in an effective layer of non-stick.
@@ -260,15 +260,15 @@ The DASH waffle maker does not come with any accessories.
 Ease of Use
 -----------
 
-usability Scores: **9.6**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.5**/10
+*   Handling (25%) - **9.5**/undefined
     
-*   Safety (40%) - **9.2**/10
+*   Safety (40%) - **9.2**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 Using the DASH waffle maker is easy overall — plug it in, wait until the READY indicator lights up, and start pouring your batter!
