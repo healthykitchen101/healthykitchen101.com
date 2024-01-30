@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.5**
+Overall Score: **NaN**
 
-*   Performance (60%) - **6.8**/10
+*   Performance (60%) - **6.9**/undefined
     
-*   Design (25%) - **9.2**/10
+*   Design (25%) - **9.2**/undefined
     
-*   Usability (15%) - **7.3**/10
+*   Usability (15%) - **7.3**/undefined
     
 
 The Waste King Legend 1 Horsepower Garbage Disposal model L-8000 is far from perfect. It’s bulky and can be loud when dealing with certain types of food, but it can handle impressive amounts of simple kitchen scraps without much hassle. The simple setup with a strong motor and a durable grinding assembly can be a great bargain for its price.
@@ -31,13 +31,13 @@ The Waste King L-8000, with its 1-hp motor, looks big and strong. It is one of t
 Performance: Less Capable than Expected
 ---------------------------------------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **8.1**/10
+*   Scrap Mix (50%) - **8.1**/undefined
     
-*   Raw Fish Scraps (25%) - **6.7**/10
+*   Raw Fish Scraps (25%) - **6.7**/undefined
     
-*   Raw Chicken Scraps (25%) - **4.6**/10
+*   Raw Chicken Scraps (25%) - **4.6**/undefined
     
 
 In the Waste King Legend Series, the L-8000 Garbage Disposal is the strongest model. It does a great job dealing with many different types of common food, even in toppling amounts. But when it comes to uncooked animal scraps, specifically raw chicken scraps, the machine really hits a wall. 
@@ -141,13 +141,13 @@ One thing the disposal did well was break up the bones. From what we could see i
 Design: Bulkier than It Should Be
 ---------------------------------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **10**/10
+*   Motor (30%) - **10**/undefined
     
-*   Build Quality (40%) - **9.0**/10
+*   Build Quality (40%) - **9.0**/undefined
     
 
 All models in the Waste King Legend Series land in the more affordable side of the market. They are built to provide quick and adequate help under the sink without carving too deeply into their owner’s bank account. Everything about the L-8000 reflects just that. 
@@ -278,15 +278,15 @@ The casing doesn’t have a decorative finish but is tinted instead; thanks to t
 Usability: As Budget as It Gets
 -------------------------------
 
-usability Scores: **7.3**
+usability Scores: **NaN**
 
-*   Installation (30%) - **7.0**/10
+*   Installation (30%) - **7.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The Waste King L-8000 isn’t the [best garbage disposal](https://healthykitchen101.com/garbage-disposals/reviews/best/) money can buy. It takes up lots of space under the sink and doesn’t make perfect use of that space. But it does have its own strengths and delivers on its price.
