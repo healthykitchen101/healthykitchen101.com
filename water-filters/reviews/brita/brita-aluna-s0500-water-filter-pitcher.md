@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.1**/10
+*   Performance (50%) - **6.1**/undefined
     
-*   Design (20%) - **8.9**/10
+*   Design (20%) - **8.9**/undefined
     
-*   Usability (30%) - **8.2**/10
+*   Usability (30%) - **8.2**/undefined
     
 
 The Brita Aluna S0500 is a compact, stylish, and user-friendly water filter pitcher. It’s highly effective against chlorine and is certified to reduce amounts of numerous other dangerous contaminants, producing water that tastes and smells crisp.
@@ -33,13 +33,13 @@ In this comprehensive review, we explore the features and performance of the Bri
 Performance
 -----------
 
-performance Scores: **6.1**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.0**/10
+*   Chlorine (50%) - **8.0**/undefined
     
-*   Flow Rate (40%) - **3.0**/10
+*   Flow Rate (40%) - **3.0**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 The Brita Aluna water filter pitcher uses the Maxtra, a new Brita filter that’s more effective against chlorine and other contaminants than the standard filter. The water it filters tastes great with healthy levels of total dissolved solids (TDS). This filter, however, doesn’t offer the fastest flow rate. It took almost a minute to process a glass of water in our test.
@@ -83,13 +83,13 @@ While not designed to reduce total dissolved solids, the Brita Maxtra filter did
 Design
 ------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **9.0**/10
+*   Build Quality (30%) - **9.0**/undefined
     
-*   Conveniences (20%) - **8.5**/10
+*   Conveniences (20%) - **8.5**/undefined
     
-*   Filter (50%) - **9.0**/10
+*   Filter (50%) - **9.0**/undefined
     
 
 The Brita S0500 Aluna has a sturdy, durable design with a minimalist touch. It won’t make a statement on your dining room table, but will mingle in easily. Thanks to its compact size, the lack of a spigot doesn’t affect its ease of use, although a refilling trap door would be useful. 
@@ -154,15 +154,15 @@ We didn’t experience any clogging with this filter. Water runs through it slow
 Usability
 ---------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **8.7**/10
+*   Assembling (20%) - **8.7**/undefined
     
-*   Refilling (30%) - **7.5**/10
+*   Refilling (30%) - **7.5**/undefined
     
-*   Dispensing (40%) - **8.5**/10
+*   Dispensing (40%) - **8.5**/undefined
     
-*   Cleaning (10%) - **8.5**/10
+*   Cleaning (10%) - **8.5**/undefined
     
 
 Without tricky parts and components, the Brita Aluna is easy to use, assemble, take apart, and clean. The short filter life means you’ll have to replace it more often than most, but it takes little effort. The pitcher would score higher if there were a trap door for refilling.
