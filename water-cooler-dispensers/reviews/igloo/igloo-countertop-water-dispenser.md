@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.0**/10
+*   Performance (50%) - **5.0**/undefined
     
-*   Design (25%) - **6.2**/10
+*   Design (25%) - **6.2**/undefined
     
-*   Ease of Use (25%) - **6.1**/10
+*   Ease of Use (25%) - **6.1**/undefined
     
 
 The Igloo [bottled water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) is a small countertop machine. It’s able to serve around 15 people per hour with perfectly chilled cold water (52‒54℉). The hot water capacity is reasonably good compared to even larger machines. It’s lower temperature of 185℉ is sometimes preferred to the upper standard of 198℉.
@@ -35,11 +35,11 @@ Igloo has been a name in home refrigerators since 1947. Their products range fro
 Performance
 -----------
 
-performance Scores: **5.0**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **5.8**/10
+*   Hot Water Test (40%) - **5.8**/undefined
     
-*   Cold Water Test (60%) - **4.5**/10
+*   Cold Water Test (60%) - **4.5**/undefined
     
 
 The Igloo produced quite mixed results with its hot water performance. It scored zero for the slow flow rate, but this is hardly the top consideration for a budget-class machine. Its working temperature is a lower 185 ℉ rather than the upper 198 ℉. The heating time was fast, partly due to the lower temperature, and the capacity was pretty decent.
@@ -105,15 +105,15 @@ This countertop Igloo is a worthwhile budget choice for a small personal water c
 Design
 ------
 
-design Scores: **6.2**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **5.3**/10
+*   Build Quality (45%) - **5.3**/undefined
     
-*   Panel & Indicators (25%) - **7.2**/10
+*   Panel & Indicators (25%) - **7.2**/undefined
     
-*   Water Inlet Controls (20%) - **6.5**/10
+*   Water Inlet Controls (20%) - **6.5**/undefined
     
-*   Drip Tray (10%) - **7.0**/10
+*   Drip Tray (10%) - **7.0**/undefined
     
 
 The Igloo hot and cold water dispenser is quite an eye-catching machine. Its pure white color and neat push buttons stand out. On closer inspection, a number of features such as the buttons, drip tray, and drainage plug show their flaws.
@@ -267,15 +267,15 @@ The cord is relatively long for the size of the machine and it is about 2 inches
 Ease of Use
 -----------
 
-usability Scores: **6.1**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **5.5**/10
+*   Dispensing Water (40%) - **5.5**/undefined
     
-*   Hot Water Safety (15%) - **6.0**/10
+*   Hot Water Safety (15%) - **6.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **7.5**/10
+*   Bottle / Filter Changing (15%) - **7.5**/undefined
     
-*   Cleaning (30%) - **6.2**/10
+*   Cleaning (30%) - **6.2**/undefined
     
 
 Although the Igloo bottled water cooler dispenser is a budget choice for a countertop machine, the only thing that measured up to easy use was changing the bottle.
