@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.8**
+Overall Score: **NaN**
 
-*   Performance (60%) - **3.7**/10
+*   Performance (60%) - **3.7**/undefined
     
-*   Design (20%) - **6.0**/10
+*   Design (20%) - **6.0**/undefined
     
-*   Usability (20%) - **7.1**/10
+*   Usability (20%) - **7.1**/undefined
     
 
 In our course of testing, the Cuisinart SPB-7CH SmartPower made a promising first impression. It proved efficient when dealing with dried berries, oatmeal, and almonds, churning out a well-balanced protein shakes that’s really worth applauding.
@@ -38,17 +38,17 @@ Yet the tale of a [reliable blender](https://healthykitchen101.com/blenders/revi
 Performance
 -----------
 
-performance Scores: **3.7**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **6.8**/10
+*   Smoothie (35%) - **6.8**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **0**/10
+*   Frozen Fruit Smoothie (20%) - **0**/undefined
     
-*   Protein Shake (15%) - **9.0**/10
+*   Protein Shake (15%) - **9.0**/undefined
     
-*   Almond Butter (20%) - **0**/10
+*   Almond Butter (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/10
+*   Crushed Ice (10%) - **0**/undefined
     
 
 The Cuisinart showcased impressive grinding capabilities and skillful protein shake blending. However, it faced difficulties in pulverizing leafy greens and frozen fruits. Crushing ice cubes and preparing almond butter proved to be formidable challenges for this blender, too.
@@ -120,13 +120,13 @@ Crushing ice is a tremendous challenge for blenders across the board, and the Cu
 Design
 ------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **6.0**/10
+*   Build Quality (60%) - **6.0**/undefined
     
-*   Blades (25%) - **6.5**/10
+*   Blades (25%) - **6.5**/undefined
     
-*   Control Panel (15%) - **5.5**/10
+*   Control Panel (15%) - **5.5**/undefined
     
 
 The Cuisinart SPB-7CH SmartPower is fairly portable, yet prone to scratches and smudges on its chrome finish. Its glass container withstands heat and offers durability, but the blade housing and the motor base appear to be of lower-quality plastic. Despite seven pre-set speed settings, their distinctness lacks. Overheating and stability issues, along with a hard-to-remove lid, further add to its drawbacks as well.
@@ -276,15 +276,15 @@ The Cuisinart SPB-7CH SmartPower blender does not come with any extra accessorie
 Usability
 ---------
 
-usability Scores: **7.1**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **6.0**/10
+*   Ease of Blend (40%) - **6.0**/undefined
     
-*   Noise Level (20%) - **6.2**/10
+*   Noise Level (20%) - **6.2**/undefined
     
-*   Assembly (15%) - **8.0**/10
+*   Assembly (15%) - **8.0**/undefined
     
-*   Cleanability (25%) - **9.0**/10
+*   Cleanability (25%) - **9.0**/undefined
     
 
 The lid's stubborn resistance during removal often leads to unwanted spills and splatters. The narrow space between the blade and container's bottom creates a tight grip on food, demanding extra effort for dislodging and cleaning. Additionally, although the removable blade assembly provides access to hard-to-reach areas, users with small hands may find the design of its housing less ergonomic.
