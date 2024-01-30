@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.8**/10
+*   Performance (50%) - **6.8**/undefined
     
-*   Design (20%) - **8.4**/10
+*   Design (20%) - **8.4**/undefined
     
-*   Usability (30%) - **9.7**/10
+*   Usability (30%) - **9.7**/undefined
     
 
 The DuPont WFFM100XCH is a decent [faucet-mount filter](https://healthykitchen101.com/water-filters/reviews/best/faucet-water-filters/). But while it certainly does the job, having passed our chlorine filtering test with an excellent score and a passing score in our flow rate test. However, there are better options out there on the market for the price.
@@ -35,11 +35,11 @@ For more details, check out our full test report below!
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **4.7**/10
+*   Flow Rate Test (60%) - **4.7**/undefined
     
 
 Performance-wise, the DuPont is a mixed bag. While it performed excellently in the chlorine test and removed virtually all traces of the chemical in the highly-chlorinated water that we pumped through it, it didn’t do quite as well in the flow rate test.
@@ -75,13 +75,13 @@ The filter is attached to a high-pressure 2.2 GPM faucet. So, for those who are 
 Design
 ------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **8.5**/10
+*   Build Quality (40%) - **8.5**/undefined
     
-*   Filter Piece (50%) - **8.0**/10
+*   Filter Piece (50%) - **8.0**/undefined
     
-*   Routing Valve (10%) - **10**/10
+*   Routing Valve (10%) - **10**/undefined
     
 
 Although the DuPont WFFM100XCH has the appearance of a metallic filter, it’s actually constructed from plastic. Though the overall build quality is solid, and we haven’t found any issue with the design, its long-term durability may be less than filters made from stronger materials like stainless steel.
@@ -154,15 +154,15 @@ The handle blends into the design in the horizontal position (unfiltered), givin
 Usability
 ---------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **9.0**/10
+*   Ease of Use (30%) - **9.0**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **10**/10
+*   Maintenance (10%) - **10**/undefined
     
 
 If you’ve ever used a faucet-mount water filter before, the DuPont WFFM100XCH won’t be any different than your old one. After you’ve fixed it to your faucet, the only motion that you need to learn is switching the routing valve’s handle back and forth to select between unfiltered and filtered water modes.
