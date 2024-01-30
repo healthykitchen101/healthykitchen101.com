@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.3**/10
+*   Performance (50%) - **7.3**/undefined
     
-*   Design (20%) - **6.8**/10
+*   Design (20%) - **6.8**/undefined
     
-*   Usability (30%) - **7.4**/10
+*   Usability (30%) - **7.4**/undefined
     
 
 As a mid-powered hand blender, the Mueller Ultra-Stick might not do exactly what you'd expect, but it does have sufficient versatility to tackle almost all your light-duty tasks. With a 500-watt motor, this blender can make small batches of soups, smoothies, and baby food quite efficiently. And the included whisk attachment gives it the edge over the competition when it comes to emulsifying sauce or whipping certain ingredients like cream and eggs.
@@ -35,17 +35,17 @@ Whether or not this blender is [the best performer](https://healthykitchen101.co
 Performance: Fine for the Price
 -------------------------------
 
-performance Scores: **7.3**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.0**/10
+*   Hot Soup Purée (35%) - **7.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **7.0**/10
+*   Frozen Fruit Smoothie (30%) - **7.0**/undefined
     
-*   Mayonnaise (15%) - **8.5**/10
+*   Mayonnaise (15%) - **8.5**/undefined
     
-*   Almond Milk (15%) - **7.5**/10
+*   Almond Milk (15%) - **7.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **7.0**/10
+*   Whipped Egg-Whites (5%) - **7.0**/undefined
     
 
 The Muller didn’t give us superior blends in all the tests. It wasn’t powerful enough to break down large chunks of fruit and veggies, even when we had cut the solid ingredients into smaller pieces before blending. For the most part, however, its blended results were acceptable.
@@ -131,15 +131,15 @@ Even worse, after this test the whisk attachment had lost its original bulbous s
 Design: Above-Average Quality
 -----------------------------
 
-design Scores: **6.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 The Muller’s motor is 500 watts, which is notably powerful but shouldn’t be used for pulverizing solid ingredients like coffee beans or whole ice cubes. To prevent damage, you shouldn’t operate it continuously for longer than a minute, either, though it’s designed to shut off automatically and will reactivate after cooling if becoming excessively hot.
@@ -267,15 +267,15 @@ The Mueller Ultra-Stick has an intuitive interface, with two buttons and an easy
 Usability: A Little Bit Short On Blending Comfort
 -------------------------------------------------
 
-usability Scores: **7.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.3**/10
+*   Ease of Use (60%) - **7.3**/undefined
     
-*   Blade Assembly (10%) - **8.5**/10
+*   Blade Assembly (10%) - **8.5**/undefined
     
-*   Handling (20%) - **6.5**/10
+*   Handling (20%) - **6.5**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 Regardless of the inexpensive price, we suppose this blender may be less appealing to some users – particularly those demanding high durability or with wrist injuries.
