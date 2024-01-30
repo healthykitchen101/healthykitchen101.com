@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (60%) - **5.8**/10
+*   Performance (60%) - **5.8**/undefined
     
-*   Design (25%) - **9.3**/10
+*   Design (25%) - **9.3**/undefined
     
-*   Usability (15%) - **8.1**/10
+*   Usability (15%) - **8.1**/undefined
     
 
 The Moen Chef Series GX100C 1 HP Garbage Disposal offers top-notch craftsmanship and satisfactory grinding capability. It runs on a permanent magnet motor that rarely jams and uses strong and durable materials for its grinding components.
@@ -33,13 +33,13 @@ Compared to other popular models, which are often more than a decade old, this M
 Performance
 -----------
 
-performance Scores: **5.8**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.5**/10
+*   Scrap Mix (50%) - **6.5**/undefined
     
-*   Raw Fish Scraps (25%) - **5.1**/10
+*   Raw Fish Scraps (25%) - **5.1**/undefined
     
-*   Raw Chicken Scraps (25%) - **5.2**/10
+*   Raw Chicken Scraps (25%) - **5.2**/undefined
     
 
 The disposal was competent against the usual food discards in the kitchen. In the tests, talks, peel, and stems, even hard fruit pits and cooked animal bones, were processed adequately. Only against the tough uncooked meat scraps that the GX100C failed to guarantee the quality of output.
@@ -143,13 +143,13 @@ Cooked bones in the Scrap Mix test were completely broken down as well. So it’
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **10**/10
+*   Motor (30%) - **10**/undefined
     
-*   Build Quality (40%) - **9.5**/10
+*   Build Quality (40%) - **9.5**/undefined
     
 
 From the outside, the Moen GX100C Chef Series looks like the [GX50C](https://healthykitchen101.com/garbage-disposals/reviews/moen/moen-gx50c-1-2-hp/) but with an extended body. Besides its strong appearance, the GX100C offers a thick protective case, a durable grinding assembly, and a powerful motor. 
@@ -283,15 +283,15 @@ The casing is made of quality materials and is reinforced with structural detail
 Usability
 ---------
 
-usability Scores: **8.1**
+usability Scores: **NaN**
 
-*   Installation (30%) - **6.0**/10
+*   Installation (30%) - **6.0**/undefined
     
-*   Ease of Use (40%) - **10**/10
+*   Ease of Use (40%) - **10**/undefined
     
-*   Smooth Operation (25%) - **9.0**/10
+*   Smooth Operation (25%) - **9.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 If you have the space for it, the Moen GX100 Chef Series is an attractive alternative for strong garbage disposals. It offers high-quality craftsmanship alongside conveniences that improve aspects of the appliance.
