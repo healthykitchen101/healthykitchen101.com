@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (40%) - **6.9**/10
+*   Performance (40%) - **6.9**/undefined
     
-*   Design (25%) - **7.4**/10
+*   Design (25%) - **7.4**/undefined
     
-*   Usability (35%) - **6.5**/10
+*   Usability (35%) - **6.5**/undefined
     
 
 The Aigostar Electric Kettle 300104LCB is a good product all things considered but it’s really dragged down by its slow boiling time—the most important aspect of an electric kettle.
@@ -36,15 +36,15 @@ This product comes in black and white and there’s another model with a stainle
 Performance
 -----------
 
-performance Scores: **6.9**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **5.3**/10
+*   Boiling Time (45%) - **5.3**/undefined
     
-*   Energy Consumption (30%) - **8.2**/10
+*   Energy Consumption (30%) - **8.2**/undefined
     
-*   Noise Level (15%) - **9.4**/10
+*   Noise Level (15%) - **9.4**/undefined
     
-*   Keep Warm (10%) - **6.5**/10
+*   Keep Warm (10%) - **6.5**/undefined
     
 
 The Aigostar Electric Glass Kettle had very good scores in our Energy Consumption and Noise Level tests. However, that wasn’t enough when it had such a low Boiling Time score.
@@ -96,15 +96,15 @@ The glass carafe of the Aigostar doesn’t have the best property for heat reten
 Design
 ------
 
-design Scores: **7.4**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Aigostar Electric Glass Kettle is quite standard in its design. It having all the desirable features like a mesh filter, water-level markings, and an LED ring was more than enough.
@@ -215,13 +215,13 @@ The Aigostar has a 29.53 inch round power cord, which should be plenty enough fo
 Usability
 ---------
 
-usability Scores: **6.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The Aigostar Electric Glass Kettle would be improved if its buttons were separated. It’s completely easy to use and clean but the risk of accidentally pushing one button instead of the other is just unnecessary frustration.
@@ -242,7 +242,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
