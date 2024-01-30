@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.9**/10
+*   Performance (50%) - **8.9**/undefined
     
-*   Design (20%) - **7.3**/10
+*   Design (20%) - **7.3**/undefined
     
-*   Usability (30%) - **8.3**/10
+*   Usability (30%) - **8.3**/undefined
     
 
 The Brita Metro is effective against chlorine and is quick to deliver crisp, good-tasting water. On one hand, the pitcher can be a little challenging to disassemble for filter replacement and cleaning. However, its simple design and other convenient features make everyday use a breeze. Thanks to its compact size, the 6-cup Metro is a good choice for a personal filter pitcher. The compromise seems to be the black particles in the filtered water that you will, unfortunately, have to ignore.
@@ -31,13 +31,13 @@ But does the size mean a compromise on water quality and user-friendly features?
 Performance
 -----------
 
-performance Scores: **8.9**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **8.0**/10
+*   Chlorine (50%) - **8.0**/undefined
     
-*   Flow Rate (40%) - **10**/10
+*   Flow Rate (40%) - **10**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 Featuring Brita’s Standard filter, the Metro had no difficulty filtering out the chlorine in our heavily contaminated test water. It did so at an excellent speed, taking just a little more than 20 seconds to fill up a full glass. The filter produced fresh tasting water with no detectable smell of chlorine.
@@ -77,13 +77,13 @@ The Brita Standard filter on this Metro reduced more total dissolved solids than
 Design
 ------
 
-design Scores: **7.3**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **8.0**/10
+*   Build Quality (30%) - **8.0**/undefined
     
-*   Conveniences (20%) - **8.0**/10
+*   Conveniences (20%) - **8.0**/undefined
     
-*   Filter (50%) - **6.5**/10
+*   Filter (50%) - **6.5**/undefined
     
 
 Small enough to fit comfortably in a refrigerator door bin, the Metro has a strong build and a finish that lives up to the brand moniker. It comes with convenience features such as a pour-through door and filter replacement display. The filter piece works decently but is comparatively tricky to install and is prone to material leakage.
@@ -150,15 +150,15 @@ To install the filter on the Metro, you need to align the small trench on the fi
 Usability
 ---------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **6.8**/10
+*   Assembling (20%) - **6.8**/undefined
     
-*   Refilling (30%) - **8.3**/10
+*   Refilling (30%) - **8.3**/undefined
     
-*   Dispensing (40%) - **9.0**/10
+*   Dispensing (40%) - **9.0**/undefined
     
-*   Cleaning (10%) - **8.0**/10
+*   Cleaning (10%) - **8.0**/undefined
     
 
 The Brita Metro is more user-friendly than most other pitcher filters. Removing the reservoir can be tricky, but other than that, the simple design, secure fit, and modest size and weight support effortless refilling, dispensing, and cleaning. The refill flap may work better when handled by a stable hand, but no force or skill is required to open or close it.
