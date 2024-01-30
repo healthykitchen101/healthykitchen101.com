@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **4.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **2.8**/10
+*   Performance (60%) - **2.8**/undefined
     
-*   Design (25%) - **7.5**/10
+*   Design (25%) - **7.5**/undefined
     
-*   Usability (15%) - **6.9**/10
+*   Usability (15%) - **6.9**/undefined
     
 
 There are many things we don’t like about this **Magic Bullet 250W blender**, especially when it turned out to be a disappointing underperformer in all of our tests. The design is practical but somehow doesn’t allow for high-efficiency blending. The blender itself is also not really attractive, if not cheap and substandard. Our conclusion is that while the Magic Bullet may be a perfect fit for your low budget, it will certainly not be a bargain.
@@ -31,15 +31,15 @@ The Magic Bullet is a popular [low-priced personal blender](https://healthykitch
 Performance: Below-Average
 --------------------------
 
-performance Scores: **2.8**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **3.9**/10
+*   Protein Shake (40%) - **3.9**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **0**/10
+*   Frozen Fruit Smoothie (30%) - **0**/undefined
     
-*   Fibrous Greens (20%) - **6.0**/10
+*   Fibrous Greens (20%) - **6.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 The Magic Bullet sports a 250-watt motor, which we found to be less efficient than [higher-priced blenders](https://healthykitchen101.com/blenders/reviews/best/) and this resulted in some limitations on its testing performance. However, it's important to consider that these limitations are a compromise for its affordable price point. On the bright side, the blender can still work adequately for preparing smoothies packed with fresh fruits or soaked nuts.
@@ -89,13 +89,13 @@ Our Magic Bullet couldn’t blend through 6 oz ice cubes thoroughly not only bec
 Design: There’s Room for Improvements
 -------------------------------------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blades (20%) - **6.5**/10
+*   Blades (20%) - **6.5**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The Magic Bullet has a straightforward design, and this is the only praise we can really give it. On paper, the blender is advertised to be made of high-impact plastic, but in fact, it only took us a glance to criticize its poor quality. There are also several other drawbacks and you may consider those acceptable trade-offs given its low price. However, in the end, we are sure you will eventually become uncomfortable with such limitations.
@@ -214,13 +214,13 @@ The Magic Bullet is a single-speed blender working without any physical buttons.
 Usability: A Little Disappointing
 ---------------------------------
 
-usability Scores: **6.9**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **5.8**/10
+*   Hands-Free Operation (60%) - **5.8**/undefined
     
-*   Assembly (20%) - **10**/10
+*   Assembly (20%) - **10**/undefined
     
-*   Cleanability (20%) - **7.0**/10
+*   Cleanability (20%) - **7.0**/undefined
     
 
 We cannot deny the Magic Bullet’s user-friendly design, but after hours of experimenting with it, we realized this blender is actually quite frustrating to use. More often than not, though, cleaning and assembling are effortless.
