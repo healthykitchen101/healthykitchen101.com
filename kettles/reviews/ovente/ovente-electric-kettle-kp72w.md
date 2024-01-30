@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.9**
+Overall Score: **NaN**
 
-*   Performance (40%) - **7.2**/10
+*   Performance (40%) - **7.2**/undefined
     
-*   Design (25%) - **6.0**/10
+*   Design (25%) - **6.0**/undefined
     
-*   Usability (35%) - **7.2**/10
+*   Usability (35%) - **7.2**/undefined
     
 
 All things considered, the Ovente Electric Kettle KP72W has the main benefits of being light in weight and cheap in price. However, the kettle’s plastic material may be a cause for health concerns and not as long-lasting as glass or stainless steel products.
@@ -31,15 +31,15 @@ To be fair, its price of $17.96 on Amazon (at the time of writing) probably didn
 Performance
 -----------
 
-performance Scores: **7.2**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **5.7**/10
+*   Boiling Time (45%) - **5.7**/undefined
     
-*   Energy Consumption (30%) - **8.8**/10
+*   Energy Consumption (30%) - **8.8**/undefined
     
-*   Noise Level (15%) - **9.2**/10
+*   Noise Level (15%) - **9.2**/undefined
     
-*   Keep Warm (10%) - **6.5**/10
+*   Keep Warm (10%) - **6.5**/undefined
     
 
 The Ovente Electric Kettle consumes little energy for boiling and it’s very quiet on the job as well. However, it takes its sweet time to boil water and its plastic carafe loses heat quite quickly.
@@ -91,15 +91,15 @@ The plastic carafe of the Ovente is not the best material for heat retention. Th
 Design
 ------
 
-design Scores: **6.0**
+design Scores: **NaN**
 
-*   Carafe (50%) - **5.0**/10
+*   Carafe (50%) - **5.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **7.0**/10
+*   Base (20%) - **7.0**/undefined
     
 
 The main problem of the Ovente Electric Kettle’s design is its overall low build quality. However, when taking the price into consideration, the product didn’t take any significant shortcut besides its material. It still has a removable mesh filter and a water-level window that we look for in a kettle.
@@ -212,13 +212,13 @@ The Ovente has a 32.40 inch round power cord, which should be plenty enough for 
 Usability
 ---------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   User Control (30%) - **5.0**/10
+*   User Control (30%) - **5.0**/undefined
     
-*   Ease of Use (50%) - **9.0**/10
+*   Ease of Use (50%) - **9.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The main advantage that the Ovente Electric Kettle offers is its extremely light weight. However, its biggest drawback to consumers is also from what makes it light—its plastic material. In addition, the kettle could have better indicator lighting and a larger opening for cleaning.
@@ -239,7 +239,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
