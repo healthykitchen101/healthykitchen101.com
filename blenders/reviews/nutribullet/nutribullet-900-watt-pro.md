@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.8**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.8**/10
+*   Performance (60%) - **9.8**/undefined
     
-*   Design (25%) - **9.7**/10
+*   Design (25%) - **9.7**/undefined
     
-*   Usability (15%) - **9.7**/10
+*   Usability (15%) - **9.7**/undefined
     
 
 The NutriBullet Pro is our [top-rated blender](https://healthykitchen101.com/blenders/reviews/best/) that will help those short on time and space enjoy the most nutrient-dense meals. A well-rounded model, it offers all the advantages that full-sized countertop blenders promise — heavy-duty power, consistent outcomes, and effortless performance — in a smaller, more compact footprint. Its high quality of built materials and overall construction also give it the edge over the competition.
@@ -31,15 +31,15 @@ There’s also plenty of other things that we love about the NutriBullet so all 
 Performance: Top of Our Rankings
 --------------------------------
 
-performance Scores: **9.8**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **10**/10
+*   Protein Shake (40%) - **10**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **10**/10
+*   Frozen Fruit Smoothie (30%) - **10**/undefined
     
-*   Fibrous Greens (20%) - **9.0**/10
+*   Fibrous Greens (20%) - **9.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **10**/10
+*   Crushed Ice Cubes (10%) - **10**/undefined
     
 
 The NutriBullet Pro sports a 900-watt motor. It is more powerful than most personal blenders, passing all of our tests with outstanding results. Given its impressive testing performance, we’re confident that hardly anything will offer this blender a challenge. It will be your quick and convenient way to transform any whole foods into nutrient-dense treats.
@@ -99,13 +99,13 @@ It finished the test in about 40 seconds. A couple of ice chunks still remained 
 Design: There’s Plenty to Like
 ------------------------------
 
-design Scores: **9.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Blades (20%) - **10**/10
+*   Blades (20%) - **10**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 The NutriBullet Pro is not revolutionary, but we love its simplicity and sturdiness. It delivers decent quality at an affordable price so you can blend with peace of mind for years. It also comes with several handy features that may interest you.
@@ -223,13 +223,13 @@ This blender has one speed and doesn’t need a control panel. Just attach the b
 Usability
 ---------
 
-usability Scores: **9.7**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **10**/10
+*   Hands-Free Operation (60%) - **10**/undefined
     
-*   Assembly (20%) - **9.5**/10
+*   Assembly (20%) - **9.5**/undefined
     
-*   Cleanability (20%) - **9.0**/10
+*   Cleanability (20%) - **9.0**/undefined
     
 
 The NutriBullet Pro perfectly fits our definition of a blender with good usability. Its straightforward working mechanism is a breeze to learn and use. It is also among the simplest to clean and assemble. So far, we don’t have any complaints about this little workhorse.
