@@ -13,7 +13,7 @@ When testing **cold water**, we stress-test each machine for how much water it c
 
 To do this, we dispense **10 fl. oz. (300 ml)** of water every **3 minutes** and then lengthen the interval if the temperature becomes unstable. The best machines will generally dispense 6 L an hour which is enough for 20 people.
 
-For **hot water**, we test for the highest stable temperature, continuous draw capacity, and flow rate. From this, we calculate how much hot water you can get for making back-to-back drinks on a full tank and the capacity per hour. 
+For **hot water**, we test for the highest stable temperature, continuous draw capacity, and flow rate. From this, we calculate how much hot water you can get for making back-to-back drinks on a full tank and the capacity per hour.
 
 We also record all tests on video for analysis.
 
