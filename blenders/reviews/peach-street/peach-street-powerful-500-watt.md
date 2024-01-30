@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.4**/10
+*   Performance (50%) - **7.4**/undefined
     
-*   Design (20%) - **6.8**/10
+*   Design (20%) - **6.8**/undefined
     
-*   Usability (30%) - **6.3**/10
+*   Usability (30%) - **6.3**/undefined
     
 
 The Peach Street immersion blender steps into our spotlight with efficiency and capability often associated with low-range immersion blenders. While it wasn’t the [perfect contender](https://healthykitchen101.com/blenders/reviews/best/) in any test, it proved capable enough to handle a variety of tasks such as preparing soup, mayonnaise, nut milk, and even frozen fruit smoothies. That being said, a lack of comfort may leave you wanting more. At its peak speed settings, the blender’s motor vibrates noticeably, which leads to a shaky grip and an unsettling hand-feel. The user interface also presents a hurdle, with hard buttons that require a firm press.
@@ -30,17 +30,17 @@ The kitchen appliance market is always buzzing with the entry of new brands, eac
 Performance
 -----------
 
-performance Scores: **7.4**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.5**/10
+*   Hot Soup Purée (35%) - **8.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **7.0**/10
+*   Frozen Fruit Smoothie (30%) - **7.0**/undefined
     
-*   Mayonnaise (15%) - **7.3**/10
+*   Mayonnaise (15%) - **7.3**/undefined
     
-*   Almond Milk (15%) - **8.0**/10
+*   Almond Milk (15%) - **8.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **0**/10
+*   Whipped Egg-Whites (5%) - **0**/undefined
     
 
 During our testing of the Peach Street, we found it to be a [versatile immersion blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/), capable of handling various tasks. While it lacks a whisk attachment for egg whites, its powerful 500-watt motor excels at blending soups, creating smoothies from frozen fruits, and producing mayonnaise and almond milk with acceptable results.
@@ -114,15 +114,15 @@ The success in whipping egg whites lies in the tool's ability to incorporate air
 Design
 ------
 
-design Scores: **6.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 The Peach Street makes a colorful entrance with six shade options. Our unit, in a lively shade of green, indeed brought a stylish flair to the countertop. Nonetheless, it shares a common design with most budget blenders, featuring a mid-powered motor, standard two-speed settings, and a typical blade assembly. While these attributes are sufficient for the blender to accomplish basic tasks, they tend to compromise user ease and comfort during operation.
@@ -232,15 +232,15 @@ Removable: N/A
 Usability
 ---------
 
-usability Scores: **6.3**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **5.5**/10
+*   Ease of Use (60%) - **5.5**/undefined
     
-*   Blade Assembly (10%) - **9.0**/10
+*   Blade Assembly (10%) - **9.0**/undefined
     
-*   Handling (20%) - **6.5**/10
+*   Handling (20%) - **6.5**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 Poor ergonomic design is a notable drawback in immersion blenders, and the Peach Street model sadly falls into this category, marking it as the most uncomfortable blender we have experienced.  The combination of hard-to-activate controls, uncomfortable handling, and inefficient blade design made our blending tasks not only tiresome but exceedingly tedious.
