@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **9.4**/10
+*   Performance (50%) - **9.4**/undefined
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **7.0**/undefined
     
-*   Usability (30%) - **7.2**/10
+*   Usability (30%) - **7.2**/undefined
     
 
-Despite the lack of NSF certifications, the Aquagear water filter pitcher proved to have an exceptional filter, excelling in both chlorine removal and flow rate tests. Crafted from quality materials, its performance is commendable. Nevertheless, some parts and especially the handle, need improving overall. The pitcher is generally user-friendly; however, assembly can prove challenging due to its unintuitive design. 
+Despite the lack of NSF certifications, the Aquagear water filter pitcher proved to have an exceptional filter, excelling in both chlorine removal and flow rate tests. Crafted from quality materials, its performance is commendable. Nevertheless, some parts and especially the handle, need improving overall. The pitcher is generally user-friendly; however, assembly can prove challenging due to its unintuitive design.
 
 In conclusion, this pitcher demonstrated impressive filtration capabilities, but minor design flaws lower its overall purchase value.
 
@@ -32,13 +32,13 @@ Of course, it’s one of the first we bought to test. And here’s how the plain
 Performance
 -----------
 
-performance Scores: **9.4**
+performance Scores: **NaN**
 
-*   Chlorine (50%) - **9.0**/10
+*   Chlorine (50%) - **9.0**/undefined
     
-*   Flow Rate (40%) - **10**/10
+*   Flow Rate (40%) - **10**/undefined
     
-*   Taste & Smell (10%) - **9.3**/10
+*   Taste & Smell (10%) - **9.3**/undefined
     
 
 The Aquagear water filter pitcher was among the top group in our performance test. It significantly reduced the chlorine concentration while offering an excellent flow rate. 
@@ -86,13 +86,13 @@ With this, the water can retain its natural sweet taste.
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **NaN**
 
-*   Build Quality (30%) - **6.0**/10
+*   Build Quality (30%) - **6.0**/undefined
     
-*   Conveniences (20%) - **5.0**/10
+*   Conveniences (20%) - **5.0**/undefined
     
-*   Filter (50%) - **8.5**/10
+*   Filter (50%) - **8.5**/undefined
     
 
 The Aquagear pitcher would benefit from improvements to its design. It loses a lot of points for the finicky and unstable handle, while the lack of a replacement indicator may put some people off. However, all of its parts are strong, sturdy, and free of BPA. The filter appears to be well-built and well worth its price.
@@ -157,15 +157,15 @@ Despite the great flow rate, our chlorine test showed that water runs through th
 Usability
 ---------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Assembling (20%) - **4.3**/10
+*   Assembling (20%) - **4.3**/undefined
     
-*   Refilling (30%) - **8.7**/10
+*   Refilling (30%) - **8.7**/undefined
     
-*   Dispensing (40%) - **7.2**/10
+*   Dispensing (40%) - **7.2**/undefined
     
-*   Cleaning (10%) - **8.5**/10
+*   Cleaning (10%) - **8.5**/undefined
     
 
 The Aquagear water filter pitcher is easy to use and maintain. Its convenient features make putting it together and disassembling a little challenging, but they do help make refilling and pouring easier. This is also one of the few filter pitchers that can withstand the dishwasher.
