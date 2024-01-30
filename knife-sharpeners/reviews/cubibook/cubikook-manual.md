@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.0**/undefined
     
-*   Design (15%) - **8.5**/10
+*   Design (15%) - **8.5**/undefined
     
-*   Ease of Use (35%) - **9.4**/10
+*   Ease of Use (35%) - **9.4**/undefined
     
 
 **The Cubikook Chef Sharpener** is a much better device than its price suggests. It’s quick, effortless to use, dependable, and offers a sharpness level that, while not exceptional, is sufficient for most kitchen tasks.
@@ -33,15 +33,15 @@ The sharpener didn’t disappoint. It was among the [best performers](https://he
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **7.6**/10
+*   Sharpening Time to Cut a Lemon (35%) - **7.6**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **8.7**/10
+*   Edge Smoothness (20%) - **8.7**/undefined
     
-*   Material Retention (25%) - **8.0**/10
+*   Material Retention (25%) - **8.0**/undefined
     
 
 The Cubikook performed consistently well in all four categories: speed, sharpness, material retention, and edge smoothness. As pull-through sharpeners go, this one is one of the most well-rounded options.
@@ -87,11 +87,11 @@ This fine edge is the result of good design choices. The device’s working sect
 Design
 ------
 
-design Scores: **8.5**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **8.8**/10
+*   Build Quality (75%) - **8.8**/undefined
     
-*   Grip (25%) - **7.5**/10
+*   Grip (25%) - **7.5**/undefined
     
 
 The Cubikook is heavily function-oriented — it skips the bells and whistles and focuses on keeping the device sturdy, stable, and effective to use.
@@ -168,17 +168,17 @@ The Cubikook has a flat base with two silicone pads underneath to keep it in pla
 Ease of Use
 -----------
 
-usability Scores: **9.4**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **9.5**/10
+*   Insertion (20%) - **9.5**/undefined
     
-*   Pulling Through (10%) - **9.0**/10
+*   Pulling Through (10%) - **9.0**/undefined
     
-*   Stability on a Clean Surface (40%) - **9.5**/10
+*   Stability on a Clean Surface (40%) - **9.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **8.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **8.0**/undefined
     
 
 The Cubikook has a straightforward design with a flat base, a sturdy working section, and an intuitive slot arrangement. Everything supports a safe and easy sharpening experience. **It’s the best handheld sharpener for those with weak or shaky hands.**
