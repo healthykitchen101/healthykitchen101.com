@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (70%) - **8.1**/10
+*   Performance (70%) - **8.1**/undefined
     
-*   Design (20%) - **8.0**/10
+*   Design (20%) - **8.0**/undefined
     
-*   Usability (10%) - **5.3**/10
+*   Usability (10%) - **5.3**/undefined
     
 
 The Helect infrared thermometer's good IR sensor produced fairly accurate and reliable temperature readings throughout our performance test. The Helect achieved one of the highest scores on the hot test with cooking oil and didn’t do half bad on the cold test, either.
@@ -39,11 +39,11 @@ You can read our full test report below!
 Performance
 -----------
 
-performance Scores: **8.1**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **7.5**/10
+*   Cold Test with Ice (40%) - **7.5**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **8.4**/10
+*   Hot Test with Cooking Oil (60%) - **8.4**/undefined
     
 
 Performance-wise, the Helect exceeded our initial expectations. It scored very well in the cooking oil test and also achieved a fairly respectable score in the ice-bath test portion.
@@ -83,13 +83,13 @@ That’s still a very good score! In fact, the Helect has one of the best scores
 Design
 ------
 
-design Scores: **8.0**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
-*   Laser Emitter (25%) - **9.0**/10
+*   Laser Emitter (25%) - **9.0**/undefined
     
-*   Display Panel (25%) - **7.0**/10
+*   Display Panel (25%) - **7.0**/undefined
     
 
 The Helect infrared thermometer is an average product with a budget feel due to its cheap finishing. It has a solid build quality, weighs only 5.73 ounces, and comes with a 1.25-inch backlit LCD screen. The laser emitter has decent brightness and a single-dot pattern. The thermometer uses a 9V battery that's included in the box.
@@ -161,13 +161,13 @@ The Helect infrared thermometer uses a 9V battery already included in the box. Y
 Usability
 ---------
 
-usability Scores: **5.3**
+usability Scores: **NaN**
 
-*   Handling (50%) - **7.5**/10
+*   Handling (50%) - **7.5**/undefined
     
-*   Measurement Modes (30%) - **0**/10
+*   Measurement Modes (30%) - **0**/undefined
     
-*   Audio Cues (20%) - **8.0**/10
+*   Audio Cues (20%) - **8.0**/undefined
     
 
 The handling experience is rated as "passable" due to the curved grip being uncomfortable for people with small hands. Its usability score is also greatly impacted by its lack of measurement modes. Fortunately, the Helect does come with a loud speaker that beeps when the thermometer has finished scanning.
