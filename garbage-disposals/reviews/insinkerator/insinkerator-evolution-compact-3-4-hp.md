@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.0**/10
+*   Performance (60%) - **6.9**/undefined
     
-*   Design (25%) - **8.9**/10
+*   Design (25%) - **8.9**/undefined
     
-*   Usability (15%) - **8.2**/10
+*   Usability (15%) - **8.2**/undefined
     
 
 All things considered, the InSinkErator Evolution Compact delivers an acceptable experience. While the disposal didn’t particularly stand out in our scrap food tests, its supporting details are highly effective. The disposal features a strong and durable build with a high-torque motor, long-lasting materials, and advanced technology in noise control.
@@ -34,13 +34,13 @@ The InSinkErator Compact from the Evolution series is a solid-looking garbage di
 Performance: Far from Perfect
 -----------------------------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.9**/10
+*   Scrap Mix (50%) - **6.9**/undefined
     
-*   Raw Fish Scraps (25%) - **7.3**/10
+*   Raw Fish Scraps (25%) - **7.3**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.6**/10
+*   Raw Chicken Scraps (25%) - **6.6**/undefined
     
 
 Although the Evolution Compact didn’t have the best runs, the disposal impressed us with how smoothly and quickly it dealt with the tasks. It did seem to struggle here and there against particularly tough meat scraps. But other common food scraps like fruit peels, corn cobs, even cooked chicken bones didn’t pose much of a challenge.
@@ -144,13 +144,13 @@ On the other end, the output showed that the disposal wasn’t able to fine-grin
 Design: Neat and Capable
 ------------------------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **8.0**/10
+*   Motor (30%) - **8.0**/undefined
     
-*   Build Quality (40%) - **10**/10
+*   Build Quality (40%) - **10**/undefined
     
 
 The InSinkErator Evolution Compact is among the best-crafted [in-sink food grinders](https://healthykitchen101.com/garbage-disposals/reviews/best/) on the market, with rigid construction and excellent functionality. Positive responses and comments on plumbing forums and websites affirming the disposal’s consistent performance further support its design and quality. 
@@ -319,15 +319,15 @@ When we check on it now, the unit feels as sturdy as day one. Its parts stay fir
 Usability: One of the Smoothest
 -------------------------------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Installation (30%) - **6.0**/10
+*   Installation (30%) - **6.0**/undefined
     
-*   Ease of Use (40%) - **9.0**/10
+*   Ease of Use (40%) - **9.0**/undefined
     
-*   Smooth Operation (25%) - **10**/10
+*   Smooth Operation (25%) - **10**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 If you don’t mind some weight, the Evolution Compact has little to complain about in terms of usability. It ran smoothly in and out of our performance testing, taking on about anything we threw at it, and its features worked as they were supposed to.
