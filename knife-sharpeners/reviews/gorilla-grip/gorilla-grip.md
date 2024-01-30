@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.5**/10
+*   Performance (50%) - **6.5**/undefined
     
-*   Design (15%) - **8.8**/10
+*   Design (15%) - **8.8**/undefined
     
-*   Ease of Use (35%) - **8.6**/10
+*   Ease of Use (35%) - **8.6**/undefined
     
 
 The Gorilla Grip is a good-value buy: It has a decent build and offers good sharpness for a handheld sharpening device. It’s also easy to use, though it is not as stable as the devices that it resembles so closely, such as the Kitchellence or the Amesser.
@@ -33,15 +33,15 @@ We put it through the same tests to find the answer to that question.
 Performance
 -----------
 
-performance Scores: **6.5**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **7.6**/10
+*   Sharpening Time to Cut a Lemon (35%) - **7.6**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **5.0**/10
+*   Edge Smoothness (20%) - **5.0**/undefined
     
-*   Material Retention (25%) - **5.0**/10
+*   Material Retention (25%) - **5.0**/undefined
     
 
 The Gorilla Grip seems to be the opposite of the Kitchellence in this regard. It sharpens quickly and effectively but can peel off a lot of material from your blade. Despite the ‘Polish’ slot, our test knife ended up with a rough, uneven edge.
@@ -89,11 +89,11 @@ Given how quickly the device sharpens, we don’t recommend more than a few swip
 Design
 ------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **8.5**/10
+*   Build Quality (75%) - **8.5**/undefined
     
-*   Grip (25%) - **9.5**/10
+*   Grip (25%) - **9.5**/undefined
     
 
 The Gorilla Grip looks almost identical to the Amesser and the Kitchellence: It has a tall but weighted body, a tapered base, an ergonomic grip, and a soft cover. Unfortunately, the shaky base and the poorly fitted rubber pad set it back by a few points.
@@ -168,17 +168,17 @@ The real problem is that when standing, only a part of the bigger pad is in cont
 Ease of Use
 -----------
 
-usability Scores: **8.6**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Pulling Through (10%) - **8.5**/10
+*   Pulling Through (10%) - **8.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **8.0**/10
+*   Stability on a Clean Surface (40%) - **8.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.0**/undefined
     
 
 With a straightforward design, the Gorilla Grip is easy to use. We didn’t record any difficulty while inserting the knife or pulling it through the device’s sharpening slots. Stability could be improved, but we didn’t have to tire our wrists to keep it in place during sharpening.
