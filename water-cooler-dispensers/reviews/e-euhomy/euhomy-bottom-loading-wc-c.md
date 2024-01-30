@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.4**/10
+*   Performance (50%) - **7.4**/undefined
     
-*   Design (25%) - **8.4**/10
+*   Design (25%) - **8.4**/undefined
     
-*   Ease of Use (25%) - **7.8**/10
+*   Ease of Use (25%) - **7.8**/undefined
     
 
 The Euhomy [bottom-loading water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) was a mixed bag, but not entirely disappointing. Many of its features show quality, original, and thoughtful design. The cabinet door has an easy-to-open pocket handle and magnetic lock.
@@ -38,11 +38,11 @@ Euhomy is a small manufacturer of mainly countertop ice makers and car refrigera
 Performance
 -----------
 
-performance Scores: **7.4**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **6.7**/10
+*   Hot Water Test (40%) - **6.7**/undefined
     
-*   Cold Water Test (60%) - **7.8**/10
+*   Cold Water Test (60%) - **7.8**/undefined
     
 
 Both hot water and cold water tests revealed different quirks of the Euhomy. Cold water was the better performer, yet it failed to measure up to the temperature standards of other machines. Likewise, the hot water temperature was not in line with the normal average. While temperature is more an issue of personal preference, the slower flow rate was an indicator of poorer mechanical design.
@@ -122,15 +122,15 @@ There are more suitable water cooler dispensers for an office than Euhomy such a
 Design
 ------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **8.5**/10
+*   Build Quality (45%) - **8.5**/undefined
     
-*   Panel & Indicators (25%) - **7.5**/10
+*   Panel & Indicators (25%) - **7.5**/undefined
     
-*   Water Inlet Controls (20%) - **9.5**/10
+*   Water Inlet Controls (20%) - **9.5**/undefined
     
-*   Drip Tray (10%) - **8.0**/10
+*   Drip Tray (10%) - **8.0**/undefined
     
 
 We really liked many of the external design features as well as the build quality of the Euhomy. Unique features include the rough fingerprint-free sides of the side panel, the door and cabinet design, and the water probe and bottle cap. However, this more original design did not succeed so well with the button design and the overall performance.
@@ -293,15 +293,15 @@ The cord outlet is a typical 26 inches from the ground with the water drainage p
 Ease of Use
 -----------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **7.5**/10
+*   Dispensing Water (40%) - **7.5**/undefined
     
-*   Hot Water Safety (15%) - **7.0**/10
+*   Hot Water Safety (15%) - **7.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **9.0**/10
+*   Bottle / Filter Changing (15%) - **9.0**/undefined
     
-*   Cleaning (30%) - **8.0**/10
+*   Cleaning (30%) - **8.0**/undefined
     
 
 Despite its less than average performance, the design and usability of the Euhomy fared a lot better. We liked the ease of changing the bottle and periodic descaling compared to other machines. However, the hot water safety mechanism was not the best, nor was the design of the dispensing buttons.
