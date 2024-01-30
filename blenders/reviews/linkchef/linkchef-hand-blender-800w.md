@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.2**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.2**/10
+*   Performance (50%) - **5.2**/undefined
     
-*   Design (20%) - **7.5**/10
+*   Design (20%) - **7.5**/undefined
     
-*   Usability (30%) - **7.1**/10
+*   Usability (30%) - **7.1**/undefined
     
 
 The LINKchef is an economical option, suitable for users who have basic blending needs and don’t frequently engage in complex or heavy-duty performance. While it comes with an accessory kit that adds some versatility, its overall performance remains squarely in the average range. This means for simple tasks like puréeing hot soup or preparing sauces, the LINKchef is quite adequate. However, when it comes to more demanding blending jobs, such as processing frozen fruits for smoothies, its performance may be underwhelming.
@@ -29,17 +29,17 @@ LINKchef has recently introduced a new blender that is claimed to handle up to 9
 Performance
 -----------
 
-performance Scores: **5.2**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **6.5**/10
+*   Hot Soup Purée (35%) - **6.5**/undefined
     
-*   Smoothie (30%) - **0**/10
+*   Smoothie (30%) - **0**/undefined
     
-*   Mayonnaise (15%) - **9.0**/10
+*   Mayonnaise (15%) - **9.0**/undefined
     
-*   Almond Milk (15%) - **7.5**/10
+*   Almond Milk (15%) - **7.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **9.0**/10
+*   Whipped Egg-Whites (5%) - **9.0**/undefined
     
 
 In our testing, the LINKchef offered acceptable performance for its price. It handled basic tasks like pureeing vegetables, whisking eggs, and grinding nuts adequately, yet struggled with more demanding tasks, like blending frozen fruits, due to insufficient power.
@@ -113,15 +113,15 @@ To assess the LINKchef’s versatility, we challenged its whisk attachment to wh
 Design
 ------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.5**/10
+*   Blending Shaft (30%) - **7.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The LINKchef’s aesthetic is straightforward, lacking the luxury vibe of premium models, yet its build quality is unexpectedly decent for its price range. It retains all the common features of a standard blender, with the notable addition of a rubber blade guard to shield against container scratches.
@@ -267,15 +267,15 @@ Our review of the LINKchef's milk frother is pending, but it's intended for milk
 Usability
 ---------
 
-usability Scores: **7.1**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **6.3**/10
+*   Ease of Use (60%) - **6.3**/undefined
     
-*   Blade Assembly (10%) - **8.5**/10
+*   Blade Assembly (10%) - **8.5**/undefined
     
-*   Handling (20%) - **8.0**/10
+*   Handling (20%) - **8.0**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 Our LINKchef blender is manageable in weight and basic in its controls. Its ergonomically-designed handle provides some comfort, but this doesn't fully compensate for the difficulty in maneuvering the blender when it is firmly suctioned to the container.
