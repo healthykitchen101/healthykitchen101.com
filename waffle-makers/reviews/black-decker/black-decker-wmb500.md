@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.7**/10
+*   Performance (50%) - **6.7**/undefined
     
-*   Design (20%) - **8.7**/10
+*   Design (20%) - **8.7**/undefined
     
-*   Ease of Use (30%) - **9.5**/10
+*   Ease of Use (30%) - **9.5**/undefined
     
 
 The BLACK+DECKER WMB500 is a great example of a value waffle maker. Despite being an affordable Belgian waffle maker, it is a strong performer, capable of quickly serving up some tasty waffles. It won’t be a good fit if you’re looking for a restaurant-grade waffle maker. But it will be a good fit if you only need a breakfast-making machine for the family.
@@ -35,11 +35,11 @@ The WMB500 stands in BLACK+DECKER’s portfolio as their offering to the entry-l
 Performance: Great for Family Breakfasts
 ----------------------------------------
 
-performance Scores: **6.7**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.8**/10
+*   Self-Mixed Recipe (50%) - **6.8**/undefined
     
-*   Birch Benders Mix (50%) - **6.5**/10
+*   Birch Benders Mix (50%) - **6.5**/undefined
     
 
 The BLACK+DECKER WMB500 displayed impressive cooking performance across both test recipes. The resulting waffles weren't restaurant-level quality, but certainly more than enough for a healthy homemade breakfast. It’ll be an ideal choice for families who simply need a reliably good option for breakfast.
@@ -135,13 +135,13 @@ Flavor-wise, the waffle was mediocre. The sweetness was there, and so was the si
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.5**/10
+*   Build Quality (60%) - **9.5**/undefined
     
-*   Waffle Plates (30%) - **10**/10
+*   Waffle Plates (30%) - **10**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 The BLACK+DECKER WMB500 has a simplistic, blocky design—typical of an entry-level waffle maker. It looks quite similar to the [Cuisinart WMR-CA](https://healthykitchen101.com/waffle-makers/reviews/cuisinart/cuisinart-wmr-ca-classic/), which is in the same price range.
@@ -248,15 +248,15 @@ The BLACK+DECKER WMB500 doesn’t come with any extra accessory.
 Ease of Use
 -----------
 
-usability Scores: **9.5**
+usability Scores: **NaN**
 
-*   Handling (25%) - **10**/10
+*   Handling (25%) - **10**/undefined
     
-*   Safety (40%) - **9.9**/10
+*   Safety (40%) - **9.9**/undefined
     
-*   Cleanability (25%) - **8.0**/10
+*   Cleanability (25%) - **8.0**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 It’s simple to start with the BLACK+DECKER WMB500, mostly because it doesn’t have a control panel. Most of BLACK+DECKER’s budget-friendly offerings don’t have a control panel (case in point, the [BLACK+DECKER Double waffle maker](https://healthykitchen101.com/waffle-makers/reviews/black-decker/black-decker-wmd200b-double/).)
