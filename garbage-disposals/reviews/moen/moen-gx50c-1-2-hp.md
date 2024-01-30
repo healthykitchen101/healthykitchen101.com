@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **5.4**/10
+*   Performance (60%) - **5.5**/undefined
     
-*   Design (25%) - **8.6**/10
+*   Design (25%) - **8.6**/undefined
     
-*   Usability (15%) - **8.2**/10
+*   Usability (15%) - **8.2**/undefined
     
 
 The Moen GX50C Prep Series 1/2 HP Garbage Disposal is an affordable but quality product. It offers a long-lasting build with quality materials and a high-speed motor that lowers the risk of jamming. It has a neat and modern look and offers great craftsmanship.
@@ -30,13 +30,13 @@ Considering its configurations and price, the disposal is a well-balanced produc
 Performance
 -----------
 
-performance Scores: **5.4**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **4.9**/10
+*   Scrap Mix (50%) - **4.9**/undefined
     
-*   Raw Fish Scraps (25%) - **5.7**/10
+*   Raw Fish Scraps (25%) - **5.7**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.3**/10
+*   Raw Chicken Scraps (25%) - **6.3**/undefined
     
 
 In the small garbage disposals category, the Moen GX50C 1/2 HP is easily one of the best-looking units—not so much in a “sleek and shiny” kind of way, but more in a “well-made and functional” way. The disposal enjoys a clever design that manages to save space and provide noise control at the same time.
@@ -140,13 +140,13 @@ These results again highlight how effective the GX50C could be when processing s
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **7.5**/10
+*   Grind Chamber (30%) - **7.5**/undefined
     
-*   Motor (30%) - **8.5**/10
+*   Motor (30%) - **8.5**/undefined
     
-*   Build Quality (40%) - **9.5**/10
+*   Build Quality (40%) - **9.5**/undefined
     
 
 The Moen GX Series in general, and the GX50C in specific, is well-made. The disposal uses strong and quality materials for its construction, from the body casing to the grinder components. From the very beginning, we can somewhat tell that the Moen GX50C is solid; getting a hold of and testing it only reinforced our impressions.
@@ -279,15 +279,15 @@ In the small kitchen food waste disposer category on the market, the Moen GX50C 
 Usability
 ---------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Installation (30%) - **8.5**/10
+*   Installation (30%) - **8.5**/undefined
     
-*   Ease of Use (40%) - **9.0**/10
+*   Ease of Use (40%) - **9.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 If it wasn’t for its rather disappointing performance, the Moen GX50C 1/2 hp would have everything to be the best garbage disposal. It can be a little heavy for its power rating but that’s a fair tradeoff for durability. Thanks to the clever design, the disposal is able to balance between size and utility.
