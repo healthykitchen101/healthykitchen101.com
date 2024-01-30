@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.7**/10
+*   Performance (50%) - **8.7**/undefined
     
-*   Design (15%) - **7.8**/10
+*   Design (15%) - **7.8**/undefined
     
-*   Ease of Use (35%) - **8.2**/10
+*   Ease of Use (35%) - **8.2**/undefined
     
 
 The Priority Chef is a very capable manual sharpener: It’s quick to create a keen edge but doesn’t shave too much material off your knife. Its straightforward design and modest height allow for a safe and simple sharpening experience. We have doubts about the effectiveness and durability of its base pad, but that’s not a make-or-break detail.
@@ -33,15 +33,15 @@ While its build leaves something to be desired, similar to our [top choice](http
 Performance
 -----------
 
-performance Scores: **8.7**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **8.8**/10
+*   Sharpening Time to Cut a Lemon (35%) - **8.8**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **8.0**/10
+*   Maximum Sharpness Achieved (20%) - **8.0**/undefined
     
-*   Edge Smoothness (20%) - **7.5**/10
+*   Edge Smoothness (20%) - **7.5**/undefined
     
-*   Material Retention (25%) - **10**/10
+*   Material Retention (25%) - **10**/undefined
     
 
 The Priority Chef sharpened blades quickly while creating a decent edge and shaving off very little material from our test knife. Our test knife came out as keen as when brand-new. The device is undoubtedly one of the top performers among the ones we’ve tested, and a very well-rounded one.
@@ -85,11 +85,11 @@ For the speed and level of sharpness it can achieve, we were impressed by how li
 Design
 ------
 
-design Scores: **7.8**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **7.9**/10
+*   Build Quality (75%) - **7.9**/undefined
     
-*   Grip (25%) - **7.5**/10
+*   Grip (25%) - **7.5**/undefined
     
 
 There’s not much to write home about the Priority Chef’s construction and design. It’s simple and functional, and we love that it has a sturdy working section, a full, flat base, and low center of gravity. 
@@ -159,17 +159,17 @@ Unlike most other devices, the grip of the Priority Chef is basically a pipe tha
 Ease of Use
 -----------
 
-usability Scores: **8.2**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **10**/10
+*   Slot Arrangement (20%) - **10**/undefined
     
-*   Insertion (20%) - **7.0**/10
+*   Insertion (20%) - **7.0**/undefined
     
-*   Pulling Through (10%) - **8.5**/10
+*   Pulling Through (10%) - **8.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **8.0**/10
+*   Stability on a Clean Surface (40%) - **8.0**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.0**/undefined
     
 
 With a straightforward design and slot arrangement, the learning curve is very mild with the Priority Chef. Its low center of gravity and wide, flat base offers good balance and stability. 
