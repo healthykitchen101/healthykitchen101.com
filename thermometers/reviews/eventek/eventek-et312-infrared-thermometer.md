@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Performance (70%) - **8.2**/10
+*   Performance (70%) - **8.2**/undefined
     
-*   Design (20%) - **7.9**/10
+*   Design (20%) - **7.9**/undefined
     
-*   Usability (10%) - **8.0**/10
+*   Usability (10%) - **8.0**/undefined
     
 
 As of May 2023, the Eventek ET312 is our database's most well-rounded IR thermometer. The thermometer achieves high scores in all our test sections, ranging from the performance tests (the Eventek scored well in both the cold and the hot tests) to the design and usability tests. In addition to good measurement accuracy, the Eventek ET312 also comes equipped with many measurement modes.
@@ -39,11 +39,11 @@ Read our full test report below!
 Performance
 -----------
 
-performance Scores: **8.2**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **8.3**/10
+*   Cold Test with Ice (40%) - **8.3**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **8.1**/10
+*   Hot Test with Cooking Oil (60%) - **8.1**/undefined
     
 
 In terms of performance, the Eventek is the most accurate out of the latest batch of 13 IR thermometers so far. It maintains scorings well above the 8.0 score band in both the cold test with ice and the hot test with cooking oil.
@@ -87,13 +87,13 @@ Accounting for the stability variable, the total score for this model comes out 
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **8.0**/10
+*   Build Quality (50%) - **8.0**/undefined
     
-*   Laser Emitter (25%) - **9.0**/10
+*   Laser Emitter (25%) - **9.0**/undefined
     
-*   Display Panel (25%) - **6.5**/10
+*   Display Panel (25%) - **6.5**/undefined
     
 
 The overall build quality of the Eventek ET312 is good, with sturdy and well-constructed housing. The material used for the thermometer is mostly smooth plastic, which gives it a cheaper appearance and feel compared to more premium IR thermometers with textured parts.
@@ -165,13 +165,13 @@ Two triple-A batteries power the IR thermometer. A pack of complementary cells c
 Usability
 ---------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Handling (50%) - **8.0**/10
+*   Handling (50%) - **8.0**/undefined
     
-*   Measurement Modes (30%) - **8.0**/10
+*   Measurement Modes (30%) - **8.0**/undefined
     
-*   Audio Cues (20%) - **8.0**/10
+*   Audio Cues (20%) - **8.0**/undefined
     
 
 The Eventek ET312 infrared thermometer offers a decent handling experience. The handle is indented, which lets the user grip better onto the thermometer gun, even with wet hands. However, the lack of texture on the handle can be problematic.
