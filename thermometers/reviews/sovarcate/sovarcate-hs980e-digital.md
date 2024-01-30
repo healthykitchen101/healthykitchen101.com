@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (70%) - **7.1**/10
+*   Performance (70%) - **7.1**/undefined
     
-*   Design (20%) - **9.8**/10
+*   Design (20%) - **9.8**/undefined
     
-*   Usability (10%) - **8.3**/10
+*   Usability (10%) - **8.3**/undefined
     
 
 The Sovarcate HS980E is one of the best infrared thermometers we have in our database. It did decently well in performance tests and, thanks to a very good design, did excellently in the design and usability assessments. If you’re looking for a mid-range infrared thermometer for use in the kitchen (or for any temperature measurement tasks), the Sovarcate HS980E will make for a good purchase at the price point.
@@ -34,11 +34,11 @@ See our full test report below!
 Performance
 -----------
 
-performance Scores: **7.1**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **7.0**/10
+*   Cold Test with Ice (40%) - **7.0**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **7.2**/10
+*   Hot Test with Cooking Oil (60%) - **7.2**/undefined
     
 
 The Sovarcate HS980E sits in the middle of our performance chart. It performs better than many models, like the Lasergrip GM400 or the [ThermoPro TP-30](https://healthykitchen101.com/thermometers/reviews/thermopro/thermopro-tp30-digital/), but it’s still at a disadvantage compared to Wintact and [Helect](https://healthykitchen101.com/thermometers/reviews/helect/helect-infrared-thermometer-h1020/).
@@ -76,13 +76,13 @@ This is a respectable score, putting the Sovarcate HS980E’s accuracy in line w
 Design
 ------
 
-design Scores: **9.8**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.5**/10
+*   Build Quality (50%) - **9.5**/undefined
     
-*   Laser Emitter (25%) - **10**/10
+*   Laser Emitter (25%) - **10**/undefined
     
-*   Display Panel (25%) - **10**/10
+*   Display Panel (25%) - **10**/undefined
     
 
 The Sovarcate HS980E offers a well-built design, a reliable laser emitter, and a clear display panel for accurate temperature measurement. Everything that you need to get the thermometer running in the box. Overall, we have little to complain about regarding the design quality of the Sovarcate HS980E.
@@ -150,13 +150,13 @@ The Sovarcate HS980E uses two triple-A batteries. You’ll get a duo pack of com
 Usability
 ---------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Handling (50%) - **9.0**/10
+*   Handling (50%) - **9.0**/undefined
     
-*   Measurement Modes (30%) - **6.0**/10
+*   Measurement Modes (30%) - **6.0**/undefined
     
-*   Audio Cues (20%) - **10**/10
+*   Audio Cues (20%) - **10**/undefined
     
 
 The Sovarcate HS980E offers excellent handling with a nicely textured handgrip so you can use it easily with wet hands. As such, the thermometer has a high handling score comparable to its sibling model, the HS980D.
