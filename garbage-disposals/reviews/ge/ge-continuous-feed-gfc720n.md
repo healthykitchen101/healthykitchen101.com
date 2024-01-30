@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.8**/10
+*   Performance (60%) - **7.9**/undefined
     
-*   Design (25%) - **9.0**/10
+*   Design (25%) - **9.0**/undefined
     
-*   Usability (15%) - **7.8**/10
+*   Usability (15%) - **7.8**/undefined
     
 
 The GE Disposall 3/4-Horsepower Continuous Feed Garbage Disposal leaves a little to be desired, but it’s a perfectly capable machine. With a strong grinding chamber and a high-speed motor, it can comfortably handle your typical kitchen scraps in small or large amounts. The disposal can be loud when dealing with hard scraps such as bones, but it’s not the loudest we’ve tested.
@@ -32,13 +32,13 @@ The garbage disposal looks like it could handle itself in most common kitchen se
 Performance: One of the Best
 ----------------------------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **8.3**/10
+*   Scrap Mix (50%) - **8.3**/undefined
     
-*   Raw Fish Scraps (25%) - **8.4**/10
+*   Raw Fish Scraps (25%) - **8.4**/undefined
     
-*   Raw Chicken Scraps (25%) - **6.5**/10
+*   Raw Chicken Scraps (25%) - **6.5**/undefined
     
 
 The Disposall GFC720N 3/4 HP from GE Appliances delivers what we expect from its configurations. It works quickly and effectively against most typical foods, including tough fruit pits and cooked bones. The only things that really give it trouble are fibrous and spongy tissues from uncooked animal scraps.
@@ -142,13 +142,13 @@ That said, the majority of the bone tissues presented no trouble and came out we
 Design
 ------
 
-design Scores: **9.0**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **9.0**/10
+*   Grind Chamber (30%) - **9.0**/undefined
     
-*   Motor (30%) - **9.0**/10
+*   Motor (30%) - **9.0**/undefined
     
-*   Build Quality (40%) - **9.0**/10
+*   Build Quality (40%) - **9.0**/undefined
     
 
 The GE Disposall 3/4 Horsepower has the typical appearance of a permanent-magnet food waste disposer. It wears a simple yet glossy plastic casing with a deep black tint that goes well with many kitchen styles. There’s a layer of soundproofing material between the casing and the machinery as well.
@@ -310,15 +310,15 @@ The exterior of the disposal has not changed, save for a few near-invisible nick
 Usability: Much Room for Improvement
 ------------------------------------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Installation (30%) - **8.5**/10
+*   Installation (30%) - **8.5**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The GE GFC720N 3/4-Horsepower Continuous Feed has its fair share of drawbacks. It takes up quite a lot of space under the sink and its noise-dampening feature is not as good as it should be. But it sure can grind stuff down and makes the whole process feel satisfying. 
