@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.2**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **10.0**/10
+*   Brew Quality (50%) - **10.0**/undefined
     
-*   Design (15%) - **9.4**/10
+*   Design (15%) - **9.4**/undefined
     
-*   Ease of Use (35%) - **8.0**/10
+*   Ease of Use (35%) - **8.0**/undefined
     
 
 The Toddy Cold Brew System is our top-scoring cold brew coffee maker, and for good reason. The Toddy simply makes the best tasting cold brew. It’s smooth to drink and overall satisfying. The brew is rich and complex with a balanced flavor.
@@ -36,13 +36,13 @@ The Toddy Cold Brew System is a highly popular and acclaimed cold brew coffee ma
 Brew Quality
 ------------
 
-performance Scores: **10.0**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **10**/10
+*   Bouquet (10%) - **10**/undefined
     
-*   Drinkability (70%) - **10**/10
+*   Drinkability (70%) - **10**/undefined
     
-*   Sediment (20%) - **10**/10
+*   Sediment (20%) - **10**/undefined
     
 
 The test of any cold brew coffee maker is ultimately the coffee it produces. Our repeated testing found that the Toddy makes the best cold brew coffee. Specifically, it’s the most rounded, full-bodied, and complex brew with a balance towards sweeter flavors. Its filtration system, although not the most convenient, is highly effective.
@@ -70,13 +70,13 @@ While the Toddy Cold Brew System scored low in terms of the filter’s practical
 Design
 ------
 
-design Scores: **9.4**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **10**/10
+*   Stopper / Lid (30%) - **10**/undefined
     
-*   Filter (40%) - **9.0**/10
+*   Filter (40%) - **9.0**/undefined
     
-*   Build Quality (30%) - **9.5**/10
+*   Build Quality (30%) - **9.5**/undefined
     
 
 Overall, the Toddy Cold Brew System is a high-quality product. It’s well thought out from eco-friendliness to aesthetic appeal to the practicalities of brewing and storage. The only feature we found lacking was the temperamental filter.
@@ -165,13 +165,13 @@ The Toddy is made from safe, durable, high-quality materials. We particularly li
 Ease of Use
 -----------
 
-usability Scores: **8.0**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **8.0**/10
+*   Brewing (45%) - **8.0**/undefined
     
-*   Decanting (35%) - **7.5**/10
+*   Decanting (35%) - **7.5**/undefined
     
-*   Cleaning and Storage (20%) - **9.0**/10
+*   Cleaning and Storage (20%) - **9.0**/undefined
     
 
 Making cold brew coffee can be messy. The purpose of a cold brew coffee maker is to make brewing and decanting as easy as possible. There are more steps to the Toddy system than you’ll find in a simple immersion filter brewer. However, it produced superior results and the whole process can be made easier if you use a paper filter bag.
