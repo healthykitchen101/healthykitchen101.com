@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.8**/10
+*   Performance (50%) - **7.8**/undefined
     
-*   Design (20%) - **7.3**/10
+*   Design (20%) - **7.3**/undefined
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.8**/undefined
     
 
 The Keylitos 5-in-1 is a modestly capable contender among [mid-range immersion blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/) we tested. Although it wasn’t the standout performer in any of our tests, it offered a balance of efficiency and versatility. Design-wise, the blender's build quality is on par with what you might expect at this price point—average, yet they contribute to an ease of use that is not always evident in similarly priced models.
@@ -30,17 +30,17 @@ Keylitos, a brand gaining traction in the kitchen appliance market, has recently
 Performance
 -----------
 
-performance Scores: **7.8**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.5**/10
+*   Hot Soup Purée (35%) - **7.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **7.0**/10
+*   Frozen Fruit Smoothie (30%) - **7.0**/undefined
     
-*   Mayonnaise (15%) - **9.3**/10
+*   Mayonnaise (15%) - **9.3**/undefined
     
-*   Almond Milk (15%) - **8.0**/10
+*   Almond Milk (15%) - **8.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **9.0**/10
+*   Whipped Egg-Whites (5%) - **9.0**/undefined
     
 
 The Keylitos 5-in-1 delivered average performance in our tests. It coped well with basic tasks like soup-making, nut-grinding, and smoothie-blending, though the results weren’t flawless. We also tested the additional accessories, particularly the whisk attachment, and found that this add-on could emulsify sauces and whisk egg whites effectively. 
@@ -118,15 +118,15 @@ The end result was a success; the egg whites transformed into a stable, airy foa
 Design
 ------
 
-design Scores: **7.3**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 Constructed from a blend of durable mid-grade plastics and metals, the Keylitos presents an unassuming yet solid build. It lacks the flashy aesthetics of more expensive models but compensates with a robustness that belies its price. Highlight  features include easy-grip handles, stainless steel blending shaft, and intuitive controls. 
@@ -272,15 +272,15 @@ Similarly, we have yet to evaluate the milk frother that comes with the Keylitos
 Usability
 ---------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.4**/10
+*   Ease of Use (60%) - **7.4**/undefined
     
-*   Blade Assembly (10%) - **9.0**/10
+*   Blade Assembly (10%) - **9.0**/undefined
     
-*   Handling (20%) - **8.0**/10
+*   Handling (20%) - **8.0**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 The Kelytos is adequately usable, with a balanced weight and straightforward controls for easy handling, and an ergonomic handle for comfort. Yet, its tendency to create strong suction at the container's bottom can make maneuvering somewhat tricky. 
