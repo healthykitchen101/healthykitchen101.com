@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **4.3**/10
+*   Performance (50%) - **4.3**/undefined
     
-*   Design (15%) - **9.3**/10
+*   Design (15%) - **9.3**/undefined
     
-*   Ease of Use (35%) - **8.4**/10
+*   Ease of Use (35%) - **8.4**/undefined
     
 
 The Chef’s Choice 4643 AngleSelect Sharpener failed to live up to its reputation. The device itself is well built and comfortable to use, but it took too much time to sharpen and didn’t take our knife very far on the sharpness scale.
@@ -33,15 +33,15 @@ However, after a few months of testing and experimenting with the device, we’r
 Performance
 -----------
 
-performance Scores: **4.3**
+performance Scores: **NaN**
 
-*   Sharpening Time to Cut a Lemon (35%) - **1.0**/10
+*   Sharpening Time to Cut a Lemon (35%) - **1.0**/undefined
     
-*   Maximum Sharpness Achieved (20%) - **6.0**/10
+*   Maximum Sharpness Achieved (20%) - **6.0**/undefined
     
-*   Edge Smoothness (20%) - **5.2**/10
+*   Edge Smoothness (20%) - **5.2**/undefined
     
-*   Material Retention (25%) - **7.0**/10
+*   Material Retention (25%) - **7.0**/undefined
     
 
 The Chef’s Choice 4643 gave a subpar performance both in speed and sharpness level. It did not shave off too much steel, but it did not really do anything to the knife’s primary edge either.
@@ -87,11 +87,11 @@ The Chef’s Choice 4643 took off more steel from the test knife than its sharpn
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Build Quality (75%) - **9.0**/10
+*   Build Quality (75%) - **9.0**/undefined
     
-*   Grip (25%) - **10**/10
+*   Grip (25%) - **10**/undefined
     
 
 This is the aspect where the Chef’s Choice 4643 really lives up to the brand’s reputation. The sharpener is well-built, ergonomic, and a delight to work with.
@@ -168,17 +168,17 @@ The quartet of rubber feet attached at the base corners do a great job of creati
 Ease of Use
 -----------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Slot Arrangement (20%) - **7.0**/10
+*   Slot Arrangement (20%) - **7.0**/undefined
     
-*   Insertion (20%) - **8.5**/10
+*   Insertion (20%) - **8.5**/undefined
     
-*   Pulling Through (10%) - **8.5**/10
+*   Pulling Through (10%) - **8.5**/undefined
     
-*   Stability on a Clean Surface (40%) - **9.5**/10
+*   Stability on a Clean Surface (40%) - **9.5**/undefined
     
-*   Stability on a Wet and Dirty Surface (10%) - **7.0**/10
+*   Stability on a Wet and Dirty Surface (10%) - **7.0**/undefined
     
 
 The Chef’s Choice 4643 is one of the safest and most comfortable sharpeners to use. Just make sure you do not sharpen in the wrong slot.
