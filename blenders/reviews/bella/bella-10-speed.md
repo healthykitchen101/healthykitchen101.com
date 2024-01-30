@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.0**/undefined
     
-*   Design (20%) - **7.5**/10
+*   Design (20%) - **7.5**/undefined
     
-*   Usability (30%) - **6.3**/10
+*   Usability (30%) - **6.3**/undefined
     
 
 The BELLA immersion blender brings the efficiency and capability that we expect from a low-range immersion blender, but it is without the comfort that some buyers may be longing for. At the highest speed settings, the motor vibrated quite excessively, causing our hands to feel shaky. The blender’s refinement is also impaired by the hard buttons and uncomfortable-to-use speed dial. These issues, however, are acceptable compromises, given the blender’s small price tag and consistent performance.
@@ -30,17 +30,17 @@ On paper, this BELLA is designed to make your kitchen work simpler. However, our
 Performance: Competitive Overall Efficiency
 -------------------------------------------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **7.5**/10
+*   Hot Soup Purée (35%) - **7.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **9.3**/10
+*   Frozen Fruit Smoothie (30%) - **9.3**/undefined
     
-*   Mayonnaise (15%) - **9.0**/10
+*   Mayonnaise (15%) - **9.0**/undefined
     
-*   Almond Milk (15%) - **6.0**/10
+*   Almond Milk (15%) - **6.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **6.0**/10
+*   Whipped Egg-Whites (5%) - **6.0**/undefined
     
 
 The BELLA wasn’t the perfect immersion blender in any test but it turned out to be a surprise bargain, delivering results that were satisfying enough. The Inclusion of a whisk attachment also means it is one of the most capable models we’ve tried.
@@ -106,15 +106,15 @@ The BELLA’s whisk attachment drew enough air into the egg whites to create sti
 Design: Not Really Stand-Out
 ----------------------------
 
-design Scores: **7.5**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.5**/10
+*   Blending Shaft (30%) - **7.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 This machine is one of dozens of nearly identical low-priced hand blenders on the market that have no particular standout features. It sports a mid-powered motor that allows you to switch between various speed settings. And just like any portable item, it is designed for small spaces.
@@ -255,15 +255,15 @@ We haven’t tested this attachment, but the stainless steel S-blade can probabl
 Usability: A little Bit Disappointing
 -------------------------------------
 
-usability Scores: **6.3**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **6.0**/10
+*   Ease of Use (60%) - **6.0**/undefined
     
-*   Blade Assembly (10%) - **7.5**/10
+*   Blade Assembly (10%) - **7.5**/undefined
     
-*   Handling (20%) - **6.0**/10
+*   Handling (20%) - **6.0**/undefined
     
-*   Cleanability (10%) - **7.5**/10
+*   Cleanability (10%) - **7.5**/undefined
     
 
 This blender can't completely live up to its purpose. We were frustrated with it at every turn, from ease of use to cleanability. Below you can read our quick-hit notes on things that will possibly impair your blending experience.
