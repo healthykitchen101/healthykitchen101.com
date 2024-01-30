@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.1**
+Overall Score: **NaN**
 
-*   Performance (60%) - **4.7**/10
+*   Performance (60%) - **4.7**/undefined
     
-*   Design (25%) - **7.7**/10
+*   Design (25%) - **7.7**/undefined
     
-*   Usability (15%) - **9.3**/10
+*   Usability (15%) - **9.3**/undefined
     
 
 We like the iCucina for its simplicity. The overall design looks ornate yet somehow provides a nice sporty feel. Built quality is standard so there isn’t any unique personality quirk setting it apart here, but this is reasonable given its price.
@@ -33,15 +33,15 @@ iCucina is a compact personal blender with a motor peaking around 300-watt. On p
 Performance: Not a Do-It-All Machine
 ------------------------------------
 
-performance Scores: **4.7**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **6.0**/10
+*   Protein Shake (40%) - **6.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **5.0**/10
+*   Frozen Fruit Smoothie (30%) - **5.0**/undefined
     
-*   Fibrous Greens (20%) - **4.0**/10
+*   Fibrous Greens (20%) - **4.0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 We were more than a little surprised at the results yielded by this iCucina since they didn’t come out as good as we expected. The 300-watt motor and fast spinning blades weren’t enough to help it overcome our challenges. 
@@ -99,13 +99,13 @@ Typically, personal blenders aren’t designed with a focus on ice-crushing capa
 Design: Simple yet Normal
 -------------------------
 
-design Scores: **7.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.5**/10
+*   Build Quality (60%) - **7.5**/undefined
     
-*   Blades (20%) - **6.0**/10
+*   Blades (20%) - **6.0**/undefined
     
-*   Blending Cup (20%) - **10**/10
+*   Blending Cup (20%) - **10**/undefined
     
 
 We aren’t much impressed with this blender’s quality, but overall, built materials are fine for a machine at this price and we really like the simplicity the iCucina provides. Nevertheless, the mid-range segment is a tough market to compete in, simply because there’s so many products to choose from, and therefore it’d be better if iCucina emphasized on eye-catching style. Some improvements on the blade assembly would help increase its appeal as well.
@@ -217,13 +217,13 @@ The iCucina is a single-speed personal blender with one-touch operation. This me
 Usability: Less than Intuitive to Assemble
 ------------------------------------------
 
-usability Scores: **9.3**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **10**/10
+*   Hands-Free Operation (60%) - **10**/undefined
     
-*   Assembly (20%) - **8.0**/10
+*   Assembly (20%) - **8.0**/undefined
     
-*   Cleanability (20%) - **8.5**/10
+*   Cleanability (20%) - **8.5**/undefined
     
 
 Locking the cup with the blade attached in the motor base may be disruptive and requires a bit of practice. Otherwise, the iCucina doesn’t disappoint too much when it comes to ease of use. Cleaning it is also not much of an issue especially when the cups, lids, and blade assembly are all dishwasher-safe.
