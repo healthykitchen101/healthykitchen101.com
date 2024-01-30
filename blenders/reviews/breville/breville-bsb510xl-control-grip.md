@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.3**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.5**/10
+*   Performance (50%) - **6.5**/undefined
     
-*   Design (20%) - **8.7**/10
+*   Design (20%) - **8.7**/undefined
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.8**/undefined
     
 
 The Breville BSB510XL is touted as a [premium hand-held blender](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/), but unexpectedly, its performance doesn’t live up to the hype, if not somewhat mediocre for the price. 
@@ -34,17 +34,17 @@ We spent several weeks rigorously testing the Breville BSB510XL immersion blende
 Performance: Falls Short of Rivals
 ----------------------------------
 
-performance Scores: **6.5**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **6.5**/10
+*   Hot Soup Purée (35%) - **6.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **5.8**/10
+*   Frozen Fruit Smoothie (30%) - **5.8**/undefined
     
-*   Mayonnaise (15%) - **4.8**/10
+*   Mayonnaise (15%) - **4.8**/undefined
     
-*   Almond Milk (15%) - **8.5**/10
+*   Almond Milk (15%) - **8.5**/undefined
     
-*   Whipped Egg-Whites (5%) - **10**/10
+*   Whipped Egg-Whites (5%) - **10**/undefined
     
 
 The Breville BSB510XL is slow to blend frozen foods, grind raw nuts, or emulsify sauces, but the products it produces are well worth the extra time.
@@ -116,15 +116,15 @@ The Breville BSB510XL was excellent at beating eggs. It requires less than one a
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **9.0**/10
+*   Build Quality (60%) - **9.0**/undefined
     
-*   Blending Shaft (30%) - **7.5**/10
+*   Blending Shaft (30%) - **7.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The Breville BSB510XL received plentiful praise from our testers for its overall design. It has an aesthetic appeal that very few others match. They’ve also commended its high-quality materials, which add to the visual attractiveness and make it feel more solid than most other blenders out there.
@@ -263,15 +263,15 @@ We haven’t tested this attachment, but we think it could serve you well when m
 Usability: An Elite Level of Use Ease
 -------------------------------------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.7**/10
+*   Ease of Use (60%) - **7.7**/undefined
     
-*   Blade Assembly (10%) - **7.5**/10
+*   Blade Assembly (10%) - **7.5**/undefined
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.5**/undefined
     
-*   Cleanability (10%) - **7.5**/10
+*   Cleanability (10%) - **7.5**/undefined
     
 
 The Breville BSB510XL really impresses us with its cleanability and an easy-to-assemble blade. Its height didn’t dominate our blending experience, but we did have a hard time maneuvering it due to the tight suction it created.
