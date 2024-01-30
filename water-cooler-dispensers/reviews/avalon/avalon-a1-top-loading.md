@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.9**/10
+*   Performance (50%) - **8.9**/undefined
     
-*   Design (25%) - **8.6**/10
+*   Design (25%) - **8.6**/undefined
     
-*   Ease of Use (25%) - **7.6**/10
+*   Ease of Use (25%) - **7.6**/undefined
     
 
 The Avalon A1 top loading water cooler dispenser is an all-round pleaser in terms of design and cold water performance. Cold water output is consistently good and can service up to 19 people per hour or 193 fl. oz. (5.7 L). The hot water may suit offices that prefer less than piping hot water and a lower demand for hot water. Its clean white body sets off the dark gray dispensing booth with large red and blue lever dispensers. Read more to find out if the Avalon A1 is the [best water cooler dispenser](https://healthykitchen101.com/water-cooler-dispensers/reviews/best/) for you.
@@ -29,11 +29,11 @@ The Avalon A1 is a top loading water cooler dispenser with a distinctively color
 Performance
 -----------
 
-performance Scores: **8.9**
+performance Scores: **NaN**
 
-*   Hot Water Test (40%) - **8.1**/10
+*   Hot Water Test (40%) - **8.1**/undefined
     
-*   Cold Water Test (60%) - **9.5**/10
+*   Cold Water Test (60%) - **9.5**/undefined
     
 
 In our tests, the Avalon A1’s performance and capacity clearly favored cold water over hot water. The cold water results were close to being one of the top performing machines. On the other hand, the hot water temperature was comparatively low as was the back-to-back dispensing capacity. This may, however, actually favor some office setups.
@@ -99,15 +99,15 @@ This capacity means that the Avalon can provide enough chilled water for up to 1
 Design
 ------
 
-design Scores: **8.6**
+design Scores: **NaN**
 
-*   Build Quality (45%) - **9.5**/10
+*   Build Quality (45%) - **9.5**/undefined
     
-*   Panel & Indicators (25%) - **7.8**/10
+*   Panel & Indicators (25%) - **7.8**/undefined
     
-*   Water Inlet Controls (20%) - **8.3**/10
+*   Water Inlet Controls (20%) - **8.3**/undefined
     
-*   Drip Tray (10%) - **7.5**/10
+*   Drip Tray (10%) - **7.5**/undefined
     
 
 The Avalon A1 top loading water cooler dispenser excels in performance as well as design. The clean white color contrasts nicely against the black dispensing booth. Additionally, the large and bright-colored levers and dual colored drip tray are all quite eye-catching. The build quality also measures up to its cool design and top performance.
@@ -258,15 +258,15 @@ The plug and cable length of the Avalon A1 is comparable to other machines. Simi
 Ease of Use
 -----------
 
-usability Scores: **7.6**
+usability Scores: **NaN**
 
-*   Dispensing Water (40%) - **8.5**/10
+*   Dispensing Water (40%) - **8.5**/undefined
     
-*   Hot Water Safety (15%) - **9.0**/10
+*   Hot Water Safety (15%) - **9.0**/undefined
     
-*   Bottle / Filter Changing (15%) - **6.0**/10
+*   Bottle / Filter Changing (15%) - **6.0**/undefined
     
-*   Cleaning (30%) - **6.4**/10
+*   Cleaning (30%) - **6.4**/undefined
     
 
 The Avalon A1 is a very basic and easy-to-use water cooler dispenser. We like the one-hand-dispensing for cold water and how the hot water safety mechanism works. The types of materials used makes cleaning effortless and the color design is really attractive. The only thing we didn’t like was the fixed design of the water spouts and the tough-to-remove water guard.
