@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.3**/10
+*   Performance (60%) - **7.3**/undefined
     
-*   Design (25%) - **8.9**/10
+*   Design (25%) - **8.9**/undefined
     
-*   Usability (15%) - **8.4**/10
+*   Usability (15%) - **8.4**/undefined
     
 
 With all of its imperfections, the InSinkErator Evolution Essential XTR 3/4 is still a viable option for what it does well. If you’re looking for a durable disposal that can deal with daily kitchen scraps while keeping things nice and quiet, you are onto something here. From avocado pits to cooked bones, as long as they are not as tough as raw meat scraps, the disposal can take them all on.
@@ -36,13 +36,13 @@ The disposal has been receiving positive feedback from all fronts. On Amazon, fo
 Performance
 -----------
 
-performance Scores: **7.3**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **6.6**/10
+*   Scrap Mix (50%) - **6.6**/undefined
     
-*   Raw Fish Scraps (25%) - **8.3**/10
+*   Raw Fish Scraps (25%) - **8.3**/undefined
     
-*   Raw Chicken Scraps (25%) - **7.8**/10
+*   Raw Chicken Scraps (25%) - **7.8**/undefined
     
 
 As we anticipated prior to testing, the Essential XTR dealt with daily kitchen scraps fairly easily. Though the disposal took its time in every test, it rarely showed signs of struggle. Most of the output from the disposal is drain-safe, up until the uncooked meat scrap tests.
@@ -146,13 +146,13 @@ The disposal did finish the task in under 3 minutes, but the output was inconsis
 Design
 ------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **8.0**/10
+*   Motor (30%) - **8.0**/undefined
     
-*   Build Quality (40%) - **10**/10
+*   Build Quality (40%) - **10**/undefined
     
 
 The Evolution series from InSinkErator has some of the most well-geared models that the garbage disposal market has ever seen. The Essential XTR not only features advanced anti-vibration and anti-noise technology but also enjoys strong and quality components. Furthermore, the disposal comes with its own (corded) air-switch kit and an uninstalled power cord.
@@ -345,15 +345,15 @@ Moreover, the disposal enjoys one of the best sound and shock insulation technol
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Installation (30%) - **7.0**/10
+*   Installation (30%) - **7.0**/undefined
     
-*   Ease of Use (40%) - **9.0**/10
+*   Ease of Use (40%) - **9.0**/undefined
     
-*   Smooth Operation (25%) - **10**/10
+*   Smooth Operation (25%) - **10**/undefined
     
-*   Unjam Mechanics (5%) - **5.0**/10
+*   Unjam Mechanics (5%) - **5.0**/undefined
     
 
 When it’s not dealing with tough raw meat scraps, our experience with the InSinkErator Evolution Essential XTR was satisfying, to say the least. It was thanks to the disposal’s outstanding disturbance control, for a lack of a better term. The disposal is also highly competent against common scraps, which is to say it handles them quickly and consistently.
