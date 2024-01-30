@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.8**/10
+*   Performance (50%) - **6.8**/undefined
     
-*   Design (20%) - **8.4**/10
+*   Design (20%) - **8.4**/undefined
     
-*   Usability (30%) - **9.8**/10
+*   Usability (30%) - **9.8**/undefined
     
 
 The PUR Plus PFM350V is a good water filter as far as performance goes in [our list](https://healthykitchen101.com/water-filters/reviews/best/faucet-water-filters/). Although its filtering flow rate leaves much to be desired, the chlorine filtering performance of the filter was definitely up to code in our test.
@@ -37,11 +37,11 @@ For the past week, we’ve tested the PUR Plus PFM350V in the lab alongside othe
 Performance
 -----------
 
-performance Scores: **6.8**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **4.7**/10
+*   Flow Rate Test (60%) - **4.7**/undefined
     
 
 As expected from PUR, the filter cartridge they shipped with the PFM350V did a great job of filtering out chemicals like chlorine. In our test, it was able to remove nearly all traces of free chlorine in the highly-chlorinated water that we pumped through the filter.
@@ -73,13 +73,13 @@ As a result, the PUR Plus PFM350V failed this portion of the test. If you’re u
 Design
 ------
 
-design Scores: **8.4**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **7.8**/10
+*   Build Quality (40%) - **7.8**/undefined
     
-*   Filter Piece (50%) - **8.5**/10
+*   Filter Piece (50%) - **8.5**/undefined
     
-*   Routing Valve (10%) - **10**/10
+*   Routing Valve (10%) - **10**/undefined
     
 
 The PUR Plus PFM350V is made entirely from plastic, which will usually get a downvote from us on grounds of durability. But we’re really taken by its design: the sleek and modern form factor and the slate gray color of the plastic housing makes it a perfect fit for contemporary kitchens.
@@ -164,15 +164,15 @@ The routing valve is very well-designed. It fits seamlessly with the rest of the
 Usability
 ---------
 
-usability Scores: **9.8**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **8.0**/10
+*   Maintenance (10%) - **8.0**/undefined
     
 
 Like most faucet-mount water filters, there’s only one motion that you need to learn to use the PUR Plus PFM350V once it’s installed on the faucet: switching the routing valve’s handle up and down to get either filtered or unfiltered water. So, usability-wise, the PFM350V is excellent.
