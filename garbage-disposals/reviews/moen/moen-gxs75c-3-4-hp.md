@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.4**/10
+*   Performance (60%) - **7.4**/undefined
     
-*   Design (25%) - **8.8**/10
+*   Design (25%) - **8.8**/undefined
     
-*   Usability (15%) - **8.6**/10
+*   Usability (15%) - **8.6**/undefined
     
 
 The Moen GXS75C 3/4-Horsepower is one of the best budget garbage disposals we’ve tested so far. Even at a low cost, it’s well-built with meticulous features. It also outperforms several more expensive models in our rankings.
@@ -32,13 +32,13 @@ The Moen GXS75C 3/4-HP Continuous Feed Garbage Disposal looks good. Its modern d
 Performance: Strong, But Not Quite
 ----------------------------------
 
-performance Scores: **7.4**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **8.0**/10
+*   Scrap Mix (50%) - **8.0**/undefined
     
-*   Raw Fish Scraps (25%) - **6.0**/10
+*   Raw Fish Scraps (25%) - **6.0**/undefined
     
-*   Raw Chicken Scraps (25%) - **7.6**/10
+*   Raw Chicken Scraps (25%) - **7.6**/undefined
     
 
 The Moen GXS75C has little trouble dealing with typical kitchen foods, even in large amounts. In one of our tests, the disposal was able to comfortably deal with 11 different types of ingredients with varied textures. These ingredients are common food scraps in the kitchen.
@@ -142,13 +142,13 @@ Samples in the two filtering layers appeared thoroughly processed. All the bones
 Design: Handsome and Rugged
 ---------------------------
 
-design Scores: **8.8**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **7.0**/10
+*   Grind Chamber (30%) - **7.0**/undefined
     
-*   Motor (30%) - **9.5**/10
+*   Motor (30%) - **9.5**/undefined
     
-*   Build Quality (40%) - **9.5**/10
+*   Build Quality (40%) - **9.5**/undefined
     
 
 The GXS75C 3/4 HP along with other Moen GX series garbage disposals are some of the best-looking models we’ve tested. Put next to the round bodies of other permanent-magnet models, the series stands out for its modern and space-saving design. These disposals look better than most from above the sink too, showing off sleek details.
@@ -276,15 +276,15 @@ The disposal hung sturdy and secure through all our testing stages; other Moen G
 Usability
 ---------
 
-usability Scores: **8.6**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.0**/10
+*   Installation (30%) - **9.0**/undefined
     
-*   Ease of Use (40%) - **9.0**/10
+*   Ease of Use (40%) - **9.0**/undefined
     
-*   Smooth Operation (25%) - **9.0**/10
+*   Smooth Operation (25%) - **9.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The Host Series GXS75C 3/4 HP by Moen maintains a top position in our rating chart thanks to its build and design. The machine is quick and effective against regular kitchen food scraps. Plus, it saves considerable space under the sink and the installation is arguably straightforward. 
