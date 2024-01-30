@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.1**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.0**/10
+*   Performance (50%) - **7.0**/undefined
     
-*   Design (20%) - **8.3**/10
+*   Design (20%) - **8.3**/undefined
     
-*   Usability (30%) - **9.8**/10
+*   Usability (30%) - **9.8**/undefined
     
 
 If you're plagued with the harsh aftertaste of chlorine in your tap water, we can verify that the Culligan FM-25 faucet-mount water filter can solve your problem. In our chlorine filtering tests, the FM-25 could eliminate all traces of chlorine in the water.
@@ -36,11 +36,11 @@ If a good blend between filtration efficiency and aesthetic is what you’re loo
 Performance
 -----------
 
-performance Scores: **7.0**
+performance Scores: **NaN**
 
-*   Chlorine Test (40%) - **10**/10
+*   Chlorine Test (40%) - **10**/undefined
     
-*   Flow Rate Test (60%) - **5.0**/10
+*   Flow Rate Test (60%) - **5.0**/undefined
     
 
 While the Culligan did excellently in the chlorine test, being able to completely neutralize all traces of free chlorine in the water, the filter didn’t do well in the flow rate test. The Culligan barely passed with a slow filtering flow rate of 0.5 GPM (in contrast to the initial tap flow rate of 2.2 GPM).
@@ -74,13 +74,13 @@ Nonetheless, in real use, we still found the Culligan too slow at filtering, esp
 Design
 ------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (40%) - **8.3**/10
+*   Build Quality (40%) - **8.3**/undefined
     
-*   Filter Piece (50%) - **8.0**/10
+*   Filter Piece (50%) - **8.0**/undefined
     
-*   Routing Valve (10%) - **10**/10
+*   Routing Valve (10%) - **10**/undefined
     
 
 The Culligan faucet-mount water filter boasts a solid design, sporting a stainless steel exterior and a white plastic interior that Culligan has claimed to be antimicrobial. 
@@ -158,15 +158,15 @@ Remarkably, the knob automatically resets to plain water mode when the tap is tu
 Usability
 ---------
 
-usability Scores: **9.8**
+usability Scores: **NaN**
 
-*   Installation (25%) - **10**/10
+*   Installation (25%) - **10**/undefined
     
-*   Ease of Use (30%) - **10**/10
+*   Ease of Use (30%) - **10**/undefined
     
-*   Leak (35%) - **10**/10
+*   Leak (35%) - **10**/undefined
     
-*   Maintenance (10%) - **8.0**/10
+*   Maintenance (10%) - **8.0**/undefined
     
 
 The Culligan faucet-mount water filter is easy to use overall.
