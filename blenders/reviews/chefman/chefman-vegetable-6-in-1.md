@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **5.8**/10
+*   Performance (50%) - **5.8**/undefined
     
-*   Design (20%) - **6.8**/10
+*   Design (20%) - **6.8**/undefined
     
-*   Usability (30%) - **7.8**/10
+*   Usability (30%) - **7.8**/undefined
     
 
 The Chefman 6-in-1 has garnered praise for its affordable price and generous accessory package, but opinions are more split over the quality of its build materials. Regarding its performance testing, the 300-watt motor packed plenty of power to process soft ingredients like root veggies, but it wasn’t sufficient to break down frozen fruits — at least not quickly and efficiently. The whisk attachment did a great job emulsifying mayonnaise and beating egg whites, a capability that’s hard to find in similarly priced immersion blenders. Overall, this Chefman is fine for the price if you’re willing to make compromises when it comes to high-performance blending.
@@ -28,17 +28,17 @@ The Chefman 6-in-1 is a [mid-ranged immersion blender](https://healthykitchen101
 Performance: The Lack of Power
 ------------------------------
 
-performance Scores: **5.8**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **5.0**/10
+*   Hot Soup Purée (35%) - **5.0**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **5.0**/10
+*   Frozen Fruit Smoothie (30%) - **5.0**/undefined
     
-*   Mayonnaise (15%) - **9.0**/10
+*   Mayonnaise (15%) - **9.0**/undefined
     
-*   Almond Milk (15%) - **5.0**/10
+*   Almond Milk (15%) - **5.0**/undefined
     
-*   Whipped Egg-Whites (5%) - **10**/10
+*   Whipped Egg-Whites (5%) - **10**/undefined
     
 
 The Chefman 6-in-1 worked great for beating eggs and emulsifying mayonnaise. We wish we could say the same when it came to preparing frozen fruit smoothies, puréeing leafy greens, and grinding nuts; it was very mediocre in those tests. For a broader spectrum of blending tasks, we recommend considering other [higher-powered blenders](https://healthykitchen101.com/blenders/reviews/best/).
@@ -108,15 +108,15 @@ Our eggs turned into an airy, fluffy foam that was stiff enough to stick to the 
 Design: Standard Quality
 ------------------------
 
-design Scores: **6.8**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blending Shaft (30%) - **7.0**/10
+*   Blending Shaft (30%) - **7.0**/undefined
     
-*   Power cord (5%) - **10**/10
+*   Power cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **0**/10
+*   Beaker (5%) - **0**/undefined
     
 
 The Chefman 6-in-1 has a hard plastic body, giving it a light, balanced weight. All the parts are designed well for the price, but they don't look really opulent. They have much in common with other blenders in this price range, so nothing in particular makes this one stand out.
@@ -258,15 +258,15 @@ The accessory package includes a spiralizer attachment with three blade discs so
 Usability: Quite Refined to Blend
 ---------------------------------
 
-usability Scores: **7.8**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **7.6**/10
+*   Ease of Use (60%) - **7.6**/undefined
     
-*   Blade Assembly (10%) - **9.0**/10
+*   Blade Assembly (10%) - **9.0**/undefined
     
-*   Handling (20%) - **7.5**/10
+*   Handling (20%) - **7.5**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 The balanced weight and simple controls make this blender a breeze to use, and its ergonomically-designed handle means that it’ll fit comfortably in your palm. Sometimes it’s difficult to maneuver, though, since it can create quite a bit of suction at the bottom of the container.
