@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.9**
+Overall Score: **NaN**
 
-*   Performance (70%) - **8.0**/10
+*   Performance (70%) - **8.0**/undefined
     
-*   Design (20%) - **7.6**/10
+*   Design (20%) - **7.6**/undefined
     
-*   Usability (10%) - **8.1**/10
+*   Usability (10%) - **8.1**/undefined
     
 
 Overall, the Wintact WT530 is one of the best IR thermometers we’ve tested so far as of May 2023. It offers great measurement accuracy and achieved good scores in the cold test with ice and the hot test with cooking oil.
@@ -32,11 +32,11 @@ For a detailed report on the exceptional performance of the Wintact WT530, read 
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **8.6**/10
+*   Cold Test with Ice (40%) - **8.6**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **7.7**/10
+*   Hot Test with Cooking Oil (60%) - **7.7**/undefined
     
 
 The Wintact WT530 performed slightly better in the cold test than in the hot test. However, it still received excellent scores in both test segments.
@@ -74,13 +74,13 @@ These readings were considered good based on our benchmark. The thermometer rece
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.5**/10
+*   Build Quality (50%) - **7.5**/undefined
     
-*   Laser Emitter (25%) - **9.0**/10
+*   Laser Emitter (25%) - **9.0**/undefined
     
-*   Display Panel (25%) - **6.5**/10
+*   Display Panel (25%) - **6.5**/undefined
     
 
 Despite the labeling stating the serial number as "Wintact WT530," the received model had the serial "Eventek WT320." However, it will be referred to as the Wintact WT530 based on the box for simplicity.
@@ -154,13 +154,13 @@ The Wintact WT520 is powered by triple-A batteries. However, one aspect affectin
 Usability
 ---------
 
-usability Scores: **8.1**
+usability Scores: **NaN**
 
-*   Handling (50%) - **8.0**/10
+*   Handling (50%) - **8.0**/undefined
     
-*   Measurement Modes (30%) - **8.0**/10
+*   Measurement Modes (30%) - **8.0**/undefined
     
-*   Audio Cues (20%) - **8.5**/10
+*   Audio Cues (20%) - **8.5**/undefined
     
 
 The Wintact WT530 provides a good handling experience with its comfortable grip and a textured surface for better usability even with wet hands. It offers four measurement modes, allowing you to set the emissivity at 0.8 or 0.95 and display minimum and maximum temperature readings. The thermometer also has audio cues that are loud enough to be heard in a noisy kitchen.
