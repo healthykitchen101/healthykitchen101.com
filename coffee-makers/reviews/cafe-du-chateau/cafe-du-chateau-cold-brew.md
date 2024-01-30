@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.7**
+Overall Score: **NaN**
 
-*   Brew Quality (50%) - **7.3**/10
+*   Brew Quality (50%) - **7.3**/undefined
     
-*   Design (15%) - **7.6**/10
+*   Design (15%) - **7.6**/undefined
     
-*   Ease of Use (35%) - **8.3**/10
+*   Ease of Use (35%) - **8.3**/undefined
     
 
 The Cafe du Chateau is a cold brew coffee maker with a difference. We liked the French-press styling and the high quality of the materials. However, flaws in the design such its unbalanced weight, poor grip, and problematic silicone seal left much to be desired. Furthermore, although it produced a strong enough brew, the flavor lacked excitement and complexity. If you’re looking for the best cold brew coffee maker, there are better alternatives for the price than the Cafe du Chateau.
@@ -30,13 +30,13 @@ The Cafe du Chateau is a cold brew coffee maker that looks like a French press. 
 Brew Quality
 ------------
 
-performance Scores: **7.3**
+performance Scores: **NaN**
 
-*   Bouquet (10%) - **6.0**/10
+*   Bouquet (10%) - **6.0**/undefined
     
-*   Drinkability (70%) - **7.0**/10
+*   Drinkability (70%) - **7.0**/undefined
     
-*   Sediment (20%) - **9.0**/10
+*   Sediment (20%) - **9.0**/undefined
     
 
 The Cafe du Chateau produced a medium-strength brew. While smooth to drink and well-filtered, it lacks complex flavor and the aftertaste is not very rounded.
@@ -60,13 +60,13 @@ After allowing the concentrate to settle, we decanted the contents of the Cafe d
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Stopper / Lid (30%) - **7.0**/10
+*   Stopper / Lid (30%) - **7.0**/undefined
     
-*   Filter (40%) - **8.5**/10
+*   Filter (40%) - **8.5**/undefined
     
-*   Build Quality (30%) - **7.0**/10
+*   Build Quality (30%) - **7.0**/undefined
     
 
 The Cafe du Chateau is an attractive, durable product made from high grade materials. There are no plastics whatsoever, though the product arrived in a styrofoam jacket in the box. We were, however, not so thrilled with the overall design.
@@ -131,13 +131,13 @@ The materials used, except for the silicone seals, are generally good quality, h
 Ease of Use
 -----------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   Brewing (45%) - **9.0**/10
+*   Brewing (45%) - **9.0**/undefined
     
-*   Decanting (35%) - **8.0**/10
+*   Decanting (35%) - **8.0**/undefined
     
-*   Cleaning and Storage (20%) - **7.0**/10
+*   Cleaning and Storage (20%) - **7.0**/undefined
     
 
 Brewing was the easiest part of using the Cafe du Chateau cold brew coffee maker. Decanting was straightforward except that removing the filter required some effort. However, the cumbersome silicone seals were a hindrance, and the brew decanter did not separate from the stainless steel jacket as advertised.
