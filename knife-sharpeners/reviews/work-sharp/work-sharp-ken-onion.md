@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.2**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.4**/10
+*   Performance (40%) - **8.4**/undefined
     
-*   Design (30%) - **8.9**/10
+*   Design (30%) - **8.9**/undefined
     
-*   Ease of Use (30%) - **7.2**/10
+*   Ease of Use (30%) - **7.2**/undefined
     
 
 The Work Sharp Ken Onion is a versatile electric sharpener for kitchen knives and outdoor tools that allows you unpreceded control in terms of angle, speed, and abrasives. It also creates keen, mirror-like edges that are close to what’s achievable with a series of whetstones.
@@ -34,15 +34,15 @@ The Work Sharp Ken Onion is a well-built, durable machine, one of the [best elec
 Performance: the Closest to Whetstones You Can Get
 --------------------------------------------------
 
-performance Scores: **8.4**
+performance Scores: **NaN**
 
-*   Speed (30%) - **8.0**/10
+*   Speed (30%) - **8.0**/undefined
     
-*   Edge Quality (40%) - **9.0**/10
+*   Edge Quality (40%) - **9.0**/undefined
     
-*   Material Retention (10%) - **4.5**/10
+*   Material Retention (10%) - **4.5**/undefined
     
-*   Continuous Operation Time (20%) - **10**/10
+*   Continuous Operation Time (20%) - **10**/undefined
     
 
 The Work Sharp Ken Onion took less time than most to sharpen a knife to Level 9 on our Practical Sharpness Scale. It also produced the finest edge among all devices we tested, arguably smoother and shinier than that on a brand-new knife. Unfortunately, it removed a significant amount of metal from the knife while doing so. 
@@ -56,6 +56,8 @@ Target Sharpness: 9 (Beef tendon)
 Sharpening Time: 4 minutes 34 seconds
 
 Number Of Strokes: 40
+
+Numberof Strokes:
 
 Cutting Feel: Light
 
@@ -85,22 +87,22 @@ We suspect the Extra Coarse belt would be even harsher on the edge, but that one
 
 ### Continuous Operation Time
 
-COT As Tested: 25 minutes
+CO Tas Tested:
 
 Passing our 25-minute test was a piece of cake for the Work Sharp Ken Onion. Granted, we had to pause it a few times to change the belt, but the motor was never a limiting factor. After all, the unit is rated for 60 minutes of continuous operation. That’s plenty to cover all the knives in a typical house. If you like to sharpen all your blades in one go, this machine is your best friend.
 
 Design: Complex and Ferocious
 -----------------------------
 
-design Scores: **8.9**
+design Scores: **NaN**
 
-*   Build Quality (55%) - **8.3**/10
+*   Build Quality (55%) - **8.3**/undefined
     
-*   Angle Adjustability (20%) - **10**/10
+*   Angle Adjustability (20%) - **10**/undefined
     
-*   Knife Size (15%) - **9.0**/10
+*   Knife Size (15%) - **9.0**/undefined
     
-*   Edge Type (10%) - **10**/10
+*   Edge Type (10%) - **10**/undefined
     
 
 Unlike the simple, sleek, and symmetrical designs seen in most other electric sharpeners, the Ken Onion sports a brawny, top-heavy body with lots of visible screws, levers, and complicated parts. The appearance can be a bit intimidating unless you’re handy with electric tools. 
@@ -180,17 +182,17 @@ The small abrasive belts of five different coarseness levels give you more sharp
 Ease of Use
 -----------
 
-usability Scores: **7.2**
+usability Scores: **NaN**
 
-*   Setup (20%) - **5.0**/10
+*   Setup (20%) - **5.0**/undefined
     
-*   Insertion (20%) - **9.0**/10
+*   Insertion (20%) - **9.0**/undefined
     
-*   Stability (20%) - **9.0**/10
+*   Stability (20%) - **9.0**/undefined
     
-*   Safety (30%) - **6.3**/10
+*   Safety (30%) - **6.3**/undefined
     
-*   Maintenance (10%) - **7.0**/10
+*   Maintenance (10%) - **7.0**/undefined
     
 
 The Ken Onion gives you a lot of control over the grind angle, edge fineness, and speed. However, it also takes time to learn. The setup and belt-changing procedures, in particular, can be a little overwhelming to a newbie. That said, things become effortless after a few sessions.
