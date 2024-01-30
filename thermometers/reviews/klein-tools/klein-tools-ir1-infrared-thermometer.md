@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.6**
+Overall Score: **NaN**
 
-*   Performance (70%) - **7.9**/10
+*   Performance (70%) - **7.9**/undefined
     
-*   Design (20%) - **8.3**/10
+*   Design (20%) - **8.3**/undefined
     
-*   Usability (10%) - **4.5**/10
+*   Usability (10%) - **4.5**/undefined
     
 
 The Klein Tools IR1 is a great IR thermometer, so long you temper your expectations. The thermometer is decently accurate when used on various surfaces and substances. It’s also built solid enough to withstand anything you throw at it, from shocks to high impacts.
@@ -39,11 +39,11 @@ You can check out our full test report below for more information.
 Performance
 -----------
 
-performance Scores: **7.9**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **6.7**/10
+*   Cold Test with Ice (40%) - **6.7**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **8.7**/10
+*   Hot Test with Cooking Oil (60%) - **8.7**/undefined
     
 
 Overall, the Klein Tools IR1 has very good measurement accuracy. The thermometer received a very good score of 8.66 on the hot test.
@@ -87,13 +87,13 @@ This is the best test score in the hot test, with the second-best being the [Hel
 Design
 ------
 
-design Scores: **8.3**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
-*   Laser Emitter (25%) - **9.0**/10
+*   Laser Emitter (25%) - **9.0**/undefined
     
-*   Display Panel (25%) - **6.0**/10
+*   Display Panel (25%) - **6.0**/undefined
     
 
 Notably, this infrared thermometer has a holster for more convenient storage.
@@ -167,13 +167,13 @@ Puzzlingly, besides the slot for the battery, you’ll also find a switch that c
 Usability
 ---------
 
-usability Scores: **4.5**
+usability Scores: **NaN**
 
-*   Handling (50%) - **9.0**/10
+*   Handling (50%) - **9.0**/undefined
     
-*   Measurement Modes (30%) - **0**/10
+*   Measurement Modes (30%) - **0**/undefined
     
-*   Audio Cues (20%) - **0**/10
+*   Audio Cues (20%) - **0**/undefined
     
 
 The Klein Tools IR1 has a textured grip that allows easy handling but lacks control buttons. This is the biggest issue concerning the Klein Tools IR1’s usability. The only control on the IR1 is a hidden switch in the screwed-in battery compartment that allows you to switch the measurement unit back and forth between °F and °C.
