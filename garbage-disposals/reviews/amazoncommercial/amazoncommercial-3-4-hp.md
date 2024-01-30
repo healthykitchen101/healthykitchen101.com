@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (60%) - **7.6**/10
+*   Performance (60%) - **7.6**/undefined
     
-*   Design (25%) - **9.2**/10
+*   Design (25%) - **9.2**/undefined
     
-*   Usability (15%) - **7.9**/10
+*   Usability (15%) - **7.9**/undefined
     
 
 The AmazonCommercial B07XFDMPNJ 3/4 Horsepower is a capable yet affordable garbage disposal. Although it’s not particularly effective against raw meat scraps, it can take care of common food waste (vegetables, fruits, etc.) without struggle.
@@ -31,13 +31,13 @@ The AmazonCommercial series looks no different than other generic garbage dispos
 Performance: Works Better Than It Looks
 ---------------------------------------
 
-performance Scores: **7.6**
+performance Scores: **NaN**
 
-*   Scrap Mix (50%) - **7.8**/10
+*   Scrap Mix (50%) - **7.8**/undefined
     
-*   Raw Fish Scraps (25%) - **7.6**/10
+*   Raw Fish Scraps (25%) - **7.6**/undefined
     
-*   Raw Chicken Scraps (25%) - **7.2**/10
+*   Raw Chicken Scraps (25%) - **7.2**/undefined
     
 
 The 3/4-hp AmazonCommercial B07XFDMPNJ is one of the [best food disposals](https://healthykitchen101.com/garbage-disposals/reviews/best/) that we’ve tested. It did well across all categories and notably excelled in dealing with large amounts of assorted kitchen scraps—and there were more than ten types of food.
@@ -141,13 +141,13 @@ Most of the output went straight through Layer 1. The materials that got caught 
 Design: Simplicity is Usually Best
 ----------------------------------
 
-design Scores: **9.2**
+design Scores: **NaN**
 
-*   Grind Chamber (30%) - **8.5**/10
+*   Grind Chamber (30%) - **8.5**/undefined
     
-*   Motor (30%) - **9.5**/10
+*   Motor (30%) - **9.5**/undefined
     
-*   Build Quality (40%) - **9.5**/10
+*   Build Quality (40%) - **9.5**/undefined
     
 
 The B07XFDMPNJ 3/4-hp garbage disposal doesn’t innovate; affordable products seldom do. In fact, the whole AmazoncomCommercial series seems like another copycat of the successful Waste King Legend series, only with a more colorful appearance. 
@@ -276,15 +276,15 @@ The fetching orange plastic casing is strong and flexible. It can take a certain
 Usability: Sufficient is the Word
 ---------------------------------
 
-usability Scores: **7.9**
+usability Scores: **NaN**
 
-*   Installation (30%) - **9.0**/10
+*   Installation (30%) - **9.0**/undefined
     
-*   Ease of Use (40%) - **8.0**/10
+*   Ease of Use (40%) - **8.0**/undefined
     
-*   Smooth Operation (25%) - **8.0**/10
+*   Smooth Operation (25%) - **8.0**/undefined
     
-*   Unjam Mechanics (5%) - **0**/10
+*   Unjam Mechanics (5%) - **0**/undefined
     
 
 The 3/4-hp garbage disposal from AmazonCommercial took us by surprise by the end of our tests. We had thought it was another copycat product; and on some levels, we were right. But its strong performance has turned us around. 
