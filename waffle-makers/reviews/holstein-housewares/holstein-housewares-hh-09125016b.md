@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **6.3**/10
+*   Performance (50%) - **6.3**/undefined
     
-*   Design (20%) - **7.0**/10
+*   Design (20%) - **7.0**/undefined
     
-*   Ease of Use (30%) - **6.5**/10
+*   Ease of Use (30%) - **6.5**/undefined
     
 
 The Holstein Housewares HH-09125016B 4” Personal waffle maker has no outstanding features. Its cooking performance was mediocre at best, while the design was unremarkable. But the affordable price can still make the Holstein a very appealing choice for budget shoppers.
@@ -36,11 +36,11 @@ We recently bought a black unit and put it through its paces in our lab. After a
 Performance: Decent, Yet Unremarkable
 -------------------------------------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Self-Mixed Recipe (50%) - **6.3**/10
+*   Self-Mixed Recipe (50%) - **6.3**/undefined
     
-*   Birch Benders Mix (50%) - **6.3**/10
+*   Birch Benders Mix (50%) - **6.3**/undefined
     
 
 Though our chef was satisfied with the waffle's quality and noted it as “decent”, it didn’t stand out from the [other mini models](https://healthykitchen101.com/waffle-makers/reviews/best/mini-waffle-makers/) in our test.
@@ -138,13 +138,13 @@ The flavor was well-developed. Our chef appreciated the sweet and slightly savor
 Design
 ------
 
-design Scores: **7.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Waffle Plates (30%) - **9.5**/10
+*   Waffle Plates (30%) - **9.5**/undefined
     
-*   Control Panel (10%) - **0**/10
+*   Control Panel (10%) - **0**/undefined
     
 
 Considering the affordability of this model, we didn’t expect it to have a very premium design from the get-go. The design assessment confirmed it. The waffle maker has a cheap-feeling plastic housing, so it definitely won’t be the most good-looking model you’ll have come across. Despite the mediocre appearance, the build quality is very good: the lid hinges are solid, and the waffle plates are well-built.
@@ -253,15 +253,15 @@ The Holstein 4-inch waffle maker does not come with any accessories.
 Ease of Use
 -----------
 
-usability Scores: **6.5**
+usability Scores: **NaN**
 
-*   Handling (25%) - **9.0**/10
+*   Handling (25%) - **9.0**/undefined
     
-*   Safety (40%) - **1.8**/10
+*   Safety (40%) - **1.8**/undefined
     
-*   Cleanability (25%) - **10**/10
+*   Cleanability (25%) - **10**/undefined
     
-*   Indicator Light Visibility (10%) - **10**/10
+*   Indicator Light Visibility (10%) - **10**/undefined
     
 
 The Holstein 4-inch Waffle Maker is user-friendly. Much of the operation is simplified due to the lack of a control panel.
