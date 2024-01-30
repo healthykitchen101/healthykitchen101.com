@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.0**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.4**/10
+*   Performance (40%) - **8.4**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (35%) - **7.5**/10
+*   Usability (35%) - **7.5**/undefined
     
 
 The Zeppoli Electric Kettle ZPL-KETTLE is an all-round good performer with an exceptionally quiet boiling phase. It has a fast boiling speed, good heat retention, and consumes little energy—all in the top tier. To top it off, the kettle is affordable as well.
@@ -36,15 +36,15 @@ It has a standard design so we just went straight to a first test run and got a 
 Performance
 -----------
 
-performance Scores: **8.4**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **8.2**/10
+*   Boiling Time (45%) - **8.2**/undefined
     
-*   Energy Consumption (30%) - **8.6**/10
+*   Energy Consumption (30%) - **8.6**/undefined
     
-*   Noise Level (15%) - **9.5**/10
+*   Noise Level (15%) - **9.5**/undefined
     
-*   Keep Warm (10%) - **7.5**/10
+*   Keep Warm (10%) - **7.5**/undefined
     
 
 The Zeppoli Electric Glass Kettle has higher scores than its competitors in terms of boiling time, energy consumption, keep warm, and most of all, noise level. This culminates to a top-tier performance score among our tested electric kettles.
@@ -96,15 +96,15 @@ Although the glass carafe of the Zeppoli isn’t the best for heat retention, th
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Zeppoli’s standard design doesn’t miss. It has all the desirable features, including a removable mesh filter, an LED ring, and water-level markings. Nonetheless, it could use a stainless steel lid interior.
@@ -217,13 +217,13 @@ The Zeppoli has a 32.28 inch flat power cord, which should be more than enough f
 Usability
 ---------
 
-usability Scores: **7.5**
+usability Scores: **NaN**
 
-*   User Control (30%) - **7.0**/10
+*   User Control (30%) - **7.0**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 The Zeppoli Electric Glass Kettle has all the features that makes it easy to use and clean. It could even be better with a round three-prong power cord though.
@@ -244,7 +244,7 @@ Presets: No
 
 Keep Warm: No
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
