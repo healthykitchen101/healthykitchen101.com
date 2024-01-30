@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.5**
+Overall Score: **NaN**
 
-*   Performance (70%) - **6.3**/10
+*   Performance (70%) - **6.3**/undefined
     
-*   Design (20%) - **7.9**/10
+*   Design (20%) - **7.9**/undefined
     
-*   Usability (10%) - **5.0**/10
+*   Usability (10%) - **5.0**/undefined
     
 
 The ThermoPro TP-30, was used in our lab for months before it was tested using a proper benchmark. Unfortunately, we found that the measurement accuracy of the TP-30 isn’t quite as high as we had hoped. Though it still got a passing grade, accuracy in the cold and hot tests was merely passable.
@@ -37,11 +37,11 @@ You can read our full test report below.
 Performance
 -----------
 
-performance Scores: **6.3**
+performance Scores: **NaN**
 
-*   Cold Test with Ice (40%) - **6.8**/10
+*   Cold Test with Ice (40%) - **6.8**/undefined
     
-*   Hot Test with Cooking Oil (60%) - **6.0**/10
+*   Hot Test with Cooking Oil (60%) - **6.0**/undefined
     
 
 The ThermoPro TP-30 thermometer's performance is mediocre. While it received a passing score on the cold test with ice, it fell short when it came to producing accurate readings on the hot test with cooking oil. This lower performance in the hot test brings down its overall score.
@@ -79,13 +79,13 @@ These are well above the claimed ±2°F tolerance. As a result, our benchmark gi
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Build Quality (50%) - **7.5**/10
+*   Build Quality (50%) - **7.5**/undefined
     
-*   Laser Emitter (25%) - **8.0**/10
+*   Laser Emitter (25%) - **8.0**/undefined
     
-*   Display Panel (25%) - **8.5**/10
+*   Display Panel (25%) - **8.5**/undefined
     
 
 The ThermoPro TP-30, weighing 5 ounces, is slightly heavier than other thermometers but still light for one-handed use. The dimensions are average, allowing for easy storage in a kitchen drawer.
@@ -149,13 +149,13 @@ The ThermoPro TP-30 is powered by two triple-A batteries. When you unbox the the
 Usability
 ---------
 
-usability Scores: **5.0**
+usability Scores: **NaN**
 
-*   Handling (50%) - **7.0**/10
+*   Handling (50%) - **7.0**/undefined
     
-*   Measurement Modes (30%) - **5.0**/10
+*   Measurement Modes (30%) - **5.0**/undefined
     
-*   Audio Cues (20%) - **0**/10
+*   Audio Cues (20%) - **0**/undefined
     
 
 The ThermoPro TP-30 thermometer received mixed feedback from our reviewers. While there are indents on the handle, meant to enhance grip, they were deemed too sharp, causing discomfort and potential pain during extended use. The non-clicky trigger was considered a minor annoyance, but it didn't impact the functionality of the thermometer.
