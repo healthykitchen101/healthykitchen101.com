@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.6**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.8**/10
+*   Performance (50%) - **8.8**/undefined
     
-*   Design (20%) - **8.1**/10
+*   Design (20%) - **8.1**/undefined
     
-*   Usability (30%) - **8.7**/10
+*   Usability (30%) - **8.7**/undefined
     
 
 The Braun MultiQuick-5 is the model to turn to for high quality at an affordable price. It is solidly built, has moderate motor strength, and most importantly it performed admirably in our hands-on testing.
@@ -33,17 +33,17 @@ Although a variety of Braun products have been on the market for more than 70 ye
 Performance: More Than a Little Surprised
 -----------------------------------------
 
-performance Scores: **8.8**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **8.5**/10
+*   Hot Soup Purée (35%) - **8.5**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **8.8**/10
+*   Frozen Fruit Smoothie (30%) - **8.8**/undefined
     
-*   Mayonnaise (15%) - **8.3**/10
+*   Mayonnaise (15%) - **8.3**/undefined
     
-*   Almond Milk (15%) - **9.3**/10
+*   Almond Milk (15%) - **9.3**/undefined
     
-*   Whipped Egg-Whites (5%) - **10**/10
+*   Whipped Egg-Whites (5%) - **10**/undefined
     
 
 After a course of testing, we’re confident to conclude that the Braun MultiQuick 5 is the choice for most people, especially those who want the best bang for their buck. It’s the [best mid-range blender](https://healthykitchen101.com/blenders/reviews/best/) that has more than enough power for your daily blending tasks, from frozen fruit smoothies to any recipe involving leafy greens. And with the handy whisk attachment, it saves you from buying a hand mixer for beating egg-whites and emulsifying sauces.
@@ -117,15 +117,15 @@ Compared to the rivals, our Braun MultiQuick-5 was 30 seconds faster at creating
 Design: Fine for the Price
 --------------------------
 
-design Scores: **8.1**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.0**/10
+*   Build Quality (60%) - **8.0**/undefined
     
-*   Blending Shaft (30%) - **7.5**/10
+*   Blending Shaft (30%) - **7.5**/undefined
     
-*   Power Cord (5%) - **10**/10
+*   Power Cord (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The Braun MultuQuick-5 has a friendly-user design. Its 300-watt motor powers a removable blending shaft quite efficiently . Depending on the recipe, the motor can also work with the whisk attachment, which is not something you get with most mid-range household blenders. 
@@ -259,15 +259,15 @@ To blend, just press and hold the appropriate speed button until the perfect tex
 Usability: Not Perfect but Great Enough
 ---------------------------------------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.6**/10
+*   Ease of Use (60%) - **8.6**/undefined
     
-*   Blade Assembly (10%) - **9.5**/10
+*   Blade Assembly (10%) - **9.5**/undefined
     
-*   Handling (20%) - **8.5**/10
+*   Handling (20%) - **8.5**/undefined
     
-*   Cleanability (10%) - **9.0**/10
+*   Cleanability (10%) - **9.0**/undefined
     
 
 This blender is designed to be extremely comfortable to hold and use, even with just one hand. Not only that, but it also doesn’t demand us to use too much elbow grease on food tailings when it comes to cleaning.
