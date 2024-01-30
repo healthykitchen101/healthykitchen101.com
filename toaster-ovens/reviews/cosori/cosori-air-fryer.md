@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.4**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.0**/10
+*   Performance (50%) - **8.0**/undefined
     
-*   Design (25%) - **9.4**/10
+*   Design (25%) - **9.4**/undefined
     
-*   Usability (25%) - **8.3**/10
+*   Usability (25%) - **8.3**/undefined
     
 
 The Cosori CO130-AO Air Fryer Toaster Oven made its way to the top of our list for the value it provided. If you’re looking for an excellent large [countertop toaster oven](https://healthykitchen101.com/toaster-ovens/reviews/best/), whether you’re a beginner or an experienced cook, look no further.
@@ -43,15 +43,15 @@ Cosori also has another air fryer toaster oven model that can be connected to an
 Performance
 -----------
 
-performance Scores: **8.0**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.6**/10
+*   Toast (40%) - **7.6**/undefined
     
-*   Pizza (25%) - **7.6**/10
+*   Pizza (25%) - **7.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **8.9**/10
+*   Whole Roasted Chicken (25%) - **8.9**/undefined
     
-*   Baked French Fries (10%) - **8.1**/10
+*   Baked French Fries (10%) - **8.1**/undefined
     
 
 The Cosori CO130-AO, on average, performed great throughout all of our tests. It made full use of its high power output of 1800 W and its [powerful convection system](https://healthykitchen101.com/toaster-ovens/reviews/best/convection-toaster-ovens/). To us, these were some of the main grounds for establishing the product’s value for the money. The included rotisserie kit and air fryer basket were also very helpful in our Whole Roasted Chicken and Baked French Fries tests, respectively.
@@ -215,13 +215,13 @@ Overall, though imperfect, the fries were delicious enough to get one final 8/10
 Design
 ------
 
-design Scores: **9.4**
+design Scores: **NaN**
 
-*   Exterior (20%) - **9.0**/10
+*   Exterior (20%) - **9.0**/undefined
     
-*   Interior (30%) - **9.5**/10
+*   Interior (30%) - **9.5**/undefined
     
-*   Build Quality (50%) - **9.5**/10
+*   Build Quality (50%) - **9.5**/undefined
     
 
 The Cosori CO130-AO has a lot of design features, all of which are of high build quality. A few that stood out to us were the clear LED display, powerful convection system, large cooking space, high power output, and handy accessories like the rotisserie kit and air fryer basket. If we were trying to be nitpicky, we’d say the interior can be improved with a non-stick coating like the [Breville BOV845BSS](https://healthykitchen101.com/toaster-ovens/reviews/breville/breville-smart-oven-pro/).
@@ -456,13 +456,13 @@ As for the control panel, the LED display is very easy to see, the control dials
 Usability
 ---------
 
-usability Scores: **8.3**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.5**/10
+*   User Control (30%) - **9.5**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleanability (20%) - **7.5**/10
+*   Cleanability (20%) - **7.5**/undefined
     
 
 A well-designed automatic preheat phase, simple toggle options, and practical cooking functions gave the Cosori CO130-AO a good score. The cooking chamber as well as accessories could have better coatings to make them easier to clean, though. As an additional minor inconvenience, the oven doesn’t have a pause-resume mechanism upon opening and closing the oven door.
