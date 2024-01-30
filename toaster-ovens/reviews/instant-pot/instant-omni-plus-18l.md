@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.5**
+Overall Score: **NaN**
 
-*   Performance (50%) - **8.2**/10
+*   Performance (50%) - **8.2**/undefined
     
-*   Design (25%) - **9.3**/10
+*   Design (25%) - **9.3**/undefined
     
-*   Usability (25%) - **8.4**/10
+*   Usability (25%) - **8.4**/undefined
     
 
 The Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven paves the way for an easy feast with a status bar, automatic reminders, and an app featuring instructional recipes. It’s suitable for people who are all about convenience, smart technologies, and overall efficiency at a good price.
@@ -37,15 +37,15 @@ The silver stainless steel Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster O
 Performance
 -----------
 
-performance Scores: **8.2**
+performance Scores: **NaN**
 
-*   Toast (40%) - **7.5**/10
+*   Toast (40%) - **7.5**/undefined
     
-*   Pizza (25%) - **8.6**/10
+*   Pizza (25%) - **8.6**/undefined
     
-*   Whole Roasted Chicken (25%) - **8.4**/10
+*   Whole Roasted Chicken (25%) - **8.4**/undefined
     
-*   Baked French Fries (10%) - **9.3**/10
+*   Baked French Fries (10%) - **9.3**/undefined
     
 
 The performance of the Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven is consistently great. In particular, it’s excellent at baking/ air frying fries and roasting a whole chicken. This is thanks to its great design, strong convection system as well as useful accessories—including an air fryer basket and rotisserie kit.
@@ -207,13 +207,13 @@ Our chef gave the fries a 9/10 for taste.
 Design
 ------
 
-design Scores: **9.3**
+design Scores: **NaN**
 
-*   Exterior (20%) - **9.5**/10
+*   Exterior (20%) - **9.5**/undefined
     
-*   Interior (30%) - **9.5**/10
+*   Interior (30%) - **9.5**/undefined
     
-*   Build Quality (50%) - **9.0**/10
+*   Build Quality (50%) - **9.0**/undefined
     
 
 The design of the Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven shows attention to detail and makes use of modern technology, which resembles the larger [Ninja DT201](https://healthykitchen101.com/toaster-ovens/reviews/ninja/ninja-foodi-xl-pro-air/) a lot. While not perfect, its strong points are more than enough to make up for the minor drawbacks.
@@ -434,13 +434,13 @@ The meticulous design shows in the bottom tray, safeguards for heating elements,
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.9**/10
+*   User Control (30%) - **9.9**/undefined
     
-*   Ease of Use (50%) - **8.0**/10
+*   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleanability (20%) - **7.0**/10
+*   Cleanability (20%) - **7.0**/undefined
     
 
 The Instant Omni Plus 18L 140-4002-01 Air Fryer Toaster Oven is the opposite of a simplistic analog unit like the [Cuisinart TOA-60](https://healthykitchen101.com/toaster-ovens/reviews/cuisinart/cuisinart-toa-60/). It maximizes its ease of use but that leads to some weak points in and of itself; the same goes for its user control.
