@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **8.2**
+Overall Score: **NaN**
 
-*   Performance (40%) - **8.5**/10
+*   Performance (40%) - **8.5**/undefined
     
-*   Design (25%) - **7.6**/10
+*   Design (25%) - **7.6**/undefined
     
-*   Usability (35%) - **8.4**/10
+*   Usability (35%) - **8.4**/undefined
     
 
 The Cuisinart Stainless Steel Electric Kettle with 6 Preset Temperatures CPK-17P1 PerfecTemp is an all round top performer. It’s intuitive to use with convenient features and an excellent build quality.
@@ -35,15 +35,15 @@ We had some seriously high hopes upon unboxing the Cuisinart Stainless Steel Ele
 Performance
 -----------
 
-performance Scores: **8.5**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **8.1**/10
+*   Boiling Time (45%) - **8.1**/undefined
     
-*   Energy Consumption (30%) - **8.4**/10
+*   Energy Consumption (30%) - **8.4**/undefined
     
-*   Noise Level (15%) - **8.9**/10
+*   Noise Level (15%) - **8.9**/undefined
     
-*   Keep Warm (10%) - **10**/10
+*   Keep Warm (10%) - **10**/undefined
     
 
 The Cuisinart Stainless Steel Electric Kettle, with its six presets, scored tops across the board for boiling time, energy consumption, noise level, and most note-worthy—heat retention. We attribute these strengths to the kettle’s stainless steel carafe, excellent controls,  and a handy keep warm feature.
@@ -101,15 +101,15 @@ The kettle’s ability to keep warm or retain heat earned it a whopping 10/10, w
 Design
 ------
 
-design Scores: **7.6**
+design Scores: **NaN**
 
-*   Carafe (50%) - **7.0**/10
+*   Carafe (50%) - **7.0**/undefined
     
-*   Handle (10%) - **9.0**/10
+*   Handle (10%) - **9.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 The Cuisinart PerfecTemp CPK-17P1 is notable for its stainless steel carafe and distinctive control panel. Furthermore, it has all the desired features such as an indicator light, water level markings, anti-slip handle, and a removable mesh filter—all high quality too.
@@ -226,13 +226,13 @@ The power cord is a flat design and 37.99-inch long, which should be good enough
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   User Control (30%) - **9.0**/10
+*   User Control (30%) - **9.0**/undefined
     
-*   Ease of Use (50%) - **9.0**/10
+*   Ease of Use (50%) - **9.0**/undefined
     
-*   Cleaning (20%) - **6.0**/10
+*   Cleaning (20%) - **6.0**/undefined
     
 
 The Cuisinart Stainless Steel Electric Kettle with 6 Preset Temperatures scored high for ease of use in our evaluations. The kettle’s control panel has clear-to-see  buttons and is intuitive to use .
@@ -255,7 +255,7 @@ Presets: 6
 
 Keep Warm: 30 minutes
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
