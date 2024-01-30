@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **6.8**
+Overall Score: **NaN**
 
-*   Performance (40%) - **6.1**/10
+*   Performance (40%) - **6.1**/undefined
     
-*   Design (25%) - **7.9**/10
+*   Design (25%) - **7.9**/undefined
     
-*   Usability (35%) - **6.7**/10
+*   Usability (35%) - **6.7**/undefined
     
 
 We deem the Elite Gourmet Electric Glass Kettle to not be a desirable product. Although its overall score isn’t too bad, it fails at all the important aspects in our electric kettle tests.
@@ -36,15 +36,15 @@ On a side note, the version that we chose was the 1.7-liter glass carafe. Howeve
 Performance
 -----------
 
-performance Scores: **6.1**
+performance Scores: **NaN**
 
-*   Boiling Time (45%) - **4.9**/10
+*   Boiling Time (45%) - **4.9**/undefined
     
-*   Energy Consumption (30%) - **5.8**/10
+*   Energy Consumption (30%) - **5.8**/undefined
     
-*   Noise Level (15%) - **9.2**/10
+*   Noise Level (15%) - **9.2**/undefined
     
-*   Keep Warm (10%) - **7.5**/10
+*   Keep Warm (10%) - **7.5**/undefined
     
 
 The Elite Gourmet Electric Glass Kettle (EKT-602) didn’t perform well in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many of its competitors.
@@ -98,15 +98,15 @@ However, the water temperature inside the kettle dropped noticeably slower than 
 Design
 ------
 
-design Scores: **7.9**
+design Scores: **NaN**
 
-*   Carafe (50%) - **8.0**/10
+*   Carafe (50%) - **8.0**/undefined
     
-*   Handle (10%) - **7.0**/10
+*   Handle (10%) - **7.0**/undefined
     
-*   Lid (20%) - **7.0**/10
+*   Lid (20%) - **7.0**/undefined
     
-*   Base (20%) - **9.0**/10
+*   Base (20%) - **9.0**/undefined
     
 
 Looking at the Elite Gourmet Electric Glass Kettle, it has a standard design in a good way. The kettle’s carafe, spout, handle, lid, base, and power cord all serve their purpose.
@@ -221,13 +221,13 @@ The Elite Gourmet has a 28.74 inch flat power cord, which should be enough for h
 Usability
 ---------
 
-usability Scores: **6.7**
+usability Scores: **NaN**
 
-*   User Control (30%) - **6.0**/10
+*   User Control (30%) - **6.0**/undefined
     
-*   Ease of Use (50%) - **7.0**/10
+*   Ease of Use (50%) - **7.0**/undefined
     
-*   Cleaning (20%) - **7.0**/10
+*   Cleaning (20%) - **7.0**/undefined
     
 
 Upon further inspection, the Elite Gourmet Electric Glass Kettle has some problems because of one design feature. The kettle’s placement of its two buttons made it unnecessarily awkward to use.
@@ -248,7 +248,7 @@ Presets: No
 
 Keep Warm: 30 minutes
 
-Automatic Shut-Off”: Yes
+Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
