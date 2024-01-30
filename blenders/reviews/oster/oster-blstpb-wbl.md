@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **5.0**
+Overall Score: **NaN**
 
-*   Performance (60%) - **3.9**/10
+*   Performance (60%) - **3.9**/undefined
     
-*   Design (25%) - **6.6**/10
+*   Design (25%) - **6.6**/undefined
     
-*   Usability (15%) - **7.0**/10
+*   Usability (15%) - **7.0**/undefined
     
 
 The Oster BLSTPB-WBL’s real strengths lie in its price, practicality, and elegant styling. Sporting a 250-watt motor, it’s apparently unable to deliver the excellent heavy blending performance that a [higher-powered blender](https://healthykitchen101.com/blenders/reviews/best/) does. When it comes to processing softer plant-based food, however, it can be used as a convenient tool to increase the amount of nutrients in your diet.
@@ -32,15 +32,15 @@ We like the look of this Oster, which is an attractive combination of an array o
 Performance: Limited Versatility
 --------------------------------
 
-performance Scores: **3.9**
+performance Scores: **NaN**
 
-*   Protein Shake (40%) - **5.2**/10
+*   Protein Shake (40%) - **5.2**/undefined
     
-*   Frozen Fruit Smoothie (30%) - **6.0**/10
+*   Frozen Fruit Smoothie (30%) - **6.0**/undefined
     
-*   Fibrous Greens (20%) - **0**/10
+*   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice Cubes (10%) - **0**/10
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 As a low-powered [portable blender,](https://healthykitchen101.com/blenders/reviews/best/personal-blenders/) this Oster was just moderately capable of making protein shakes and frozen fruit smoothies. We wondered if it would somehow be more efficient than its rivals and provide us with fluffy crushed ice or a quick extraction of leafy greens, but it turned out that such tasks were far beyond its strength.
@@ -96,13 +96,13 @@ The weak motor power didn’t allow the Oster BLSTPB-WBL to crush ice so the fin
 Design: Eye-Catching with Standard Quality
 ------------------------------------------
 
-design Scores: **6.6**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **7.0**/10
+*   Build Quality (60%) - **7.0**/undefined
     
-*   Blades (20%) - **7.0**/10
+*   Blades (20%) - **7.0**/undefined
     
-*   Blending Cup (20%) - **5.0**/10
+*   Blending Cup (20%) - **5.0**/undefined
     
 
 The overall design is thoughtful and well-made for the price. It is developed with extra features that some people might find useful. Not only that, but attention to detail on all parts and surfaces also makes the Oster BLSTPB-WBL a personal blender of hi-tech and refinement.
@@ -219,13 +219,13 @@ As a standard personal blender, the Oster BLSTPB-WBL comes with only one speed, 
 Usability
 ---------
 
-usability Scores: **7.0**
+usability Scores: **NaN**
 
-*   Hands-Free Operation (60%) - **6.5**/10
+*   Hands-Free Operation (60%) - **6.5**/undefined
     
-*   Assembly (20%) - **7.5**/10
+*   Assembly (20%) - **7.5**/undefined
     
-*   Cleanability (20%) - **8.0**/10
+*   Cleanability (20%) - **8.0**/undefined
     
 
 Using the Oster BLSTPB-WBL is not much of an issue but requires a bit of a learning curve at first. The most frustrating part is locking the cup with the blade attached in the motor base. Still, once you get the swing of things, it won’t challenge you anymore. Cleaning, on the other hand, will definitely be a problem if you don’t have a bottle brush available.
