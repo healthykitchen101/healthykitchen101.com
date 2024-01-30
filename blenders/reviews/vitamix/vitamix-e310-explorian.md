@@ -1,13 +1,13 @@
 Overall Verdict
 ---------------
 
-Overall Score: **9.6**
+Overall Score: **NaN**
 
-*   Performance (60%) - **9.8**/10
+*   Performance (60%) - **9.8**/undefined
     
-*   Design (20%) - **10.0**/10
+*   Design (20%) - **10.0**/undefined
     
-*   Usability (20%) - **8.7**/10
+*   Usability (20%) - **8.7**/undefined
     
 
 The Vitamix E310 stands as an excellent long-term investment that consistently delivers quick and high-quality results. Within the more wallet-friendly range of Vitamix's lineup, this blender doesn't cut corners on power or versatility when compared to its pricier brand mates.
@@ -35,17 +35,17 @@ For our upcoming test, we’ve interested in the Black variant, which we acquire
 Performance
 -----------
 
-performance Scores: **9.8**
+performance Scores: **NaN**
 
-*   Smoothie (35%) - **10**/10
+*   Smoothie (35%) - **10**/undefined
     
-*   Frozen Fruit Smoothie (20%) - **9.8**/10
+*   Frozen Fruit Smoothie (20%) - **9.8**/undefined
     
-*   Protein Shake (15%) - **9.9**/10
+*   Protein Shake (15%) - **9.9**/undefined
     
-*   Almond Butter (20%) - **9.5**/10
+*   Almond Butter (20%) - **9.5**/undefined
     
-*   Crushed Ice (10%) - **10**/10
+*   Crushed Ice (10%) - **10**/undefined
     
 
 Through comprehensive testing, the Vitamix E310 consistently distinguished itself among other contenders across a wide range of tasks. Whether it's creating silky smoothies, crushing ice to perfection, or handling tough ingredients like kale, nuts, and dried berries, this blender proved itself to be an exceptional workhorse.
@@ -129,13 +129,13 @@ With such a top-notch crushing capability, it's like having a standalone ice cru
 Design
 ------
 
-design Scores: **10.0**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **10**/10
+*   Build Quality (60%) - **10**/undefined
     
-*   Blades (25%) - **10**/10
+*   Blades (25%) - **10**/undefined
     
-*   Control Panel (15%) - **10**/10
+*   Control Panel (15%) - **10**/undefined
     
 
 The Vitamix E310's design commands attention and admiration in equal measure. It impresses us with reasonable compactness and top-notch quality. The robust motor base and thoughtful-designed container ensure long-lasting durability. The hardened stainless steel blades are exclusively built for efficient blending vortex, while the powerful 2 HP motor adds the unique capability to generate heat through friction, allowing for hot meal preparation in an instant. And that’s not all!
@@ -289,15 +289,15 @@ The tamper designed for the E310 is precisely tailored to fit its container. Its
 Usability
 ---------
 
-usability Scores: **8.7**
+usability Scores: **NaN**
 
-*   Ease of Blend (40%) - **9.0**/10
+*   Ease of Blend (40%) - **9.0**/undefined
     
-*   Noise Level (20%) - **7.0**/10
+*   Noise Level (20%) - **7.0**/undefined
     
-*   Assembly (15%) - **9.0**/10
+*   Assembly (15%) - **9.0**/undefined
     
-*   Cleanability (25%) - **9.5**/10
+*   Cleanability (25%) - **9.5**/undefined
     
 
 The blender’s design focuses on usability and accessibility so you can master its operation without ever cracking open the user manual. Not to mention that the control panel is intuitive and self-explanatory. 
