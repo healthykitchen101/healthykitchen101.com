@@ -7,7 +7,7 @@ Overall Score: **NaN**
     
 *   Design (15%) - **7.8**/undefined
     
-*   Usability (25%) - **0.0**/undefined
+*   Usability (25%) - **8.1**/undefined
     
 
 Crownful is noticeably smaller than other machines we have tested and is essentially a compact portable ice maker. The modern lid design and boxy shape is very appealing, but we found the control panel icons confusing at first. 
@@ -162,19 +162,29 @@ Usability
 
 usability Scores: **NaN**
 
-*   (60%) - **0**/undefined
+*   Ease of Use (60%) - **7.8**/undefined
     
-*   (25%) - **0**/undefined
+*   Noise (25%) - **8.7**/undefined
     
-*   (15%) - **0**/undefined
+*   Cleaning (15%) - **8.4**/undefined
     
 
-### Easeof Use
+The Crownful is a nicely designed machine with a number of thoughtful features, such as the basket and ice scoop, which complement its compactness. Although the modern lid design enhances overall visibility, the control panel icons are not so useful. It is easy enough to keep clean and also one of the quietest machines we have tested.
 
-### Noise
+### 7.8 - Ease of Use: Thoughtful Design
 
-Decibels:
+The lid, which integrates with the body, gives a welcomed high visibility into an otherwise compact machine. We likewise appreciated the control panel for its more original design, but the icons were cramped and not so intuitive to understand.
 
-### Cleaning
+For a small machine, the Crownful doesn’t cut corners but makes an effort to enhance user-friendliness. The ice basket has a raised edge for easier scooping while the ice scoop has a shorter handle and more elongated design.
 
-Self Cleaning:
+### 8.7 - Noise: Small and Very Quiet
+
+Decibels: 65.5 dB
+
+The Crownful measured a comparatively low 65.5 dB which was a good match to its smaller, more compact size. If you are looking for a small and quiet machine, this might be the one for you.
+
+### 8.4 - Cleaning: A Couple of Drawbacks
+
+Self Cleaning: Yes
+
+The shiny black exterior of the Crownful is basically fingerprint-resistant and easy to keep clean. Although the drainage plug hooks neatly over the edge of the machine, we did find it a little challenging to remove. Also, the waterguard inside the reservoir comes off really easily so you need to check carefully that it is secured into place.
