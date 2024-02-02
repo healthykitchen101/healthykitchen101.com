@@ -1,0 +1,5 @@
+The Ninja CI101 Foodi is a premium hand blender, featuring an upscale design and professionally-built construction. In contrast, the KOIOS 4-in-1 Immersion Blender, positioned as a budget-friendly option, offers a simpler, medium-quality design. It's less powerful, equipped with a 400-watt motor, which enables it to pass all of our tests, but only with average results. The Ninja CI101 Foodi, on the other hand, consistently achieves smooth, efficient results, whether blending dense smoothies, kneading dough, or whipping egg whites.
+
+Each blender comes with its own set of additional tools, but those included with the KOIOS, although practical, do not match the high quality and efficiency of the Ninja CI101 Foodi's accessories.
+
+Overall, while the KOIOS 4-in-1 holds its own as a capable blender in the budget category, with adequate performance for everyday tasks, it doesn't reach the high-performance standards set by the Ninja CI101 Foodi. Therefore, the choice between them largely depends on your specific needs and expectations.
