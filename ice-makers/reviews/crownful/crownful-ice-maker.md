@@ -60,7 +60,7 @@ With its more compact design and smaller basket, the Crownful generally only tak
 
 Average Weight Bullet: 1.14 oz (4.01 g)
 
-The Crownful was the first machine we tested that stabilized to a performance standard of 4 g per large bullet and not 5 g. Its performance, however, topped the Igloo ice maker which is a slightly larger machine sporting a retro design. Even still, the ice quality was not so consistent. This machine averages 4.9% waste ice whereas top-performing machines like the Frigidiare or Vivo Home average less than 2% of waste ice.
+The Crownful was the first machine we tested that stabilized to a performance standard of 4 g per large bullet and not 5 g. Its performance, however, topped the Igloo ice maker which is a slightly larger machine sporting a retro design. Even still, the ice quality was not so consistent. This machine averages 4.9% waste ice whereas top-performing machines like the [Frigidiare](https://healthykitchen101.com/ice-makers/reviews/frigidaire/frigidaire-portable-ice-maker-efic189/) or Vivo Home average less than 2% of waste ice.
 
 Design
 ------
