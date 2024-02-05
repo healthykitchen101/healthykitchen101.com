@@ -44,6 +44,8 @@ For a compact portable ice maker, we found the performance of the Crownful to be
 
 ### Ice Capacity Test: Reasonable
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-capacity-test-cls8lkfv1000f0q88cs7kd20w.jpg" alt="CROWNFUL Ice Maker Ice Capacity Test" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-capacity-test-1-cls8lkey900020q88bcom72ot.jpg" alt="CROWNFUL Ice Maker Ice Capacity Test 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-capacity-test-2-cls8lkg3b000k0q881vtj5r71.jpg" alt="CROWNFUL Ice Maker Ice Capacity Test 2" width="300px" height="200px">
+
 Average Time Basket: 87 min
 
 Average Weight Basket: 10 oz (284 g)
@@ -57,6 +59,8 @@ Capacity24 Hrs: 10.4 lbs (4.7 kg)
 With its more compact design and smaller basket, the Crownful generally only takes about 87 min, or an hour and a half, to fill a basket. The weight per basket is around 10 oz (284g) which is almost half that of a full-sized machine like the [Vivo Home](https://healthykitchen101.com/ice-makers/reviews/vivohome/vivohome-automatic-ice-maker/). By comparison, the Crownful takes longer to make ice while the bullets are smaller by size and by weight. In our tests, it took about two good basket loads before the machine really started to make consistently good ice.
 
 ### Ice Quality Test: Inconsistent
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-makerice-quality-test-cls8lkfve000h0q887i0feets.jpg" alt="CROWNFUL Ice MakerIce Quality Test" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-makerice-quality-test-1-cls8lkfux000d0q88aacqenra.jpg" alt="CROWNFUL Ice MakerIce Quality Test 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-makerice-quality-test-2-cls8lkef500010q88glxzd8a2.jpg" alt="CROWNFUL Ice MakerIce Quality Test 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-makerice-quality-test-3-cls8lkgcg000p0q887a2r3mh7.jpg" alt="CROWNFUL Ice MakerIce Quality Test 3" width="300px" height="200px">
 
 Average Weight Bullet: 1.14 oz (4.01 g)
 
@@ -80,12 +84,16 @@ The Crownful is well-built with a compact and modern design. Whereas many other 
 
 ### In The Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-box-cls8lkfu8000b0q880uyy2dhv.jpg" alt="CROWNFUL Ice Maker In The Box" width="300px" height="200px">
+
 *   One ice machine
 *   User manual
 *   Removable ice basket
 *   Ice scoop
 
 ### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-dimensions-cls8lkftf00090q88em8ebodj.jpg" alt="CROWNFUL Ice Maker Dimensions" width="300px" height="200px">
 
 Width: 11.2" (28.4 cm)
 
@@ -97,7 +105,11 @@ Weight: 13.0 lbs (5.9 kg)
 
 ### 8.0 - Build Quality: Good Overall
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-build-quality-cls8lkfvc000g0q88euyxbup6.jpg" alt="CROWNFUL Ice Maker Build Quality" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-build-quality-1-cls8lkgcj000r0q88hlx5c2q2.jpg" alt="CROWNFUL Ice Maker Build Quality 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-build-quality-2-cls8lkgcm000t0q88a5bgc8nc.jpg" alt="CROWNFUL Ice Maker Build Quality 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-build-quality-3-cls8lkg2p000j0q88hvy35mll.jpg" alt="CROWNFUL Ice Maker Build Quality 3" width="300px" height="200px">
+
 ### 7.6 - Panel Design: Nice Try
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-panel-design-cls8lkf4w00040q882pfr4r8v.jpg" alt="CROWNFUL Ice Maker Panel Design" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-panel-design-1-cls8lkgci000q0q885gvg76gt.jpg" alt="CROWNFUL Ice Maker Panel Design 1" width="300px" height="200px">
 
 Buttons: 2 - On/Off Select
 
@@ -117,11 +129,15 @@ The icons, however, are a bit small and not so intuitively understood, so you wi
 
 ### 7.3 - Lid: Lacks Good Insulation
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-lid-design-cls8lkgce000o0q88bn3zhptj.jpg" alt="CROWNFUL Ice Maker Lid Design" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-lid-design-1-cls8lkfbz00060q88f3ba87pt.jpg" alt="CROWNFUL Ice Maker Lid Design 1" width="300px" height="200px">
+
 Material: Transparent plastic
 
 The lid on the Crownful complements its boxy design while increasing visibility. The plastic cleans well and does not scratch or stain easily. However, the fit of the lid is a little loose and the joinings are not so well-designed for insulation. Our overnight test revealed that ice preservation to be less than ideal.
 
 ### 8.1 - Ice Basket: Thoughtful Design
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-basket-cls8lkfv0000e0q881l5v839l.jpg" alt="CROWNFUL Ice Maker Ice Basket" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-basket-1-cls8lkg3h000l0q88gf8a7vka.jpg" alt="CROWNFUL Ice Maker Ice Basket 1" width="300px" height="200px">
 
 Length: 7.7" (19.6 cm)
 
@@ -135,11 +151,15 @@ The Crownful has a raised edge on the left hand of its basket plus the scoop has
 
 ### Water Reservoir: Matched to Performance
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-water-reservoir-cls8lkf0b00030q88e395105u.jpg" alt="CROWNFUL Ice Maker Water Reservoir" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-water-reservoir-1-cls8lkfu0000a0q883lry1qgq.jpg" alt="CROWNFUL Ice Maker Water Reservoir 1" width="300px" height="200px">
+
 Capacity: 1.3 qt (1.2 L)
 
 Although similar in overall size to the Igloo, the reservoir of the Crownful is only 1.3 qt compared to 1.6 qt. Standard-sized machines such as the Frigidaire can hold as much as 2.2 qt (2.2 L). With a smaller capacity and longer ice making times, the smaller reservoir is not a major drawback.
 
 ### Drainage Plug: A Tough Pull
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-drainage-plug-cls8lkg12000i0q886ei73vtp.jpg" alt="CROWNFUL Ice Maker Drainage Plug" width="300px" height="200px">
 
 Material: Silicone and plastic
 
@@ -147,9 +167,13 @@ The drainage port on the Crownful in on the right hand side of the machine. The 
 
 ### Ice Scoop
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ice-scoop-cls8lkfbx00050q88hlntdy23.jpg" alt="CROWNFUL Ice Maker Ice Scoop" width="300px" height="200px">
+
 Material: Hard white plastic
 
 ### Cord and Plug
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-cord-plug-cls8lke3u00000q88brvu3zyp.jpg" alt="CROWNFUL Ice Maker Cord and Plug" width="300px" height="200px">
 
 Length: 5.9 ft. (1.8 m)
 
@@ -173,17 +197,23 @@ The Crownful is a nicely designed machine with a number of thoughtful features, 
 
 ### 7.8 - Ease of Use: Thoughtful Design
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ease-use-cls8lkfuu000c0q888iyqeyvx.jpg" alt="CROWNFUL Ice Maker Ease of Use" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ease-use-1-cls8lkgcn000u0q884bvk1dp1.jpg" alt="CROWNFUL Ice Maker Ease of Use 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-ease-use-2-cls8lkfpu00080q884fm15uo0.jpg" alt="CROWNFUL Ice Maker Ease of Use 2" width="300px" height="200px">
+
 The lid, which integrates with the body, gives a welcomed high visibility into an otherwise compact machine. We likewise appreciated the control panel for its more original design, but the icons were cramped and not so intuitive to understand.
 
 For a small machine, the Crownful doesn’t cut corners but makes an effort to enhance user-friendliness. The ice basket has a raised edge for easier scooping while the ice scoop has a shorter handle and more elongated design.
 
 ### 8.7 - Noise: Small and Very Quiet
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-noise-cls8lkfc000070q880rla2qie.jpg" alt="CROWNFUL Ice Maker Noise" width="300px" height="200px">
+
 Decibels: 65.5 dB
 
 The Crownful measured a comparatively low 65.5 dB which was a good match to its smaller, more compact size. If you are looking for a small and quiet machine, this might be the one for you.
 
 ### 8.4 - Cleaning: A Couple of Drawbacks
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-cleaning-cls8lkgck000s0q885e5shkao.jpg" alt="CROWNFUL Ice Maker Cleaning" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-cleaning-1-cls8lkgal000n0q888hzka7y6.jpg" alt="CROWNFUL Ice Maker Cleaning 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-cleaning-2-cls8lkg3j000m0q88e9p92lj2.jpg" alt="CROWNFUL Ice Maker Cleaning 2" width="300px" height="200px">
 
 Self Cleaning: Yes
 
