@@ -55,7 +55,7 @@ However, this blender positively shined in all other areas of our testing by con
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjxbo000kow88c6ff47qc.jpg" alt="The NutriBullet motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjde9000jow881bfvb6zh.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a NutriBullet smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjxbo000kow88c6ff47qc.jpg" alt="The NutriBullet motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjde9000jow881bfvb6zh.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a NutriBullet smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uk0t0000w0q882bdlhtea.jpg" alt="NutriBullet Blender Combo 1200 Watt Smoothie Video" width="300px" height="200px">
 
 Blending Time: 1 min
 
