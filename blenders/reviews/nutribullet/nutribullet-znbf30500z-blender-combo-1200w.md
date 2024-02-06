@@ -99,7 +99,7 @@ Indeed, the NutriBullet’s results, blending speed, and performance were impres
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwr3kc000qow884h7c0ocy.jpg" alt="The NutriBullet is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwqitt000pow88btbegm7x.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on a white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwr3kc000qow884h7c0ocy.jpg" alt="The NutriBullet is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwqitt000pow88btbegm7x.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9v9lne0002k288etpyheqq.jpg" alt="NutriBullet Blender Combo 1200 Watt Almond Butter Video" width="300px" height="200px">
 
 Blending Time: 6 mins
 
