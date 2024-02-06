@@ -71,7 +71,7 @@ For those who often struggle with a hectic morning schedule and are looking for 
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwnov7000mow88bfkzerfp.jpg" alt="The NutriBullet motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 49 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwl2e6000low88f5b03cc9.jpg" alt="A sample of frozen fruit smoothie created with a NutriBullet blender, spread on a white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwnov7000mow88bfkzerfp.jpg" alt="The NutriBullet motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 49 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwl2e6000low88f5b03cc9.jpg" alt="A sample of frozen fruit smoothie created with a NutriBullet blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uojlx0000k288gw297vso.jpg" alt="NutriBullet Blender Combo 1200 Watt Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 1 min 50 seconds
 
