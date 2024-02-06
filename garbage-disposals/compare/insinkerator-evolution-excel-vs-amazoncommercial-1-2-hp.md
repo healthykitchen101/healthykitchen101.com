@@ -1,0 +1,3 @@
+Small garbage disposals are often the most suitable for places with few people. Take the AmazonCommercial 1/2-HP for example: it doesn’t take up much space under the sink, it works well, and it’s a very economical option. That is if you don’t mind the noise of these machines.
+
+The InSinkErator Evolution Excel is much, much quieter, but only because a portion of its cost is for noise and vibration reduction. It’s also a much more powerful garbage disposal that runs on a 1-horsepower motor and features the best grinding chamber we’ve ever seen. Which explains why it's the one of the very few grinders that can process raw meat scraps like normal kitchen scraps.
