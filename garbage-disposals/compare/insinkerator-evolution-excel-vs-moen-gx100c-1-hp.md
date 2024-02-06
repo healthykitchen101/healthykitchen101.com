@@ -1,0 +1,3 @@
+The Chef GX100C 1-HP is one of the strongest garbage disposals Moen has to offer. It enjoys a durable, good-looking casing and a high-speed magnet motor that’s practically jamless. That said, the disposal’s practical grinding power is rather underwhelming that it leaves us questioning its power rating.
+
+The Evolution Excel 1-HP is one of InSinkErator’s strongest units. It’s a well-built grinder, to say the least, and heavily featured. The disposal is arguably the quietest garbage disposal on the market, thanks to its anti-noise/vibration system. Additionally, the Evolution Excel enjoys an intricate grinding chamber that can process all kinds of food scraps.
