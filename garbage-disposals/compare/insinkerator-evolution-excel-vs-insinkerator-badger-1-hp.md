@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel 1-HP and the InSinkErator Badger 1 HP both cost somewhat hefty sums to own. After having tested the two, we think only one of them is worth what they cost.
+
+The Evolution Excel is not only a powerful grinder, it’s arguably one of the smoothest garbage disposals ever created. Its ability to process assorted foods, including raw meat scraps, is impressive enough, the disposal’s noise and vibration damping system is also terrific and set quite a bar for quiet food disposal. The Badger 1 HP is a much simpler model, but it’s the lacking grinding power that prevents it from being an effective grinder. For the same price, you could definitely find a better deal if you try.
