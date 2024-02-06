@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel is a powerful, top-quality food disposal system. It doesn’t shy away from large volumes of tough kitchen waste, including raw meat and bones, and it runs incredibly quiet. This is thanks to the disposal’s advanced noise-canceling feature that is unmatched on the market. Big household would love something like the Excel
+
+The Waste King L3200 is a much cheaper option. The disposal offers little in terms of features and its construction quality is not the best. It, however, grinds pretty well as long as there isn’t any raw meat scrap. For a tight budget, the L3200 is something worth considering.
