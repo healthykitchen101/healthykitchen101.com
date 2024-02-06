@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel is not a budget-friendly option. The disposal utilizes some of the best technologies in the industry and its effectiveness is unmatched. It can handle all sorts of food scraps, including raw meat scraps, while keeping things quiet during. This is, at the moment, the ultimate residential food disposer.
+
+The Waste King L1001 is much smaller and is oriented towards the affordable side of the market. The grinder is without frills; it’s easily one of the most plain garbage disposal you can buy. That is not to say it isn’t capable. In fact it can deal with something as tough as cooked chicken bones quite nicely. However, its build quality is a weakness, raising concerns about lifespan.
