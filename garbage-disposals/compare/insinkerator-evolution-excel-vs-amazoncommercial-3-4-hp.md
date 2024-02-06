@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel is a powerhouse disposal equipped with a robust motor and advanced grinding system. It tackles tough kitchen waste, including raw meat and bones, with ease. Plus, its industry-leading noise cancellation makes it ideal for noise-sensitive households.
+
+AmazonCommercial 3/4-HP is a budget-friendly disposal that packs a surprising punch. While affordable, it handles cooked bones and avocado pits with gusto. Heavier loads of common kitchen scraps are also not much of a challenge.
