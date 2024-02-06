@@ -1,0 +1,3 @@
+Though the Evergrind E202 is somewhat affordable, its questionable build quality and underwhelming grinding power are simply not worth the time. The Evolution Excel, on the other hand, is well built and integrated with technologies that significantly reduce noise.
+
+The Excel is one of the quietest garbage disposal money can buy thanks to its thick sound-insulating casing and anti-vibrating system. It’s also the most capable grinder that we’ve tested, with the ability to process raw scraps. Additionally, the Evergrind E202 is not as reliable as the Excel in terms of build quality. This is mainly from the fact that the Evergrind’s motor is very prone to overheating.
