@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 Crownful is noticeably smaller than other machines we have tested and is essentially a compact portable ice maker. The modern lid design and boxy shape is very appealing, but we found the control panel icons confusing at first. 
 
-Understandably, the average time to fill a basket and the basket capacity is less by comparison. Also, the average size and weight of ice bullets never exceeds 4 g per bullet. This should not be an issue if you prefer smaller ice bullets. However, the quality and size of the ice bullets tends to vary and it takes a few baskets to really get going. 
+Understandably, the average time to fill a basket and the basket capacity is less by comparison. Also, the average size and weight of ice bullets never exceeds 4 g per bullet. This should not be an issue if you prefer smaller ice bullets. However, the quality and size of the ice bullets tends to vary and it takes a few baskets to really get going.
 
 The performance is nonetheless overall quite acceptable and this machine is our [best ice maker](https://healthykitchen101.com/ice-makers/reviews/best/) for a compact design.
 
