@@ -124,11 +124,13 @@ On the other hand, we liked how the two buttons are separated to opposite ends o
 
 Length: 7.4" (18.8 cm)
 
-Height:
+Height: 4.5" (11.4 cm)
 
-Depth:
+Depth: 4.3" (10.9 cm)
 
-Material:
+Material: Hardish plastic
+
+The ice basket is white and made of a hard plastic which is more supportive of scooping than the softer flexible type. It’s fairly deep and has a raised left corner to help with scooping the last bullets. The reservoir and basket are well designed to maximize the volume of both. The only generic looking part was the ice scoop.
 
 ### Water Reservoir
 
