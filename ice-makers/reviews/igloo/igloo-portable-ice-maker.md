@@ -61,7 +61,7 @@ Design
 
 design Scores: **NaN**
 
-*   (45%) - **8.2**/undefined
+*   Build Quality (45%) - **8.2**/undefined
     
 *   (25%) - **6.8**/undefined
     
@@ -93,6 +93,8 @@ Height: 12.0" (30.5 cm)
 Weight: 18.0 oz (510 g)
 
 ### 8.2 - Build Quality
+
+The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The body is a bit bendy in parts but appears solid with good quality joinings and ventilation on both sides and the rear. We found the lid closed very tightly and the basket was a solid hard plastic. The small silicone drainage plug, although a minor part, was one of the nicest we had encountered.
 
 ### 6.8 - Panel Design
 
