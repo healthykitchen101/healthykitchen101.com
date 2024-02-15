@@ -85,7 +85,7 @@ In the end, the tamper was what gave the NutriBullet ZNBF30500Z an edge over its
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwpi0c000oow88gru3hh8z.jpg" alt="The NutriBullet motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 30 second." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwos2s000now886ysb0fkm.jpg" alt="A mesh strainer filters a protein shake made by the NutriBullet, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwpi0c000oow88gru3hh8z.jpg" alt="The NutriBullet motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 30 second." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwos2s000now886ysb0fkm.jpg" alt="A mesh strainer filters a protein shake made by the NutriBullet, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsn10cia000ek2887aj36lw2.jpg" alt="NutriBullet Blender Combo 1200 Watt Protein Shake Video" width="300px" height="200px">
 
 Blending Time: 1 min 30 seconds
 
