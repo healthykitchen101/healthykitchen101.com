@@ -3,7 +3,7 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (60%) - **0.0**/undefined
+*   Performance (60%) - **5.2**/undefined
     
 *   Design (15%) - **0.0**/undefined
     
@@ -27,21 +27,28 @@ This Igloo series, available in a number of colors, is a joint production with N
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **NaN**
+
+*   Ice Capacity Test (60%) - **5.4**/undefined
+    
+*   (40%) - **4.8**/undefined
+    
 
 In terms of comparative size, this Nostalgia Igloo is not exactly a compact or small machine. It is similar in size to the [Silonn ice maker](https://healthykitchen101.com/ice-makers/reviews/silonn/silonn-countertop-ice-maker-slim01/), but its performance ranks lower than a true compact machine like the Crownful. The quality of ice tended to vary a lot from batch to batch. While the basket capacity was comparable by weight, the time to fill one basket was comparatively long, taking more than 2 hours.
 
-### Ice Capacity
+### Ice Capacity Test
 
-Average Time Basket:
+Average Time Basket: 134 min
 
-Average Weight Basket:
+Average Weight Basket: 15 oz (424 g)
 
-Average Waste Basket:
+Average Waste Basket: 1.41 oz (40 g)
 
-Capacity Hr:
+Capacity Hr: 6.7 oz (190 g)
 
-Capacity24 Hrs:
+Capacity24 Hrs: 10.1 lbs (4.6 kg)
+
+Since the Igloo is a similar-sized machine to both the Silonn and the [AGLucky HZB-12/B](https://healthykitchen101.com/ice-makers/reviews/aglucky/aglucky-ice-maker-hzb-12b/), the average basket capacity or weight per load is much the same. On average, a basket filled to 424 g, however, the average time per basket was 134 min. This compared poorly to 90 min and 94 min for its two closest competitors. Therefore, the overall 24 hr capacity only reached 4.6 kg, well below the stated 26 lbs or 12 kg. The compact Crownful managed 4.7 kg but within 87 min per load. All said and done, the Igloo is not really a machine we recommend.
 
 ### Ice Quality
 
