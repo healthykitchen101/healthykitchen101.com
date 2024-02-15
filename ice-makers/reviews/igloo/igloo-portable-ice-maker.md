@@ -84,13 +84,13 @@ The Igloo countertop ice maker came neatly boxed between styrofoam padding. Ther
 
 ### Dimensions
 
-Width:
+Width: 8.5" (21.6 cm)
 
-Depth:
+Depth: 12.5" (31.8 cm)
 
-Height:
+Height: 12.0" (30.5 cm)
 
-Weight:
+Weight: 18.0 oz (510 g)
 
 ### 8.2 - Build Quality
 
