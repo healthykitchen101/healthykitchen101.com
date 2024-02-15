@@ -22,10 +22,14 @@ The Igloo 26 lbs pound portable ice maker with a handle is a retro-type design a
 *   Control panel quality
 *   Performance
 
+This Igloo series, available in a number of colors, is a joint production with Nostalgia Products. This ice maker has the control panel on the top whereas another similar design sports a control panel on the front of the machine.
+
 Performance
 -----------
 
 performance Scores: **0.0**
+
+In terms of comparative size, this Nostalgia Igloo is not exactly a compact or small machine. It is similar in size to the [Silonn ice maker](https://healthykitchen101.com/ice-makers/reviews/silonn/silonn-countertop-ice-maker-slim01/), but its performance ranks lower than a true compact machine like the Crownful. The quality of ice tended to vary a lot from batch to batch. While the basket capacity was comparable by weight, the time to fill one basket was comparatively long, taking more than 2 hours.
 
 ### Ice Capacity
 
