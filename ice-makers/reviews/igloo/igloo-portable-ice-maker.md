@@ -67,7 +67,7 @@ design Scores: **NaN**
     
 *   Lid (25%) - **7.1**/undefined
     
-*   (15%) - **8.8**/undefined
+*   Ice Basket (15%) - **8.8**/undefined
     
 
 There are a few thoughtful features on this machine. One is the convenient carry handle, the ice basket has a raised edge, and the reservoir is nicely designed to maximize the water volume. The control panel is clearly worded using no abbreviations, but we had doubts about the material quality and it seemed a little cramped.
@@ -90,7 +90,7 @@ Depth: 12.5" (31.8 cm)
 
 Height: 12.0" (30.5 cm)
 
-Weight: 18.0 oz (510 g)
+Weight: 18.0 lbs (8.2 kg)
 
 ### 8.2 - Build Quality
 
@@ -120,9 +120,9 @@ One thing we didn’t really like on the Igloo was the overall design and questi
 
 On the other hand, we liked how the two buttons are separated to opposite ends of the strip. Also, indicators do not use abbreviations, including an additional ‘Clean’ indicator, so it is easy to understand.
 
-### 8.8 - Ice Tray
+### 8.8 - Ice Basket
 
-Length:
+Length: 7.4" (18.8 cm)
 
 Height:
 
