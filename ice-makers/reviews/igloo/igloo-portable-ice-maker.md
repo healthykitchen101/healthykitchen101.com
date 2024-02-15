@@ -63,7 +63,7 @@ design Scores: **NaN**
 
 *   Build Quality (45%) - **8.2**/undefined
     
-*   (25%) - **7.1**/undefined
+*   Lid (25%) - **7.1**/undefined
     
 *   (15%) - **8.8**/undefined
     
@@ -96,7 +96,9 @@ The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The
 
 ### 7.1 - Lid
 
-Material:
+Material: Plastic
+
+The first thing we noticed about the lid on the Igloo were the secure lid joinings. On many machines, such as the VivoHome, there are small gaps along the hinge which results in lower quality ice preservation. Our overnight ice test, however, showed the Igloo to be only slightly above average with ice preservation.
 
 ### Panel Design
 
