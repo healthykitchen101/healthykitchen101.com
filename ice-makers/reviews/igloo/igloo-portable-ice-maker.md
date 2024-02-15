@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (60%) - **5.2**/undefined
     
-*   Design (15%) - **8.5**/undefined
+*   Design (15%) - **6.8**/undefined
     
 *   Usability (25%) - **0.0**/undefined
     
@@ -63,8 +63,6 @@ design Scores: **NaN**
 
 *   Build Quality (45%) - **8.2**/undefined
     
-*   (25%) - **6.8**/undefined
-    
 *   (25%) - **7.1**/undefined
     
 *   (15%) - **8.8**/undefined
@@ -96,7 +94,11 @@ Weight: 18.0 oz (510 g)
 
 The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The body is a bit bendy in parts but appears solid with good quality joinings and ventilation on both sides and the rear. We found the lid closed very tightly and the basket was a solid hard plastic. The small silicone drainage plug, although a minor part, was one of the nicest we had encountered.
 
-### 6.8 - Panel Design
+### 7.1 - Lid
+
+Material:
+
+### Panel Design
 
 Buttons:
 
@@ -109,10 +111,6 @@ Add Water Indicator:
 IceS Indicator:
 
 IceL Indicator:
-
-### 7.1 - Lid
-
-Material:
 
 ### 8.8 - Ice Tray
 
