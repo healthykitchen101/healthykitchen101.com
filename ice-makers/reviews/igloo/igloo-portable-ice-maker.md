@@ -70,7 +70,17 @@ design Scores: **NaN**
 *   (15%) - **8.8**/undefined
     
 
+There are a few thoughtful features on this machine. One is the convenient carry handle, the ice basket has a raised edge, and the reservoir is nicely designed to maximize the water volume. The control panel is clearly worded using no abbreviations, but we had doubts about the material quality and it seemed a little cramped.
+
 ### In The Box
+
+*   One ice maker
+*   Removable ice basket
+*   Ice scoop
+*   User manual
+*   Customer service card
+
+The Igloo countertop ice maker came neatly boxed between styrofoam padding. There was also additional protection for the corners, and the packaging was more secure than average. The customer service card includes a thank you note, contact numbers, and a 5% discount coupon for your next purchase.
 
 ### Dimensions
 
