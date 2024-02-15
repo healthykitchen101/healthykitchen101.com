@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (60%) - **5.2**/undefined
     
-*   Design (15%) - **0.0**/undefined
+*   Design (15%) - **8.5**/undefined
     
 *   Usability (25%) - **0.0**/undefined
     
@@ -59,7 +59,16 @@ Ice making cycles with the Igloo varied a lot and the machine took comparatively
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **NaN**
+
+*   (45%) - **8.2**/undefined
+    
+*   (25%) - **6.8**/undefined
+    
+*   (25%) - **7.1**/undefined
+    
+*   (15%) - **8.8**/undefined
+    
 
 ### In The Box
 
@@ -73,9 +82,9 @@ Height:
 
 Weight:
 
-### Build Quality
+### 8.2 - Build Quality
 
-### Panel Design
+### 6.8 - Panel Design
 
 Buttons:
 
@@ -89,11 +98,11 @@ IceS Indicator:
 
 IceL Indicator:
 
-### Lid
+### 7.1 - Lid
 
 Material:
 
-### Ice Tray
+### 8.8 - Ice Tray
 
 Length:
 
