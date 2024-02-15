@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (60%) - **5.2**/undefined
     
-*   Design (15%) - **6.8**/undefined
+*   Design (15%) - **7.8**/undefined
     
 *   Usability (25%) - **0.0**/undefined
     
@@ -63,6 +63,8 @@ design Scores: **NaN**
 
 *   Build Quality (45%) - **8.2**/undefined
     
+*   Panel Design (15%) - **6.8**/undefined
+    
 *   Lid (25%) - **7.1**/undefined
     
 *   (15%) - **8.8**/undefined
@@ -100,19 +102,23 @@ Material: Plastic
 
 The first thing we noticed about the lid on the Igloo were the secure lid joinings. On many machines, such as the VivoHome, there are small gaps along the hinge which results in lower quality ice preservation. Our overnight ice test, however, showed the Igloo to be only slightly above average with ice preservation.
 
-### Panel Design
+### 6.8 - Panel Design
 
-Buttons:
+Buttons: On/Off Clean; Select
 
-Power Indicator:
+Power Indicator: Yes
 
-Ice Full Indicator:
+Ice Full Indicator: Yes
 
-Add Water Indicator:
+Add Water Indicator: Yes
 
-IceS Indicator:
+IceS Indicator: Yes
 
-IceL Indicator:
+IceL Indicator: Yes
+
+One thing we didn’t really like on the Igloo was the overall design and questionable quality of the control panel. The strip design of the panel appeared not to be so secure. The buttons and indicators, however, worked perfectly fine during our tests.
+
+On the other hand, we liked how the two buttons are separated to opposite ends of the strip. Also, indicators do not use abbreviations, including an additional ‘Clean’ indicator, so it is easy to understand.
 
 ### 8.8 - Ice Tray
 
