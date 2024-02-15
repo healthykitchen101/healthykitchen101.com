@@ -134,21 +134,27 @@ The ice basket is white and made of a hard plastic which is more supportive of s
 
 ### Water Reservoir
 
-Capacity:
+Capacity: 1.6 qt (1.5 L)
+
+The water reservoir is only 1.5 liters while larger machines like the [Frigidaire EFIC 189](https://healthykitchen101.com/ice-makers/reviews/frigidaire/frigidaire-portable-ice-maker-efic189/) or the Vivo Home both hold just over 2 liters. Still, 1.5 liters is enough water to last about three full baskets or more.
 
 ### Drainage Plug
 
-Material:
+Material: Silicone
+
+Although a minor feature, the drainage plug on the Igloo is one of the nicest we have encountered. It’s all silicone so soft and comfortable to work with. The tether doesn’t hook over the edge of the machine, but at the same time it doesn’t get in the way of water draining out.
 
 ### Ice Scoop
 
-Material:
+Material: Hard plastic
 
 ### Cordand Plug
 
-Length:
+Length: 6.1 ft. (185 cm)
 
-Plug Type:
+Plug Type: 3-pronged
+
+The Igloo has a white cord to match its color scheme, but at 6.1 ft or 73 inches, you get around 2 inches longer than the standard 71 inches. If you’re stretched for space, this may be a bonus. The plug is earthed, which means it has three pronged.
 
 Usability
 ---------
