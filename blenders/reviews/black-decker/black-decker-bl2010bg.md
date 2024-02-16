@@ -102,7 +102,7 @@ The final result was well-blended. It had a rich and relatively smooth texture, 
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioacjws000bab886ho80ux3.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioad1ys000cab88bweh3az5.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioacjws000bab886ho80ux3.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioad1ys000cab88bweh3az5.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobmilo000hk28815c2e622.jpg" alt="Black and Decker 10 Speed Blender Crush Ice Video" width="300px" height="200px">
 
 Ice Fineness: Coarse
 
