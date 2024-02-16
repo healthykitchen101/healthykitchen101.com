@@ -54,7 +54,7 @@ Our evaluation also highlighted the importance of the included tamper in achievi
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3xxrz0003au885csualka.jpg" alt="The Vitamix E310 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it are two distinct smoothie samples spread on white paper while a smartphone showcases the blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3yp410004au88hdfxh35x.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3xxrz0003au885csualka.jpg" alt="The Vitamix E310 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it are two distinct smoothie samples spread on white paper while a smartphone showcases the blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3yp410004au88hdfxh35x.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvz000jk2881d5lb6dg.jpg" alt="Vitamix E310 Explorian Blender Green Smoothie Video" width="300px" height="200px">
 
 Blending Time: 1 min
 
