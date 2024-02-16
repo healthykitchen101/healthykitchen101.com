@@ -114,9 +114,7 @@ More interestingly, we found out that the E310's capabilities goes beyond almond
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf46pyn0005li88g4ep0aog.jpg" alt="The Vitamix E310 is beside a black tray containing its crushed ice." width="300px" height="200px">
-
-The Vitamix E310 Ice Crushing Test
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf46pyn0005li88g4ep0aog.jpg" alt="The Vitamix E310 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvj000ik288frqcdzjk.jpg" alt="Vitamix E310 Explorian Blender Crushed Ice Video" width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
