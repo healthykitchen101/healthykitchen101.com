@@ -119,9 +119,7 @@ If your culinary adventure frequently involves making nut butter, this NutriBull
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpws6k5000row885ymddrcs.jpg" alt="The NutriBullet ZNBF30500Z blender is beside a black tray containing its crushed ice." width="300px" height="200px">
-
-The NutriBullet ZNBF30500Z Ice Crushing Test
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpws6k5000row885ymddrcs.jpg" alt="The NutriBullet ZNBF30500Z blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clso39rlm000fk2882zf18k3i.jpg" alt="NutriBullet Blender Combo 1200 Watt Crushed Ice Video" width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
