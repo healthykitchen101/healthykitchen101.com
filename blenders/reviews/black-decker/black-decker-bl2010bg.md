@@ -90,7 +90,7 @@ Straining the final protein shake through a mesh sieve revealed a small amount o
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaa3f40008ab88cd351w7u.jpg" alt="The Black+Decker Crush Master is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 3 minutes and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaae3p0009ab88c5std55m.jpg" alt="A sample of almond butter created with the Black+Decker Crush Master blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaa3f40008ab88cd351w7u.jpg" alt="The Black+Decker Crush Master is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 3 minutes and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaae3p0009ab88c5std55m.jpg" alt="A sample of almond butter created with the Black+Decker Crush Master blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobm5d7000gk28856a68sdw.jpg" alt="Black and Decker 10 Speed Blender Almond Butter Video" width="300px" height="200px">
 
 Blending Time: 3 mins 30 seconds
 
