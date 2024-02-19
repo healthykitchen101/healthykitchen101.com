@@ -70,7 +70,7 @@ Such a speed and quality of blending posed a formidable challenge even to longst
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3zu5z0005au889eshdlpr.jpg" alt="The Vitamix E310 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie while a smartphone displays a blending time of 1 minute and 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf411d90000li885b9x1eh1.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoim4xd000kk288d1thdw5w.jpg" alt="Vitamix E310 Explorian Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3zu5z0005au889eshdlpr.jpg" alt="The Vitamix E310 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie while a smartphone displays a blending time of 1 minute and 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf411d90000li885b9x1eh1.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfjmtk000mk288chkmh6qu.jpg" alt="Vitamix E310 Explorian Blender Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 1 min 20 seconds
 
