@@ -154,6 +154,8 @@ The Vitamix E310 package is thoughtfully organized, ensuring you have everything
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsso2oeg000ok288c97h88ch.jpg" alt="Illustrated dimensions of the Vitamix E310 blender showing the height, length, and width in inches" width="300px" height="200px">
+
 Height: 17.4" (44.2 cm)
 
 Width: 8.9" (22.6 cm)
