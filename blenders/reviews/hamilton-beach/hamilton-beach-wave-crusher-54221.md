@@ -116,7 +116,7 @@ Compounding the grinding issues, the blender also failed in the emulsification p
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz557xp0008eg88hxwjgeo9.jpg" alt="The Hamilton Beach Wave Crusher blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz55zux0009eg88em4u23oi.jpg" alt="The scale's screen shows 9.48 oz of uncrushed ice cubes remaining from the Hamilton Beach Wave Crusher blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssqefw3000pk28860cj2zda.jpg" alt="Hamilton Beach Wave Crusher Blender Crushed Ice Thumbnail" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz557xp0008eg88hxwjgeo9.jpg" alt="The Hamilton Beach Wave Crusher blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz55zux0009eg88em4u23oi.jpg" alt="The scale's screen shows 9.48 oz of uncrushed ice cubes remaining from the Hamilton Beach Wave Crusher blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssqefw3000pk28860cj2zda.jpg" alt="Hamilton Beach Wave Crusher Blender Crushed Ice Video" width="300px" height="200px">
 
 Ice Fineness: Failed
 
