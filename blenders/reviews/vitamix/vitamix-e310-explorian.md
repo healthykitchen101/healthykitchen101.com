@@ -84,7 +84,7 @@ Another conclusion drawn from this test is the crucial role of a tamper. It shou
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42c730001li885x10dqfd.jpg" alt="The Vitamix E310 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42wo70002li88629h2ry3.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix E310, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42c730001li885x10dqfd.jpg" alt="The Vitamix E310 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42wo70002li88629h2ry3.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix E310, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfdk9j000lk288dzmn4dua.jpg" alt="Vitamix E310 Explorian Blender Protein shake Video" width="300px" height="200px">
 
 Blending Time: 1 min 20 seconds
 
