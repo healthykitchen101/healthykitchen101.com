@@ -98,7 +98,7 @@ The crown of victory was claimed by none other than the iconic Vitamix 5200. Its
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf440my0003li88eo937f16.jpg" alt="The Vitamix E310 is beside a white plate containing almond butter and a spatula, and a smartphone revealing a blending time of 1 minute and a haft." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf45p6h0004li88agns5lqw.jpg" alt="A sample of almond butter created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf440my0003li88eo937f16.jpg" alt="The Vitamix E310 is beside a white plate containing almond butter and a spatula, and a smartphone revealing a blending time of 1 minute and a haft." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf45p6h0004li88agns5lqw.jpg" alt="A sample of almond butter created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssnxs47000nk288a1iee5vi.jpg" alt="Vitamix E310 Explorian Blender Almond Butter Video" width="300px" height="200px">
 
 Blending Time: 1 mins 30 seconds
 
