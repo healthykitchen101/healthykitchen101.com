@@ -72,7 +72,7 @@ In summary, if velvety smoothies are your culinary aspiration, the Hamilton Beac
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4a1lu0002eg889ouw2vsu.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4akrf0003eg884nvd1qlb.jpg" alt="A sample of frozen fruit smoothie created with the Hamilton Beach Wave Crusher blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4a1lu0002eg889ouw2vsu.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4akrf0003eg884nvd1qlb.jpg" alt="A sample of frozen fruit smoothie created with the Hamilton Beach Wave Crusher blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssrkion000qk288h9nt04hh.jpg" alt="Hamilton Beach Wave Crusher Blender Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 5 mins
 
