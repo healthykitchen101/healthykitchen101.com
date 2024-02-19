@@ -167,9 +167,9 @@ Weight: 35.0 lbs (15.9 kg)
 
 Power Status: Far left
 
-Hot Water: Second left
+Hot Water Test: Second left
 
-Cold Water: Second right
+Cold Water Test: Second right
 
 Bottle Or Filter: Far right
 
@@ -231,9 +231,9 @@ We liked the build quality of the drip tray and especially the red float that le
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a5-bottleless-water-cooler-dispenser-rear-switches-cld2tewjn004c3p881nn93859.jpg" alt="All the switches found on the rear of the Avalon A5 water cooler dispenser." width="300px" height="200px">
 
-Hot Water: Far right
+Hot Water Test: Far right
 
-Cold Water: Middle
+Cold Water Test: Middle
 
 Others: Night Light and Ozone
 
@@ -245,7 +245,7 @@ The tank switches are color-coded and labeled with their function. O indicates O
 
 Has Door: Yes
 
-InternalWDH: 11.5 x 20 x 10 in
+Internal WxDxH: 11.5 x 20 x 10 in
 
 Material: Silver (or black) plastic
 
