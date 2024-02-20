@@ -54,9 +54,7 @@ The Hamilton Beach testing performance was notably lackluster. It faltered in a 
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz48j7y0001eg88clkw0e1k.jpg" alt="The Hamilton Beach Wave Crusher blender motor base and its container filled with apple, banana, and kale, stand on a table. Next to it, a smartphone showcases the blending time of 4 minutes." width="300px" height="200px">
-
-The Hamilton Beach Wave Crusher Blender Smoothie Test
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz48j7y0001eg88clkw0e1k.jpg" alt="The Hamilton Beach Wave Crusher blender motor base and its container filled with apple, banana, and kale, stand on a table. Next to it, a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsu559zv000rk2888u0qc4no.jpg" alt="Hamilton Beach Wave Crusher Blender Green Smoothie Video" width="300px" height="200px">
 
 Blending Time: 4 mins
 
