@@ -174,9 +174,9 @@ We did, however, feel the shiny black color of the plastic gives the machine a m
 
 Power Status: Far left
 
-Hot Water: Second left
+Hot Water Test: Second left
 
-Cold Water: Second right
+Cold Water Test: Second right
 
 Bottle Or Filter: Far right
 
@@ -248,9 +248,9 @@ The size of the drip tray is quite accommodating to larger mugs and flasks.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a4-bottom-loading-water-cooler-dispenser-rear-switches-clddyjqeh008c3p8849pdgmxs.jpg" alt="Three switches found on the back of the Avalon A4 water cooler dispenser. The night lights switch is on the left side." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a4-bottom-loading-water-cooler-dispenser-rear-switches-1-clddyknci008d3p888y39bb77.jpg" alt="Color coded hot and cold water switches with relief script on the rear of the Avalon A4 water cooler dispenser." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: Night Light
 
@@ -262,7 +262,7 @@ There are three switches at the back of the machine. They are color-coded with w
 
 Has Door: Yes
 
-InternalWDH: 10.5 x 18.5 x 12 inches
+Internal WxDxH: 10.5 x 18.5 x 12 inches
 
 Material: Silver plastic, white interior
 
