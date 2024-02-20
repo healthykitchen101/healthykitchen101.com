@@ -160,9 +160,9 @@ The hard plastic front panel and dispensing booth do not gather fingerprints at 
 
 Power Status: bottom
 
-Hot Water: middle
+Hot Water Test: middle
 
-Cold Water: top
+Cold Water Test: top
 
 Bottle Or Filter: None
 
@@ -222,9 +222,9 @@ The drip tray is secure and would be difficult for a child to pull out. It doesn
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/frigidaire-stainless-steel-water-cooler-dispenser-rear-switches-cld2u4uwo00643p888mfe3jm8.jpg" alt="Close up of two color-coded buttons at the rear of a water cooler dispenser with clear labeling for operation. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/frigidaire-stainless-steel-water-cooler-dispenser-rear-switches-1-cld2u5n9500653p88bj6lc7wy.jpg" alt="Close up of the rear of the Frigidaire  EFWC519 water cooler showing a temperature adjustment button on the bottom right." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: None
 
@@ -234,7 +234,7 @@ The switches are color coded with clear written instructions. There is also a di
 
 Has Door: No
 
-InternalWDH: N/A
+Internal WxDxH: N/A
 
 Material: N/A
 
