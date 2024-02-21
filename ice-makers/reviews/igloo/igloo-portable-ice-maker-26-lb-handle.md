@@ -90,6 +90,8 @@ The Igloo countertop ice maker came neatly boxed between styrofoam padding. Ther
 
 ### Dimensions
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/dimension-igloo-ice-maker-clsvhj0cx001ak2885tze98f8.jpg" alt="An annotated picture showing the dimensions of the Igloo ice maker as 8.5 inches across, 12.5 inches deep, and 12 inches high. " width="300px" height="200px">
+
 Width: 8.5" (21.6 cm)
 
 Depth: 12.5" (31.8 cm)
