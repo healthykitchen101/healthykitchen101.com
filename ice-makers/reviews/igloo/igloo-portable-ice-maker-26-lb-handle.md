@@ -78,6 +78,8 @@ There are a few thoughtful features on this machine. One is the convenient carry
 
 ### In The Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-box-clsvha0o10017k288bu164zz5.jpg" alt="Top down view of the unpacked igloo portable ice maker. To the right of the ice maker is the removable basket, an ice scoop, the manual, and a customer service card." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-box-1-clsvha0o40018k28824uw7qfw.jpg" alt="A portable ice maker just removed from its box and secured within styrofoam pads." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-box-2-clsvha0o60019k288d0if44pi.jpg" alt="A man handling a countertop ice maker with the product box seen in the background." width="300px" height="200px">
+
 *   One ice maker
 *   Removable ice basket
 *   Ice scoop
