@@ -108,7 +108,7 @@ The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The
 
 ### 7.1 - Lid
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-clsvhuuqe001ek288blvh8yuh.jpg" alt="Igloo Ice Maker Lid" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-1-clsvhuuvf001fk288fjpvg16e.jpg" alt="Igloo Ice Maker Lid 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-clsvhuuqe001ek288blvh8yuh.jpg" alt="A top down view of a countertop ice maker with ice seen through the transparent lid" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-1-clsvhuuvf001fk288fjpvg16e.jpg" alt="A close up of the underside of an opened lid on a countertop ice maker." width="300px" height="200px">
 
 Material: Plastic
 
@@ -163,6 +163,8 @@ Material: Silicone
 Although a minor feature, the drainage plug on the Igloo is one of the nicest we have encountered. It’s all silicone so soft and comfortable to work with. The tether doesn’t hook over the edge of the machine, but at the same time it doesn’t get in the way of water draining out.
 
 ### Ice Scoop
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ice-scoop-clsvincq7001mk288dmf971rg.jpg" alt="The ice scoop of a portable ice maker." width="300px" height="200px">
 
 Material: Hard plastic
 
