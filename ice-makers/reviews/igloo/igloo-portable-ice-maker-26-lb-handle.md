@@ -158,6 +158,8 @@ The water reservoir is only 1.5 liters while larger machines like the [Frigidair
 
 ### Drainage Plug
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-cleaning-clsvgyxjq0016k288dv3vgry6.jpg" alt="A silicone plug being removed from the bottom of a portable ice maker." width="300px" height="200px">
+
 Material: Silicone
 
 Although a minor feature, the drainage plug on the Igloo is one of the nicest we have encountered. It’s all silicone so soft and comfortable to work with. The tether doesn’t hook over the edge of the machine, but at the same time it doesn’t get in the way of water draining out.
