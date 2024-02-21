@@ -102,15 +102,21 @@ Weight: 18.0 lbs (8.2 kg)
 
 ### 8.2 - Build Quality
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/build-quality-clsvhnlc6001bk2882zf983y6.jpg" alt="A close up side view of a portable ice maker with two rows of ice makers on a shelf in the background." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/build-quality-1-clsvhnlo1001dk288gk3fe9u0.jpg" alt="Under view of a countertop ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/build-quality-2-clsvhnli0001ck288acndgtpq.jpg" alt="Close up view of an air vent on a portable countertop ice maker.Close up view of an air vent on a portable countertop ice maker." width="300px" height="200px">
+
 The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The body is a bit bendy in parts but appears solid with good quality joinings and ventilation on both sides and the rear. We found the lid closed very tightly and the basket was a solid hard plastic. The small silicone drainage plug, although a minor part, was one of the nicest we had encountered.
 
 ### 7.1 - Lid
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-clsvhuuqe001ek288blvh8yuh.jpg" alt="Igloo Ice Maker Lid" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-1-clsvhuuvf001fk288fjpvg16e.jpg" alt="Igloo Ice Maker Lid 1" width="300px" height="200px">
 
 Material: Plastic
 
 The first thing we noticed about the lid on the Igloo were the secure lid joinings. On many machines, such as the VivoHome, there are small gaps along the hinge which results in lower quality ice preservation. Our overnight ice test, however, showed the Igloo to be only slightly above average with ice preservation.
 
 ### 6.8 - Panel Design
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/panel-design-clsvhxrg6001gk288f6mjeuj9.jpg" alt="A close up of the control panel on a portable ice maker with two fingers indicating the relative size." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/panel-design-1-clsvhxrmo001ik288g1df3wdu.jpg" alt="A gloved finger pressing the select button on a countertop ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/panel-design-2-clsvhxrml001hk2881a0dbbel.jpg" alt="A close up view of the control panel of a portable ice maker with the Ice Full alert showing up in red." width="300px" height="200px">
 
 Buttons: On/Off Clean; Select
 
@@ -130,6 +136,8 @@ On the other hand, we liked how the two buttons are separated to opposite ends o
 
 ### 8.8 - Ice Basket
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ice-basket-clsvifzx6001jk288cry625id.jpg" alt="An empty ice basket being held up in front of a portable ice maker." width="300px" height="200px">
+
 Length: 7.4" (18.8 cm)
 
 Height: 4.5" (11.4 cm)
@@ -141,6 +149,8 @@ Material: Hardish plastic
 The ice basket is white and made of a hard plastic which is more supportive of scooping than the softer flexible type. It’s fairly deep and has a raised left corner to help with scooping the last bullets. The reservoir and basket are well designed to maximize the volume of both. The only generic looking part was the ice scoop.
 
 ### Water Reservoir
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-water-reservoir-clsvih6df001lk2886wu09cpf.jpg" alt="A top down view of a portable ice maker with the lid open and the removable ice basket resting at the side of the machine. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-water-reservoir-1-clsvih66w001kk28829tbbbnk.jpg" alt="A close up of the water reservoir of a portable ice maker." width="300px" height="200px">
 
 Capacity: 1.6 qt (1.5 L)
 
@@ -156,7 +166,7 @@ Although a minor feature, the drainage plug on the Igloo is one of the nicest we
 
 Material: Hard plastic
 
-### Cordand Plug
+### Cord and Plug
 
 Length: 6.1 ft. (185 cm)
 
