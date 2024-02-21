@@ -54,6 +54,8 @@ Since the Igloo is a similar-sized machine to both the Silonn and the [AGLucky H
 
 ### Ice Quality Test
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ice-quality-test-clsvgp75r000zk28895e58zxm.jpg" alt="Nine ice bullets in a small bowl on a scale weight 45 grams pictured next to a countertop ice maker. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ice-quality-test-1-clsvgp6zk000xk28838391rno.jpg" alt="An ice bullet being measured showing a thickness of 5 mm." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ice-quality-test-2-clsvgp75n000yk288emuhdy4b.jpg" alt="Ice being held up for close inspection with ice in a making tray in the background an a small glass bowl on a scale with broken ice weighing 49 grams" width="300px" height="200px">
+
 Average Weight Bullet: 0.13 oz (3.8 g)
 
 Ice making cycles with the Igloo varied a lot and the machine took comparatively long to settle into a good working rhythm. The average weight per bullet was only 3.8 g, so well below the expected 5 grams and only periodically reaching 4 grams or more. Additionally, the amount of broken or insubstantially formed ice was 40 g per load, or roughly 9.4%. This was the highest recorded of any machine with 2% or less being the best average and 4% a medial average.
@@ -174,15 +176,21 @@ We liked the carry handle on the Igloo and found the basket to be well-sized. Th
 
 ### 6.8 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ease-use-clsvgu1150010k2887c9nejnu.jpg" alt="The hand gripping a countertop ice maker by lifting up the handle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ease-use-1-clsvgu18f0011k28882cwcjcs.jpg" alt="Ice being scooped up from an ice basket of a portable bullet ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-ease-use-2-clsvgu18h0012k288earm8o45.jpg" alt="A full basket of ice being removed from a portable countertop ice maker." width="300px" height="200px">
+
 For our ease of use evaluation, we look at the control panel, visibility into the machine, and ice scooping. The Igloo control panel is clearly worded in text, but we found the design a bit cramped, the quality of the printed sheet not so great, and the button traction not the best. The retro design means a smaller view window, but the basket is well-sized.
 
 ### 8.4 - Noise
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-noise-clsvgx5700013k288cjq0b2q9.jpg" alt="A sound meter showing 66.3 dB standing next to the air vent of a portable countertop ice maker." width="300px" height="200px">
 
 Decibels: 66.3 dB
 
 Although most portable ice makers we have tested produce very little noise, the Igloo proved to be one of the quieter machines. Only the compact Crownful was quieter. This Igloo measured only 66.3 dB or on average a decibel or so lower than most other ice makers.
 
 ### 8.7 - Cleaning
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-cleaning-clsvgyxjq0016k288dv3vgry6.jpg" alt="A silicone plug being removed from the bottom of a portable ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-cleaning-1-clsvgyxbi0014k288dwkvasbu.jpg" alt="A close up view of inside a countertop ice making with evaporator rods visible in the background. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-cleaning-2-clsvgyxjf0015k2887e57avec.jpg" alt="A water guard found in the reservoir of a portable ice maker." width="300px" height="200px">
 
 Self Cleaning: Yes
 
