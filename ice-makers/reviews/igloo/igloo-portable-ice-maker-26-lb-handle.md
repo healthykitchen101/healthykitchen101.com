@@ -170,6 +170,8 @@ Material: Hard plastic
 
 ### Cord and Plug
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-cord-plug-clsviqdfb001nk288f6pwenh2.jpg" alt="A three pronged plug being held up in front of the Igloo logo on their countertop ice making. " width="300px" height="200px">
+
 Length: 6.1 ft. (185 cm)
 
 Plug Type: 3-pronged
