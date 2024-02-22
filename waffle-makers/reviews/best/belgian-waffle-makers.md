@@ -55,7 +55,7 @@ How Our Recommendations Are Made
 
 Recommendations are based upon the resulting scores of our testing procedures. We take into account the specialized strengths of a product, the situation it’s best suited for, or the personal circumstances it is likely to best match.
 
-Best Belgian Waffle Makers in 2023
+Best Belgian Waffle Makers in 2024
 ----------------------------------
 
 Now that you have all the necessary information about Belgian waffles and our methodology, let’s dive into the list of our top choices!
@@ -79,7 +79,7 @@ The WAF-F20P1 Double waffle maker is Cuisinart’s premium offering. So naturall
 
 While the WAF-F20P1 fell short in a few ways during testing, this waffle maker met most of our expectations. And more importantly, of all the devices we’ve tested thus far, the Cuisinart WAF-F20P1 gave us the best cooking performance.
 
-Because of that, the Cuisinart WAF-F20P1 is currently featured in our 2023 line-up of the [best waffle makers](https://healthykitchen101.com/waffle-makers/reviews/best/)!
+Because of that, the Cuisinart WAF-F20P1 is currently featured in our 2024 line-up of the [best waffle makers](https://healthykitchen101.com/waffle-makers/reviews/best/)!
 
 This Cuisinart’s most notable feature is definitely the double-sided design, which allows you to prepare two waffles simultaneously. This waffle maker is also flippable.
 
