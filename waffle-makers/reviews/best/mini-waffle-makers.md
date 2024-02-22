@@ -64,7 +64,7 @@ How Our Recommendations Are Made
 
 Other than basing off on their test scores, we also consider each model's strengths and the situation they’re best used for when we make our recommendations.
 
-Reviews of the Best Mini Waffle Makers 2023
+Reviews of the Best Mini Waffle Makers 2024
 -------------------------------------------
 
 Now that you know how the process goes, let’s jump right into the review round-up!
