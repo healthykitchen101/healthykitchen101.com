@@ -30,7 +30,7 @@ How Our Recommendations Are Made
 
 Recommendations are based upon the testing results and their associated scores. We take into account the specialized strengths of a product, the situation it’s best suited for, and the personal circumstances where it will fit best.
 
-Reviews of the Best Blenders for Smoothies in 2023
+Reviews of the Best Blenders for Smoothies in 2024
 --------------------------------------------------
 
 After several months spent putting our pile of household blenders through a series of tests, we’re confident that our finalists are by far the best. Our extensive hands-on testing also teased out the pros and cons of each machine, so you can make the best choice for your own needs.
