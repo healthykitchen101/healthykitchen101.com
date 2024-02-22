@@ -2,10 +2,10 @@ Electric knife sharpeners are helpful and convenient tools that make quick work 
 
 We’ve tested quite a few electric sharpeners. Here, we will share our assessments of their performance and usability to help you choose the best one. We will also discuss the features that make some electrical sharpeners more efficient than others.
 
-The Best Electric Knife Sharpeners in 2023
+The Best Electric Knife Sharpeners in 2024
 ------------------------------------------
 
-Here are our picks for the best electric knife sharpeners in 2023, based on our test results.
+Here are our picks for the best electric knife sharpeners in 2024, based on our test results.
 
 For a quick review for each product, read on. Click on the headings to read detailed reviews and ratings.
 
