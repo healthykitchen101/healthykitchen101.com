@@ -98,7 +98,7 @@ However, the final product was not entirely unpalatable, to be honest. For athle
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz523it0006eg8852z1at8n.jpg" alt="The Hamilton Beach Wave Crusher is beside a white plate containing almond with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz52z0f0007eg885xvjfpzp.jpg" alt="A sample of ground almond created with the Hamilton Beach Wave Crusher  blender." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz523it0006eg8852z1at8n.jpg" alt="The Hamilton Beach Wave Crusher is beside a white plate containing almond with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz52z0f0007eg885xvjfpzp.jpg" alt="A sample of ground almond created with the Hamilton Beach Wave Crusher  blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsy455rz0022k2881ruo3hoj.jpg" alt="Hamilton Beach Wave Crusher Blender Almond Butter Video" width="300px" height="200px">
 
 Blending Time: 4 mins
 
