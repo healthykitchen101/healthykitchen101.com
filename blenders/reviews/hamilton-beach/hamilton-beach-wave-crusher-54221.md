@@ -86,7 +86,7 @@ For those who are serious about icy treats, we recommend considering more powerf
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4dk2i0004eg88d8ppbi70.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 4 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz50pcz0005eg883lxt1sbx.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through. " width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4dk2i0004eg88d8ppbi70.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 4 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz50pcz0005eg883lxt1sbx.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsyhy8bq0023k28828f3glhj.jpg" alt="Hamilton Beach Wave Crusher Blender Protein Shakes Video" width="300px" height="200px">
 
 Blending Time: 4 mins 30 seconds
 
