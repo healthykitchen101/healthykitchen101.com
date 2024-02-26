@@ -103,13 +103,13 @@ Design-wise, the blender exudes luxury with its sleek, modern build. Beyond its 
 *   Its performance is often inconsistent
 *   Not as efficient as other similar blenders
 
-The KitchenAid KHBBV53 produced a range of outcomes in its blending tests. It shined in creating a near-flawless purée and a luscious frozen fruit smoothie, even though it occasionally needed manual adjustments. For mayonnaise, it delivered a blend that, while not ultra-creamy, was sufficiently light and airy. 
+The KitchenAid KHBBV53 produced a range of outcomes in its blending tests. It shined by creating a **near-flawless purée** and **a luscious frozen fruit smoothie**, even though it occasionally needed manual adjustments. For mayonnaise, it delivered a blend that, while not ultra-creamy, was sufficiently light and airy.
 
 \[112\] The KitchenAid KHBBV53 Smoothie
 
-However, when it came to non-dairy milk, the blender was not as good; it somehow incorporated an excessive amount of air to the liquid, resulting in a foamy consistency. Not to mention that this foaminess could lead to messy overflows. Like the Vitamix 5-speed, it was also incapable of beating egg whites to a stiff peak. 
+However, when it came to non-dairy milk, the blender was not as good; it somehow incorporated an excessive amount of air into the liquid, resulting in an unusual foamy consistency. The foaminess could lead to messy overflows. Like the Vitamix 5-speed, it was also **incapable of properly beating egg whites**. 
 
-Design-wise, we like the beauty and simplicity of the blender. Its controls are practical enough. You can get multiple speed options through a trigger switch which is extremely responsive. The palm switch on the blender’s backside functions as a helpful safety mechanism. 
+Design-wise, we like the beauty and simplicity of the blender. Its controls are practical enough. You get multiple speed options through a very responsive trigger switch. The palm switch on the blender’s backside functions as a helpful safety mechanism.
 
 Nearest Competitors
 -------------------
