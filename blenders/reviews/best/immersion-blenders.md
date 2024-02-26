@@ -118,9 +118,9 @@ For a comprehensive breakdown of these considerations, check our detailed [immer
 Our Expertise 
 --------------
 
-As a dedicated tester at Healthy Kitchen 101, Tina has been on a quest to uncover the actual practicality of immersion blenders since 2018. The extensive research allowed her to identify the 15 top models on the market, both corded and cordless models, and she then devoted two years to perform hands-on testing on each one. 
+As a dedicated product tester at Healthy Kitchen 101, Tina has been on a quest to uncover the actual practicality of immersion blenders since 2018. That extensive research allowed her to identify the 15 top models on the market, both with and without cords. She then tested each one over the course of two years. 
 
-Her evaluation was made even more comprehensive by her collaboration with Chef Tuyet Pham, Consultant Luna Regina, and Test Lead Lap Vo, who brought their expert culinary skills and technical knowledge to the table in order to add an extra layer of expertise to the testing process.
+Her evaluation was made even more comprehensive by her collaboration with Chef Tuyet Pham, Consultant Luna Regina, and Test Lead Lap Vo. Each of them brought their expert culinary skills and technical knowledge to the table in order to add an extra layer of expertise to the testing process.
 
 FAQ
 ---
