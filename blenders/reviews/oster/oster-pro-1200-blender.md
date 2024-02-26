@@ -60,7 +60,7 @@ The Oster Pro stood out in a field of Cuisinart and Ninja blenders, carving out 
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqffv0012ey88hopu8cal.jpg" alt="The Oster Pro motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqts50013ey88f44kfz7b.jpg" alt="A sample of frozen fruit smoothie created with a Oster Pro blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqffv0012ey88hopu8cal.jpg" alt="The Oster Pro motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqts50013ey88f44kfz7b.jpg" alt="A sample of frozen fruit smoothie created with a Oster Pro blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2l6qud0025k2881uqzajwc.jpg" alt="Oster Pro 1200 Blender Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 5 mins
 
