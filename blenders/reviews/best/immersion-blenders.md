@@ -99,9 +99,9 @@ Nearest Competitors
 
 A few quick notes on other immersion blenders we tested:
 
-*   [Muller Ultra-Stick](https://healthykitchen101.com/blenders/reviews/mueller/mueller-ultra-stick-immersion-blender/): The Muller Ultra-Stick has a 500-watt motor suitable for light-duty blending and is budget-friendly. However, its performance isn’t consistent and it causes a lot of splashing, no matter how slowly you try to go.The included cup is also easily scratched.
+*   [Braun MultiQuick-5](https://healthykitchen101.com/blenders/reviews/braun/braun-multiquick-5-blender/): This blender is a strong performer, holding its own against some of the best blenders in our tests. Its design, though, leans towards the basic side. It might not catch the eye but it is certainly a good fit if you value pure performance over high-end features. 
 *   [Cuisinart Smart Stick](https://healthykitchen101.com/blenders/reviews/cuisinart/cuisinart-csb-175/): This is a budget option that often struggles with hard ingredients like frozen fruits. However, it still provides consistent performance for lighter-duty tasks and offers good value for the money.
-*   [BELLA 10-speed](https://healthykitchen101.com/blenders/reviews/bella/bella-10-speed/): The blender is a valuable option if you are willing to compromise on heavy blending performance and a little bit of comfort. Its 350-watt motor lets you blend, puree, or grind with acceptable results while the solid body offers a reasonably comfortable, non-slip grip.
+*   [KOIOS 4-in-1](https://healthykitchen101.com/blenders/reviews/koios/koios-4-in-1-immersion/): The blender is a valuable option if you are willing to compromise on heavy-duty performance. Its 400-watt motor lets you blend, puree, or grind with acceptable results while the solid body offers a reasonably comfortable, non-slip grip.
 
 Factors to Consider
 -------------------
