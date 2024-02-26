@@ -18,10 +18,10 @@ For the blender’s **design**, we meticulously inspect its blending shaft, buil
 
 > Check out [How We Test and Score](https://healthykitchen101.com/blenders/tests/immersion/) Our Immersion Blenders in detail.
 
-How We Picked
--------------
+How Our Recommendations Are Made
+--------------------------------
 
-Recommendations are based upon the resulting scores of our testing procedures. We take into account the specialized strengths of a product, the situation it’s best suited for, or the personal circumstances it is likely to best match. 
+Recommendations are based upon the resulting scores of our testing procedures. We take into account the specialized strengths of each product type, the situation it’s best suited for, or the personal circumstances it is likely to best match.
 
 Our Top Picks
 -------------
