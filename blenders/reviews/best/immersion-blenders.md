@@ -39,9 +39,9 @@ Now that you know our thought process, let’s move on to the product summaries 
 
 Braun's reputation for quality is well-reflected in the MQ7035X, a model that stands out for its innovative design and upscale appearance. 
 
-In our thorough testing, we found it to be **highly capable** in a variety of kitchen tasks. Its standout performance was evident in its smoothies; it easily blended **a diverse array of ingredients**, from frozen fruits to fibrous vegetables. It also performed impressively in soup puréeing, yielding a more refined texture than many of its peers. 
+In our thorough testing, we found it to be **highly capable** in a variety of kitchen tasks. Its standout performance was evident in its smoothies; it easily blended **a diverse array of ingredients**, from frozen fruits to fibrous vegetables. It also performed impressively in soup puréeing, yielding a more refined texture than many of its peers.\[1327\] Braun Multiquick 7 Hand Blender Whipped Egg-Whites
 
-This efficiency even extended to tasks requiring aeration. The blender’s whisk attachment proved to be highly effective, effortlessly whipping egg whites to stiff peaks. It also could emulsify egg yolk and oil into **a smooth, creamy mayonnaise** with ease.\[1327\] Braun Multiquick 7 Hand Blender Whipped Egg-Whites
+This efficiency even extended to tasks requiring aeration. The blender’s whisk attachment proved to be highly effective, effortlessly whipping egg whites to stiff peaks. It also could emulsify egg yolk and oil into **a smooth, creamy mayonnaise** with ease.
 
 A well-crafted product, this Braun’s appearance is characterized by a stainless steel blending shaft and a brushed metallic finish on the motor housing. In terms of usability, the blender’s design ensures a **comfortable blending experience**, offsetting its heft.  
 
