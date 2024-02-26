@@ -1,16 +1,16 @@
 Overall Verdict
 ---------------
 
-Overall Score: **7.8**
+Overall Score: **NaN**
 
-*   Performance (50%) - **7.1**/10
+*   Performance (50%) - **7.1**/undefined
     
-*   Design (20%) - **8.7**/10
+*   Design (20%) - **8.7**/undefined
     
-*   Usability (30%) - **8.4**/10
+*   Usability (30%) - **8.4**/undefined
     
 
-The Cuisinart RHB-100TG EvolutionX is efficient, versatile, and well-designed. We valued the performance of its blending wand, which ensured smooth, chunk-free smoothies and could turn cooked veggies into creamy soup in seconds. The whisk attachment also proved useful, doing a decent job of beating eggs and making mayonnaise. 
+The Cuisinart RHB-100TG EvolutionX is efficient, versatile, and well-designed. We valued the performance of its blending wand, which ensured smooth, chunk-free smoothies and could turn cooked veggies into creamy soup in seconds. The whisk attachment also proved useful, doing a decent job of beating eggs and making mayonnaise.
 
 Usability-wise, this RHB-100TG stands out as one of the most [user-friendly blenders](https://healthykitchen101.com/blenders/reviews/best/) in its class. Its intuitive design, complemented by an ergonomic handle, simplifies handling, while the smooth operation of the motor helps minimize hand fatigue and splatters. 
 
@@ -34,17 +34,17 @@ Still, you might wonder whether this EvolutionX matches up to the performance of
 Performance
 -----------
 
-performance Scores: **7.1**
+performance Scores: **NaN**
 
-*   Hot Soup Purée (35%) - **6.0**/10
+*   Hot Soup Purée (35%) - **6.0**/undefined
     
-*   Smoothie (30%) - **6.0**/10
+*   Smoothie (30%) - **6.0**/undefined
     
-*   Mayonnaise (15%) - **9.5**/10
+*   Mayonnaise (15%) - **9.5**/undefined
     
-*   Almond Milk (15%) - **8.3**/10
+*   Almond Milk (15%) - **8.3**/undefined
     
-*   Whipped Egg-Whites (5%) - **10**/10
+*   Whipped Egg-Whites (5%) - **10**/undefined
     
 
 The EvolutionX RHB-100TG is more than meets the eye. 
@@ -122,15 +122,15 @@ Within a concise 1 minute and 45 seconds, the result was evident: stiff peaks wi
 Design
 ------
 
-design Scores: **8.7**
+design Scores: **NaN**
 
-*   Build Quality (60%) - **8.5**/10
+*   Build Quality (60%) - **8.5**/undefined
     
-*   Blending Shaft (30%) - **8.5**/10
+*   Blending Shaft (30%) - **8.5**/undefined
     
-*   Battery (5%) - **10**/10
+*   Battery (5%) - **10**/undefined
     
-*   Beaker (5%) - **10**/10
+*   Beaker (5%) - **10**/undefined
     
 
 The sleek design of the Cuisinart RHB-100TG made a significant impression on us, both in terms of aesthetics and build quality. Just keep in mind that the blender’s rechargeable battery is designed to operate for only 20 minutes. 
@@ -258,15 +258,15 @@ The whisk attachment performs competently with tasks such as beating egg whites,
 Usability
 ---------
 
-usability Scores: **8.4**
+usability Scores: **NaN**
 
-*   Ease of Use (60%) - **8.0**/10
+*   Ease of Use (60%) - **8.0**/undefined
     
-*   Blade Assembly (10%) - **8.5**/10
+*   Blade Assembly (10%) - **8.5**/undefined
     
-*   Handling (20%) - **9.5**/10
+*   Handling (20%) - **9.5**/undefined
     
-*   Cleanability (10%) - **8.5**/10
+*   Cleanability (10%) - **8.5**/undefined
     
 
 Cuisinart has consistently aimed to enhance user-friendliness across its products over the years, and it largely succeeds with the EvolutionX RHB-100TG, whose cordless design is a game-changer for both blending and cleaning convenience.
