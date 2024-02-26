@@ -48,7 +48,7 @@ In our hands-on testing, the Oster Pro came up short in terms of making frozen f
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1coitd0010ey883m69071d.jpg" alt="The Oster Pro motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothie samples while a smartphone showcases the blending time of 1 minute and 30 seconds" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cpexv0011ey881u35dme9.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of the Oster Pro smoothies blended for 30 seconds, a full minute, and 1 minute and a half." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1coitd0010ey883m69071d.jpg" alt="The Oster Pro motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothie samples while a smartphone showcases the blending time of 1 minute and 30 seconds" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cpexv0011ey881u35dme9.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of the Oster Pro smoothies blended for 30 seconds, a full minute, and 1 minute and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2oefix0026k288hsyl26xy.jpg" alt="Oster Pro 1200 Blender Green Smoothie Video" width="300px" height="200px">
 
 Blending Time: 1 mins 30 seconds
 
