@@ -1,4 +1,4 @@
-A specialist tool ideal for preparing quick meals, your **immersion blender** will come in handy for small batches of soups, sauces, or baby food. Some high-powered blenders can even handle tougher tasks like processing raw nuts or frozen fruit with very little effort. Distinguished by their portable design and the ability to work with nearly any container, they can also be life-savers for those with limited kitchen space or those wanting to get rid of countertop clutter.
+A specialist tool ideal for preparing quick meals, your immersion blender will come in handy for small batches of soups, sauces, or baby food. Some high-powered blenders can even handle tougher tasks like processing raw nuts or frozen fruit without much trouble. Distinguished by their portable design and the ability to work with nearly any container, they can also be life-savers for chefs with limited kitchen space or those wanting to get rid of countertop clutter.
 
 How We Test
 -----------
