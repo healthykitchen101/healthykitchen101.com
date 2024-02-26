@@ -72,9 +72,27 @@ However, without a whisk attachment, the Vitamix struggles with tasks that need 
 
 Furthermore, although it can create mayonnaise, the extended blending time coupled with suction problems at the container's bottom make it less efficient compared to blenders equipped with a whisk attachment. 
 
-The Vitamix's interface is user-friendly, with two front buttons for 5 different speeds. The whole blender is solidly constructed from stainless steel, ensuring reduced wear and tear. Despite its slightly larger dimensions at 17.5 inches tall and 3 inches wide, it's not unwieldy. Weighing 3.2 pounds, it's on the heavier side, but its ergonomic rubber-coated handle ensures comfortable and easy maneuvering. 
+The Vitamix's interface is user-friendly, with two front buttons for 5 different speeds. The whole blender is solidly constructed from stainless steel, ensuring reduced wear and tear. Despite its slightly larger dimensions at 17.5 inches tall and 3 inches wide, it's not unwieldy. Weighing 3.2 pounds, it's on the heavier side, but its ergonomic rubber-coated handle ensures comfortable and easy maneuvering.
 
-3\. Best Cordless: KitchenAid Cordless KHBBV53 Hand Blender
+3\. Best Immersion/Mixer Combo: Ninja Foodi Power Mixer System Blender
+
+*   High-quality construction with upscale feel 
+*   A generous set of included accessories 
+*   A lot of user-friendly features 
+*   Excels at a wide range of tasks
+
+*   Larger-than-average blending wand’s head 
+*   Rather heavy
+
+The Ninja CI101 Foodi shines in kitchens where culinary creativity is a priority and space isn't a constraint. More than a blender, it's a comprehensive kitchen multi-tool that **handles everything** from pureeing to beating to dough kneading. However, if you have limited space or simpler cooking needs, its size and complexity may be unnecessary. 
+
+Similar to the two previous products we reviewed, the Ninja impressed us with top-notch testing performances, churning out near-perfect results. In particular, it quickly created a **flawless puréed soup** in an astonishing 30 seconds. The final product was not just smooth but also impeccably uniform in texture. The blender also **fared well** in preparing frozen fruit smoothies, though the process took nearly three minutes. 
+
+As a **professional-grade performer for aeration tasks**,  the Ninja CI101 Foodi also excelled at making mayonnaise and whipping egg whites. The inclusion of well-designed beaters leads us to believe that it might even be effective at preparing dough for baked goods. 
+
+Design-wise, the blender exudes luxury with its sleek, modern build. Beyond its **intuitive controls** and **user-friendly attachments**, its blade guard, crafted from a non-metallic material, is a thoughtful feature. It addresses the common complaint of scratched pots and pans that stems from all-metal models like the Braun MQ7035X.
+
+4\. Best Cordless: KitchenAid Cordless KHBBV53 Hand Blender
 
 *   It can quick-charge in only 20 minutes
 *   A beaker is included for greater convenience 
