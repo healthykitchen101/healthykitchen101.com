@@ -98,7 +98,7 @@ The Oster’s butter was well-blended, creamy, and delicious. We were also happy
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cvf5i0018ey88hu8d3t3o.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cwa6k0019ey88gtj5ak4i.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cvf5i0018ey88hu8d3t3o.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cwa6k0019ey88gtj5ak4i.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2dqdjb0024k28828jr1hkv.jpg" alt="Oster Pro 1200 Blender Crushed Ice Video" width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
