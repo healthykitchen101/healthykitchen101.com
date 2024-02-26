@@ -80,9 +80,9 @@ The Vitamix's interface is **user-friendly**, with two front buttons that cycle 
 *   Larger-than-average blending wand’s head 
 *   Rather heavy
 
-The Ninja CI101 Foodi shines in kitchens where culinary creativity is a priority and space isn't a constraint. More than a blender, it's a comprehensive kitchen multi-tool that **handles everything** from pureeing to beating to dough kneading. However, if you have limited space or simpler cooking needs, its size and complexity may be unnecessary. 
+The Ninja CI101 Foodi shines in kitchens where culinary creativity is a priority and space isn't a constraint. More than a blender, it's a comprehensive kitchen multi-tool that **handles everything** from pureeing to beating to dough kneading. However, if you have limited space or simpler cooking needs, its size and complexity may be unnecessary.\[1683\] Ninja Foodi Power Mixer System Blender Mayonnaise 2
 
-Similar to the two previous products we reviewed, the Ninja impressed us with top-notch testing performances, churning out near-perfect results. In particular, it quickly created a **flawless puréed soup** in an astonishing 30 seconds. The final product was not just smooth but also impeccably uniform in texture. The blender also **fared well** in preparing frozen fruit smoothies, though the process took nearly three minutes.\[1683\] Ninja Foodi Power Mixer System Blender Mayonnaise 2
+Similar to the two previous products we reviewed, the Ninja impressed us with top-notch testing performances, churning out near-perfect results. In particular, it quickly created a **flawless puréed soup** in an astonishing 30 seconds. The final product was not just smooth but also impeccably uniform in texture. The blender also **fared well** in preparing frozen fruit smoothies, though the process took nearly three minutes.
 
 As a **professional-grade performer for aeration tasks**,  the Ninja CI101 Foodi also excelled at making mayonnaise and whipping egg whites. The inclusion of well-designed beaters leads us to believe that it might even be effective at preparing dough for baked goods. 
 
