@@ -103,17 +103,19 @@ A few quick notes on other immersion blenders we tested:
 *   [Cuisinart Smart Stick](https://healthykitchen101.com/blenders/reviews/cuisinart/cuisinart-csb-175/): This is a budget option that often struggles with hard ingredients like frozen fruits. However, it still provides consistent performance for lighter-duty tasks and offers good value for the money.
 *   [KOIOS 4-in-1](https://healthykitchen101.com/blenders/reviews/koios/koios-4-in-1-immersion/): The blender is a valuable option if you are willing to compromise on heavy-duty performance. Its 400-watt motor lets you blend, puree, or grind with acceptable results while the solid body offers a reasonably comfortable, non-slip grip.
 
-Factors to Consider
--------------------
+Things to Keep in Mind When Buying an Immersion Blender
+-------------------------------------------------------
 
 Here are a few key aspects that everyone should consider before buying an immersion blender:
 
-*   **Motor Power**: Basic tasks like whipping and blending are efficiently handled by motors ranging from 200W- 600W . For heavy-duty tasks like ice crushing, aim for around 1,000W. 
-*   **Price**: Immersion blenders under $50 are usually medium-quality and durable with proper care. Premium models range from $80-$200+, offering sturdier builds and added accessories.
-*   **Material**: Stainless steel blade shafts are durable and resistant to warping, outlasting plastic ones which might melt or warp with heat.
-*   **Speed Controls**: Two speeds (Low and High) are usually sufficient, but multi-speed blenders, though pricier, provide more flexibility and control.
+*   **Motor Power:** Mid-range motors ranging from 200W to 600W are perfectly capable of handling tasks like whipping and blending. For heavy-duty tasks like ice crushing, aim for around 1,000W. 
+*   **Price:** Immersion blenders under $50 are usually medium-quality and durable as long as they’re given proper care. Premium models range from $80-$200+, offering sturdier builds and additional accessories.
+*   **Material:** Stainless steel blade shafts are durable and resistant to warping. Plastic shafts are liable to melt or warp with heat.
+*   **Speed Controls:** Two speeds (Low and High) are usually sufficient. Multi-speed blenders provide more flexibility and control, but not everyone will consider them worth the added cost.
+*   **Attachments:** While many people use immersion blenders for basic tasks, additional attachments like whisks or blending cups expand versatility. Some such accessories are included, while others must be purchased separately.
+*   **Cleaning:** A blender that's easy to clean—i.e. one that has dishwasher-safe parts and a design that doesn’t trap food in crevices—is highly convenient and saves time.
 
-For a comprehensive breakdown of these considerations, check our detailed [immersion blender buying guide](https://healthykitchen101.com/blenders/tips/immersion-blender-buying-guide/). 
+For a comprehensive breakdown of these considerations, check our detailed [immersion blender buying guide](https://healthykitchen101.com/blenders/tips/immersion-blender-buying-guide/).
 
 Our Expertise 
 --------------
