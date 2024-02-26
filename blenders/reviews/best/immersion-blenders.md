@@ -60,19 +60,15 @@ It features an ergonomic, textured handle that promotes a secure grip, even when
 *   Relatively heavy
 *   There aren’t any extra accessories included
 
-The Vitamix 5-speed is among the fastest, most efficient hand blenders we tested. Although it costs nearly twice as much as others, the premium price isn’t just for the brand name. 
+The Vitamix 5-speed ranks as one of the fastest, most efficient hand blenders we've tested, surpassing even the Braun MQ7035X in raw power and durability. It doesn’t earn our top recommendation, however, because of the steep price tag and the lack of additional accessories that could give it more capabilities.
 
 \[17\] Vitamix Immersion Blender Soup Purée
 
-Featuring a high-powered motor (625 watts), the blender can turn your foods into creamy, nutrient-dense purees in 30 seconds. Our tests yielded a refined hot soup, with a silky and consistent texture comparable to **high-end restaurants**. 
+Featuring a high-powered motor (625 watts), this blender can turn your foods into creamy, nutrient-dense **purees in 30 seconds**. Our tests yielded a refined hot soup, with a silky and consistent texture that would feel at home in **high-end restaurants**. For frozen fruit smoothies, it took just **1 minute** to complete the task. The resulting smoothie was **unparalleled**. Among all the blenders we tested, only the Vitamix was capable of delivering such a dense, creamy beverage with virtually no trace of unblended solids.  
 
-For frozen fruit smoothies, it took just 1 minute. The resultant **smoothie was unparalleled**. Among all the blenders we tested, only the Vitamix was capable of delivering such a dense, creamy beverage with virtually no trace of unblended solids.  
+However, without a whisk attachment, the Vitamix failed the egg-white whipping test. And although it can create a decent batch of mayonnaise, it takes a long time to do so and suction problems at the container's bottom make it less efficient than blenders with whisk attachments. Nonetheless, these limitations are most significant for those who need a multifunctional device that doubles as an aerating hand mixer.  
 
-However, without a whisk attachment, the Vitamix struggles with tasks that need aeration. In our egg white test, it failed to form stiff peaks, leaving behind a mix of bubbles and liquid instead. 
-
-Furthermore, although it can create mayonnaise, the extended blending time coupled with suction problems at the container's bottom make it less efficient compared to blenders equipped with a whisk attachment. 
-
-The Vitamix's interface is user-friendly, with two front buttons for 5 different speeds. The whole blender is solidly constructed from stainless steel, ensuring reduced wear and tear. Despite its slightly larger dimensions at 17.5 inches tall and 3 inches wide, it's not unwieldy. Weighing 3.2 pounds, it's on the heavier side, but its ergonomic rubber-coated handle ensures comfortable and easy maneuvering.
+The Vitamix's interface is **user-friendly**, with two front buttons that cycle through 5 different speeds. Its solid build, consisting of high-quality stainless steel, minimizes wear and tear over time. Although it’s **a bit larger** than typical models, the blender is far from cumbersome. This largely comes down to its smooth-operating motor, a rubber-coated handle, and a well-balanced design.
 
 3\. Best Immersion/Mixer Combo: Ninja Foodi Power Mixer System Blender
 
