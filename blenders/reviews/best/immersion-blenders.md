@@ -148,16 +148,16 @@ FAQ
 
 **1\. How do I Clean an Immersion Blender?**
 
-To clean an immersion blender, first detach the blending wand from the motor. The motor should be wiped with a damp cloth and never immersed in water. While the blending wand might be dishwasher-safe, it's best to hand wash it for longevity. You can either rinse the wand under running water or fill it with soapy water and briefly run the motor to let the blades self-clean. 
+To clean an immersion blender, first detach the blending wand from the motor. The motor should be wiped clean with a damp cloth and never immersed in water. While the blending wand might be dishwasher-safe, it will last longer if you always hand-wash it, instead. You can either rinse the wand under running water or fill a container with soapy water and briefly run the motor to let the blades self-clean.
 
 **2\. Can an Immersion Blender Crush Ice?**
 
-Immersion blenders are not typically designed to crush ice. While certain models may handle it, they often don't yield perfectly smooth results. For optimal ice-crushing outcomes based on our hands-on testing, we recommend using countertop blenders.
+Immersion blenders are not typically designed to crush ice. While certain models may handle it, their results are usually less than perfect. Our experience suggests you really need a countertop blender to create smooth crushed ice.
 
 **3\. Can I Make Whipped Egg Whites with an Immersion Blender?**
 
-You can whip egg whites with an immersion blender if it has a whisk attachment. Standard blending shafts don't incorporate enough air, often resulting in a separated, cloudy liquid instead of a bubbly foam. 
+You can whip egg whites with an immersion blender if it has a whisk attachment. Standard blending shafts don't incorporate enough air to whip them up, generating a separated, cloudy liquid instead of a bubbly foam.
 
 **4\. Can I Put an Immersion Blender in Hot Soup?**
 
-Absolutely, yes. Hot soups are pretty much exactly what these machines are designed for. Hot, soupy mixtures present almost no challenge.
+Absolutely, yes. Hot soups are precisely what these machines are designed for. Hot, soupy mixtures present almost no challenge.
