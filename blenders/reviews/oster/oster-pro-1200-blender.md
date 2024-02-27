@@ -72,7 +72,7 @@ We haven’t been able to nail down a reason for the imperfect results, but we h
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1crymo0014ey88civ633ol.jpg" alt="The Oster Pro  motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 1 minute 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1csihz0015ey888l2uhozp.jpg" alt="A mesh strainer filters a protein shake made by the Oster Pro, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1crymo0014ey88civ633ol.jpg" alt="The Oster Pro  motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 1 minute 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1csihz0015ey888l2uhozp.jpg" alt="A mesh strainer filters a protein shake made by the Oster Pro, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt456tji0029k28868k0c4nb.jpg" alt="Oster Pro 1200 Blender Protein Shakes Video" width="300px" height="200px">
 
 Blending Time: 1 min 50 seconds
 
