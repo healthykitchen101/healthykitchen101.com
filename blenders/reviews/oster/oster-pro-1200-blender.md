@@ -82,7 +82,7 @@ In this test, the Oster took nearly one minute and fifty seconds to fully liquef
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1ctud00016ey883u6y0ztq.jpg" alt="The Oster Pro is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cubd10017ey880wcf2z3n.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1ctud00016ey883u6y0ztq.jpg" alt="The Oster Pro is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cubd10017ey880wcf2z3n.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt3vzrfv0028k2886zgc47xz.jpg" alt="Oster Pro 1200 Blender Almond Butter Video" width="300px" height="200px">
 
 Blending Time: 3 mins 30 seconds
 
