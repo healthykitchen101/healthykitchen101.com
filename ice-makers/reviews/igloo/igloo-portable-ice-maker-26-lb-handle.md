@@ -50,7 +50,7 @@ Capacity Hr: 6.7 oz (190 g)
 
 Capacity24 Hrs: 10.1 lbs (4.6 kg)
 
-Since the Igloo is a similar-sized machine to both the Silonn and the [AGLucky HZB-12/B](https://healthykitchen101.com/ice-makers/reviews/aglucky/aglucky-ice-maker-hzb-12b/), the average basket capacity or weight per load is much the same. On average, a basket filled to 424 g, however, the average time per basket was 134 min. This compared poorly to 90 min and 94 min for its two closest competitors. Therefore, the overall 24 hr capacity only reached 4.6 kg, well below the stated 26 lbs or 12 kg. The compact Crownful managed 4.7 kg but within 87 min per load. All said and done, the Igloo is not really a machine we recommend.
+Since the Igloo is a similar-sized machine to both the Silonn and the [AGLucky HZB-12/B](https://healthykitchen101.com/ice-makers/reviews/aglucky/aglucky-ice-maker-hzb-12b/), the average basket capacity or weight per load is much the same. On average, a basket filled to (15 oz (424 g), however, the average time per basket was 134 min. This compared poorly to 90 min and 94 min for its two closest competitors. Therefore, the overall 24 hr capacity only reached 10.1 lbs (4.6 kg), well below the stated 26 lbs or 12 kg. The [compact Crownful](https://healthykitchen101.com/ice-makers/reviews/crownful/crownful-ice-maker-imb1000-ul/) managed 10.4 lbs (4.7 kg) but within 87 min per load. All said and done, the Igloo is not really a machine we recommend.
 
 ### Ice Quality Test
 
@@ -58,7 +58,7 @@ Since the Igloo is a similar-sized machine to both the Silonn and the [AGLucky H
 
 Average Weight Bullet: 0.13 oz (3.8 g)
 
-Ice making cycles with the Igloo varied a lot and the machine took comparatively long to settle into a good working rhythm. The average weight per bullet was only 3.8 g, so well below the expected 5 grams and only periodically reaching 4 grams or more. Additionally, the amount of broken or insubstantially formed ice was 40 g per load, or roughly 9.4%. This was the highest recorded of any machine with 2% or less being the best average and 4% a medial average.
+Ice making cycles with the Igloo varied a lot and the machine took comparatively long to settle into a good working rhythm. The average weight per bullet was only 3.8 g (0.13 oz), so well below the expected 5 g (0.18 oz) and only periodically reaching 4 grams or more. Additionally, the amount of broken or insubstantially formed ice was 40 g (1.4 oz) per load, or roughly 9.4%. This was the highest recorded of any machine with 2% or less being the best average and 4% a medial average.
 
 Design
 ------
