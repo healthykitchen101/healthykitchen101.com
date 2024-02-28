@@ -164,10 +164,3 @@ Not all immersion filters have holes on the bottom. We found this design quite f
 The Aquach has a total of six parts. Including two silicone seals. The filter was a little long for hand cleaning, so we recommend a non-abrasive bottle brush. Because the filter is very fine, you’ll periodically need to descale it. This you can do by soaking it in a solution of water and baking soda, vinegar, or citric acid.
 
 For the decanter, we were able to reach inside and hand wash it comfortably. However, all parts except the silicone seals can go in the dishwasher. It stores fully assembled, but check the complete dimensions to make sure you have space for it.
-
-Compared to Other Cold Brew Coffee Makers
------------------------------------------
-
-There are a number of cold brew coffee makers that match the stylish appeal of the Aquach. One such glass carafe brewer is [the Ovalware](https://healthykitchen101.com/coffee-makers/reviews/ovalware/ovalware-cold-brew/) and another is [Bean Envy](https://healthykitchen101.com/coffee-makers/reviews/bean-envy/bean-envy-cold-brew/). Both these brewers produce a better quality brew due to the filter of the Aquach being a little too fine with limited cross-flow during brewing.
-
-If you need something for brewing in the door of a small refrigerator, you could consider the [Takeya](https://healthykitchen101.com/coffee-makers/reviews/takeya/takeya-cold-brew/) or the [County Line Kitchen](https://healthykitchen101.com/coffee-makers/reviews/county-line-kitchen/county-line-kitchen-cold-brew/) cold brew coffee makers. Alternatively, if you’re interested in making a full-strength cold brew concentrate, you should look to the [Toddy](https://healthykitchen101.com/coffee-makers/reviews/toddy/toddy-cold-brew-system/), the [OXO Compact](https://healthykitchen101.com/coffee-makers/reviews/oxo/oxo-compact-cold-brew/), or the [Bodum](https://healthykitchen101.com/coffee-makers/reviews/bodum/bodum-cold-brew/) - all detailed in our reviews of the [best cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
