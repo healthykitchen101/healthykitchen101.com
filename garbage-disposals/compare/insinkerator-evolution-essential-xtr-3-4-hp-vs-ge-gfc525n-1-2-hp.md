@@ -1,0 +1,3 @@
+Although the GFC525N can’t really compare to the Evolution Essential XTR, it’s a strong garbage disposal in its own right. It is one of top-performing model in our lineup of small disposals and it actually out-grind several stronger and more expensive models in performance testing.
+
+That said, the Evolution Essential XTR is still the stronger choice here. It offers plenty of grinding power thanks to its intricately designed chamber and its solid build quality. Not to mention the disposal’s anti-vibration system. Of course, it may also cost up to 3 times the GFC525N depending on the market.
