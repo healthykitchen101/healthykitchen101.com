@@ -204,10 +204,3 @@ The OXO Compact has more separable parts than most cold coffee makers. The caraf
 The silicone seal is easy enough from the cork stopper for cleaning. The brew vessel is wide, so it was easy to clean. However, you should be careful not to misplace the red gasket on the bottom. 
 
 For storage, the OXO Compact is really well thought out. The carafe sits in the brew vessel. Then, if you rest the lid and carafe stopper at an angle, the ‘rainmaker’ inverts for use as a lid for storage.
-
-Compared to Other Cold Brew Coffee Makers 
-------------------------------------------
-
-The best comparison to the OXO Compact which we tested is the [Bodum French press](https://healthykitchen101.com/coffee-makers/reviews/bodum/bodum-cold-brew/) cold brew coffee maker. Both produce a strong and defined cold brew concentrate. The Bodum, however, does not have a separate carafe for easily decanting the entire brew. Out of the free-style brewers, the [Toddy Cold Brew System](https://healthykitchen101.com/coffee-makers/reviews/toddy/toddy-cold-brew-system/) produces the largest volume and brews the most complex flavor.
-
-For other cold brew coffee makers, [our full length reviews](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/) also highlight the best carafe style brewers with an immersion filter. These have a fixed brew ratio and do not produce a full-strength cold brew coffee concentrate.
