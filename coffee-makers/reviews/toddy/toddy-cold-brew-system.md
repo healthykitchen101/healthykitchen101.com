@@ -210,10 +210,3 @@ The Toddy Cold Brew System has minimal components, so storage is straightforward
 The decanter neck is wide enough for all but the largest of hands to reach in and clean. It fits comfortably into the brew vessel for storage. Since the silicone lid is flexible, it too slips in nicely.
 
 The felt filter, however, must be placed in a plastic bag while wet and then put into the refrigerator, which is a little inconvenient. You can easily keep the silicone stopper in the brew vessel when not in use, or place it into the empty decanter.
-
-Compared to Other Cold Brew Coffee Makers
------------------------------------------
-
-For a free-style brewer and a brew ratio for making a cold brew coffee concentrate, there are only a few comparisons to be made with the [Toddy Cold Brew System](https://healthykitchen101.com/coffee-makers/reviews/toddy/toddy-cold-brew-system/). One is the OXO which produces a stronger and more defined brew with its proprietary rainmaker water dripping lid. We tested the [OXO Compact](https://healthykitchen101.com/coffee-makers/reviews/oxo/oxo-compact-cold-brew/) which is very similar in design to the large OXO Good Grips. 
-
-Another close contender to the Toddy is the [Bodum French press](https://healthykitchen101.com/coffee-makers/reviews/bodum/bodum-cold-brew/) cold brew coffee maker. Its fast and efficient filtration method outperforms the Toddy, but the felt filter of the Toddy produces a smoother finished brew. For other comparisons, you can see our complete reviews for the [best cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
