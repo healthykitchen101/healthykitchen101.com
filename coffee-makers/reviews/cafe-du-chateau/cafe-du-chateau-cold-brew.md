@@ -173,10 +173,3 @@ The user manual states the glass decanter is fully removable from the stainless 
 All components except for the silicone seals can go into the dishwasher.
 
 Once dried, the brewer can be stored fully assembled. It looks nice on a counter and should easily fit in a standard cupboard or a shelf space. The filter also stands well on its own for storage when the decanter is in use.
-
-Compared to Other Cold Brew Coffee Makers 
-------------------------------------------
-
-Cafe Du Chateau is not a cold brew coffee maker that we actually recommend, but there are plenty of other options. If you want to experience true French press cold brew coffee making, we highly recommend [the Bodum](https://healthykitchen101.com/coffee-makers/reviews/bodum/bodum-cold-brew/). It brews a full-strength cold brew concentrate using a free-style brewing method.
-
-If you prefer a similar glass carafe style brewer, the best choices are [Ovalware](https://healthykitchen101.com/coffee-makers/reviews/ovalware/ovalware-cold-brew/) and [Bean Envy](https://healthykitchen101.com/coffee-makers/reviews/bean-envy/bean-envy-cold-brew/). For these, and more, see our full listing of the [best cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
