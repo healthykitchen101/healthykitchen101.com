@@ -183,10 +183,3 @@ The filter itself is quite long, and was difficult to clean without a bottle bru
 Cleaning was not as straightforward as it seemed like it should be. The handle has a nice silicone sleeve for comfortable gripping. It took a little effort to remove that for cleaning and to replace it again.
 
 Storage is easy enough because all parts screw together and you are unlikely to misplace any parts if you reassemble properly. Replacement filters can also be purchased online.
-
-Compared to Other Cold Brew Coffee Makers 
-------------------------------------------
-
-If you require a larger type of cold brew coffee maker to brew in the door of your refrigerator, the Takeya is the best for the job. [The Goodful](https://healthykitchen101.com/coffee-makers/reviews/goodful/goodful-cold-brew/) is very similar but the design and materials are not as high-quality. It is also a little wider and larger so may not fit smaller refrigerators. The Takeya is unique in that it can also brew laying on its side.
-
-For smaller jug type brewers you could consider [the Coffee Gator](https://healthykitchen101.com/coffee-makers/reviews/coffee-gator/coffee-gator-cold-brew/) or [Coffee Bear](https://healthykitchen101.com/coffee-makers/reviews/coffee-bear/coffee-bear-cold-brew/), but their brew quality and strength are not as good as the Takeya. For other types of brewers, including free-style brewers, see our complete reviews of the [best cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
