@@ -165,10 +165,3 @@ Like any immersion filter brew, decanting was effortless. All you need to do is 
 To clean the filter, you need to rinse out the grounds and then gently clean with a bottle brush and a small amount of liquid soap. We noticed a fair amount of coffee oil that required soap for cleaning. Also, the filter lost its pearly white appeal after the first brew. However, you can see the residue oil to wash off more easily than with a black-colored filter.
 
 The carafe itself also cleans easily. We had no problem getting our hands inside, but larger hands may be a problem. You can put the glass carafe in a dishwasher, but Coffee Gator recommends hand washing.
-
-Compared to Other Cold Brew Coffee Makers
------------------------------------------
-
-Coffee Gator is a cold brew coffee maker best suited for the door of a small refrigerator. An almost identical design is [Coffee Bear](https://healthykitchen101.com/coffee-makers/reviews/coffee-bear/coffee-bear-cold-brew/), however, it doesn’t come with a measuring spoon or silicone filter.
-
-For better brew quality alternatives, you could consider the [County Line Kitchen](https://healthykitchen101.com/coffee-makers/reviews/county-line-kitchen/county-line-kitchen-cold-brew/) 1-quart or 2-quart mason jar brewers. The [Takeya](https://healthykitchen101.com/coffee-makers/reviews/takeya/takeya-cold-brew/) is more suited to brewing larger volume, or you can see our complete list of the [best cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
