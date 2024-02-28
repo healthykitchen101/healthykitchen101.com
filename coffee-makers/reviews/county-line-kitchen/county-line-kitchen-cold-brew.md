@@ -174,10 +174,3 @@ For deep cleaning, you need to remove the flip cap and the lid’s inner gasket.
 All parts are dishwasher friendly, but it’s probably better to just rinse off the silicone filter seal and lid gasket. You’ll periodically need to soak the filter in a mixture of water and baking soda, vinegar, or citric acid to unclog coffee oils and remove odors. 
 
 After brewing, you will need a small space to store the filter. You should place it upside down so the silicone seal stays safe. When you are not using the jar, everything conveniently stores as a single unit.
-
-Compared to Other Cold Brew Coffee Makers 
-------------------------------------------
-
-The key features and value of the County Line Kitchen cold brew coffee makers are their spill proof design and ease of brewing in the door of a refrigerator. For a similar brew quality, you could consider [the Takeya](https://healthykitchen101.com/coffee-makers/reviews/takeya/takeya-cold-brew/). The Takeya is an easy fit for most refrigerator doors, it brews a larger volume, and can also brew laying on its side.
-
-If you like the mason jar design, [Willow & Everett](https://healthykitchen101.com/coffee-makers/reviews/willow-everett/willow-everett-cold-brew/) half and full gallon brewers are not a bad choice. The brew quality is one of the best for an immersion filter brewer, but the design is not without its flaws, especially the spigot quality and glass fragility. Alternatively, you can see a full listing of our [top cold brew coffee makers](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/).
