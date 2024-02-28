@@ -167,12 +167,3 @@ Due to the amount of sediment left behind, we recommend a second decanting at th
 The shape of the Ovalware carafe means that you need to clean it with a bottle brush. Although slightly more effort is needed than other brewers, it’s a small compromise on a design that works comparatively well. The filter requires a bottle brush too, however, all parts can go in the dishwasher.
 
 The Ovalware cold brew coffee maker simply stores as it is. We noted that the silicone base is an excellent design feature for safer storage. The glass doesn’t bang and the sides are protected from scratching.
-
-Compared to Other Cold Brew Coffee Makers 
-------------------------------------------
-
-For a stylish glass carafe with a stopper, the best contender to the Ovalware is the [Bean Envy cold brew](https://healthykitchen101.com/coffee-makers/reviews/bean-envy/bean-envy-cold-brew/) coffee maker. Bean Envy tends to produce a slightly more bitter brew. 
-
-The key design difference is the more slender appeal of the Ovalware and the Bean Envy has a two-stopper design — one for while brewing and a pop-up silicone stopper for pouring after decanting the filter. Its silicone base is also an easier fit.
-
-For similar immersion filter brewers, see our complete reviews of the [best cold brew coffee makers.](https://healthykitchen101.com/coffee-makers/reviews/best/cold-brew-coffee-makers/) These include mason jar brewers and jug type brewers that will more easily fit into any refrigerator door.
