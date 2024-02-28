@@ -1,0 +1,3 @@
+The Evolution Essential XTR and the L3200 are two very different garbage disposals. Though they have the same power rating, the Waste King disposal runs on a much simpler grinder design. It also offers cheaper build quality. As a result, it falls short in terms of grinding power in comparison.
+
+The Essential XTR is a high-tier product with a more intricate grinding chamber and better quality. Judging by the results from performance testing alone, the disposal is the superior grinder between the two. Additionally, the Evolution series is renowned for its noise reduction system and is much quieter than the L3200.
