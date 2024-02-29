@@ -102,11 +102,11 @@ Parameters for Grading Ice Quality
 
 A hand holding a piece of ice with a measuring tong indicating a length of 1.1 inches or 28 millimeters.
 
-We found that large ice bullets vary in size between 5 and 7 grams. This holds true for all standard bullet ice makers once they settle into a stable ice making pattern.
+We have found that large ice bullets vary in size from 5 to 7 grams as an average. Some machines we have tested have produced bullets of 8 to 9 grams, but not as a consistent general average. A select number of large machines actually have three ice bullet sizes.
 
-Manufacturers like to claim that you can have ice ready in 8 to 13 minutes. However, it takes even the best of machines around 7 to 10 waves of ice making, before you get really nice quality ice that weighs 5 grams or more on average.
+Manufacturers like to claim that you can have ice ready in 8 to 13 minutes. However, it takes even the best of machines around 5 to 7 waves of ice making before you get ice bullets that weigh 5 grams or more on average. 
 
-Once your ice maker ‘gets into the groove’ can get ice bullets that weigh as much as 7 grams, but rarely will a decent machine drop the average ice bullet weight below 5 grams.
+Once your ice maker ‘gets into the groove’ you can get ice bullets that weigh as much as 7 grams or higher. Rarely will a full-sized machine drop the average ice bullet weight below 5 grams. Compact machines often only produce large bullets between 4 to 5 grams.
 
 One way to speed things up is to put chilled water of around 10 ℃ or slightly more into the tank. We start our testing with room temperature water of 25 ℃ in order to test performance from the ground up.
 
