@@ -2,7 +2,7 @@
 
 Two portable ice makers getting readied for testing.
 
-Portable or countertop ice makers come in a number of designs which make specific types of ice. Generally, the most affordable type of countertop ice maker is a bullet ice maker. These types of machines typically make small and large ice bullets. Our ice quality test focuses on the large ice bullets since these are generally preferred to the smaller ones and are a better measure of the machine's best performing benchmark.
+Portable or countertop ice makers come in a number of designs which make specific types of ice. Generally, the most affordable type of countertop ice maker is a bullet ice making machine. These typically make small and large ice bullets. Our ice quality test focuses on the large ice bullets since these are generally preferred to the smaller ones and are a better measure of the machine's best performing benchmark.
 
 How Are Ice Bullets Made?
 -------------------------
@@ -36,12 +36,12 @@ Although we run tests for both small and large ice bullets, we score the machine
 
 **Large ice bullets:** 
 
-*   Between 5 and 7 grams.
+*   Between 5 to 8 grams.
 *   Best for ice teas, smoothies, sodas, and similar beverages.
 
 **Small ice bullets:** 
 
-*   Between 2 and 5 grams.
+*   Between 2 to 5 grams.
 *   Best of ice beds for seafood, beer, or other beverage containers.
 
 Water Quality and Ice Making
