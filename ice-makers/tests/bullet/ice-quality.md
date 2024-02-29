@@ -117,18 +117,18 @@ How We Score for Ice Quality with Bullet Ice Makers
 
 Nine ice bullets being weighed in grams.
 
-The time we calculate for each ice making cycle is when ice is deposited into the basket and the ice making mechanism recalibrates. We measure 15 continual cycles and calculate the net average weight per ice wave.
+The time we calculate for each ice making cycle is when ice is deposited into the basket and the ice making mechanism recalibrates. We measure 15 to 20 continual cycles and calculate the net average weight per ice wave.
 
-From the point where the machine stabilizes at 5 grams per bullet or above, we measure the average weight per bullet and score to a benchmark of 7 grams. 
+From the point where the machine stabilizes to a consistent net bullet weight—usually 5 grams per bullet or above—we measure the average weight per bullet and score to a benchmark of 7 grams.
 
 *   7 g = 10 pts
 *   Average bullet weight x (10/7) = Net score
 
-For every ice wave that is less than 5 g we subtract 0.05 pts from the above score. This is to reward machines that are able to get up to standard faster and work consistently well.
+For every ice wave that is less than the stabilized average we subtract 0.05 pts from the above score. This is to reward machines that are able to get up to standard faster and work consistently well.
 
 *   Net score - (0.05 x no. Ice waves < 5g) = Final Score
 
-The ice quality test is one of two tests we do to gauge performance. This test counts for 40% of the total score where the ice quantity test is 60% of the score. Our ice quantity test also incorporates a quality check since we discard badly formed or broken ice and also penalize this to the net final score. 
+The ice quality test is one of two tests we do to gauge performance. This test counts for 40% of the total score where the [ice capacity test](https://healthykitchen101.com/ice-makers/tests/bullet/ice-capacity/) is 60% of the score. Our ice capacity test incorporates an additional quality check since we discard badly formed or broken ice and also penalize this to the net final score.
 
 Issues Encountered During Testing
 ---------------------------------
