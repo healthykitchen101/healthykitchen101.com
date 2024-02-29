@@ -76,8 +76,10 @@ From this, we calculate the hour capacity per weight and then extrapolate this t
 
 From this, we establish an initial score on a scale of 1 to 10 based on the benchmark of 26 lbs (12 kg) ice per day since this is the standard average capacity claimed by most manufacturers. In our scoring system, 12 kg or more scores 10 points while 200g = 0.1 pts.
 
+*   \[10‒(12000‒net capacity) / 200\*0.1\]
+
 Since good ice making is also about the overall consistent quality, we calculate the average waste ice as a percentage of the initial total weight. For each 1% of waste ice we subtract a total of 0.1 points to calculate the final score.
 
 *   Gross score - (% waste ice x 0.1) = Final Score
 
-This ice capacity test counts for 60% of the Performance Score while the ice quality test accounts for 40% of the same score. The ice quality test is designed to see how fast a machine can get up to speed in producing quality ice bullets and its ability to maintain a consistently good quality of ice.
+This ice capacity test counts for 60% of the Performance Score while the [ice quality test](https://healthykitchen101.com/ice-makers/tests/bullet/ice-quality/) accounts for 40% of the same score. The ice quality test is designed to see how fast a machine can get up to speed in producing quality ice bullets and its ability to maintain a consistently good quality of ice.
