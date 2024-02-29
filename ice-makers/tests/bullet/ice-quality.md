@@ -135,9 +135,9 @@ Issues Encountered During Testing
 
 Occasionally, with some machines, one or more ice bullets failed to fall off the rods. This was quite rare, but the bullets always fell off as they should in the subsequent ice making wave.
 
-Most machines build up a generally good momentum, but with a few machines the average ice weight did drop below 5 grams a couple of times. We penalized these instances in our scoring system.
+Most machines build up a generally good momentum, but with a few machines the average ice weight did drop a couple of times below the established minimum threshold. We penalized these instances in our scoring system.
 
-Once an ice maker gets going, the temperature of the water in the ice basket starts to decrease which contributes to faster and better ice making. Half way through our preliminary test cycle we topped up the tank with room temperature water to see what would happen. As expected, the quality of the ice decreased in overall weight and it took two or three ice making cycles to restabilize above 5 grams per bullet.
+Once an ice maker gets going, the temperature of the water in the ice basket starts to decrease which contributes to faster and better ice making. Half way through our preliminary test cycle we topped up the tank with room temperature water to see what would happen. As expected, the quality of the ice decreased in overall weight and it took two or three ice making cycles to restabilize above the usual 5 grams per bullet point.
 
 Thus, for our ice quantity performance test, we made sure to refill the tank with refrigerated water of around 10 ℃ (50 ℉) in order to keep up the ice making momentum.
 
