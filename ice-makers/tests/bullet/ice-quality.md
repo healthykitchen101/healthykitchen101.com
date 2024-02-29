@@ -71,7 +71,7 @@ TDS zero ice on the left and tap water ice on the right.
 
 TDS zero ice to the right and tap water ice to the right.
 
-If you want to get perfectly clear ice, then it is necessary to use filtered water with a low TDS level. This is also one reason why we chose to use ZeroWater for our ice making tests. In fact, the [GE Opal Nugget Ice Maker](https://products.geappliances.com/appliance/gea-support-search-content?contentId=39625) recommends using only distilled water for ice making.
+If you want to get perfectly clear ice, then it is necessary to use filtered water with a low TDS level. This is also one reason why we chose to use ZeroWater for our ice making tests.
 
 There is some [concern about demineralized water](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4223198/) in that it’s not the best water for consumption. However, to date, there is no collection of data to suggest that [low TDS water](https://wqa.org/resources/consumption-of-low-tds-water/) had adverse cumulative health effects. 
 
