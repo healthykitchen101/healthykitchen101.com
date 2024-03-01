@@ -1,0 +1,3 @@
+The top-tier InSinkErator Evolution Excel 1-HP tackles even the toughest food scraps with ease, boasting intricate grinding mechanisms and exceptional noise insulation. The feature-packed disposal can deal with all sorts of kitchen scraps, as evidenced by our rigorous testing. But, it’s a very expensive product.
+
+The InSinkErator Evolution Compact 3/4-HP is also one of the Evolution series. The disposal shares several aspects with Excel and uses basically the same multi-level grinding and sound-sealing technologies. As a result, the Compact is among the quietest garbage disposal we’ve recorded and its output quality is often satisfying.
