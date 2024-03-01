@@ -3,7 +3,7 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (50%) - **5.5**/undefined
+*   Performance (50%) - **9.0**/undefined
     
 *   Design (25%) - **0.0**/undefined
     
@@ -35,6 +35,8 @@ performance Scores: **NaN**
     
 *   Making Pancakes (9.4%) - **40**/undefined
     
+*   Cooking Steaks (40%) - **8.7**/undefined
+    
 
 The Presto Foldaway Non-Stick Electric Skillet 06857 is top-tier in terms of heat distributing evenness, how hot it gets, and temperature stability among our tested units. This translates to some excellent pancakes and steaks.
 
@@ -61,3 +63,24 @@ The Presto took **3 min 50 sec** to preheat to 350°F, which was quite fast for 
 We achieved the best possible pancake on this skillet by cooking the top for **1 min 30 sec** and the bottom for double the amount of time. However, you may need to adjust the time depending on your pancake mix. For the sake of testing, we made one pancake each time but this 16-inch pan can fit 3 or 4 at a time no problem.
 
 We didn’t need to coat the pan with any butter or oil thanks to the non-stick coating. Nonetheless, adding oil to the pan is recommended to prolong its lifespan.
+
+### Cooking Steaks
+
+Heating Time: 4 min
+
+Temperature: High heat / 400°F
+
+To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first needed to preheat the Presto to 400°F. This took **6 minutes** which was quite slow even considering the large surface area, so we had to score it 6/10.
+
+After seasoning the steak and inserting a meat thermometer to the center of it, we seared both the first side and the second side for **4 minutes** each. We then give the edge with the fat cap 2 minutes and the other edges 1 min 30 sec each. Finally, we added some fresh rosemary and butter and gave each side 2 more minutes.
+
+The cooking process raised the steak’s internal temperature to **135°F** which increased to **142°F** after the compulsory 3 minutes of resting the meat. This hit the sweet spot for an **excellent medium-rare** steak that was **tender** and **juicy**. The entire process took around 19 minutes.
+
+The skillet’s heat was **stable** but not as high as 500°F like some other skillets, so the crust wasn’t the thickest or crispiest. Nonetheless, it was good enough to earn a 9/10 from our chef, only losing to the steak by the Hamilton Beach 38529K.
+
+Design
+------
+
+design Scores: **0.0**
+
+The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality which highlights its detachable base and fold-down handles. The thick pan is ideal for heat distribution, if only the non-stick coating was ceramic instead of Teflon and if the lid’s metal edging fitted the pan better.
