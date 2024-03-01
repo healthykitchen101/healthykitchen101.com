@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel 1-HP is a powerful garbage disposal that may be able to handle a variety of kitchen scraps, based on our testing. It features intricate grinding mechanisms and exceptional noise insulation, making it one of the best choices for sensitive ears. However, as you may expect, this is a premium product with a higher price tag.
+
+The Waste King L8000 1-HP is a whole other story with affordability at the core. The disposal is a much less capable machine, but it’s also much, much less expensive. While its grinding power has potential, it comes with limitations in terms of size and noise. These factors might require careful consideration before purchase.
