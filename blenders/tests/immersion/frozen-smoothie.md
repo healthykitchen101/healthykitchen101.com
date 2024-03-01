@@ -59,12 +59,12 @@ Some blenders take closer to 2 minutes to complete the test
 
 *   **≤ 1 min**: Not every immersion blender can handle the tough job of breaking down solid ingredients in a short amount of time. A good machine usually demands 90-120 seconds to yield a smooth texture. That's why we gave full marks to any blender that passed the test in under one minute.
 *   **1 min < 1 min 10 secs**: 9 points
-*    **1 min 10 secs <  1 min 20 secs**: 8 points 
-*    **1 min 20 secs <  1 min 30 secs:** 7 points 
-*    **1 min 30 secs <  1 min 40 secs:** 6 points
-*    **1 min 40 secs <  1 min 50 secs:** 5 points
-*    **1 min 50 secs < 2 mins:** 4 points
-*    **2 mins < 2 mins 10 secs:** 3 points
+*   **1 min 10 secs <  1 min 20 secs**: 8 points 
+*   **1 min 20 secs <  1 min 30 secs:** 7 points 
+*   **1 min 30 secs <  1 min 40 secs:** 6 points
+*   **1 min 40 secs <  1 min 50 secs:** 5 points
+*   **1 min 50 secs < 2 mins:** 4 points
+*   **2 mins < 2 mins 10 secs:** 3 points
 *   **2 mins 10 secs < 2 mins 20 secs**: 2 points
 *   **2 mins 20 secs < 2 mins 30 secs**: 1 point
 *   **\>2 mins 30 secs**: 0 points
