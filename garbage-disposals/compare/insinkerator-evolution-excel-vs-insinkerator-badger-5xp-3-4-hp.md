@@ -1,0 +1,3 @@
+The InSinkErator Badger 5XP is neither too good nor too bad a garbage disposal. It’s a well-built and durable grinder and it can deal with common kitchen scraps. However, it won’t be able to guarantee drain-safe output. This is especially bad if you’re living in something like an apartment building with shared pipes.
+
+The InSinkErator Evolution Excel 1-HP is the opposite of that; it’s what you buy when you don’t want to worry about what goes down the drain. It’s a powerful garbage disposal that can process raw fish bones like its normal kitchen scraps. Furthermore, its noise-canceling system delivers industry-leading experience. These premium features are reflected in its higher price point compared to the Badger 5XP.
