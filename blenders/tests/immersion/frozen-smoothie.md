@@ -19,7 +19,9 @@ Testing Recipe: 1 Serving
 *   3 oz frozen pineapple
 *   3 ft oz water
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl1nbx5tr0003fw884neobsai.jpg" alt="Nine immersion blenders standing in a table with the ingredients for the frozen fruit smoothie test, including mango, pineapple, and kale, next to them." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt8bcn40002kk2889zbt7zmw.jpg" alt="Smoothie ingredients being weighed on a kitchen scale" width="640" height="427">
+
+Smoothie ingredients being weighed on a kitchen scale
 
 Testing Procedure
 -----------------
