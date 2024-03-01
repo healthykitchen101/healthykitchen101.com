@@ -1,6 +1,6 @@
 Not all users want icy blends from their immersion blenders; some stick to fresh fruit smoothies for their higher nutritional value and sweeter flavor. However, we decided this test was worthwhile because any machine that can blend fiber and solid ingredients won’t have any trouble making other fruity drinks. And if you find a machine that can succeed here, this should be one of the most [versatile immersion  blenders.](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/)
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt8bbieo002jk288exkvbdfn.jpg" alt="Twenty two immersion blenders standing in a table with the ingredients for the frozen fruit smoothie test, including mango, pineapple, and kale, next to them.  Caption: We put dozens of immersion blenders through the same tests to find the best performing models" width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt8bbieo002jk288exkvbdfn.jpg" alt="Twenty two immersion blenders standing in a table with the ingredients for the frozen fruit smoothie test, including mango, pineapple, and kale, next to them.  Caption: We put dozens of immersion blenders through the same tests to find the best performing models" width="768" height="512">
 
 Why The Test Matters
 --------------------
