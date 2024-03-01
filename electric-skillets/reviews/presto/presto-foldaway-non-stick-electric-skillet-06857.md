@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (50%) - **9.0**/undefined
     
-*   Design (25%) - **3.6**/undefined
+*   Design (25%) - **8.4**/undefined
     
 *   Usability (25%) - **0.0**/undefined
     
@@ -85,6 +85,12 @@ design Scores: **NaN**
 
 *   Pan (40%) - **9.0**/undefined
     
+*   Lid (15%) - **7.0**/undefined
+    
+*   Base (30%) - **9.0**/undefined
+    
+*   Thermostat (15%) - **7.0**/undefined
+    
 
 The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality which highlights its detachable base and fold-down handles. The thick pan is ideal for heat distribution, if only the non-stick coating was ceramic instead of Teflon and if the lid’s metal edging fitted the pan better.
 
@@ -109,3 +115,43 @@ The Presto skillet has a 0.12" thick cast aluminum pan which is more durable tha
 The pan has a spout for pouring liquid, so the lid doesn’t need to have a steam vent to release the pressure (+1). The handles are part of the base which can be completely detached from the pan (+1). At the bottom of the detached pan are four stands so that you can directly serve it on the table.
 
 The non-stick coating is Teflon which is cheaper than ceramic coating and raises some health concerns although most modern Teflon products are free of PFOA (+1). Nonetheless, the pan is dishwasher-safe (+2).
+
+### 7.0 - Lid
+
+Material: Tempered glass
+
+Handle: Steel
+
+Steam Vent: No
+
+Dishwasher-Safe: Yes
+
+The tempered glass lid is dishwasher-safe and has a steel handle and no steam vent (+6). It has metal edging which is common but it doesn’t fit the pan as tightly as some other skillets we’ve seen (+1).
+
+### 9.0 - Base
+
+Material: Thermosetting plastic
+
+Detachable: Yes
+
+Anti-Slip Pads: Four
+
+Dishwasher-Safe: Yes
+
+The detachable base with foldable handles is the best feature of the Presto (+4). Simply press the locking clips on the handles to release the pan and you can lift it up.
+
+The base is made of thermosetting plastic which isn’t as durable as metal but much lighter (+1). It has four anti-slip pads at the bottom and is dishwasher-safe (+4).
+
+### 7.0 - Thermostat
+
+Temperature Range: Warm-200–250-300-350-400°F
+
+Detachable: Yes
+
+Indicator Light: Yes
+
+Dishwasher-Safe: No
+
+The detachable thermostat has a common design and temperature range (from 200 to 400°F) (+3). Keep in mind that the warm setting is around 150°F and not maintaining the current temperature like some other skillets.
+
+The thermostat fits the socket nicely, making it easy to remove afterward (+2). It has an indicator light and isn’t dishwasher-safe (+2).
