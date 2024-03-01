@@ -1,0 +1,3 @@
+The InSinkErator Evolution Excel 1-HP is a top-tier garbage disposal that can deal with all sorts of kitchen scrap with relative ease. Employing intricate grinding mechanics and exceptional noise insulation, it boasts the most features on the market. Our testing confirms its effectiveness, as evidenced by the results we recorded.
+
+The GE Disposall GFC720N 3/4-HP is a different story. The disposal is basically raw grinding power wrapped in a thick plastic body casing. While not as feature-rich, it remains one of the best 3/4-HP models we've tested. Admittedly, we do think it can be inconsistent at times, especially when dealing with bones.
