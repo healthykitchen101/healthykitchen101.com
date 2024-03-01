@@ -1,0 +1,3 @@
+We’ve got here two very powerful garbage disposals that are suitable for families who cook often and have plenty of kitchen scraps to dispose of daily. That said, the Evolution Excel is much more capable than the Disposall GFC1020N in terms of grinding power and usability.
+
+Results from performance testing tell us Evolution Excel can grind faster and better than the Disposall GFC2010N. Not only that, our experience tells us that the Excel runs much smoother than the GFC2010N. This is mainly because of InSinkErator’s exclusive technology, namely the MultiGrind mechanics and the SoundSeal system.
