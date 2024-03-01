@@ -1,0 +1,5 @@
+Both the InSinkErator Evolution Excel and the Moen Host GXS75C are strong recommendations for their respective sectors.
+
+While the Moen doesn't quite match the InSinkErator on several levels, it remains one of the most powerful 3/4-horsepower garbage disposals we've tested. At around $125, its grinding performance offers significant value, especially compared to typical garbage disposals. Additionally, its build quality and service life are above average.
+
+The InSinkErator Excel, however, operates in a different category. It arguably boasts the best build in the industry, incorporating multi-level grinding technology and an advanced noise reduction system. These features contributed to its exceptional performance in our testing and left us thoroughly impressed. However, the Excel's steep cost might necessitate careful consideration for many consumers.
