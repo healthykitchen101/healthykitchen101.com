@@ -77,7 +77,16 @@ The blended result score was marked out of 10 points based on one key evaluation
 
 #### Score Breakdown
 
-*   **Velvety:** We awarded **9.5 - 10 points** for smoothies with a superior silky texture — the ones with no unprocessed food remaining. 
+*   **Velvety:** We awarded **9.5 - 10 points** for smoothies with a superior silky texture — the ones with no unprocessed food remaining.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps43hkp00052i8820gla756.jpg" alt="After finishing blending, the green smoothie made by the Ninja CI101 Foodi immersion blender was spread evenly throughout a white paper to check for solid chunks." width="640" height="427">
+
+A silky texture translates to a high score
+
 *   **Smooth:** These smoothies blended evenly but still bore a few tiny fruit chunks. We awarded them **8 - 9 points**. 
 *   **Slightly coarse:** The blender didn't fully liquefy the ingredients, causing its smoothie to look grainy or lumpy. We awarded it **7 - 7-5 points** in this case.
 *   **Chunky and/or Leafy:** If the blender ended up with large chunks of unprocessed fruits and/or kale, we gave it **no more than 7 points**, depending on the shape, size, and amount of chunks.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e3jtg0005vv8824hzdpp5.jpg" alt="After finishing blending, the green smoothie made by the Betty Crocker immersion blender was spread evenly throughout a paper to check for smoothness." width="640" height="427">
+
+A blender loses points if large chunks are detected
