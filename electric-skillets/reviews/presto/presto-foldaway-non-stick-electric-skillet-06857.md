@@ -33,7 +33,7 @@ performance Scores: **NaN**
 
 *   Analyzing Heat Distribution (20%) - **8.9**/undefined
     
-*   Making Pancakes (9.4%) - **40**/undefined
+*   Making Pancakes (40%) - **9.4**/undefined
     
 *   Cooking Steaks (40%) - **8.7**/undefined
     
