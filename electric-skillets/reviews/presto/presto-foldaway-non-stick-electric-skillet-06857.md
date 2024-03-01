@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (50%) - **9.0**/undefined
     
-*   Design (25%) - **0.0**/undefined
+*   Design (25%) - **3.6**/undefined
     
 *   Usability (25%) - **0.0**/undefined
     
@@ -81,6 +81,31 @@ The skillet’s heat was **stable** but not as high as 500°F like some other sk
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **NaN**
+
+*   Pan (40%) - **9.0**/undefined
+    
 
 The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality which highlights its detachable base and fold-down handles. The thick pan is ideal for heat distribution, if only the non-stick coating was ceramic instead of Teflon and if the lid’s metal edging fitted the pan better.
+
+### 9.0 - Pan
+
+Cooking Capacity: 7 quart
+
+Dimensions: L15.71" x W11.77" x H2.79"
+
+Material: Cast aluminum
+
+Coating: Teflon
+
+Handle: Thermosetting plastic
+
+Spout: Yes
+
+Dishwasher-Safe: Yes
+
+The Presto skillet has a 0.12" thick cast aluminum pan which is more durable than just non-cast aluminum (+4). The pan’s thickness means that it’s less likely to deform in the presence of heat and also heats up more evenly. Also, the surface is textured similarly to a cast iron skillet, although we’re not sure how much that helps with the cooking of food.
+
+The pan has a spout for pouring liquid, so the lid doesn’t need to have a steam vent to release the pressure (+1). The handles are part of the base which can be completely detached from the pan (+1). At the bottom of the detached pan are four stands so that you can directly serve it on the table.
+
+The non-stick coating is Teflon which is cheaper than ceramic coating and raises some health concerns although most modern Teflon products are free of PFOA (+1). Nonetheless, the pan is dishwasher-safe (+2).
