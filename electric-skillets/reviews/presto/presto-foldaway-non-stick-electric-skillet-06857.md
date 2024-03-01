@@ -7,7 +7,7 @@ Overall Score: **NaN**
     
 *   Design (25%) - **8.4**/undefined
     
-*   Usability (25%) - **0.0**/undefined
+*   Usability (25%) - **9.5**/undefined
     
 
 The 16-inch Presto Foldaway Non-Stick Electric Skillet 06857 is an excellent addition to your kitchen without breaking the bank at $77.4. It comes in second in our curated line-up of 9, only losing to our champion.
@@ -155,3 +155,27 @@ Dishwasher-Safe: No
 The detachable thermostat has a common design and temperature range (from 200 to 400°F) (+3). Keep in mind that the warm setting is around 150°F and not maintaining the current temperature like some other skillets.
 
 The thermostat fits the socket nicely, making it easy to remove afterward (+2). It has an indicator light and isn’t dishwasher-safe (+2).
+
+Usability
+---------
+
+usability Scores: **NaN**
+
+*   Ease of Use (70%) - **9.5**/undefined
+    
+*   Cleaning and Storing (30%) - **9.5**/undefined
+    
+
+The foldaway feature of the Presto 06857 makes it much easier to clean and store compared to most other electric skillets. The rigid base and the sheer weight of the skillet makes it feel very sturdy while using.
+
+### 9.5 - Ease of Use
+
+The thermostat fit nicely and the temperatures were precise (+3). However, the indicator light is lowered below the surface of the thermostat so it can be slightly difficult to see under bright lighting.
+
+The skillet’s exterior didn’t get too hot while cooking, so as long as you have your hands on the handles, you won’t risk burning yourself (+3). Also, be careful not to accidentally detach the pan while carrying.
+
+The base was flat and had anti-slip pads so everything remained rigid no matter how hard we rocked the skillet (+3). The lid can be slightly heavy but it’s not too much of a problem.
+
+### 9.5 - Cleaning and Storing
+
+The pan releases food without a problem, so all we needed to do after the testing was to give the skillet a quick hand-washing with warm water and some dishwashing liquid (+6). This applied to the grease and/or melted butter that got to the nooks and crannies on the pan’s textured surface as well. With handles folded in, the base fits into the pan, making storing quick and effortless (+3).
