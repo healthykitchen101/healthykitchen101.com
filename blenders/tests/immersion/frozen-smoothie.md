@@ -53,7 +53,7 @@ Here’s how our scoring breakdown was designed:  
 
 #### Scoring Breakdown
 
-*   **≤ 1 min**: Not every immersion blender can handle the tough job of breaking down solid ingredients in a short amount of time. A good machine usually demands 90-120 seconds to yield a smooth texture. That's why we gave full marks to any blender that passed the test in under one minute.   
+*   **≤ 1 min**: Not every immersion blender can handle the tough job of breaking down solid ingredients in a short amount of time. A good machine usually demands 90-120 seconds to yield a smooth texture. That's why we gave full marks to any blender that passed the test in under one minute.
 *   **1 min < 1 min 10 secs**: 9 points
 *    **1 min 10 secs <  1 min 20 secs**: 8 points 
 *    **1 min 20 secs <  1 min 30 secs:** 7 points 
