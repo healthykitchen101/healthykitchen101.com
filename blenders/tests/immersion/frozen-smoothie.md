@@ -28,7 +28,11 @@ Testing Procedure
 
 Our smoothies were blended in a 24-oz beaker. To ensure equal comparisons, we always added the ingredients in the following order: fruits, kale, and water.
 
-We began by running the blender at its lowest speed and then gradually increased to its highest speed. Note that it’s important to move the blending wand around, including up and down, to achieve the best consistency. 
+We began by running the blender at its lowest speed and then gradually increased to its highest speed. Note that it’s important to move the blending wand around, including up and down, to achieve the best consistency.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt8bh3p0002lk28804ln7u3h.jpg" alt="hands pouring water into beaker containing kale, mango, pineapple" width="640" height="427">
+
+We mix all the ingredients inside the beaker
 
 As recommended by our chef, we stopped blending after the first 30 seconds and used a spoon to check the smoothie’s consistency. If the drink was still grainy or leafy at that point, we continued blending until we got the best possible texture. Sometimes this required a little downtime to keep the motor from overheating.
 
