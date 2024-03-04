@@ -58,9 +58,13 @@ Most almond particles strained out from almond milk made using the Braun 5 blend
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltcrksbo0005wz884ra0dkz5.jpg" alt="Plate labeled PeachStreet containing almond particles" width="640" height="427">
 
+There are slightly more sizable almond particles in this sample
+
 *   **Coarse:** 6 - 7.5 points
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltcrlvrk0006wz8802q5c146.jpg" alt="Plate labeled Chefman-corded containing almond particles" width="640" height="427">
+
+This pulp sample contains a remarkable amount of large particles
 
 *   **Very coarse:** 5.5 points or less
 
