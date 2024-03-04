@@ -46,7 +46,7 @@ We measure how long each blender took to yield a serving of almond milk to calcu
 
 ### Blended Result Score
 
-We awarded the blended result score for each blender from 0 to 10 based on the pulp’s fineness which is always fell into one of four variants: 
+We awarded the blended result scoPlate labeled Braun 5 containing almond particlesre for each blender from 0 to 10 based on the pulp’s fineness which is always fell into one of four variants: 
 
 *   **Very fine:** 9.5-10 points
 
@@ -61,12 +61,11 @@ Most almond particles strained out from almond milk made using the Braun 5 blend
 There are slightly more sizable almond particles in this sample
 
 *   **Coarse:** 6 - 7.5 points
+*   **Very coarse:** 5.5 points or less
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltcrlvrk0006wz8802q5c146.jpg" alt="Plate labeled Chefman-corded containing almond particles" width="640" height="427">
 
 This pulp sample contains a remarkable amount of large particles
-
-*   **Very coarse:** 5.5 points or less
 
 Test Results
 ------------
