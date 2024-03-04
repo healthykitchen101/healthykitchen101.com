@@ -21,8 +21,6 @@ During our research, we found an increasing number of people prefer immersion bl
 
 To yield one serving of dairy-free milk, we soaked raw almonds overnight in filtered water, then ground them in our 24-oz jar at the blender’s highest speed setting. During the operation, we stopped temporarily at  the 30-second mark to check the progress.  And once the blender churned out its best possible outcome, we strained the mixture through a soft cloth to remove the pulp. Any solids that didn’t pass through the strainer would be a measure of the blended result.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltcrfy4r0002wz88fzlw64ob.jpg" alt="Almonds and water blended in an immersion blender, timer clock" width="640" height="427">
-
 Scoring Scale
 -------------
 
