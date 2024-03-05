@@ -108,7 +108,10 @@ We awarded the blended result score of each blender out of 10 points based only 
 A silky, velvety texture gains the blender 10 points.
 
 *   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
-*   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
+*   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiefoo000s2i888od14b6k.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the Braun MQ7035X blender." width="640" height="427">
+
 *   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3hqg2000hwz886yn406i1.jpg" alt="Blender and beaker containing mayonnaise next to smartphone timer" width="640" height="427">
