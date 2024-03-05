@@ -75,7 +75,11 @@ Chef Tuyet Pham and testers Tina Pham and Lap Vo discussing the mayonnaise test 
 
 The overall rating of each blender was the average of two equally-weighted section scores awarded on a scale out of 10. The section scores included: blending time and blended result. 
 
-### Blending Time Score 
+### Blending Time Score
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e4jcs0006vv88dbp888j8.jpg" alt="A hand pours a creamy mixture from a cup beside theBetty Crocker immersion blender; a digital timer reads 2:15, set against a backdrop of kitchen appliances." width="640" height="427">
+
+Some take more than 2 minutes to make the same amount of mayo
 
 The blending time score was allocated based on how long each blender took to yield a batch of mayonnaise. Here's our breakdown of how this score was determined:
 
