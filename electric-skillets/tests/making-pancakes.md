@@ -47,16 +47,16 @@ Since the cooking length varies each time, we don’t assess it but the **prehea
 
 According to our data, the fastest skillets did the job in 2 minutes or less, so we took that as the benchmark for a 10/10 score. Then, we simply deduct 1 point for each minute increase in duration. We deemed 10 minutes to be too long just to preheat the pan so that would be our limit for a 0/10.
 
-*   10/10: 2 minutes
-*   9/10: 3 minutes
-*   8/10: 4 minutes
-*   7/10: 5 minutes
-*   6/10: 6 minutes
-*   5/10: 7 minutes
-*   4/10: 8 minutes
-*   3/10: 9 minutes
-*   2/10: 10 minutes
-*   0/10: > 10 minutes
+*   **10/10:** 2 minutes
+*   **9/10:** 3 minutes
+*   **8/10:** 4 minutes
+*   **7/10:** 5 minutes
+*   **6/10:** 6 minutes
+*   **5/10:** 7 minutes
+*   **4/10:** 8 minutes
+*   **3/10:** 9 minutes
+*   **2/10:** 10 minutes
+*   **0/10:** \> 10 minutes
 
 ### Pancake’s Edibility 
 
