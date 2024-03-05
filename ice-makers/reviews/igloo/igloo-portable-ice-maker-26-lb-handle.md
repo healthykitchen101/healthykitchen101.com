@@ -69,7 +69,7 @@ design Scores: **NaN**
     
 *   Panel Design (15%) - **6.8**/undefined
     
-*   Lid (25%) - **7.1**/undefined
+*   Lid Design (25%) - **7.1**/undefined
     
 *   Ice Basket (15%) - **8.8**/undefined
     
@@ -106,7 +106,7 @@ Weight: 18.0 lbs (8.2 kg)
 
 The Igloo overall is well-built for a lightweight, plastic-bodied ice maker. The body is a bit bendy in parts but appears solid with good quality joinings and ventilation on both sides and the rear. We found the lid closed very tightly and the basket was a solid hard plastic. The small silicone drainage plug, although a minor part, was one of the nicest we had encountered.
 
-### 7.1 - Lid
+### 7.1 - Lid Design
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-clsvhuuqe001ek288blvh8yuh.jpg" alt="A top down view of a countertop ice maker with ice seen through the transparent lid" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/igloo-ice-maker-lid-1-clsvhuuvf001fk288fjpvg16e.jpg" alt="A close up of the underside of an opened lid on a countertop ice maker." width="300px" height="200px">
 
