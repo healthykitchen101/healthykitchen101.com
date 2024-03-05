@@ -50,15 +50,15 @@ Only units with whisk attachments passed that initial test. The remaining blende
 
 At that point we decided to modify the recipe to include three egg yolks and 240ml oil. Thankfully, this amount alleviated the problem.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2qigd000dwz8833wu85fg.jpg" alt="Oil being poured into blender beaker containing egg yolk" width="640" height="427">
+
+Ingredients are added into the beaker at different times
+
 Unlike the soup and smoothie tests, we didn’t add all the ingredients into the beaker at the same time. Instead, we whisked the yolks at the slowest setting first and then slowly poured in the oil. 
 
 To avoid broken mayonnaise, we didn’t increase the speed to the highest setting until the oil started emulsifying. In this case we also didn’t stop the blender periodically even when it reached the maximum run time. 
 
 During the procedure, we also slowly raised the blending shaft or the whisk attachment to the top of the mixture and back down to incorporate all the ingredients.
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clco8xcls0000rd88ec5u6m0e.jpg" alt="Five immersion blenders lying on a white table with their testing mayonnaise by their side." width="768" height="512">
-
-Five immersion blenders lying on a white table with their testing mayonnaise by their side.
 
 Scoring Scale
 -------------
