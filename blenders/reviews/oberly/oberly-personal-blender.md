@@ -40,7 +40,7 @@ performance Scores: **NaN**
     
 *   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/undefined
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 In our months of testing, this blender has often underperformed relative to our prediction. It struggled a lot to deliver its promises on efficiency, but there wasn’t even a successful effort in the end. None of the testing results it brought to the table was smooth enough. Some of them even came out very chunky, such as the protein shakes. If you were fortunate enough to own a [decent personal blender](https://healthykitchen101.com/blenders/reviews/best/personal-blenders/), you may find the OBERLY less likely an alternative you want. Certainly, this blender is not like what is marketed on paper.
@@ -79,7 +79,7 @@ Result: Failed
 
 The OBERLY remained an underperformer in this test. It had a hard time liquefying our greens not only because of its weak motor power but also because its blending cup is too small to tackle such an amount of food (2.5 ounces). Most of the veggies didn’t circulate and made the blade stuck even when we undocked the cup and shook it rigorously. As mediocre as this blender was in the earlier tests, this failure wasn’t a surprise anymore, we admitted.
 
-### Crushed Ice
+### Crushed Ice Cubes
 
 Ice Fineness: Coarse
 
