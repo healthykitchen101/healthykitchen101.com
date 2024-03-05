@@ -36,6 +36,8 @@ You might wonder why we choose mayonnaise for this emulsifying test. It’s beca
 Testing Recipe: 8 Servings (240 ml)
 -----------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2iwn4000cwz88foq4hag1.jpg" alt="person beating egg yolk and oil using immersion blender, timed with clock" width="640" height="427">
+
 *   3 egg yolks
 *   240ml canola oil
 
