@@ -79,7 +79,7 @@ Regarding the smoothie’s texture, of all the blenders we tested, only the Vita
 
 ### Mayonnaise
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl6q9i0ha000dtf88e3msf3i9.jpg" alt="Scooping a spoon of mayonnaise emulsified by the Vitamix immersion blender from a white bowl to check its creaminess. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckztju85j000097882kkm4hmu.jpg" alt="Vitamix Immersion Blender Mayonnaise" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3hqg2000hwz886yn406i1.jpg" alt="Blender and beaker containing mayonnaise next to smartphone timer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckztju85j000097882kkm4hmu.jpg" alt="Vitamix Immersion Blender Mayonnaise" width="300px" height="200px">
 
 Emulsifying Time: 1 mins 40 secs
 
