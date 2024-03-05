@@ -40,7 +40,7 @@ performance Scores: **NaN**
     
 *   Fibrous Greens (20%) - **0**/undefined
     
-*   Crushed Ice (10%) - **0**/undefined
+*   Crushed Ice Cubes (10%) - **0**/undefined
     
 
 Our testing on [household blenders](https://healthykitchen101.com/blenders/reviews/best/) has revealed several drawbacks in the PopBabies actual practicality. Despite its claims of producing smooth blends, the results were far from satisfactory. Be it protein shakes, frozen fruit smoothies, or fibrous mixture, they all came out chunky and texturally inconsistent. Nonetheless, we believe this blender may still be suitable for blending softer fruits and vegetables, or for making simple purees as long as you remember to chop the ingredients into smaller pieces.
@@ -81,7 +81,7 @@ Result: Very Coarse
 
 It is unclear why the PopBabies blade failed to spin at the outset of our test, but it is possible due to the small size of the blending cup and the large amount of greens we used. To get the food to circulate properly, we had to shake the cup vigorously, which was time consuming and left us underwhelmed, though, after several attempts, we finally got the blender to run for the required 20 seconds. Following this, we strained the mixture through a mesh strainer and were dismayed to find a significant amount of pulp still remained. This indicated that the blender didn’t extract the full range of nutrients and flavors from the greens. Apparently enough, if your aim is to maximize the nutritional value of your vegetables, this blender may not be an ideal choice.
 
-### Crushed Ice
+### Crushed Ice Cubes
 
 Ice Fineness: Failed
 
