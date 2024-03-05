@@ -112,6 +112,8 @@ A silky, velvety texture gains the blender 10 points.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptiefoo000s2i888od14b6k.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the Braun MQ7035X blender." width="640" height="427">
 
+This thin mayo texture is given a 7.0
+
 *   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3hqg2000hwz886yn406i1.jpg" alt="Blender and beaker containing mayonnaise next to smartphone timer" width="640" height="427">
