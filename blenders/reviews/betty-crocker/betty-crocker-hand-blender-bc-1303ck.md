@@ -34,7 +34,7 @@ performance Scores: **NaN**
 
 *   Hot Soup Purée (35%) - **7.0**/undefined
     
-*   Smoothie (30%) - **2.0**/undefined
+*   Frozen Fruit Smoothie (30%) - **2.0**/undefined
     
 *   Mayonnaise (15%) - **6.5**/undefined
     
@@ -59,7 +59,7 @@ In a 30-second benchmark test for pureeing, the Betty Crocker immersion blender 
 
 For the most part, we consider this result acceptable. It’s particularly sufficient for those who prefer a homestyle texture in their purees, such as in comforting soups or stews, or for preparing baby food where fineness is balanced with the need to minimize choking risks, rather than achieving a velvety restaurant-grade texture.
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e345l0004vv88bfta4pgg.jpg" alt="The result after using a Betty Crocker immersion blender for three minutes, with noticeable fruit chunks remaining in the mixture." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e3jtg0005vv8824hzdpp5.jpg" alt="After finishing blending, the green smoothie made by the Betty Crocker immersion blender was spread evenly throughout a paper to check for smoothness." width="300px" height="200px">
 
