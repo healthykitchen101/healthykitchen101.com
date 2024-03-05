@@ -8,6 +8,8 @@ This test goes beyond simple functionality. It examines how well each blender ca
 
 By using mayonnaise as a test medium, we aim to provide a clear picture of each blender's capabilities, revealing not just their ability to blend, but to do so with the control and finesse that gourmet cooking demands. The results of this test will offer invaluable insights for anyone looking to purchase an immersion blender that's as effective at making emulsified sauces as it is at handling everyday blending tasks.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte24gl60009wz88gkkmg5uv.jpg" alt="bowls containing mayonnaise" width="640" height="427">
+
 By using mayonnaise, a sauce that can easily separate if not emulsified correctly, we aim to uncover the blenders that can deliver not just on power, but on the subtle art of creating a perfectly emulsified, smooth, and creamy sauce. This benchmark is intended to guide culinary enthusiasts in choosing a hand-held blender that excels in both everyday tasks and sophisticated sauce preparation.
 
 The real test of a good immersion blender isn’t just in basic tasks like mixing or pureeing, but in its ability to handle more complex jobs, like making emulsified sauces. This is why we chose mayonnaise as our focus for this performance test.
