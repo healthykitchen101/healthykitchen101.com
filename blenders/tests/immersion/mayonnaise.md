@@ -6,13 +6,13 @@ Mayonnaise is not only a staple in many kitchens but also a perfect benchmark fo
 
 This test goes beyond simple functionality. It examines how well each blender can maintain a steady speed and whether it can provide the gentle finesse needed for perfect emulsification. We also considered the design of the blender — does it allow for an easy and comfortable grip while maneuvering through such a delicate task? Are the speed settings intuitive and adaptable for such precise operations?
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte24gl60009wz88gkkmg5uv.jpg" alt="bowls containing mayonnaise" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte24gl60009wz88gkkmg5uv.jpg" alt="bowls containing mayonnaise" width="360" height="240">
 
 Most immersion blenders can produce mayonnaise, but the quality varies.
 
 By using mayonnaise as a test medium, we aim to provide a clear picture of each blender's capabilities, revealing not just their ability to blend, but to do so with the control and finesse that gourmet cooking demands. The results of this test will offer invaluable insights for anyone looking to purchase an immersion blender that's as effective at making emulsified sauces as it is at handling everyday blending tasks.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2d7dj000awz88d9sshlsi.jpg" alt="spoon of yellow running liquid" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2d7dj000awz88d9sshlsi.jpg" alt="spoon of yellow running liquid" width="360" height="240">
 
 Emulsifying dressings and sauces can be a complex task
 
@@ -20,7 +20,7 @@ By using mayonnaise, a sauce that can easily separate if not emulsified correctl
 
 The real test of a good immersion blender isn’t just in basic tasks like mixing or pureeing, but in its ability to handle more complex jobs, like making emulsified sauces. This is why we chose mayonnaise as our focus for this performance test.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2exoz000bwz88eig9bytk.jpg" alt="hand holding cup of mayonnaise" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2exoz000bwz88eig9bytk.jpg" alt="hand holding cup of mayonnaise" width="360" height="240">
 
 Making mayonnaise requires blending oil and egg yolks into a smooth mixture
 
