@@ -34,14 +34,14 @@ Performance
 
 performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **7.5**/undefined
+*   Ice Capacity Test (60%) - **7.5**/undefined
     
 *   Ice Quality Test (40%) - **9.9**/undefined
     
 
 The Vivo Home has convincingly proved itself one of the best performing portable ice makers we have tested. It topped the charts in terms of ice quality with ice bullet size and weight often while producing zero amounts of waste ice. Its overall capacity was only slightly less than two of its closest rivals. If you’re looking for really thick and chunky ice bullets, this may be the machine for you.
 
-### Ice Capacity: Competitively Good
+### Ice Capacity Test: Competitively Good
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-capacity-test-clrykc3vu000xss88a816h1nw.jpg" alt="A full basket of ice being removed from a countertop bullet ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-capacity-test-1-clrykc3r0000vss88dhu44vam.jpg" alt="A full basket of ice from the Vivo Home countertop ice maker being weighed in at 576 grams. The ice is in a jug resting on a digital scale." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-capacity-test-2-clrykc41x0013ss88h09q2p8s.jpg" alt="A stop watch showing 1:44:57 or the typical amount of time taken to produce a full basket of ice with the Vivo Home countertop ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/vivohome-automatic-ice-maker-ice-capacity-test-3-clrykc42a0018ss88f54o154z.jpg" alt="A sample of ice bullets produced from the Vivo Home countertop ice maker held between two gloved hands." width="300px" height="200px">
 
