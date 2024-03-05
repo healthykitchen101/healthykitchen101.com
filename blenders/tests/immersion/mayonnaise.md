@@ -65,6 +65,8 @@ During the procedure, we also slowly raised the blending shaft or the whisk atta
 Scoring Scale
 -------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2ynpl000fwz88a1nd3qom.jpg" alt="people evaluating test results" width="640" height="427">
+
 The overall rating of each blender was the average of two equally-weighted section scores awarded on a scale out of 10. The section scores included: blending time and blended result. 
 
 ### Blending Time Score 
