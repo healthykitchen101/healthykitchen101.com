@@ -35,16 +35,16 @@ Performance
 
 performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **7.7**/undefined
+*   Ice Capacity Test (60%) - **7.7**/undefined
     
-*   Ice Quality (40%) - **8.5**/undefined
+*   Ice Quality Test (40%) - **8.5**/undefined
     
 
 There were a couple of factors that gave the Frigidaire the performance edge over its closest rivals. One was the good average capacity per basket as well as the amount of ice produced per hour. The latter we attributed to the wider basket design and the functioning of the scooping mechanism.
 
 Additionally, the Frigidaire also produced consistently good quality ice bullets even though the net weight was a little less than its main rival. The time it took to produce one round of ice bullets averaged over 9 minutes. Although one of the longer times, the overall performance turned out one of the best.
 
-### Ice Capacity: One of the Best
+### Ice Capacity Test: One of the Best
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-good-capacity-clomc2mjc0001vi886axb4qx8.jpg" alt="The Frigidaire EFIC189 countertop portable bullet ice maker on a countertop with a full basket of ice and a timer showing 1 hr 48 min. In the background is a shelf with various kitchen appliances." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-good-capacity-1-clomc72d40002vi884fpp9igl.jpg" alt="Ice taken from the Frigidaire EFIC189 countertop portable bullet ice maker in a plastic jug on a measuring scale showing a 608 grams in weight." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-good-capacity-2-clomc7pdf0003vi88aypl373m.jpg" alt="Top down view of the Frigidaire EFIC189 ice maker to the left with one load of ice removed and placed into a black colored baking tray on the right. Badly formed ice is seen separated into a bowl on a scale showing 15 grams." width="300px" height="200px">
 
@@ -64,7 +64,7 @@ Although most portable bullet ice makers, including this Frigidaire, claim to be
 
 What we found is that this Frigidaire EFIC189 produces around 19.6 oz (555 g) of ice per basket or roughly 323 g (11 oz) per hour. A full basket of ice takes an average of 103 minutes, so you need to check on your machine every hour and forty five minutes.
 
-### Ice Quality: Consistently Good
+### Ice Quality Test: Consistently Good
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-ice-quality-clomc97c50004vi88fvf2aijf.jpg" alt="The Frigidaire EFIC189 countertop portable bullet ice maker to the left and a bowl on a scale with one round of nine ice bullets measuring 63 grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-ice-quality-1-clomc9roj0005vi88emubcyox.jpg" alt="A measuring tong holding a typical ice bullet made in the Frigidaire EFIC189 countertop portable bullet ice maker. The ice bullet measures 1.1 inches in length." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/frigidaire-portable-ice-maker-ice-quality-2-clomcaa8c0006vi88bzq6b89f.jpg" alt="A measuring tong holding a typical ice bullet made in the Frigidaire EFIC189 countertop portable bullet ice maker. The ice bullet shows a thickness of 0.5 inches." width="300px" height="200px">
 
