@@ -62,3 +62,42 @@ Testing Steps
 15.  Let it rest for at least 3 minutes (or half the cooking duration).
 16.  Cut the steak, taste, and evaluate.
 17.  Clean the pan once everything cools down.
+
+How We Score
+------------
+
+To make sure the steaks produced by each electric skillet are as (close to) perfect as possible and within the ideal cooking time, we have our head chef [Tuyet Pham](https://healthykitchen101.com/about/#tuyet-pham) to **supervise** the process and **evaluate** the finished steaks.
+
+### Preheating Time
+
+Since the cooking length varies each time, we don’t assess it but the **preheating time**—the time the skillet takes to preheat to 400°F in comparison with others.
+
+According to our data, the fastest skillets did the job in less than 2 minutes, so we took that as the benchmark for a 10/10 score. Then, we simply deduct 1 point for each minute increase in duration. We deemed 10 minutes to be too long just to preheat the pan so that would be our limit for a 0/10.
+
+*   **10/10:** 2 minutes
+*   **9/10:** 3 minutes
+*   **8/10:** 4 minutes
+*   **7/10:** 5 minutes
+*   **6/10:** 6 minutes
+*   **5/10:** 7 minutes
+*   **4/10:** 8 minutes
+*   **3/10:** 9 minutes
+*   **2/10:** 10 minutes
+*   **0/10:** \> 10 minutes
+
+### Steak’s Edibility
+
+Evaluating the steaks answers to the question, “Can you cook steaks perfectly in an electric skillet?”.
+
+Our experienced and award-winning chef grades the steaks based on the **color and crispiness** of crust, the **doneness and juiciness** of the meat, and the **overall taste**. 
+
+Rookie opinions matter as well, so the scoring team called in three foodies to try the steaks for themselves.
+
+Since the temperature is fixed to minimize variables, our chef decides the balance between the cooking time and the result—when to flip the steak, how long to sear each side, and so on.
+
+The perfect steak should have:
+
+1.  **Crusting:** A 100% even, deep golden brown color on all sides, including sides with a fat cap.
+2.  **Doneness:** Exactly medium-rare which should be around 145°F at the center of the steak.
+3.  **Taste:** A good crust with a rich, savory taste and a crispy bite in combination with a doneness and juiciness that spreads the steak’s flavor across your entire palate.
+4.  **Non-stick evaluation:** If the steak sticks to the pan and tears apart, a point is deducted. For the cleaning, the grease should come off by just wiping with a paper towel and nothing should stick to the pan that requires laborious scrubbing or soaking.
