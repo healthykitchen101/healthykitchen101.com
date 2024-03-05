@@ -60,6 +60,8 @@ To avoid broken mayonnaise, we didn’t increase the speed to the highest settin
 
 During the procedure, we also slowly raised the blending shaft or the whisk attachment to the top of the mixture and back down to incorporate all the ingredients.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2v4l3000ewz887r675kk0.jpg" alt="Results of Our Immersion Blender Mayonnaise Test" width="640" height="427">
+
 Scoring Scale
 -------------
 
