@@ -75,7 +75,7 @@ design Scores: **NaN**
     
 *   Panel Design (15%) - **7.6**/undefined
     
-*   Lid (25%) - **7.3**/undefined
+*   Lid Design (25%) - **7.3**/undefined
     
 *   Ice Basket (15%) - **8.1**/undefined
     
@@ -127,7 +127,7 @@ The nice thing about the panel design is that it attempts to do more than just t
 
 The icons, however, are a bit small and not so intuitively understood, so you will probably need to consult the manual to understand them. We also noticed a small dent in the printed plastic control panel surface, but the controls worked flawlessly during our testing.
 
-### 7.3 - Lid: Lacks Good Insulation
+### 7.3 - Lid Design: Lacks Good Insulation
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-lid-design-cls8lkgce000o0q88bn3zhptj.jpg" alt="Close up view of a portable ice maker with its lid closed." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/crownful-ice-maker-lid-design-1-cls8lkfbz00060q88f3ba87pt.jpg" alt="A basket full of ice being held in front of a bullet ice making machine." width="300px" height="200px">
 
