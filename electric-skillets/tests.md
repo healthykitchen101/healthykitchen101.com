@@ -52,3 +52,65 @@ For the pan, we focus on the metallic base material, the non-stick coating, and 
 | Handle |  |
 | Spout |  |
 |  | Dishwasher-safe |
+
+### Lid (15%)
+
+For the lid, we pay attention to the material and if it is sized correctly to fit the pan. We also check if the handle or knob is cool-touch, if the lid is dishwasher-safe, and if it has a steam vent.
+
+| (+1) | (+2) |
+| --- | --- |
+| Thermosetting plastic lid handle | Metal lid handle |
+|  | Correctly-sized lid |
+| Metal edging |  |
+|  | Tempered glass |
+| Steam vent |  |
+|  | Dishwasher-safe |
+
+### Base (30%)
+
+For the pan handles, we examine the material and the anti-slip grips. We also check if the pan clips off and is detachable or even dishwasher-safe.
+
+| (+1) | (+2) |
+| --- | --- |
+| Thermosetting plastic base | Metal base |
+|  | Detachable from pan |
+|  | Anti-slip pads |
+|  | Dishwasher-safe |
+|  | Foldable handles |
+
+### Thermostat (15%)
+
+For the skillet’s base, we check the temperature range and if it has an indicator light. Most thermostats are detachable so we check if they fit nicely while being easy to remove. Dishwasher-safe ones are rare, and they receive a bonus point.
+
+| (+1) | (+2) |
+| --- | --- |
+| Normal temperature range | Wide temperature range |
+|  | Detachable thermostat |
+|  | Good fit and easy to remove |
+|  | Indicator light |
+|  | Dishwasher-safe |
+
+Usability (25%)
+---------------
+
+In the Usability (25%) section, we evaluate everything concerning the user experience of the electric skillet. This includes Ease of Use or user-friendliness as well as Cleaning and Storage.
+
+### Ease of Use (/70%)
+
+The ease of use criteria includes how easy it is to operate the skillet, interact with it while cooking, and its sturdiness.
+
+| (+3) |
+| --- |
+| Easy to control |
+| Sturdy while cooking |
+| Exterior never hazardously hot |
+
+### Cleaning and Storing (/30%)
+
+Cleaning and storing, as implied, evaluates how easily food debris comes off, the ease of all-round cleaning, and if the skillet can be stored away in a straightforward manner.
+
+| (+3) |
+| --- |
+| Pan releases food easily |
+| Easy to clean |
+| Easy to store |
