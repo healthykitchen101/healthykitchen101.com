@@ -32,14 +32,14 @@ Performance
 
 performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **6.9**/undefined
+*   Ice Capacity Test (60%) - **6.9**/undefined
     
-*   Ice Quality (40%) - **7.6**/undefined
+*   Ice Quality Test (40%) - **7.6**/undefined
     
 
 In the ice capacity test, the Silonn proved average at best. It took around 95 minutes to produce a basket full of ice and the capacity per hour was a rather low average. While not the lowest ranking machine, it puts out an estimated 14 lbs (6.5 kg) per day based on our testing criteria. Although the large ice bullets were weighty enough, the quality was inconsistent and not all bullets were smoothly shaped. There was also a noticeable amount of waste ice produced.
 
-### Ice Capacity: Average at Best
+### Ice Capacity Test: Average at Best
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/silonn-countertop-ice-maker-ice-capacity-clof6r1b50012iy88asr7g4jz.jpg" alt="The Silonn portable ice maker on a countertop with a stopwatch resting against the front showing a full ice-making cycle taking 1 hour and 33 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/silonn-countertop-ice-maker-ice-capacity-1-clof6t15w0013iy880jfc7dn6.jpg" alt="An ice machine to the left and a pitcher filled with ice bullets on a scale to the right showing production weight of 407 grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/silonn-countertop-ice-maker-ice-capacity-2-clof6tsfi0014iy885950cj81.jpg" alt="Top down view of an ice maker to the left and to the right on a small wooden board is a scale with a bowl containing 17 grams of broken ice." width="300px" height="200px">
 
@@ -59,7 +59,7 @@ We don’t test machines for 24 hours, but saw no indication that the ice produc
 
 What you really need to know about this machine is that it takes around 95 minutes to trigger the Ice Full alert and you get less than half a kilogram per load, or roughly 14 lbs (6.5 kg) per day.
 
-### Ice Quality: Could Shape Up
+### Ice Quality Test: Could Shape Up
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/silonn-countertop-ice-maker-ice-quality-clof6vmlx0015iy887cke72um.jpg" alt="Top down view of an ice maker to the left and on the right on a small wooden board is a scale with a bowl containing 56 grams of ice from one cycle of large ice bullet making." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/silonn-countertop-ice-maker-ice-quality-1-clof6wbh70016iy88815aahm3.jpg" alt="A hand holding up a chubby ice bullet produced by the Silonn countertop ice maker." width="300px" height="200px">
 
