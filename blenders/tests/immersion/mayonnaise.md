@@ -8,6 +8,8 @@ This test goes beyond simple functionality. It examines how well each blender ca
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte24gl60009wz88gkkmg5uv.jpg" alt="bowls containing mayonnaise" width="640" height="427">
 
+Most immersion blenders can produce mayonnaise, but the quality varies.
+
 By using mayonnaise as a test medium, we aim to provide a clear picture of each blender's capabilities, revealing not just their ability to blend, but to do so with the control and finesse that gourmet cooking demands. The results of this test will offer invaluable insights for anyone looking to purchase an immersion blender that's as effective at making emulsified sauces as it is at handling everyday blending tasks.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2d7dj000awz88d9sshlsi.jpg" alt="spoon of yellow running liquid" width="640" height="427">
@@ -38,6 +40,8 @@ Testing Recipe: 8 Servings (240 ml)
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2iwn4000cwz88foq4hag1.jpg" alt="person beating egg yolk and oil using immersion blender, timed with clock" width="640" height="427">
 
+The process is timed for later comparison
+
 *   3 egg yolks
 *   240ml canola oil
 
@@ -66,6 +70,8 @@ Scoring Scale
 -------------
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2ynpl000fwz88a1nd3qom.jpg" alt="people evaluating test results" width="640" height="427">
+
+Chef Tuyet Pham and testers Tina Pham and Lap Vo discussing the mayonnaise test results
 
 The overall rating of each blender was the average of two equally-weighted section scores awarded on a scale out of 10. The section scores included: blending time and blended result. 
 
