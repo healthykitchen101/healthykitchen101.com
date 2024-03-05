@@ -1,4 +1,6 @@
-A superior immersion blender must do more than just puree or mix; it should excel in advanced culinary skills, especially in emulsification. This principle guided our choice of mayonnaise as the focal point of our performance testing. We meticulously analyzed how each blender managed the delicate task of emulsifying oil and egg yolks into a uniform, smooth mayonnaise. This test was designed to assess not only the blending power but also the precision and control each blender offers — key attributes for sophisticated cooking techniques.  
+A superior immersion blender must do more than just puree or mix; it should excel in advanced culinary skills, especially in emulsification. This principle guided our choice of mayonnaise as the focal point of our performance testing. We meticulously analyzed how each blender managed the delicate task of emulsifying oil and egg yolks into a uniform, smooth mayonnaise. This test was designed to assess not only the blending power but also the precision and control each blender offers — key attributes for sophisticated cooking techniques.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte1i8im0008wz889u3g7vsr.jpg" alt="Immersion blenders, whisk attachments, broken eggs, cup of oil" width="768" height="512">
 
 Mayonnaise is not only a staple in many kitchens but also a perfect benchmark for testing immersion blenders. This creamy sauce demands a precise balance of power and delicacy from the blender. Too much force, and the ingredients won't emulsify properly; too little, and you're left with a runny, unappetizing mess. In our testing, we scrutinized how each blender handled the intricate process of turning simple ingredients like oil and egg yolks into a smooth, cohesive mayonnaise.
 
@@ -26,8 +28,6 @@ Testing Recipe: 8 Servings (240 ml)
 
 *   3 egg yolks
 *   240ml canola oil
-
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte1i8im0008wz889u3g7vsr.jpg" alt="Immersion blenders, whisk attachments, broken eggs, cup of oil" width="640" height="427">
 
 Testing Procedure
 -----------------
