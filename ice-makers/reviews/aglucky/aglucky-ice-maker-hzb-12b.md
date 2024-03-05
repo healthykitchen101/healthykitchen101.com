@@ -34,16 +34,16 @@ Performance
 
 performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **7.4**/undefined
+*   Ice Capacity Test (60%) - **7.4**/undefined
     
-*   Ice Quality (40%) - **8.6**/undefined
+*   Ice Quality Test (40%) - **8.6**/undefined
     
 
 Although not the absolute best machine for ice capacity, the AGLucky HZB-12/B ranked as a very good runner-up. On average, it produces around 11 oz (304 g) of quality ice per hour. It took a little longer than some other machines to stabilize but, once it got into its ‘ice making groove’, it consistently made quite chunky bullets of at least 6 grams each.
 
 Additionally, it produced the least amount of poor quality waste ice. This ranked the AGLucky HZB-12/B as a great machine for ice quality even compared to the Frigidaire EFIC189.
 
-### Ice Capacity: Fairly Good
+### Ice Capacity Test: Fairly Good
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-capacity-clomm85960010vi88cmqqbfdt.jpg" alt="A full basket of ice being taken out of a countertop ice maker with a number of ice makers seen on a shelf in the background." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-capacity-1-clomm8uwr0011vi88176ce5dx.jpg" alt="Against a white background is a countertop ice maker to the left and on the right a pitcher filled with ice bullets on a scale registering 432 grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-capacity-2-clomm9bzf0012vi8813fmemwo.jpg" alt="A portable ice maker on a countertop with a glass bowl to the right on a scale with badly formed ice inside weighing 6 grams." width="300px" height="200px">
 
@@ -63,7 +63,7 @@ The AGLucky HZB-12/B produced, as an average of these three tests, 16 oz (456 g)
 
 Our tests revealed what an average user can expect from the AGLucky HZB-12/B. If you are making ice to store, you will need to check up on your machine every hour and a half and you can expect to have around 16 oz (450 g) of excellent quality ice.
 
-### Ice Quality: Among the Best
+### Ice Quality Test: Among the Best
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-quality-clommrig40013vi8840nah0sx.jpg" alt="The AGLucky Ice Maker HZB-12/B on a countertop with a glass bowl containing nine ice bullets in front showing a net weight of 54 grams, and a stopwatch to the upper right showing 8 min 21 sec for the time to make one round of ice bullets." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-quality-1-clommtiqf0014vi88ciqq6inf.jpg" alt="Nine ice bullets in a glass bowl on a scale showing a net weight of 59 grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/aglucky-ice-maker-ice-quality-2-clommuq3a0015vi883xni9ji5.jpg" alt="A hand measuring tool holding up an ice bullet with a length of 30 mm." width="300px" height="200px">
 
