@@ -91,10 +91,10 @@ The blending time score was allocated based on how long each blender took to yie
 
 We awarded the blended result score of each blender out of 10 points based only on its texture which is always fell into one of three variants: 
 
-*   Velvety: We gave 9.5-10 points for mayonnaise that were silky, creamy, and spreadable.
-*   Smooth: This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
-*   Thick or Thin: If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
-*   Broken/Separated/Runny: We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
+*   **Velvety:** We gave 9.5-10 points for mayonnaise that were silky, creamy, and spreadable.
+*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
+*   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
+*   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl2sgd8vq0006xj882w5u2bfi.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the KOIOS 4-in-1 hand blender when it is removed from the full batch emulsified in a plastic beaker standing between the motor body and a smartphone displaying the total emulsion time (1 minute and 10 seconds). " width="768" height="512">
 
