@@ -75,26 +75,17 @@ The blending time score was allocated based on how long each blender took to yie
 
 #### Score Breakdown
 
-**≤ 1 min 30 secs**: A good immersion blender shouldn’t take long to yield a batch of mayonnaise. The reasonable amount of blending time should be around one minute and a half. That’s why we would award 10 points for any item that passed its test within that duration**.**
-
-### Blended Result Score 
-
-We awarded the blended result score of each blender out of 10 points based only on its texture which is always fell into one of three variants: 
-
-*   **Velvety:** We gave 9.5-10 points for mayonnaise that were silky, creamy, and spreadable.
-*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 8.5 points**.
-*   **Thick or Thin:** If the mayonnaisehad a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it
-*   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
-*   **1 min 31 secs ≤ 1 min 40 secs**:  9 points
+*   **≤ 1 min 30 secs**: A good immersion blender shouldn’t take long to yield a batch of mayonnaise. The reasonable amount of blending time should be around one minute and a half. That’s why we would award 10 points for any item that passed its test within that duration**.**
+*   **1 min 31 secs ≤ 1 min 40 secs**: 9 points
 *   **1 min 41 secs ≤ 1 min 50 secs**: 8 points
 *   **1 min 51 secs ≤ 2 mins**: 7 points
-*   **2 mins 1 sec ≤  2 mins 10 secs**: 6 points
+*   **2 mins 1 sec ≤ 2 mins 10 secs**: 6 points
 *   **2 mins 11 secs ≤ 2 mins 20 secs**: 5 points
 *   **2 mins 21 secs ≤ 2 mins 30 secs**: 4 points
 *   **2 mins 31 secs ≤ 2 mins 40 secs**: 3 points 
 *   **2 mins 41 secs ≤ 2 mins 50 secs**: 2 points 
 *   **2 mins 51 secs ≤ 3 mins**: 1 point
-*   **\>3 mins**: 0 point 
+*   **\>3 mins**: 0 point
 
 ### Blended Result Score 
 
