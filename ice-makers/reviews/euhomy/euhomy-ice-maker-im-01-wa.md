@@ -34,14 +34,14 @@ Performance
 
 performance Scores: **NaN**
 
-*   Ice Capacity (60%) - **6.1**/undefined
+*   Ice Capacity Test (60%) - **6.1**/undefined
     
-*   Ice Quality (40%) - **7.6**/undefined
+*   Ice Quality Test (40%) - **7.6**/undefined
     
 
 Out of the two performance tests we do, EUhomy did much better on the ice quality test. Even still, it only occasionally managed to make large bullets of over 6 grams. The time to fill a basket of ice was also somewhat lengthy compared to the capacity it could produce. Generally, performance was below average which contrasted to its good external build quality and slightly original design.
 
-### Ice Capacity: A Low Average
+### Ice Capacity Test: A Low Average
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-capacity-clop607f6001uvi882qotadtk.jpg" alt="A stopwatch resting against the front body of the EUhomy countertop ice making and showing a time of 1 min 54 sec to fill a basket of ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-capacity-1-clop617wg001vvi88e6bzdyy6.jpg" alt="A full basket of ice being removed from a countertop buller ice maker." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-capacity-2-clop6232b001wvi8822oe4w37.jpg" alt="The EUhomy portable ice maker with a pitcher filled on a scale showing a net weight of ice bullets measuring grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-capacity-3-clop62xzn001xvi88ff3p2x6g.jpg" alt="The EUhomy ice maker on the left, a bowl of broken on a scale measuring 30 grams, and a baking tray of well-formed ice to the right." width="300px" height="200px">
 
@@ -61,7 +61,7 @@ For these tests, the EUhomy only produces an average basket weight of 15.6 oz (4
 
 More revealing, however, was the amount of waste or broken ice that was produced. It topped 32 g (1.13 oz) on average which is by far the largest we have recorded.
 
-### Ice Quality: Acceptable
+### Ice Quality Test: Acceptable
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-quality-clop64ezf001yvi88avntas0a.jpg" alt="A hand reaching into a pitcher filter with a TDS meter showing zero on the reading and the Euhomy countertop ice maker to the right." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-quality-1-clop654dq001zvi887ge88mc7.jpg" alt="The EUhomy ice maker to the left and a bowl with 9 ice bullets on a scale measuring 49 grams." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/euhomy-ice-maker-ice-quality-2-clop65o8k0020vi88bio32d00.jpg" alt="A handheld measuring device holding up an ice bullet and showing its thickness to measure 4 millimeters." width="300px" height="200px">
 
