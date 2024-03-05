@@ -33,7 +33,7 @@ performance Scores: **NaN**
 
 *   Hot Soup Purée (35%) - **6.5**/undefined
     
-*   Smoothie (30%) - **0**/undefined
+*   Frozen Fruit Smoothie (30%) - **0**/undefined
     
 *   Mayonnaise (15%) - **9.0**/undefined
     
@@ -58,7 +58,7 @@ We used the LINKchef to puree a mixture of pumpkin, carrot, and celery for 30 se
 
 Should you be looking for [greater alternatives](https://healthykitchen101.com/blenders/reviews/best/), consider options like the [Vitamix 5-speed](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/), [Braun MultiQuick-5](https://healthykitchen101.com/blenders/reviews/braun/braun-multiquick-5-blender/), or the [Ninja Foodi](https://healthykitchen101.com/blenders/reviews/ninja/ninja-foodi-ci101-power-mixer-system/).
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0nkty001ktf88ak41cr7w.jpg" alt="A hand holding a spoonful of a chunky, unevenly blended green and orange mixture above the LINKchef immersion blender, demonstrating the results of a failed frozen fruit smoothie test with the LINKchef blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqq0o4ah001ltf88f0ndc0mn.jpg" alt="Top-down view of a partially blended mixture in a glass container." width="300px" height="200px">
 
