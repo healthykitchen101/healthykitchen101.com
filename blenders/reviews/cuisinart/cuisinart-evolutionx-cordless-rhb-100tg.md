@@ -38,7 +38,7 @@ performance Scores: **NaN**
 
 *   Hot Soup Purée (35%) - **6.0**/undefined
     
-*   Smoothie (30%) - **6.0**/undefined
+*   Frozen Fruit Smoothie (30%) - **6.0**/undefined
     
 *   Mayonnaise (15%) - **9.5**/undefined
     
@@ -63,7 +63,7 @@ Suction: No
 
 In our test, the Cuisinart EvolutionX RHB-100TG attempted to purée hot soup within a strict 30-second timeframe. The result was a soup with a somewhat grainy texture, as evidenced by the notable amount of solids left after straining. This kind of consistency might be favored by some who appreciate a chunkier feel to their soups. However, if it's a seamless purée you're after, you might find yourself needing a bit of patience and extra blending time. Otherwise, alternatives like the [Braun MultiQuick-5](https://healthykitchen101.com/blenders/reviews/braun/braun-multiquick-5-blender/), Ninja Foodi, and [Vitamix](https://healthykitchen101.com/blenders/reviews/vitamix/vitamix-immersion-blender/), will likely be a better fit as they can offer a smoother outcome within the same time constraint.
 
-### Smoothie
+### Frozen Fruit Smoothie
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6qiai0003f5889k4599f3.jpg" alt="Scooping a spoon of smoothie from the plastic beaker to check its texture after the Cuisinart EvolutionX RHB-100TG  Hand Blender had completed the test in 2 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6r0z70004f588gjfp8zz3.jpg" alt="After finishing blending, the green smoothie made by the Cuisinart EvolutionX RHB-100TG immersion blender was spread evenly throughout a white paper on a gray table to check for solid chunks. " width="300px" height="200px">
 
