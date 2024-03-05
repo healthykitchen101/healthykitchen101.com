@@ -102,18 +102,16 @@ The blending time score was allocated based on how long each blender took to yie
 We awarded the blended result score of each blender out of 10 points based only on its texture which is always fell into one of three variants: 
 
 *   **Velvety:** We gave **9.5-10 points** for mayonnaise that were silky, creamy, and spreadable.
-*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
-*   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
-*   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3e5vn000gwz88350p06uu.jpg" alt="Mayonnaise on blender blade" width="640" height="427">
 
 A silky, velvety texture gains the blender 10 points.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckzw2hret00005p88apnh91fm.jpg" alt="Scooping a spoon of mayonnaise from a full batch emulsified in a white bowl by the Cuisinart Smart Stick hand blender. " width="768" height="512">
+*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
+*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
+*   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
+*   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
-We awarded 8.5 points for a smooth mayonnaise made by the Cuisinart Smart Stick (Cre: Nguyen Ntk/HealthyKitchen101)
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3hqg2000hwz886yn406i1.jpg" alt="Blender and beaker containing mayonnaise next to smartphone timer" width="640" height="427">
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl6q9i0ha000dtf88e3msf3i9.jpg" alt="Scooping a spoon of mayonnaise emulsified by the Vitamix immersion blender from a white bowl to check its creaminess. " width="768" height="512">
-
-The Vitamix 5-speed produced a thick mayonnaise so it got 7.5 points (Cre: Nguyen Ntk/HealthyKitchen101)
+Some blenders fail to mix the mayo ingredients
