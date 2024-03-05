@@ -108,7 +108,6 @@ We awarded the blended result score of each blender out of 10 points based only 
 A silky, velvety texture gains the blender 10 points.
 
 *   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
-*   **Smooth:** This mayonnaise is emulsified harmoniously but doesn’t look as creamy as the velvety one. We awarded them **7.5 - 9.0 points**. 
 *   **Thick or Thin:** If the mayonnaise had a curdled-looking or slightly streaky with visible ribbons of oil, we allocated **7 points or less** to it. 
 *   **Broken/Separated/Runny:** We awarded no points for immersion blenders that failed to bond and emulsion the yolk and oil.
 
