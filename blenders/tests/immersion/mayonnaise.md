@@ -15,12 +15,12 @@ Testing Recipe
 *   3 egg yolks
 *   240ml canola oil
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl7h1rqnv00026r889ygf47px.jpg" alt="Nine immersion blenders lying on a table with ingredients and necessary tools for the mayonaise test, including a plastic beaker, a bowl of egg yolk, and a cup of oil, next to them." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte1i8im0008wz889u3g7vsr.jpg" alt="Immersion blenders, whisk attachments, broken eggs, cup of oil" width="640" height="427">
 
 Testing Procedure
 -----------------
 
-For the mayo whisking test, we initially whisked together two egg yolks and 150ml oil in a 24-oz vessel using either the blending shaft or a whisk attachment, depending on the blender’s accessory set. 
+For the mayo whisking test, we initially whisked together two egg yolks and 150ml oil in a 24-oz vessel using either the blending shaft or a whisk attachment, depending on the blender’s accessory set.
 
 Only units with whisk attachments passed that initial test. The remaining blenders barely reached the egg yolks and left us with a jumbled mixture. The blending wands simply aren’t made for such small volumes of ingredients. We do suspect, though, that the results might have been better if we used a narrower blending container. 
 
