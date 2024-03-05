@@ -10,7 +10,7 @@ In reviewing immersion blenders, we aimed to assess each unit’s performance in
 *   **Puréed Hot Soup**: Using ingredients like carrots, pumpkins, onions, and celery, we designed this test to highlight each blender's capability in a simple but critical kitchen task. After cooking, we separated the vegetables from the broth and reheated the mixture to around 140°F prior to blending.  We used an identical 24-oz beaker for each blend, and ran the motor for 30 seconds. Blenders were then scored based on the smoothness of their output. 
 *   **Frozen Fruit Smoothie**: Our test smoothie consists of a demanding blend: frozen fruits (mango and pineapple), kale, and water. Testing took place in a 24-oz beaker, with periodic texture assessments to determine when the blender achieved its optimal texture. The outcomes inform us about the expected duration and the smoothness of the final drink. 
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clco8xcls0000rd88ec5u6m0e.jpg" alt="Five immersion blenders lying on a white table with their testing mayonnaise by their side." width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte2qigd000dwz8833wu85fg.jpg" alt="Oil being poured into blender beaker containing egg yolk" width="360" height="240">
 
 *   We also conducted **Mayonnaise, Almond Milk, and Whipped Egg-White** tests to further evaluate the versatility and efficiency of each blender across a variety of culinary tasks. None of these tests are as simple as they sound, though. We had to go through a lot of failures along the way to ensure that they were both practical and revelatory as evaluations. 
 
