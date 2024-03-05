@@ -4,11 +4,11 @@ A superior immersion blender must do more than just puree or mix; it should exce
 
 Mayonnaise is not only a staple in many kitchens but also a perfect benchmark for testing immersion blenders. This creamy sauce demands a precise balance of power and delicacy from the blender. Too much force, and the ingredients won't emulsify properly; too little, and you're left with a runny, unappetizing mess. In our testing, we scrutinized how each blender handled the intricate process of turning simple ingredients like oil and egg yolks into a smooth, cohesive mayonnaise.
 
-This test goes beyond simple functionality. It examines how well each blender can maintain a steady speed and whether it can provide the gentle finesse needed for perfect emulsification. We also considered the design of the blender — does it allow for an easy and comfortable grip while maneuvering through such a delicate task? Are the speed settings intuitive and adaptable for such precise operations?
-
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte24gl60009wz88gkkmg5uv.jpg" alt="bowls containing mayonnaise" width="360" height="240">
 
 Most immersion blenders can produce mayonnaise, but the quality varies.
+
+This test goes beyond simple functionality. It examines how well each blender can maintain a steady speed and whether it can provide the gentle finesse needed for perfect emulsification. We also considered the design of the blender — does it allow for an easy and comfortable grip while maneuvering through such a delicate task? Are the speed settings intuitive and adaptable for such precise operations?
 
 By using mayonnaise as a test medium, we aim to provide a clear picture of each blender's capabilities, revealing not just their ability to blend, but to do so with the control and finesse that gourmet cooking demands. The results of this test will offer invaluable insights for anyone looking to purchase an immersion blender that's as effective at making emulsified sauces as it is at handling everyday blending tasks.
 
