@@ -48,7 +48,7 @@ The heat distribution score is calculated based on the **average temperature dif
 
 For theoretical accuracy, a skillet can only get a 10/10 by having 100% even heat distribution. Based on our collected data, we decided to subtract **1 point** for **each 5% difference**. We felt no skillet should show over 25% uneven heat distribution, which is also our limit for a 0/10 failed product.
 
- Additionally, the **color pattern** of the caramelized sugar gives us a visual representation—the higher the temperature, the darker the caramel gets in that area. 
+Additionally, the **color pattern** of the caramelized sugar gives us a visual representation—the higher the temperature, the darker the caramel gets in that area. 
 
 As you can see in the photos below, the center of the skillet is 400°F with a golden brown color. It gets gradually darker until it’s completely dark as when the heating element reaches 420°F, and sometimes even more. Towards the edges of the pan however, the temperature gets exponentially lighter where it’s only around 320°F.
 
