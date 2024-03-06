@@ -96,6 +96,10 @@ Prepare one infrared thermometer, fix it on a stand, and point it at the center 
 How We Score
 ------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/discussing-evaluation-heat-distribution-electric-skillets-cltfk1sok000ywz88dwwi0v8z.jpg" alt="A camera, an infrared thermometer, an electric skillet, and four people discussing." width="640" height="427">
+
+Our team at Healthy Kitchen 101 discussing the heat distribution evaluation of the Bella Non-Stick Electric Skillet 14607.
+
 The heat distribution score is calculated based on the **average temperature difference** (%) between the 5 designated points.
 
 For theoretical accuracy, a skillet can only get a 10/10 by having 100% even heat distribution. Based on our collected data, we decided to subtract **1 point** for **each 5% difference**. We felt no skillet should show over 25% uneven heat distribution, which is also our limit for a 0/10 failed product.
