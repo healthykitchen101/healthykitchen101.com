@@ -21,6 +21,10 @@ Our tests are practical, simple, and focus on what matters to the user. We start
 
 ### Analyzing Heat Distribution (20%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/analyzing-heat-distribution-cltfksj7h0010wz88epr86k10.jpg" alt="5 temperature points on the surface of the Elite Gourmet Non-Stick Electric Skillet EG-6203 are 330°F, 377°F, 385°F, 349°F, and 293°F." width="640" height="427">
+
+The 5 temperature points on the surface of the Elite Gourmet Non-Stick Electric Skillet EG-6203#.
+
 For Analyzing Heat Distribution (20%), we soak an **oil absorbent sheet** in saturated sugar water, drain off the excess water, then flatten it on the skillet’s surface. We then heat the skillet until the center reaches 400°F and check the temperature of 4 selected points towards the edges with an infrared thermometer.
 
 The sheet gives us a visual heat impression and an uniform surface material for an accurate assessment of any sized skillet. The score is calculated based on the **average temperature difference** between the **5 points** and the **color pattern** of the caramelized sugar.
