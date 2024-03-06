@@ -121,6 +121,10 @@ For the skillet’s base, we check the temperature range and if it has an indica
 Usability (25%)
 ---------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-usability-cltfl746z0017wz8895dphec3.jpg" alt="With handles folded in, the base of the Presto Foldaway Non-Stick Electric Skillet 06857 fits into the pan." width="640" height="427">
+
+With handles folded in, the base of the Presto Foldaway Non-Stick Electric Skillet 06857 fits into the pan.
+
 In the Usability (25%) section, we evaluate everything concerning the user experience of the electric skillet. This includes Ease of Use or user-friendliness as well as Cleaning and Storage.
 
 ### Ease of Use (/70%)
