@@ -51,17 +51,47 @@ Testing Steps
 
 These are all the steps we followed in testing each and every electric skillet we purchased:
 
-1.  Prepare one infrared thermometer, fix it on a stand, and point it at the center of and 12 inches away from the subject skillet.
-2.  Prepare a mixture of saturated sugar water (1800 g sugar to 1 liter of 25 ℃ water) in a shallow, fitting container like a baking pan.
-3.  Lay an oil absorbent sheet flat into the sugar water.
-4.  Lift up the sheet to drain the excess liquid. Be careful not to fold the sheet into itself.
-5.  Lay the sheet onto the pan surface. Make sure to cover the entire surface of the pan.
-6.  Use your hands or a roller to flatten the sheet out evenly.
-7.  Turn on the thermometer and the subject skillet until you get a 400°F reading on the thermometer.
-8.  Immediately turn off the electric skillet so the temperature stops rising.
-9.  Quickly use another thermometer to check the temperatures of 5 designated points.
-10.  Record the numbers to get the average for the final scoring.
-11.  Once everything cools down, remove the sheet and clean the pan.
+Prepare one infrared thermometer, fix it on a stand, and point it at the center of and 12 inches away from the subject skillet.
+
+1\. Prepare a mixture of saturated sugar water (1800 g sugar to 1 liter of 25 ℃ water) in a shallow, fitting container like a baking pan.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-1-testing-electric-skillets-cltfjmkt1000rwz88g9q31m3r.jpg" alt="An infrared thermometer fixed on a stand, the Bella Non-Stick Electric Skillet 14607, a person adjusting a digital thermometer, another person holding a pen." width="640" height="427">
+
+2\. Lay an oil absorbent sheet flat into the sugar water.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-2-testing-electric-skillets-cltfjmlar000uwz885900fgip.jpg" alt="A measuring cup with 1 liter of water and a bowl of sugar on a digital scale." width="640" height="427">
+
+3\. Lift up the sheet to drain the excess liquid. Be careful not to fold the sheet into itself.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-3-testing-electric-skillets-cltfjmju1000pwz88fy2o6zu8.jpg" alt="Two hands soaking an oil absorbent sheet into a tray of sugar water. Next to the tray is a measuring cup of sugar water." width="640" height="427">
+
+4\. Lay the sheet onto the pan surface. Make sure to cover the entire surface of the pan.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-4-testing-electric-skillets-cltfjmkfq000qwz882b5b21wc.jpg" alt="Two hands lifting up an oil absorbent sheet soaked in sugar water." width="640" height="427">
+
+5\. Use your hands or a roller to flatten the sheet out evenly.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-5-testing-electric-skillets-cltfjmlay000xwz8887oe7rlw.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K with a soaked oil absorbent sheet laid on its surface." width="640" height="427">
+
+6\. Turn on the thermometer and the subject skillet until you get a 400°F reading on the thermometer.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-6-testing-electric-skillets-cltfjmkww000swz886fe5dn13.jpg" alt="Turn on the thermometer and the subject skillet until you get a 400°F reading on the thermometer." width="640" height="427">
+
+7\. Immediately turn off the electric skillet so the temperature stops rising.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-7-testing-electric-skillets-cltfjmkwy000twz88fzqzcezb.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 402°F." width="640" height="427">
+
+8\. Quickly use another thermometer to check the temperatures of 5 designated points.
+
+9\. Record the numbers to get the average for the final scoring.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-9-testing-electric-skillets-cltfjmlaw000wwz883lny96n7.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 423°F." width="768" height="512">
+
+10\. Once everything cools down, remove the sheet and clean the pan.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-10-testing-electric-skillets-cltfjmlat000vwz88fojnar9n.jpg" alt="A person holding sheets of paper writing down scores and notes with a pen." width="768" height="512">
+
+11\. Once everything cools down, remove the sheet and clean the pan.
 
 How We Score
 ------------
