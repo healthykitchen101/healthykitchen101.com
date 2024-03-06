@@ -85,11 +85,11 @@ Prepare one infrared thermometer, fix it on a stand, and point it at the center 
 
 **9\. Record the numbers to get the average for the final scoring.**
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-9-testing-electric-skillets-cltfjmlaw000wwz883lny96n7.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 423°F." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-9-testing-electric-skillets-cltfjmlaw000wwz883lny96n7.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 423°F." width="768" height="512">
 
 **10\. Once everything cools down, remove the sheet and clean the pan.**
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-10-testing-electric-skillets-cltfjmlat000vwz88fojnar9n.jpg" alt="A person holding sheets of paper writing down scores and notes with a pen." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-10-testing-electric-skillets-cltfjmlat000vwz88fojnar9n.jpg" alt="A person holding sheets of paper writing down scores and notes with a pen." width="768" height="512">
 
 **11\. Once everything cools down, remove the sheet and clean the pan.**
 
