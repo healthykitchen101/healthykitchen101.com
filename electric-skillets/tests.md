@@ -41,6 +41,10 @@ We define a perfect pancake as having an even golden brown color with a  moist 
 
 ### Cooking Steaks (40%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/cooking-steaks-cltfkzcws0012wz88alr307ch.jpg" alt="Two people tasting and evaluating a steak made with the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+Tasting and evaluating a steak made with the Presto Foldaway Non-Stick Electric Skillet 06857.
+
 Lastly is Cooking Steaks (40%), and the reason is simple: ‘Who doesn’t enjoy a juicy steak!?’ We kept the seasoning to the most basic with just salt and pepper.
 
 Cooking a steak allows us to test preheating to **400°F** and provides an assessment of **good crusting** and **even cooking** for the perfect medium-rare steak. This test is pretty messy but it simultaneously showcases the non-stick coating capabilities and provides another test case for ease of cleaning.
