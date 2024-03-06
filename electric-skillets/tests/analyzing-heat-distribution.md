@@ -89,7 +89,7 @@ Prepare one infrared thermometer, fix it on a stand, and point it at the center 
 
 **10\. Once everything cools down, remove the sheet and clean the pan.**
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-10-testing-electric-skillets-cltfjmlat000vwz88fojnar9n.jpg" alt="A person holding sheets of paper writing down scores and notes with a pen." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/step-10-testing-electric-skillets-cltfjmlat000vwz88fojnar9n.jpg" alt="A person holding sheets of paper writing down scores and notes with a pen." width="640" height="427">
 
 **11\. Once everything cools down, remove the sheet and clean the pan.**
 
@@ -108,10 +108,10 @@ Additionally, the **color pattern** of the caramelized sugar gives us a visual r
 
 As you can see in the photos below, the center of the skillet is 400°F with a golden brown color. It gets gradually darker until it’s completely dark as when the heating element reaches 420°F, and sometimes even more. Towards the edges of the pan however, the temperature gets exponentially lighter where it’s only around 320°F.
 
-*   10/10: 0% difference between the 5 points
-*   9/10: 5% difference
-*   8/10: 10% difference
-*   7/10: 15% difference
-*   6/10: 20% difference
-*   5/10: 25% difference
-*   0/10: > 25% difference
+*   **10/10:** 0% difference between the 5 points
+*   **9/10:** 5% difference
+*   **8/10:** 10% difference
+*   **7/10:** 15% difference
+*   **6/10:** 20% difference
+*   **5/10:** 25% difference
+*   **0/10:** > 25% difference
