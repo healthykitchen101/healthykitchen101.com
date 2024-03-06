@@ -1,5 +1,7 @@
 **Analyzing Heat Distribution** is the first thing we do when assessing an electric skillet’s performance. This test takes up **20%** of the performance score and gives an indication of what to expect in the two follow-up cooking tests. Check out how we do this with oil absorbent sheets, sugar-water, and two infrared thermometers!
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/analyzing-heat-distribution-cltffzyap000iwz88g2rs8gj0.jpg" alt="A person in a gray shirt holding an oil absorbent sheet with dark caramelized circles." width="768" height="512">
+
 Using Sugar as Our Surface Heat Indicator
 -----------------------------------------
 
