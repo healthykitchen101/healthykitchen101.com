@@ -104,6 +104,10 @@ For the pan handles, we examine the material and the anti-slip grips. We also ch
 
 ### Thermostat (15%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-thermostat-cltfl5wxa0016wz887jno1jts.jpg" alt="The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has 6 settings including Warm-200–250-300-350-400°F." width="640" height="427">
+
+The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002.
+
 For the skillet’s base, we check the temperature range and if it has an indicator light. Most thermostats are detachable so we check if they fit nicely while being easy to remove. Dishwasher-safe ones are rare, and they receive a bonus point.
 
 | (+1) | (+2) |
