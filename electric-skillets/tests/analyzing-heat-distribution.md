@@ -34,7 +34,15 @@ The infrared thermometer reads the temperature at the center of the Presto Elect
 
 We have one infrared thermometer fixed on a stand and point it at the **center** of the skillet. Once the temperature there reaches **400°F**, we use another thermometer to measure the temperatures of **5 points** on the skillet’s surface to get the average for the final scoring.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ir-thermometer-measures-presto-electric-skillet-s-temperature-cltfhaoa5000nwz88gcbgcbsf.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 422°F." width="640" height="427">
+
+The infrared thermometer reads the temperature at the heating element away from its socket of the Presto Electric Skillet 06852 to be 422°F.
+
 We decided the points would include the **center**, **halfway** to one edge **towards** the heating element socket, one edge **towards** the heating element socket but not touching the pan’s wall. Likewise, we measure halfway to one edge **away from** the heating element socket, and one edge **away from** the heating element socket but not touching the pan’s wall.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ir-thermometer-measures-presto-electric-skillet-s-temperature-1-cltfhb3n4000owz88htkhbiad.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 387°F." width="640" height="427">
+
+The infrared thermometer reads the temperature at the heating element towards its socket of the Presto Electric Skillet 06852 to be 387°F.
 
 We noticed during our testing that the temperature at the edges **towards** the heating element socket are usually **lower** than away from it. This is because the two ends of the heating element are closer to one another and, therefore, further away from the edges of the pan.
 
