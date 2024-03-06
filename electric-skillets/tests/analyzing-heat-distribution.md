@@ -5,6 +5,10 @@
 Using Sugar as Our Surface Heat Indicator
 -----------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/measuring-amount-sugar-saturate-1-liter-cltfg2ryv000jwz88ayj6auhg.jpg" alt="A measuring cup with 1 liter of water and a bowl of 363 g of sugar on a digital scale." width="640" height="427">
+
+Measuring the amount of sugar to saturate 1 liter of 25 °C water.
+
 Sugar **changes color** very noticeably when exposed to heat, so it’s an excellent indicator of heat distribution on the surface of a skillet. One can also use flour but it’s messier, plus flour isn’t **translucent** like sugar.
 
 However, just spreading sugar on the pan can result in unevenness. In addition, it’s  very difficult to capture consistent data, not to mention the cleaning afterwards.
