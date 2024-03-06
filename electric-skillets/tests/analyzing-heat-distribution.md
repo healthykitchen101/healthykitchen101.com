@@ -28,7 +28,7 @@ Preparing the infrared thermometer for measuring temperature.
 
 We use [infrared thermometers](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/) for measuring temperature. They are **calibrated** following our testing procedures. The sheets ensure **consistent emissivity**, and we make sure to keep the **proper distance to spot ratio**.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ir-thermometer-reads-presto-electric-skillet-cltfg7csz000lwz88ad26gacx.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 390°F." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ir-thermometer-measures-presto-electric-skillet-s-center-temperature-cltfh7kgp000mwz884tnq4h69.jpg" alt="An oil absorbent sheet with dark caramelized rectangles laid on a skillet’s surface. An infrared thermometer reads 390°F." width="640" height="427">
 
 The infrared thermometer reads the temperature at the center of the Presto Electric Skillet 06852 to be 390°F.
 
