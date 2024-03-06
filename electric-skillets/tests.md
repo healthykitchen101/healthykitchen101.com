@@ -88,6 +88,10 @@ For the lid, we pay attention to the material and if it is sized correctly to fi
 
 ### Base (30%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-base-cltfl4qmc0015wz88c22j9fkn.jpg" alt="The base of the Nesco Non-Stick Electric Skillet ES-08." width="640" height="427">
+
+The base of the Nesco Non-Stick Electric Skillet ES-08.
+
 For the pan handles, we examine the material and the anti-slip grips. We also check if the pan clips off and is detachable or even dishwasher-safe.
 
 | (+1) | (+2) |
