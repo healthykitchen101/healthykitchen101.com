@@ -56,6 +56,8 @@ We evaluate the design of electric skillets based on their structural featuresâ€
 
 ### Pan (40%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-pan-cltfl2du20013wz888p9saiv5.jpg" alt="The pan of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is 14.96 inches in length, 11.69 inches in width, and 2.48 inches in depth." width="640" height="427">
+
 For the pan, we focus on the metallic base material, the non-stick coating, and the handles. We also check if it has a pouring spout and if itâ€™s dishwasher-safe or not.
 
 | (+1) | (+2) |
