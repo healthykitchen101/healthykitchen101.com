@@ -71,6 +71,10 @@ For the pan, we focus on the metallic base material, the non-stick coating, and 
 
 ### Lid (15%)
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-lid-cltfl3jx90014wz8832i98h4x.jpg" alt="The lid of the Elite Gourmet Non-Stick Electric Skillet EG-6203 has a steam vent." width="640" height="427">
+
+The lid of the Elite Gourmet Non-Stick Electric Skillet EG-6203#.
+
 For the lid, we pay attention to the material and if it is sized correctly to fit the pan. We also check if the handle or knob is cool-touch, if the lid is dishwasher-safe, and if it has a steam vent.
 
 | (+1) | (+2) |
