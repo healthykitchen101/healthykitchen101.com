@@ -22,6 +22,10 @@ Throughout the process, we used up less than half a liter (< 17 oz) of [saturate
 Preparing the Infrared Thermometer for Measuring Temperature
 ------------------------------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/preparing-infrared-thermometer-for-measuring-temperature-cltfg4gdn000kwz880xqd87ay.jpg" alt="An oil absorbent sheet laid on a skillet’s surface. An infrared thermometer reads 87.6°F." width="640" height="427">
+
+Preparing the infrared thermometer for measuring temperature.
+
 We use [infrared thermometers](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/) for measuring temperature. They are **calibrated** following our testing procedures. The sheets ensure **consistent emissivity**, and we make sure to keep the **proper distance to spot ratio**.
 
 We have one infrared thermometer fixed on a stand and point it at the **center** of the skillet. Once the temperature there reaches **400°F**, we use another thermometer to measure the temperatures of **5 points** on the skillet’s surface to get the average for the final scoring.
