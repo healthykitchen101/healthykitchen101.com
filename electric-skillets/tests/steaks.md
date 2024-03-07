@@ -100,6 +100,10 @@ Testing Steps
 How We Score
 ------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-score-steak-cooking-cltgr51520024wz8824srbgx1.jpg" alt="Two people tasting and evaluating a steak made with the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+Tasting and evaluating a steak made with the Presto Foldaway Non-Stick Electric Skillet 06857.
+
 To make sure the steaks produced by each electric skillet are as (close to) perfect as possible and within the ideal cooking time, we have our head chef [Tuyet Pham](https://healthykitchen101.com/about/#tuyet-pham) to **supervise** the process and **evaluate** the finished steaks.
 
 ### Preheating Time
