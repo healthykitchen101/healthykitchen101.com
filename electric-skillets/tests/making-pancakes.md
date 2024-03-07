@@ -116,11 +116,29 @@ A perfect pancake should have:
 3.  **Taste:** A buttery aroma and rich, delicious taste to match the perfect color and texture.
 4.  **Non-stick evaluation:** If the pancake sticks to the pan and breaks apart, a point is deducted. For the cleaning afterward, nothing should stick to the pan that requires laborious scrubbing.
 
-*   **10/10:**
-*   **9/10:**
-*   **8/10:**
-*   **7/10:**
-*   **6/10:**
-*   **5/10:**
-*   **4/10:**
-*   **3/10:**
+*   **10/10:** 100% even golden brown color; no dark edges; steamy and fluffy
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-10-points-cltgoevus001owz88dlncbvfu.jpg" alt="The top side of a golden brown pancake inside an air fryer basket. In the corner is the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+*   **9/10:** even golden brown color; no dark edges; steamy and fluffy
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-9-points-cltgofi6y001pwz888ph90ucs.jpg" alt="The top side of a golden brown pancake inside an air fryer basket. In the corner is the Elite Gourmet Non-Stick Electric Skillet EG-6203." width="640" height="427">
+
+*   **8/10:** 80% even golden brown color; one slightly dark edge; steamy and fluffy
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-8-points-cltgog4wp001qwz88atz30hll.jpg" alt="The top side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="640" height="427">
+
+*   **7/10:** 70% even golden brown color; one slightly dark edge; a bit too dry or too moist
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-7-points-cltgogtzx001rwz88bw6rafb8.jpg" alt="The top side of a mottled golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Crux Non-Stick Electric Skillet 14620." width="640" height="427">
+
+*   **6/10:** 60% even golden brown color; noticeable dark edges; a bit too dry or too moist
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-6-points-cltgohh0n001swz8818mr22ky.jpg" alt="The top side of a mottled golden brown pancake with noticeable dark edges inside an air fryer basket. In the corner is the Nesco Non-Stick Electric Skillet ES-08." width="640" height="427">
+
+*   **5/10:** 50% even golden brown color; noticeable dark edges; too dry or too moist
+*   **4/10:** 40% even golden brown color; highly noticeable dark edges; too dry or too moist
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/pancakes-are-rated-4-points-cltgoi4re001twz88ehn489ia.jpg" alt="The top side of a dark brown pancake with highly noticeable dark edges inside an air fryer basket. In the corner is the Ovente Non-Stick Electric Skillet SK11112B." width="640" height="427">
+
+*   **3/10:** 30% even golden brown color; inedible dark edges;
