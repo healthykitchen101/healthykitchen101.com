@@ -52,7 +52,7 @@ To assess temperature differences across the skillet's surface, we placed a satu
 
 Our measurements of these points, from the center to the edges of the pan, revealed an average temperature difference of only **5.9%**. The combined average of all the pans we tested was 10%. 
 
-This impressive result earned the skillet a noteworthy rating of 8.8/10, positioning it  slightly below the medium-sized Crux 14620.
+This impressive result earned the skillet a noteworthy rating of 8.8/10, positioning it slightly below the medium-sized Crux 14620.
 
 ### Making Pancakes
 
@@ -93,71 +93,99 @@ Design
 
 design Scores: **NaN**
 
-*   (40%) - **9.0**/undefined
+*   Pan (40%) - **9.0**/undefined
     
-*   (15%) - **10**/undefined
+*   Lid (15%) - **10**/undefined
     
-*   (30%) - **8.0**/undefined
+*   Base (30%) - **8.0**/undefined
     
-*   (15%) - **7.0**/undefined
+*   Thermostat (15%) - **7.0**/undefined
     
+
+The excellent build quality of the Hamilton Beach 38529K shone through in its thick pan, PTFE and PFOA-free ceramic non-stick coating, and sturdy detachable base. Furthermore, it was surprisingly the lightest skillet we have in the large size category.
 
 ### 9.0 - Pan
 
-Cooking Capacity:
+Cooking Capacity: 7.5 quarts
 
-Dimensions:
+Dimensions: L14.96 x W11.69 x H2.48 inches
 
-Material:
+Material: Cast aluminum
 
-Coating:
+Coating: Durathon ceramic
 
-Handle:
+Handle: Thermosetting plastic
 
-Spout:
+Spout: No
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The Hamilton Beach skillet’s 7.5 qt cast aluminum pan is more durable than plain non-cast aluminum (+4). It’s extra thickness (0.16 in) means it’s less likely to deform under heat and it also heats up more evenly.
+
+The reversible handles are attached to the pan so, with the thermostat removed, it lifts off the base (+1). The bottom of the detached pan actually has four leg stands so you can place it directly on the table for serving. The pan doesn’t have a pouring spout, but it is dishwasher-safe (+2).
+
+We liked that the ceramic non-stick coating is free of PTFEs and PFOAs (+2). This patented [Durathon ceramic](https://insight.rpxcorp.com/patent/US11840487B2#assignments) is advertised to be four times stronger than other non-stick coatings and to emit 60% less during production—claims we unfortunately have no way of confirming.
 
 ### 10 - Lid
 
-Material:
+Material: Tempered glass
 
-Handle:
+Handle: Steel
 
-Steam Vent:
+Steam Vent: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The tempered glass lid is dishwasher-safe with a steel knob handle (+4).There is also a steam vent to alleviate pressure (+3). Additionally, the metal edging is precisely crafted to seamlessly fit the pan (+3), ensuring optimal functionality and convenience.
 
 ### 8.0 - Base
 
-Material:
+Material: Steel
 
-Detachable:
+Detachable: Yes
 
-Anti-Slip Pads:
+Anti-Slip Pads: Four
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The detachable base is made of thermosetting plastic. It’s not as durable as metal, but much lighter nonetheless (+3). The two base handles are unfortunately not foldable like those on the Presto 06857 (+1). It does, however, have four anti-slip pads at the bottom and is dishwasher-safe (+4).
 
 ### 7.0 - Thermostat
 
-Temperature Range:
+Temperature Range: Warm-200–250-300-350-400°F
 
-Detachable:
+Detachable: Yes
 
-Indicator Light:
+Indicator Light: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: No
+
+The detachable thermostat is standard for its range of 200 to 400°F (+3). Although it has a warm setting, we found it hovers around 150°F and doesn't retain the preset temperature like some other skillets.
+
+Thermostat seamlessly pops into the socket, is easy to remove, and it has a working light indicator (+4). It's important to note that the thermostat is not dishwasher-safe.
 
 Usability
 ---------
 
 usability Scores: **NaN**
 
-*   (70%) - **9.5**/undefined
+*   Ease of Use (70%) - **9.5**/undefined
     
-*   (30%) - **9.0**/undefined
+*   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-### 9.5 - Easeof Use
+The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K being reversible and detachable made it extremely easy to maneuver and clean. The only advantage to storage is that the two parts can be stored separately.
 
-### 9.0 - Cleaningand Storing
+### 9.5 - Ease of Use
+
+The thermostat snugly fit into place, the temperature is precise, and the indicator light prominently visible. (+3). After removing the thermostat, you can simply lift up the pan and serve food directly from the table.
+
+When lifting the pan, make sure your fingers grip the handles firmly so as to not accidentally drop the pan or pick up the base along with it. For this reason, we felt like the handles would be improved with a clip-lock like the Presto 06857.
+
+The skillet's exterior maintained a safe temperature during cooking, thus minimizing the risk of accidental burns (+3). The detachable skillet is also reversible so there is no guesswork involved and the anti-slips pads on the base kept everything perfectly steady no matter how hard we rocked the skillet (+3).
+
+### 9.0 - Cleaning and Storing
+
+The ceramic non-stick coating and ease of separately handling the pan and base made cleaning a breeze (+3). Even with all the testing, including the burnt caramel in our heat distribution test, a quick hand-washing with a little soap and warm water was all we needed (+3).
+
+On the other hand, you can just put everything, except the thermostat, into the dishwasher. Take care not to use the ‘SANI’ setting as per the manual guidelines. The skillet stores easily—even in its original box for safekeeping (+3).
