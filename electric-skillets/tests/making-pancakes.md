@@ -7,6 +7,10 @@ And to do all of this, we first needed to decide on a consistently good recipe.
 Our Electric Skillet Pancake Recipe
 -----------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/our-electric-skillet-pancake-recipe-cltgmmti70019wz88baap0xn8.jpg" alt="Two plates of pancakes with silver cutlery and small plates of blueberries, kiwis, and strawberries." width="640" height="427">
+
+Don’t forget to top your pancakes with honey, butter, and fruits.
+
 To minimize the variables, we developed an original electric skillet pancake recipe and used it to test all skillets. After consulting a number of recipes, including from a very popular Youtube video by [Hands Touch](https://www.youtube.com/watch?v=NCMKedZvnyI) and another from our sister site [Healthy Recipes 101](https://healthyrecipes101.com/food/recipe/pancake/), we finalized a recipe adjusted to taste and practicality for an electric skillet.
 
 *   2 cup (240 g / 8.5 oz) all-purpose flour
