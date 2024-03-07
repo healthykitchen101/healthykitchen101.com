@@ -37,14 +37,41 @@ We had the best results across different skillets cooking the first side for **1
 Testing Steps
 -------------
 
-1.  Prepare one infrared thermometer, fixed on a stand, and point it at the center of and 12 inches away from the subject skillet.
-2.  Weigh all the dry ingredients separately, including flour, sugar, baking soda, salt, then put them in a bowl
-3.  Weigh all the wet ingredients separately, including milk, melted butter, vanilla extra, 2 eggs, and put them in another bowl.
-4.  Pour the wet ingredients into the dry ingredients and whisk until everything is well combined. The batter consistency should be slightly thin, just enough to coat the whisk or scoop.
-5.  Turn on the thermometer and the subject skillet until the temperature reads 350°F on the thermometer.
-6.  Scoop half a cup of batter and pour it straight to the center of the pan and even it out if necessary but don’t press on it.
-7.  Cook the pancake on the first side until golden brown. It should take about 1 min to 1 min 30 sec.
-8.  Remove the pancake from the skillet and let it cool on a wire rack.
+**1\. Prepare one infrared thermometer, fixed on a stand, and point it at the center of and 12 inches away from the subject skillet.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-1-cltgng3ff001lwz8848br7cug.jpg" alt="Electric Skillet Pancake Recipe Step 1" width="640" height="427">
+
+**2\. Weigh all the dry ingredients separately, including flour, sugar, baking soda, salt, then put them in a bowl**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-2-cltgmyw3g001jwz8836bk2vtv.jpg" alt="A person in an apron holding a whisk to incorporate dry ingredients." width="640" height="427">
+
+**3\. Weigh all the wet ingredients separately, including milk, melted butter, vanilla extra, 2 eggs, and put them in another bowl.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-3-cltgmyw3c001hwz886gkwam68.jpg" alt="A person in an apron holding a whisk pouring butter into a bowl of wet ingredients." width="640" height="427">
+
+**4\. Pour the wet ingredients into the dry ingredients and whisk until everything is well combined. The batter consistency should be slightly thin, just enough to coat the whisk or scoop.**
+
+**5\. Turn on the thermometer and the subject skillet until the temperature reads 350°F on the thermometer.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-5-cltgmyw2y001dwz889rvk0nxp.jpg" alt="An infrared thermometer reads the temperature on the Elite Gourmet Non-Stick Electric Skillet EG-6203# to be 349°F." width="640" height="427">
+
+**6\. Scoop half a cup of batter and pour it straight to the center of the pan and even it out if necessary but don’t press on it.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-6-cltgmyvqs001cwz88dso1bjio.jpg" alt="Pouring batter into the Nesco Non-Stick Electric Skillet ES-08 with a scoop." width="640" height="427">
+
+**7\. Cook the pancake on the first side until golden brown. It should take about 1 min to 1 min 30 sec.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-7-cltgmyw33001ewz88c51b05nh.jpg" alt="A person flipping a pancake in the Bella Non-Stick Electric Skillet 14607. Next to it is a bowl of batter." width="640" height="427">
+
+**8\. Remove the pancake from the skillet and let it cool on a wire rack.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-8-cltgmyw39001gwz88c1h91bft.jpg" alt="A golden brown pancake inside the Elite Gourmet Non-Stick Electric Skillet EG-6203#. A spatula is pressing down on it." width="640" height="427">
+
+**9\. Remove the pancake from the skillet and let it cool on a wire rack.**
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-9-cltgmyw3j001kwz888c81gz06.jpg" alt="Electric Skillet Pancake Recipe Step 9" width="640" height="427">
+
+**10\. Clean the pan once everything cools down.**
 
 How We Score
 ------------
