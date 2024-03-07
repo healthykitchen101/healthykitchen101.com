@@ -139,7 +139,16 @@ Since the temperature is fixed to minimize variables, our chef decides the balan
 
 The perfect steak should have:
 
-1.  **Crusting:** A 100% even, deep golden brown color on all sides, including sides with a fat cap.
-2.  **Doneness:** Exactly medium-rare which should be around 145°F at the center of the steak.
-3.  **Taste:** A good crust with a rich, savory taste and a crispy bite in combination with a doneness and juiciness that spreads the steak’s flavor across your entire palate.
-4.  **Non-stick evaluation:** If the steak sticks to the pan and tears apart, a point is deducted. For the cleaning, the grease should come off by just wiping with a paper towel and nothing should stick to the pan that requires laborious scrubbing or soaking.
+**1\. Crusting:** A 100% even, deep golden brown color on all sides, including sides with a fat cap.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/deep-golden-brown-steak-hamilton-beach-electric-skillet-cltgrfcxm0026wz885mc1dwy9.jpg" alt="A piece of deep golden brown steak inside the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="640" height="427">
+
+**2\. Doneness:** Exactly medium-rare which should be around 145°F at the center of the steak.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/slices-medium-rare-steak-wooden-cutting-board-cltgrh5ve0027wz88fei55ahe.jpg" alt="Slices of medium rare steak on a wooden cutting board" width="640" height="427">
+
+**3\. Taste:** A good crust with a rich, savory taste and a crispy bite in combination with a doneness and juiciness that spreads the steak’s flavor across your entire palate.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hand-black-glove-picking-up-steak-with-fork-cltgrlfm70028wz885xz7ab9d.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="640" height="427">
+
+**4\. Non-stick evaluation:** If the steak sticks to the pan and tears apart, a point is deducted. For the cleaning, the grease should come off by just wiping with a paper towel and nothing should stick to the pan that requires laborious scrubbing or soaking.
