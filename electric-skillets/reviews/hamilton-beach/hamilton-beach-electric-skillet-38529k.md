@@ -12,7 +12,19 @@ Overall Score: **NaN**
 
 **Things We Like**
 
+*   Great heat distribution
+*   Stable temperatures
+*   Sizzling hot pan for searing
+*   Durable ceramic non-stick coating
+*   High build quality
+
 **Things We Don’t Like**
+
+*   Handles need clip-locks
+
+The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K stands out with its sturdy-looking base and thick, copper-colored pan. Out the gate, the skillet boiled water fast and fried eggs slid breezily around the skillet.
+
+From our research, Hamilton Beach is a prominent American brand with an extensive range of compact appliances. Established in the early 1900s by Louis Hamilton and Chester Beach, the brand started with motor-driven mixers. Over time, their product line has diversified to include air purifiers, irons, blenders, electric kettles, slow cookers, grills, toaster ovens, electric skillets, and a variety of other appliances.
 
 Performance
 -----------
