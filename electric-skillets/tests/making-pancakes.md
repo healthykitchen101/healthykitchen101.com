@@ -1,3 +1,5 @@
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/making-pancakes-test-electric-skillets-cltgmam4e0018wz88ex982p4s.jpg" alt="A person holding and pointing at a plate of pancakes. In the background is a shelf of electric skillets and toaster ovens." width="768" height="512">
+
 We chose two food tests to rate and evaluate electric skittles. One of these was flapjack pancakes because of their popularity and easy-to-make common batter. The other test was cooking steaks. Making Pancakes takes up 20% of the performance score. This test gives us insights into the skillet’s **preheating time**, evenness of cooking, and the pan’s non-stick qualities.
 
 And to do all of this, we first needed to decide on a consistently good recipe.
