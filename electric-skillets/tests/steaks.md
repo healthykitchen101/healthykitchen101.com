@@ -27,6 +27,10 @@ To run the test, we insert a meat thermometer horizontally into the center of th
 
 For our **1.38-inch top blade** steak, searing the two sides and the edges is enough to cook the meat through to a medium-rare. If you have a ≥ 1.5 inch steak, you can simply cover the lid and allow the meat to cook a little further.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/our-team-is-testing-electric-skillet-with-steaks-cltgr847q0025wz88d5tm1rkz.jpg" alt="Three people paying close attention to another person cooking a piece of steak with the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+Cooking a steak is easy enough. But when it comes to doing it to evaluate an electric skillet, it’s a team effort.
+
 We had the best results across skillets when cooking the first side for **3 min 30 sec** and then the second side for **4 min**. The second side takes longer because, at 400°F, electric skillets tend to cycle off around the 6-minute mark to prevent the temperature from rising too high.
 
 For the edges, ones with a fat cap took around **2 minutes** and those without took **1 min** to **1 min 30** sec each.
