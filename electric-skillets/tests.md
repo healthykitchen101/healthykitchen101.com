@@ -1,4 +1,4 @@
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-cltfkko8c000zwz881p98bq4p.jpg" alt="How we test electric skillets. A person opening his arms towards a photo of a plate of pancakes on the left and a plate of steak, fries, and asparagus on the right." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-cltgw6c0j0029wz88bgey73vg.jpg" alt="How we test electric skillets. A person opening his arms towards a photo of a plate of pancakes on the left and a plate of steak, fries, and asparagus on the right." width="768" height="512">
 
 An electric skillet, large or small, is a versatile and convenient countertop space saver. A good skillet should be able to handle any task from sautéing, frying, grilling, and steaming, to even making hotpots. However, with differing materials, quality, and design, how does one choose a truly worthwhile electric skillet?
 
