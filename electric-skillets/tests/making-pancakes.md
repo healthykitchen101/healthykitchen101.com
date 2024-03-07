@@ -76,6 +76,10 @@ Testing Steps
 How We Score
 ------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-do-we-score-cltgnpsrq001mwz88bpb5g2p7.jpg" alt="A wooden working desk with a scoring sheet, a red infrared thermometer, a plate of pancakes, and the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+Throughout the testing process, our team at Healthy Kitchen 101 record, analyze, and score everything.
+
 To make sure the pancakes cook as (close to) perfect as possible and within the ideal cooking time, we have our head chef [Tuyet Pham](https://healthykitchen101.com/about/#tuyet-pham) to **supervise** the process and **evaluate** the finished pancakes.
 
 ### Preheating Time
