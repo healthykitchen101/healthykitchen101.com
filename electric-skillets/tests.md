@@ -127,7 +127,7 @@ With handles folded in, the base of the Presto Foldaway Non-Stick Electric Skill
 
 In the Usability (25%) section, we evaluate everything concerning the user experience of the electric skillet. This includes Ease of Use or user-friendliness as well as Cleaning and Storage.
 
-### Ease of Use (/70%)
+### Ease of Use (70%)
 
 The ease of use criteria includes how easy it is to operate the skillet, interact with it while cooking, and its sturdiness.
 
@@ -137,7 +137,7 @@ The ease of use criteria includes how easy it is to operate the skillet, interac
 | Sturdy while cooking |
 | Exterior never hazardously hot |
 
-### Cleaning and Storing (/30%)
+### Cleaning and Storing (30%)
 
 Cleaning and storing, as implied, evaluates how easily food debris comes off, the ease of all-round cleaning, and if the skillet can be stored away in a straightforward manner.
 
