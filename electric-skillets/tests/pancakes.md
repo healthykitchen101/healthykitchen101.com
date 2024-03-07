@@ -39,7 +39,7 @@ Testing Steps
 
 **1\.** Prepare one infrared thermometer, fixed on a stand, and point it at the center of and 12 inches away from the subject skillet.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-1-cltgng3ff001lwz8848br7cug.jpg" alt="Electric Skillet Pancake Recipe Step 1" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-pancake-recipe-step-1-cltgng3ff001lwz8848br7cug.jpg" alt="On a white table is an infrared thermometer fixed on a stand, the Bella Non-Stick Electric Skillet 14607, and a digital thermometer." width="640" height="427">
 
 **2\.** Weigh all the dry ingredients separately, including flour, sugar, baking soda, salt, then put them in a bowl.
 
@@ -76,7 +76,7 @@ Testing Steps
 How We Score
 ------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-do-we-score-cltgnpsrq001mwz88bpb5g2p7.jpg" alt="A wooden working desk with a scoring sheet, a red infrared thermometer, a plate of pancakes, and the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-score-pancake-making-cltgqyraw0023wz888a6607ow.jpg" alt="A wooden working desk with a scoring sheet, a red infrared thermometer, a plate of pancakes, and the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
 
 Throughout the testing process, our team at Healthy Kitchen 101 record, analyze, and score everything.
 
