@@ -49,23 +49,53 @@ Our head chef’s supervision proved invaluable in the process otherwise we woul
 Testing Steps
 -------------
 
-1.  Let the steak cool down to room temperature.
-2.  Season with salt, pepper, and garlic powder.
-3.  Insert a meat thermometer horizontally to the center of the steak to monitor the internal temperature.
-4.  Prepare one infrared thermometer, fixed on a stand, and point it at the center of and 12 inches away from the subject skillet. 
-5.  Turn on the thermometer and the subject skillet until the temperature reads 400°F on the thermometer.
-6.  Add olive oil and place the steak in the skillet.
-7.  Sear the first side until completely caramelized. It should take about 3 min 30 sec.
-8.  Flip the steak and sear the other side to the same degree. This side should take a total of 4 minutes.
-9.  Sear the edge with the fat cap for around 2 minutes.
-10.  Sear the other edges for around 1 min 30 sec each.
-11.  Lay the steak down on the first side then add butter and rosemary on top.
-12.  Flip the steak and make sure to coat it in butter evenly.
-13.  Continue searing each side in butter for around 30 seconds.
-14.  Once the internal temperature reaches around 135°F, remove the steak from the skillet, and place it on a cutting board.
-15.  Let it rest for at least 3 minutes (or half the cooking duration).
-16.  Cut the steak, taste, and evaluate.
-17.  Clean the pan once everything cools down.
+**1.** Let the steak cool down to room temperature.
+
+**2.** Season with salt, pepper, and garlic powder.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-2-cltgqafje001wwz881uml2zv7.jpg" alt="A person in an apron seasoning a tray of steak with garlic powder." width="640" height="427">
+
+**3.** Insert a meat thermometer horizontally to the center of the steak to monitor the internal temperature.
+
+**4.** Prepare one infrared thermometer, fixed on a stand, and point it at the center of and 12 inches away from the subject skillet. 
+
+**5.** Turn on the thermometer and the subject skillet until the temperature reads 400°F on the thermometer.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-5-cltgqbm4n001xwz88crba2mqu.jpg" alt="An infrared thermometer reads the temperature on the Presto Foldaway Non-Stick Electric Skillet 06857 to be 400°F." width="640" height="427">
+
+**6.** Add olive oil and place the steak in the skillet.
+
+**7.** Sear the first side until completely caramelized. It should take about 3 min 30 sec.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-7-cltgqcgkz001ywz882z1zgj6x.jpg" alt="Searing a steak using the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K. A digital timer, and a meat thermometer." width="640" height="427">
+
+**8.** Flip the steak and sear the other side to the same degree. This side should take a total of 4 minutes.
+
+**9.** Sear the edge with the fat cap for around 2 minutes.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-9-cltgqp2it0022wz88fjbtbhzn.jpg" alt="A person holding a steak with a tong to sear the edge of a steak in the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K. A digital timer, and a meat thermometer." width="640" height="427">
+
+**10.** Sear the other edges for around 1 min 30 sec each.
+
+**11.** Lay the steak down on the first side then add butter and rosemary on top.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-11-cltgqespc001zwz88ctied8gz.jpg" alt="A seared steak with a probe inside, topped with a knob of butter and a twig of rosemary, inside the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="640" height="427">
+
+**12.** Flip the steak and make sure to coat it in butter evenly.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-12-cltgqfdxw0020wz88bcouf2a9.jpg" alt="Coating a steak with butter inside the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
+**13.** Continue searing each side in butter for around 30 seconds.
+
+**14.** Once the internal temperature reaches around 135°F, remove the steak from the skillet, and place it on a cutting board.
+
+**15.** Let it rest for at least 3 minutes (or half the cooking duration).
+
+**16\.** Cut the steak, taste, and evaluate.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/electric-skillet-steak-recipe-step-16-cltgqfze50021wz88fji7g7xi.jpg" alt="Slicing up a steak on a wooden cutting board." width="640" height="427">
+
+**17\.** Clean the pan once everything cools down.
 
 How We Score
 ------------
