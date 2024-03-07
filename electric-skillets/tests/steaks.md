@@ -1,3 +1,5 @@
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/cooking-steaks-test-electric-skillets-cltgpemq5001uwz885y0q5521.jpg" alt="Two people giving thumbs up, the Presto Foldaway Non-Stick Electric Skillet 06857, and slices of steak on a wooden cutting board." width="768" height="512">
+
 Every gastronome loves a good steak! For this reason, and others, we chose cooking steaks as one of our two food tests for electric skillet performance. Cooking Steaks takes up 40% of the performance score. 
 
 In this test, evaluate the skillet’s **preheating time**, high heat for good **crusting,** stable temperature for ideal **doneness** and **juiciness**, and not to mention **ease-of-cleaning**.
