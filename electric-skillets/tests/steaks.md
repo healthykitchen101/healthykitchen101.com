@@ -7,6 +7,10 @@ And, all of this can be done with the most basic of recipes!
 Our Electric Skillet Steak Recipe
 ---------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/our-electric-skillet-steak-recipe-cltgpko4p001vwz8856kk6cbx.jpg" alt="On the right, a plate with a piece of steak and rosemary. On the left, containers of ingredients including garlic powder, rosemary, butter, pepper, salt, and olive oil." width="640" height="427">
+
+Our steak recipe includes an 8 oz top blade steak, garlic powder, rosemary, butter, pepper, salt, and olive oil.
+
 To keep our team focused on testing and evaluating, we decided to go with the most basic steak recipe. This one was developed by our head chef [Tuyet Pham](https://healthykitchen101.com/about/#tuyet-pham) who dropped by from [Healthy Recipes 101](https://healthyrecipes101.com/beef/recipe/steak-eggs/):
 
 *   An 8 oz, 1.38-inch thick top blade steak (226.8 g, 3.5 cm)
