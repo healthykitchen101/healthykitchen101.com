@@ -22,6 +22,10 @@ To minimize the variables, we developed an original electric skillet pancake rec
 *   1 tsp (3 g / 0.1 oz) vanilla extract
 *   2 eggs
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/our-electric-skillet-pancake-recipe-1-cltgmpoef001bwz88eraa4lc5.jpg" alt="Containers of ingredients including flour, eggs, sugar, baking powder, butter, vanilla extract, milk, and salt." width="640" height="427">
+
+Our pancake recipe includes flour, eggs, sugar, baking powder, butter, vanilla extract, milk, and salt.
+
 Mixing all the ingredients together will give a batter with a **slightly thin** consistency. Our recipe will give you five to six **3.17 oz** (90 g) pancakes that are **golden brown** and **soft** on the outside while **moist** and **fluffy** on the inside.
 
 To make the pancakes, preheat the skillet to **350°F** (checking with an infrared thermometer) which is the equivalent of medium heat. In order to evaluate the non-stick coating, we don’t grease the pan.
