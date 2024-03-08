@@ -147,6 +147,8 @@ The tempered glass lid is dishwasher-safe (+4). It has a steel handle but no ste
 
 ### 9.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-base-clti2zy0h002hwz88hq4u2f5n.jpg" alt="The detached base of the Presto Foldaway Non-Stick Electric Skillet 06857." width="300px" height="200px">
+
 Material: Thermosetting plastic
 
 Detachable: Yes
