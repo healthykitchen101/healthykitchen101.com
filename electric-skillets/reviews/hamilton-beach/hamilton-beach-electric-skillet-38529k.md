@@ -46,6 +46,8 @@ The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K proved outstanding.
 
 ### Analyzing Heat Distribution
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-analyzing-heat-distribution-cltmfqdy40038wz887bff4wy7.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K with a white oil-absorbent sheet covering the surface of the pan. The dark rectangle indicates where the heating element is." width="300px" height="200px">
+
 Temperature: High heat / 400°F
 
 Temperature Differences: 5.9%
@@ -59,6 +61,8 @@ Our measurements of these points, from the center to the edges of the pan, revea
 This impressive result earned the skillet a noteworthy rating of 8.8/10, positioning it slightly below the medium-sized Crux 14620.
 
 ### Making Pancakes
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-making-pancakes-cltmfqdyc003bwz88ca3k1gfr.jpg" alt="The top side of a golden brown pancake inside an air fryer basket. In the corner is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-making-pancakes-1-cltmfqdye003cwz88e9py4yfo.jpg" alt="The bottom side of a golden brown pancake inside an air fryer basket. In the corner is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-making-pancakes-2-cltmfqdxm0031wz884ffr0j2l.jpg" alt="Two hands breaking a pancake apart. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
 
 Heating Time: 3 min 20 sec
 
@@ -76,7 +80,7 @@ Remarkably, the non-stick coating required no extra greasing. However, to prolon
 
 ### Cooking Steaks
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-4-cltmfurdf003ewz88dy2y615q.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-cltmfqdy10037wz88bywg60mn.jpg" alt="A piece of deep golden brown steak inside the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-1-cltmfqdxq0033wz88556phmmx.jpg" alt="A piece of deep golden brown steak with a meat thermometer inserted into it on a wooden cutting board. At the corner is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-2-cltmfqdxw0035wz88hnr66map.jpg" alt="Hamilton Beach Electric Skillet 38529K Cooking Steaks 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-3-cltmfqdya003awz88gwl5gvso.jpg" alt="Slices of medium-rare steak on a wooden cutting board. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-4-cltmfurdf003ewz88dy2y615q.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
 
 Heating Time: 4 min 30 sec
 
@@ -112,6 +116,8 @@ The excellent build quality of the Hamilton Beach 38529K shone through in its th
 
 ### 9.0 - Pan
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-pan-cltmfqcef002wwz88b167ba5r.jpg" alt="The pan of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is 14.96 inches in length, 11.69 inches in width, and 2.48 inches in depth." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-pan-1-cltmfqdxo0032wz88ca0n47q0.jpg" alt="The bottom of the detached pan of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
+
 Cooking Capacity: 7.5 quarts
 
 Dimensions: L14.96 x W11.69 x H2.48 inches
@@ -134,6 +140,8 @@ We liked that the ceramic non-stick coating is free of PTFEs and PFOAs (+2). Thi
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-lid-cltmfqdxh002zwz88afushos4.jpg" alt="The tempered glass lid of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K has a steam vent." width="300px" height="200px">
+
 Material: Tempered glass
 
 Handle: Steel
@@ -146,6 +154,8 @@ The tempered glass lid is dishwasher-safe with a steel knob handle (+4).There is
 
 ### 8.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-base-cltmfqdy70039wz888hft9q17.jpg" alt="The detached base of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
+
 Material: Steel
 
 Detachable: Yes
@@ -157,6 +167,8 @@ Dishwasher-Safe: Yes
 The detachable base is made of thermosetting plastic. It’s not as durable as metal, but much lighter nonetheless (+3). The two base handles are unfortunately not foldable like those on the Presto 06857 (+1). It does, however, have four anti-slip pads at the bottom and is dishwasher-safe (+4).
 
 ### 7.0 - Thermostat
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-thermostat-cltmfqcei002xwz88g0ua8418.jpg" alt="The thermostat of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K has 6 settings including Warm-200–250-300-350-400°F." width="300px" height="200px">
 
 Temperature Range: Warm-200–250-300-350-400°F
 
@@ -184,6 +196,8 @@ The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K being reversible an
 
 ### 9.5 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-ease-use-cltmfqdxa002ywz8830bz60yj.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K simply lifts off its base." width="300px" height="200px">
+
 The thermostat snugly fit into place, the temperature is precise, and the indicator light prominently visible. (+3). After removing the thermostat, you can simply lift up the pan and serve food directly from the table.
 
 When lifting the pan, make sure your fingers grip the handles firmly so as to not accidentally drop the pan or pick up the base along with it. For this reason, we felt like the handles would be improved with a clip-lock like the Presto 06857.
@@ -191,6 +205,8 @@ When lifting the pan, make sure your fingers grip the handles firmly so as to no
 The skillet's exterior maintained a safe temperature during cooking, thus minimizing the risk of accidental burns (+3). The detachable skillet is also reversible so there is no guesswork involved and the anti-slips pads on the base kept everything perfectly steady no matter how hard we rocked the skillet (+3).
 
 ### 9.0 - Cleaning and Storing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cleaning-storing-cltmfqdxj0030wz884ifye0xp.jpg" alt="Burnt caramel on the surface of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
 
 The ceramic non-stick coating and ease of separately handling the pan and base made cleaning a breeze (+3). Even with all the testing, including the burnt caramel in our heat distribution test, a quick hand-washing with a little soap and warm water was all we needed (+3).
 
