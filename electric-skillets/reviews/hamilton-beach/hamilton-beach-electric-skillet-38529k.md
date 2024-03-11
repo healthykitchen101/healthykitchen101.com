@@ -76,6 +76,8 @@ Remarkably, the non-stick coating required no extra greasing. However, to prolon
 
 ### Cooking Steaks
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-cooking-steaks-4-cltmfurdf003ewz88dy2y615q.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
+
 Heating Time: 4 min 30 sec
 
 Temperature: High heat / 400°F
