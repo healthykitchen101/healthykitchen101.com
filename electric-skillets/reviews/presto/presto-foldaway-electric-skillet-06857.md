@@ -31,7 +31,7 @@ The non-stick surface, although not a ceramic coating, is a **PFOA-free** Teflon
 
 Our first impression of the Presto Foldaway Non-Stick Electric Skillet 06857 was of a lovely thick pan and a sturdy base. Our out-the-box test had fried eggs leaving nothing stuck to the pan. However, it seemed a bit on the slow side when boiling water.
 
-National Presto Industries, Inc., founded in 1905, is a prevalent US small electric appliance manufacturer. The plethora of their products on the market include vacuum sealers, knife sharpeners, pizza ovens, air fryers, pressure cookers, waffle makers, and electric skillets.
+National Presto Industries, Inc., founded in 1905, is a US small electric appliance manufacturer. Their range of products include vacuum sealers, knife sharpeners, pizza ovens, air fryers, pressure cookers, waffle makers, and electric skillets.
 
 Performance
 -----------
