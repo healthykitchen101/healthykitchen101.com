@@ -55,11 +55,11 @@ Temperature: High heat / 400°F
 
 Temperature Differences: 5.7%
 
-The Presto had superb even heat distribution compared to other skillets we tested. We put this down to its thicker than average cast aluminum pan and large rectangular heating element.
+The Presto had superbly even heat distribution outdoing most other skillets we tested. We put this down to its thicker than average cast aluminum pan and large rectangular heating element.
 
-To check the temperature difference between different areas on the skillet’s surface, we used an oil absorbent sheet of saturated sugar water and laid it on top. We then heated up the pan to 400°F and used an infrared thermometer to check the temperatures.
+To detect the temperature differences across the skillet’s surface, we placed an oil absorbent sheet of saturated sugar water on top. We then heated the pan to 400°F and used an infrared thermometer to check key temperature points.
 
-Between 5 points from the center of the pan to the edges, we noted an average of **5.7%** in temperature differences. This number equated to an impressive 8.9/10 which was only slightly lower than the much smaller Nesco.
+Between five points from the center of the pan to the edges, we noted a **5.7% difference** in average temperatures. This number equated to an impressive 8.9/10 which was only slightly lower than the much smaller Nesco.
 
 ### Making Pancakes
 
