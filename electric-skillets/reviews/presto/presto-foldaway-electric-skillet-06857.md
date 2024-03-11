@@ -45,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **8.7**/undefined
     
 
-The Presto Foldaway Non-Stick Electric Skillet 06857 is top-tier in terms of even heat distribution, maximum temperature, and temperature stability. This translated into some excellent pancakes and steaks for our testing crew.
+The Presto Foldaway Non-Stick Electric Skillet 06857 is top-tier in terms of even heat distribution, maximum temperature, and temperature stability. This translated into some scrumptious pancakes and juicy steaks for our testing crew.
 
 ### Analyzing Heat Distribution
 
