@@ -173,7 +173,7 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-The detachable thermostat is pretty standard with a  temperature range of 200 to 400°F (+3). The warm setting is around 150°F and does not maintain the set temperature like some other skillets.The thermostat fits the socket nicely, making it easy to remove (+2). It has an indicator light and isn’t dishwasher-safe (+2).
+The detachable thermostat is pretty standard with a temperature range of 200 to 400°F (+3). The warm setting is around 150°F and does not maintain the set temperature like some other skillets.The thermostat fits the socket nicely, making it easy to remove (+2). It has an indicator light and isn’t dishwasher-safe (+2).
 
 Usability
 ---------
