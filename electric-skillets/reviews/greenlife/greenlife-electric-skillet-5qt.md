@@ -3,7 +3,7 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (50%) - **0.0**/undefined
+*   Performance (50%) - **4.8**/undefined
     
 *   Design (25%) - **0.0**/undefined
     
@@ -35,24 +35,40 @@ Performance
 
 performance Scores: **NaN**
 
-*   (20%) - **0**/undefined
+*   Analyzing Heat Distribution (20%) - **7.6**/undefined
+    
+*   Making Pancakes (40%) - **8.2**/undefined
     
 *   (40%) - **0**/undefined
     
-*   (40%) - **0**/undefined
-    
+
+The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 showed the most well-rounded performance among the medium-sized electric skillets we tested. The scores for heat distribution, making pancakes and searing steaks, while not the highest, were consistently good.
 
 ### Analyzing Heat Distribution
 
-Temperature:
+Temperature: High heat / 400°F
 
-Temperature Differences:
+Temperature Differences: 11.85%
+
+The GreenLife didn’t have the most evenly distributed heat, but it wasn’t bad by comparison. This is quite common for medium-sized skillets with a **square pan** but **circular heating element** causing the edges to have noticeably lower temperatures.
+
+To gauge temperature differences across the skillet's surface, we placed a saturated sugar water-soaked oil absorbent sheet in it. Then, we heated the pan to 400°F and used an infrared thermometer to measure 5 key points.
+
+Our findings revealed an average temperature variance of **11.85%** compared to a 10% standard average. This scored a 7.6/10 in our rating system, which fell slightly short of the same-sized Crux and the Bella electric skillets.
 
 ### Making Pancakes
 
-Heating Time:
+Heating Time: 1 min 58 sec
 
-Temperature:
+Temperature: Medium heat / 350°F
+
+The GreenLife took **1 min 58 sec** to preheat to 350°F, which was worthy of a perfect 10/10. Despite a lower power draw, this was also significantly faster than any of the large skillets.
+
+With our customized pancake batter ready, it took just 1 min topside and 2 min 30 sec on the flip side to cook a  **3.17 oz pancake**. The surface texture was an even color but only slightly firm and a little fluffy on the inside. This scored an 8/10, but better nonetheless than any other medium-sized skillet.
+
+We only cooked one pancake at a time, but this 12-inch pan can easily fit two to three at a time. You may need to adjust the time depending on your pancake mix.
+
+GreenLife’s reputable and excellent non-stick coating needed no greasing at all. However, it's advisable to brush on a thin layer of oil to extend the pan’s longevity.
 
 ### Cooking Steaks
 
