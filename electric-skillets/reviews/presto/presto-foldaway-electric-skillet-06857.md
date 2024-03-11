@@ -71,7 +71,7 @@ Temperature: Medium heat / 350°F
 
 The Presto took **3 min 50 sec** to preheat to 350°F, which was quite fast for such a large skillet (8.2/10). With our original electric skillet pancake batter ready, it only took 4 min 30 sec to cook a **3.17 oz pancake** to a golden brown hue with a **perfectly steamy** and **fluffy** inside (9.5/10).
 
-This skillet managed a perfect cooking time with 1 min 30 sec on the first side and double the time on the flip side. You may need to adjust the timing as per your recipe, and this 16-inch pan can do 3 to 4 pancakes at a time. 
+This skillet managed a **perfect cooking time** with 1 min 30 sec on the first side and double the time on the flip side. You may need to adjust the timing as per your recipe, and this 16-inch pan can do 3 to 4 pancakes at a time. 
 
 We didn’t need to coat the pan with any butter or oil thanks to the non-stick coating. Nonetheless, adding oil to the pan is recommended to prolong the coating’s lifespan.
 
@@ -83,13 +83,13 @@ Heating Time: 4 min
 
 Temperature: High heat / 400°F
 
-To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first needed to preheat the Presto to 400°F. This took **6 min** which was quite slow even for a large surface area, so we had to score it 6/10.
+To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first needed to preheat the Presto to 400°F. This took **6 min** which was quite slow even for a large skillet, so we had to score it 6/10.
 
 After seasoning the steak and inserting a meat thermometer, we seared both sides for **4 min**. We then gave the edge with the fat cap 2 min and the other edges 1 min 30 sec each. Finally, we added some fresh rosemary and butter and seared each side for an additional 2 min.
 
-The cooking process raised the steak’s internal temperature to **135°F** which increased to **142°F** after a standard 3 minutes of resting. This hit the sweet spot for an **excellent medium-rare** steak that was **tender** and **juicy**. The entire process took around 19 minutes.
+The cooking process raised the steak’s internal temperature to **135°F** which increased to **142°F** after a standard 3 minute resting time. This hit the sweet spot for an **excellent medium-rare** steak that was both **tender** and **juicy**. The entire process took around 19 minutes.
 
-The skillet’s heat was **stable** but didn’t reach 500°F like some other skillets, so the crust wasn’t the thickest or crispiest. Nonetheless, it was good enough to earn a 9/10 from our chef. Only the Hamilton Beach 38529K scored better because of its better crust.
+The skillet’s heat was **stable** but didn’t reach 500°F like some other skillets, so the crust wasn’t the thickest nor the crispiest. Nonetheless, it was good enough to earn a 9/10 from our chef. Only the Hamilton Beach 38529K scored higher for its crispier crust.
 
 Design
 ------
@@ -105,7 +105,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **7.0**/undefined
     
 
-The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality highlighted in its detachable base and fold-down handles. The thick pan is ideal for even heat distribution although the metal edging of the lid is not such a great fit. For us, we would have preferred a ceramic coating to the Teflon.
+The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality. We loved the detachable base and fold-down handles. The thick pan spoke well to even heat distribution, but the metal edging of the lid was not the best fit. Additionally, we would have preferred a ceramic coating to the Teflon.
 
 ### 9.0 - Pan
 
@@ -143,7 +143,7 @@ Steam Vent: No
 
 Dishwasher-Safe: Yes
 
-The tempered glass lid is dishwasher-safe (+4). It has a steel handle but no steam vent since the pan has a pouring spout (+2). It has metal edging which is common enough but it doesn’t fit the pan as tightly as some other skillets we’ve seen (+1).
+The tempered glass lid is dishwasher-safe (+4). It has a steel handle but no steam vent since the pan has a pouring spout (+2). It has metal edging which is common enough, but it doesn’t fit the pan as tightly as some other skillets we’ve seen (+1).
 
 ### 9.0 - Base
 
@@ -157,9 +157,9 @@ Anti-Slip Pads: Four
 
 Dishwasher-Safe: Yes
 
-The detachable base with foldable handles is the best feature of the Presto (+4). You simply press the locking clips on the handles to release the pan and lift it up.
+The detachable base with foldable handles is the best feature of the Presto (+4). You simply press the clips on the handles to release the pan and lift it up.
 
-The base is made of thermosetting plastic which isn’t as durable as metal but much lighter (+1). It has four anti-slip pads at the bottom and is dishwasher-safe (+4).
+The base is made of thermosetting plastic which isn’t as durable as metal, but much lighter (+1). It has four anti-slip pads at the bottom and is dishwasher-safe (+4).
 
 ### 7.0 - Thermostat
 
@@ -173,9 +173,7 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-The detachable thermostat is pretty standard with a  temperature range of 200 to 400°F (+3). The warm setting is around 150°F and does not maintain the set temperature like some other skillets.
-
-The thermostat fits the socket nicely, making it easy to remove (+2). It has an indicator light and isn’t dishwasher-safe (+2).
+The detachable thermostat is pretty standard with a  temperature range of 200 to 400°F (+3). The warm setting is around 150°F and does not maintain the set temperature like some other skillets.The thermostat fits the socket nicely, making it easy to remove (+2). It has an indicator light and isn’t dishwasher-safe (+2).
 
 Usability
 ---------
@@ -187,20 +185,22 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **9.5**/undefined
     
 
-The foldaway feature of the Presto 06857 makes it much easier to clean and store compared to most other electric skillets. The rigid base and the sheer weight of the skillet makes it feel very sturdy while using.
+The foldaway feature of the Presto 06857 makes it one of the easiest skillets to clean and store. Additionally, we found the rigid base and the sheer weight of the skillet to be very sturdy while cooking.
 
 ### 9.5 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-ease-use-clti2zyhg002lwz88at0wgy0x.jpg" alt="The base of Presto Foldaway Non-Stick Electric Skillet 06857 clips off and the pan can be lifted up." width="300px" height="200px">
 
-The thermostat fit nicely and the temperatures were precise (+3). However, the indicator light is lowered below the surface of the thermostat so it can be slightly difficult to see under bright lighting.
+It is always a great start when the thermostat fits nicely and the temperatures are precise (+3). However, the indicator light is below the surface of the thermostat so it can be slightly difficult to see under bright lighting.
 
-The skillet’s exterior didn’t get too hot while cooking, so as long as you have your hands on the handles, you won’t risk burning yourself (+3). Also, be careful not to accidentally detach the pan while carrying.
+The skillet’s exterior never gets hot in a way to risk burning yourself (+3). However, you shouldn’t carry a hot pan without it being attached to the base. Make sure you grip the handles well and be careful not to accidentally trigger the safety clips.
 
-The base was flat and had anti-slip pads so everything remained rigid no matter how hard we rocked the skillet (+3). The lid can be slightly heavy but it’s not too much of a problem.
+While cooking or stirring vigorously you don’t have to worry about the pan moving because the perfectly flat base has very sturdy anti-slip pads (+3). We did feel the lid to be slightly heavy, but easily manageable nonetheless.
 
 ### 9.5 - Cleaning and Storing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-cleaning-storing-clti2zxtw002fwz887ltx6049.jpg" alt="With handles folded in, the base of the Presto Foldaway Non-Stick Electric Skillet 06857 fits into the pan." width="300px" height="200px">
 
-The pan releases food without a problem, so all we needed to do after the testing was to give the skillet a quick hand-washing with warm water and some dishwashing liquid (+6). This applied to the grease and/or melted butter that got to the nooks and crannies on the pan’s textured surface as well. With handles folded in, the base fits into the pan, making storing quick and effortless (+3).
+As one can expect from a good non-stick pan, the food released easily and all that was required was a quick, mild-soapy hand wash (+6). Also, grease from the nooks and crannies along the textured surface cleaned out nicely too.
+
+The coolest feature is how the base handles fold in and then the entire removable base just fits inside the pan —making storing quick and easy (+3).
