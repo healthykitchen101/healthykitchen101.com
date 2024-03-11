@@ -17,7 +17,14 @@ Overall Score: **NaN**
 Performance
 -----------
 
-performance Scores: **0.0**
+performance Scores: **NaN**
+
+*   (20%) - **0**/undefined
+    
+*   (40%) - **0**/undefined
+    
+*   (40%) - **0**/undefined
+    
 
 ### Analyzing Heat Distribution
 
@@ -40,7 +47,16 @@ Temperature:
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **NaN**
+
+*   (40%) - **0**/undefined
+    
+*   (15%) - **0**/undefined
+    
+*   (30%) - **0**/undefined
+    
+*   (15%) - **0**/undefined
+    
 
 ### Pan
 
@@ -91,7 +107,12 @@ Dishwasher-Safe:
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **NaN**
+
+*   (70%) - **0**/undefined
+    
+*   (30%) - **0**/undefined
+    
 
 ### Easeof Use
 
