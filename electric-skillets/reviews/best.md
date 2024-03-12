@@ -72,6 +72,27 @@ The best thing about the Presto’s design is how you just  unlock the two clip
 
 The pan has a spout for pouring liquid so the tempered glass lid doesn’t need a steam vent. All parts are **dishwasher-safe** except for the thermostat. Nonetheless, thanks to the non-stick coating, we found a quick hand-washing was more than enough after cooking the steak.
 
+3\. Best Deep Pan: Elite Gourmet Electric Skillet EG-6203#
+
+*   Raised honeycomb pan
+*   Excellent cooking capacity
+*   Stable temperatures
+*   Sizzling hot pan for searing
+*   Durable granite non-stick coating
+*   High build quality
+
+*   Heat distribution
+
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# is our best choice for a **large and deep** pan, quite capable of frying chicken for 6 to 8 people. Not only that, its **raised honeycomb** pan is quite aesthetic and it cooked really well too.
+
+This skillet has a 0.16-inch (4 mm) cast aluminum pan with a black lacquer finish. Despite the extra thickness, our heat distribution test revealed significant temperature differences from the center to the edges—an average of **13.3%** compared to 10% for all skillets combined, thus it only got a 7.3/10.
+
+This weakness didn’t affect the skillet’s ability to make awesome pancakes though. And, the honeycomb pattern impressed onto **golden brown**, **fluffy**, **steamy** pancakes are a sure hit for children, 9/10.
+
+The pan actually **preheats faster** than our top 2 contenders, just **2 min 16 sec**, while producing similarly **excellent medium-rare** steaks. Although the Elite Gourmet’s steak was more tender than the Hamilton’s, its crust slightly lacked color (9.5/10).
+
+The pan has a **marble coating** (comprises resin) which is much more durable than Teflon. During testing, we found that this skillet was surprisingly the **easiest** one to clean. Its patterning doesn’t make the coating more susceptible to breaking and peeling, but all the same you should avoid using metal utensils or scrubbers.
+
 Honorable Mentions
 ------------------
 
