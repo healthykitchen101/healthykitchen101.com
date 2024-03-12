@@ -93,6 +93,49 @@ The pan actually **preheats faster** than our top 2 contenders, just **2 min 16 
 
 The pan has a **marble coating** (comprises resin) which is much more durable than Teflon. During testing, we found that this skillet was surprisingly the **easiest** one to clean. Its patterning doesn’t make the coating more susceptible to breaking and peeling, but all the same you should avoid using metal utensils or scrubbers.
 
+4\. Best Medium Size: GreenLife Electric Skillet 5QT
+
+*   Fast heating times
+*   Well-rounded performance
+*   Ceramic non-stick coating
+*   High build quality
+*   Light in weight
+
+*   Not suitable for deep-frying
+
+Our best 3 electric skillets are all large-sized, so we felt compelled to add the best medium-sized option. And, the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 fits the bill with its great cooking performance and **excellent coating**.
+
+This skillet preheated to 350°F in just **1 min 58 sec** and to 400°F in **2 min 36 sec**. This was significantly faster than the top 3 due to its smaller surface area and despite a lower power draw.
+
+The pancakes we cooked were **moist**, **fluffy**, and **golden brown** but with a slightly darker edge from the pan’s heating element (8/10). The steak had a **good crust** but the meat lacked the tenderness that our top three skillets produced (7.5/10).
+
+The GreenLife skillet has a ceramic non-stick coating free of PFAS (which includes PTFE or Teflon), PFOA, lead, and cadmium, thus staying true to their brand name reputation. 
+
+In addition to the turquoise exterior, the pan’s interior has a **shiny surface** making it a lovely-looking piece in your kitchen. We had an easy time hand-cleaning this skillet, but you can just pop it in the dishwasher.
+
+5\. Best Small: Nesco 8 inch Electric Skillet
+
+*   Extremely fast preheating
+*   Excellent heat distribution
+*   Sizzling hot pan
+*   Good capacity to size ratio
+
+*   Teflon non-stick coating
+*   Pan not dishwasher-safe
+*   Anti-slip pads can be improved
+
+If you’re looking for a compact electric skillet, then this Nesco Non-Stick Electric Skillet ES-08 is our best choice for **a single living space**. At just 8 inches, this one is all about  performance and not so much design or convenient features.
+
+The skillet has the **most even heat distribution** out of all our tested units, possibly thanks to the small surface area. The average temperature difference was only **4.1%**, earning the Nesco a 9.2/10.
+
+This skillet preheats faster than the GreenLife despite a much lower low power draw. It only took **1 min 24 sec** to preheat to 350°F and needed only an additional **30 seconds** to reach 400°F.
+
+Unfortunately, our pancakes got a bit too dark too fast, especially around the edges right where the heating element is. The pancake was still fluffy but it retained a bit too much moisture to be anywhere near first rate (6/10).
+
+The higher temperature spikes turned out to be good for getting that good **deep amber colored crust** when searing steaks. However, the meat went slightly above medium-rare and wasn’t as juicy as it could have been (7.5/10).
+
+The pan’s deep enough to submerge one pack of instant ramen, which a college student may appreciate. Although the lid is dishwasher-safe, the pan itself is not but the non-stick coating makes it easy enough to clean.
+
 Honorable Mentions
 ------------------
 
