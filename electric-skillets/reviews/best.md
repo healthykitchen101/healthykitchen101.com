@@ -27,6 +27,51 @@ Reviews of the Best Electric Skillets in 2024
 
 Here are our concise reviews of the best electric skillets in 2024, tested and evaluated.
 
+1\. Best Overall: Hamilton Beach Electric Skillet 38529K
+
+*   Great heat distribution
+*   Stable temperatures
+*   Sizzling hot pan for searing
+*   Durable ceramic non-stick coating
+*   High build quality
+
+*   Handles need clip-locks
+
+The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is hands down our best-to-buy choice. It has the **highest** performance score, best design quality, and is the **easiest** to use.
+
+The skillet is top-tier in terms of **even heat distribution**. The average temperature difference between 5 key points from the center to the edge of the pan was only 5.9%— compared to a typical 10%. This earned it an impressive score of 8.8/10.
+
+It took only **3 min 20 sec** to preheat the pan to 350°F and a couple of minutes each side to cook a 3.17 oz pancake. More importantly, every pancake was perfectly steamy and fluffy with a golden brown texture (9.5/10). The 15-inch pan can cook 3 to 4 pancakes at a time.
+
+In our other test, we cooked an **8 oz**, **1.38-inch** top blade steak. The skillet took **4 min30 sec** to preheat to 400°F which was fast for its size. We were more impressed, however, with the stable temperature. The pan didn’t get to 500°F like some other skillets so the crust wasn’t the thickest or crispiest. However, the steak was **incredibly juicy** and reached a **perfect medium-rare**, thus earning it a 9.5/10.
+
+The **Durathon ceramic non-stick coating** is stronger than Teflon and less likely to crack or peel. Plus, with zero PTFEs and PFOAs, you can enjoy healthier cooking. In our tests, grease-free pancakes and the steaks slid right off the surface. Not to mention the pan’s **copper color** looks great on the kitchen counter!
+
+The user-friendly pan simply **lifts up** from its base by its side handles and has additional leg rests for serving directly from the table. However, we felt click locks would have made the handles more secure. Also, the base doesn’t fold to make dishwashing or storing easier.
+
+2\. Runner-Up: Presto Foldaway Electric Skillet 06857
+
+*   Highly even heat distribution
+*   Stable temperatures
+*   Sizzling hot pan for searing
+*   Convenient foldaway feature
+*   High build quality
+
+*   Teflon non-stick coating
+*   Lid not the best fit
+
+The 16-inch Presto Foldaway Non-Stick Electric Skillet 06857 is a very close runner-up. Compared to the Hamilton, it’s overall more user-friendly with only slight differences in cooking performance. Despite all this, significant demerits were the Teflon coating (not ceramic) and the loose-fitting lid.
+
+Its thick cast aluminum pan (0.12 in) and large rectangular heating element effected excellent heat distribution. We saw an average of **5.7%** in temperature differences in 5 points from the center of the pan of the edges (compared to 5.9% for the Hamilton) scoring an impressive 8.9/10.
+
+The PFOA-free Teflon non-stick coating, both inside and outside, allowed us to make pancakes without any butter or oil. After **3 min 50 sec** of preheating, we had a **steamy and fluffy** pancake scoring 9.5/10—just slightly better than its main rivals.
+
+The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It  seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.
+
+The best thing about the Presto’s design is how you just  unlock the two clips to fold down the stay-cool handles, and **detach the pan** from the base. The base additionally fits upside down inside the 3-inch deep pan for **easy and compact storing**.
+
+The pan has a spout for pouring liquid so the tempered glass lid doesn’t need a steam vent. All parts are **dishwasher-safe** except for the thermostat. Nonetheless, thanks to the non-stick coating, we found a quick hand-washing was more than enough after cooking the steak.
+
 Honorable Mentions
 ------------------
 
