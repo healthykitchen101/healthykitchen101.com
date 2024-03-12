@@ -3,7 +3,7 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (50%) - **0.0**/undefined
+*   Performance (50%) - **8.9**/undefined
     
 *   Design (25%) - **0.0**/undefined
     
@@ -19,11 +19,11 @@ Performance
 
 performance Scores: **NaN**
 
-*   (20%) - **0**/undefined
+*   (20%) - **7.3**/undefined
     
-*   (40%) - **0**/undefined
+*   (40%) - **9.1**/undefined
     
-*   (40%) - **0**/undefined
+*   (40%) - **9.4**/undefined
     
 
 ### Analyzing Heat Distribution
