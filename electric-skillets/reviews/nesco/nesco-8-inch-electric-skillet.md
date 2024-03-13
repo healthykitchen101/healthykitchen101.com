@@ -151,7 +151,7 @@ Anti-Slip Pads: Four
 
 Dishwasher-Safe: No
 
-The metal base features four sturdy stands equipped with anti-slip pads (+4). The base is not detachable from the pan so similarly, it won’t be able to go into the dishwasher (+1).
+The metal base features four sturdy stands equipped with anti-slip pads (+4). The base is not detachable from the pan so the unit cannot go into the dishwasher (+1).
 
 ### 6.0 - Thermostat
 
@@ -163,9 +163,9 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-While the design of the detachable thermostat is standard, its temperature range is not (+2). The settings start from 275°F and not 250°F and increase in 50°F increments reaching an unusual high of 425°F.
+While the design of the detachable thermostat is standard, its temperature range is not (+2). The settings start from 275°F (not 250°F) and increase in 50°F increments reaching an unusual high of 425°F.
 
-However, the number of settings are the same so we decided to score it the same way we did with other skillets (+1). The ‘On’ setting maintains a temperature of around 200°F which is not the usual Keep Warm of 150°F.
+However, the number of settings are the same so we decided to score it the same as other skillets (+1). The ‘On’ setting maintains a temperature of around 200°F which is not the usual Keep Warm of 150°F.
 
 The thermostat has an indicator light and isn’t dishwasher-safe (+2). It fitted the socket well but held on a bit too tightly (+1). As a result, we had to put in a little effort holding down the skillet everytime we wanted to remove the thermostat.
 
@@ -179,7 +179,7 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **8.0**/undefined
     
 
-The Nesco Non-Stick Electric Skillet ES-08 is easy to control, store, and clean. However, its anti-slip feature isn’t the best, its thermostat is stiff, and the pan is not dishwasher-safe, so its overall usability is rather less than other skillets.
+The Nesco Non-Stick Electric Skillet ES-08 is easy to use, store, and clean. However, its anti-slip feature isn’t the best, its thermostat is rather tight-fitting, and the pan is not dishwasher-safe. Overall, its user-friendliness is rather less than other skillets.
 
 ### 6.0 - Ease of Use
 
