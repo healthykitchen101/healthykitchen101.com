@@ -31,7 +31,7 @@ Unlike most other higher-end skillets, the pan is not dishwasher-safe, but the l
 *   Pan not dishwasher-safe
 *   Anti-slip pads
 
-Owned by The Metal Ware Corporation of Wisconsin, Nesco is a kitchen appliance brand best known for their food dehydrators. Other neat kitchenware includes vacuum sealers, sous vide cookers, blenders, water kettles and of course, electric skillets. In our initial tests, the Nesco ES-08 Electric Skillet brought water to the boil quickly and fried eggs didn’t stick to the pan. This was, at least, a good start!
+Owned by The Metal Ware Corporation of Wisconsin, Nesco is a kitchen appliance brand best known for their food dehydrators. Other neat kitchenware includes vacuum sealers, sous vide cookers, blenders, water kettles and of course, their electric skillets. In our initial tests, the Nesco ES-08 Electric Skillet brought water to the boil quickly and fried eggs didn’t stick to the pan. This was, at least, a good start!
 
 Performance
 -----------
