@@ -58,7 +58,7 @@ Suction Strength: 40 kPA (1) - 43 kPA (2)
 
 Cycle Time: 23s (1) - 31s (2)
 
-Our vacuum gauge recorded a suction of 18 kPA and 44 kPA respectively across two dry food test sessions. Both are below-average compared to most vacuum sealers on the market, which typically go way above 45 kPA (as an example, the Mueller MV-1100, which is in the same price range as the AP-12X, has peak suctions of 46 and 47 kPA across two similar test sessions.)
+Our vacuum gauge recorded a suction of 41 kPA and 44 kPA respectively across two dry food test sessions. Both are below-average compared to most vacuum sealers on the market, which typically go way above 45 kPA (as an example, the Mueller MV-1100, which is in the same price range as the AP-12X, has peak suctions of 46 and 47 kPA across two similar test sessions.)
 
 Fortunately, the AP-12X performs admirably when it comes to working speed. It only took 23 and 21 seconds, respectively, to complete each working cycle in our two test sessions. While these quick times did improve the AP-12X's overall score somewhat, it still falls short of receiving a passing grade in this category.
 
@@ -74,9 +74,9 @@ Suction Strength: 18 kPA (1) - 20 kPA (2)
 
 Cycle Time: 33s(1) - 33s (2)
 
-After a disappointing dry food test, we didn't have high hopes for the AP-12X in the moist food test, and our expectations were unfortunately met. It recorded a lackluster peak suction of only 11 kPA in the first test and an even weaker 10 kPA in the second test. This level of suction is barely effective, as there were still visible air pockets inside the bags.
+After a disappointing dry food test, we didn't have high hopes for the AP-12X in the moist food test, and our expectations were unfortunately met. It recorded a lackluster peak suction between 18 kPA and 20 kPA in the second test. This level of suction is barely effective, as there were still visible air pockets inside the bags.
 
-Adding to the disappointment, the AP-12X took an excessively long time to complete its working cycles. In the first test, it took a lengthy 49 seconds, and the second session was only marginally quicker at 47 seconds.
+Adding to the disappointment, the AP-12X took an excessively long time to complete its working cycles. In both tests, the sealer achieved 33 seconds across both sessions.
 
 In summary, if you're specifically looking for a vacuum sealer to handle marinades or moist foods, there are better options available on the market that can do a far superior job. Consider alternatives like the Nutrichef PKVS18BK or even the Mueller MV-1100, which falls within the same price range as the AP-12X.
 
