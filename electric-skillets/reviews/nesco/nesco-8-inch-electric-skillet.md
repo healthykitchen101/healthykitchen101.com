@@ -45,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **7.8**/undefined
     
 
-Among its peers, the Nesco Non-Stick Electric Skillet ES-08 scored the highest in our heat distribution test and for preheating times. This translated to good results for cooking steaks but not so much for making pancakes.
+Among its peers, the Nesco Non-Stick Electric Skillet ES-08 scored the highest in our heat distribution test and for preheating times. This translated into good results for cooking steaks but not so much for making pancakes.
 
 ### Analyzing Heat Distribution
 
@@ -53,7 +53,7 @@ Temperature: High heat / 400°F
 
 Temperature Differences: 4.1%
 
-The Nesco exhibited the **most uniform** heat distribution among all the skillets we tested, which could be attributed to its smaller surface area.
+The Nesco had the **most uniform** heat distribution among all the skillets we tested, which could be attributed to its smaller surface area.
 
 To assess temperature variances across the skillet's surface, we used an oil absorbent sheet saturated with sugar water and placed it inside the skillet. After heating the pan to 400°F, we noted the heat pattern and measured 5 key points with an infrared thermometer.
 
@@ -71,7 +71,7 @@ With our homemade pancake batter ready, our **3.17 oz pancake** only needed 50 s
 
 Regrettably, the temperature often spiked a bit too high. Thus, the pancakes cooked a bit too quickly and got dark around the edges where the heating element is located.
 
-In addition, while the pancake remained fluffy, it retained slightly more moisture than desired, preventing it from reaching excellence. Consequently, it only received a rating of 6/10 from our chef.
+In addition, while the pancake was fluffy, it retained slightly more moisture than desired, falling short of excellence. Consequently, it only received a rating of 6/10 from our chef.
 
 Looking at the results, we concluded that the skillet is more suitable for thick, lumpy pancakes rather than the smooth, fluffy ones that our recipe aimed to achieve. While the non-stick coating eliminates the need for butter or oil, it's advisable to add a small amount of oil to the pan to extend its lifespan.
 
@@ -81,13 +81,13 @@ Heating Time: 1 min 58 sec
 
 Temperature: High heat / 400°F
 
-To make sure our **8 oz**, **1.38-inch top blade steak** developed the best crust possible, we first preheated the Nesco to 400°F. This skillet only took **1 min 58 sec** to preheat to 400°F, and only 30 seconds longer than to 350°F. This compared exceptionally well to even medium-sized skillets such as the Crux 14620 which heated to 400°F F in 3 min.
+To make sure our **8 oz**, **1.38-inch top blade steak** developed the best crust possible, we first preheated the Nesco to 400°F. This skillet only took **1 min 58 sec** to preheat to 400°F, and only 30 seconds longer than to 350°F. This compared exceptionally well to even medium-sized skillets such as the Crux 14620 which heated to 400°F in 3 minutes.
 
 After seasoning the steak and inserting a meat thermometer, we seared the first side for 2 min and 30 sec and the flipside for 3 min and 30 sec. Next, we dedicated 2 minutes to the edge with the fat cap and 1 minute each to the other edges. Finally, we added fresh rosemary and butter, allowing each side an additional 1 minute to cook.
 
 The more intense temperatures, while not good for pancakes, resulted in a favorable **deep amber color** on the steak’s crust. The cooking process raised the steak’s internal temperature to **131°F** which increased to **149°F** after  3 minutes of resting.
 
-The entire process took around 15 min 25 sec, which was similar to the top-listers like the Hamilton Beach 38529K and Elite Gourmet EG-6203#. The meat, although still tender, went slightly beyond medium-rare and wasn’t as juicy as it could have been, resulting in a 7.5/10 score from our chef.
+The entire process took around 15 min 25 sec, which was similar to the top-listers like the Hamilton Beach 38529K and Elite Gourmet EG-6203#. The meat, although still tender, went slightly beyond medium-rare and wasn’t as juicy as it should have been, resulting in a 7.5/10 score from our chef.
 
 If we shortened the searing time for a more ideal doneness, the crust would lack color and crispiness. So, we thought this was a fair compromise.
 
@@ -105,7 +105,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **6.0**/undefined
     
 
-Although small and only 8 x 8 inches and 1.5 inches deep, the Nesco Non-Stick Electric Skillet ES-08 has plenty of capacity for a one-person cook up. It’s durable, but some people may not like the fact that the pan isn’t dishwasher-safe.
+Although small and only 8 x 8 inches and 1.5 inches deep, the Nesco Non-Stick Electric Skillet ES-08 has plenty of capacity for a one-person cook up. It’s durable, but some people may not like that the pan isn’t dishwasher-safe.
 
 ### 5.0 - Pan
 
