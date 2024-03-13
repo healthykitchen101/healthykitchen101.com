@@ -62,7 +62,7 @@ While the quick sealing speed is a positive feature, it couldn't fully make up f
 
 ### Moist Food Test
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-moist-food-test-clr7gu7sk0029qw88hd8470kf.jpg" alt="In the first moist food test with fresh mango slices, the BonsenKitchen VS2100 vacuum sealer only reached a peak suction of 11 kPA in a 49-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-clr7gu7o70028qw8810fkh66n.jpg" alt="The second moist food test didn’t play out any better with the BonsenKitchen VS2100. Our vacuum gauge recorded a peak suction of just 10 kPA during a 49-second working cycle." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-moist-food-test-clr7gu7sk0029qw88hd8470kf.jpg" alt="In the first moist food test with fresh mango slices, the BonsenKitchen VS2100 vacuum sealer only reached a peak suction of 11 kPA in a 49-second working cycle." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-cltplvqxp0048wz88eg6248fb.jpg" alt="The second moist food test didn’t play out any better with the BonsenKitchen VS2100. Our vacuum gauge recorded a peak suction of just 10 kPA during a 49-second working cycle." width="300px" height="200px">
 
 Suction Mode: N/A
 
