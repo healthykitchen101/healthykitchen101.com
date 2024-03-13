@@ -189,6 +189,6 @@ The 4 anti-slip pads were unfortunately too hard and smooth to provide sufficien
 
 ### 8.0 - Cleaning and Storing
 
-When it got down to cleaning, The pan releases food without a problem, even the burnt caramel in our heat distribution test (+3). After the testing, all the skillet required was a quick hand-wash with warm water and a dab of dishwashing liquid (+3).
+When it got down to cleaning, the pan released food easily, even the burnt caramel in our heat distribution test (+3). After testing, all the skillet required was a quick hand-wash with warm water and a dab of dishwashing liquid (+3).
 
-As mentioned above, this Nesco pan isn’t compatible with dishwashers, so it’s a bit less convenient compared to other skillets (-1). After cleaning, the Nesco skillet can be conveniently stored in any location within your kitchen or placed back into its original box for safekeeping (+3).
+As mentioned above, this Nesco pan isn’t compatible with dishwashers, so it’s a bit less convenient compared to other skillets (-1). The Nesco skillet can store easily anywhere or it can go back into its original box for safekeeping (+3).
