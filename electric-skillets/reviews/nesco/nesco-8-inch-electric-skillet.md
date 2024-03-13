@@ -123,9 +123,9 @@ Spout: No
 
 Dishwasher-Safe: No
 
-The Nesco skillet has a 1.8 qt cast aluminum pan which is more durable than a non-cast one (+2). It’s 2 mm (0.08") thick, slightly on the thinner side compared to all the skillets we’ve tested (+1). Nonetheless, we noticed no heat deformation or any issue with heat distribution which was actually pretty good.
+The Nesco skillet has a 1.8 qt cast aluminum pan which is more durable than a non-cast one (+2). The pan is only 0.08 in (2 mm) thick and slightly on the thinner side compared to most other skillets (+1). Nonetheless, we noticed no heat deformation or any issue with heat distribution which was actually pretty good.
 
-The pan uses Teflon non-stick coating which is free of PFOA (+1). Unfortunately, it’s cheaper than ceramic coating and for some people it may raise [health concerns](https://www.healthline.com/nutrition/nonstick-cookware-safety).
+The pan has a Teflon non-stick coating which is free of PFOA (+1). Although cheaper than a ceramic coating, some people may have [health concerns](https://www.healthline.com/nutrition/nonstick-cookware-safety) regarding Teflon.
 
 The skillet has steel handles and its simple design has no pouring spout (+1). The skillet should be hand-washed and it cannot be fully immersed into water or cleaned in a dishwasher.
 
