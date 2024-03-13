@@ -1,0 +1,1 @@
+Despite its compact size, the MegaWise VS6621 did showcase some pretty great sealing performance, outperforming the BonsenKitchen in every test segment. The design, being fairly well-built with extra features like a built-in cutter, makes it an attractive choice for users seeking a value-filled purchase.
