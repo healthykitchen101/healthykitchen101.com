@@ -1,0 +1,1 @@
+The Mueller MV-1100 is well-liked by consumers for its affordability, positioning itself as a strong contender in the budget-friendly segment of food vacuum sealers. In contrast, the CALOTO AP-12X stands out for its compactness. Yet, in the performance test, the CALOTO surprised us for its ability to match the MV-1100's suction performance despite being significantly smaller.
