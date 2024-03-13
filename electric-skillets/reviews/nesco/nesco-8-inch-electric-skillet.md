@@ -10,13 +10,13 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.6**/undefined
     
 
-The Nesco Non-Stick Electric Skillet ES-08 is our top recommendation for a single person or a small kitchen space space. At just **8 inches** and **$30.4** (at the time of writing), there are no fancy design features, instead the focus is on basic simplicity and performance.
+The Nesco Non-Stick Electric Skillet ES-08 is our top recommendation for a single person or a small kitchen space. At just **8 inches** and **$30.4** (at the time of writing), there are no fancy design features, instead the focus is on simplicity and performance.
 
-Largely due to its small size, the skillet showed the **most even** heat distribution and heated much faster than all other skillets we tested. This high conductivity means you need to be careful of high temperature spikes and delicate foods like pancakes can burn easily.
+Largely due to its small size, the skillet showed the **most even** heat distribution and was the **fastest heating** of all other skillets we tested. This high conductivity means you need to be careful of temperature spikes and delicate foods like pancakes can burn easily.
 
-The **1.8 qt** pan’s deep enough to submerge one pack of instant ramen, which a college student may appreciate. The skillet doesn’t grip the table’s surface so well due to the hard padded base design, so be careful not to rock the skillet if hot liquid is inside.
+The **1.8 qt** pan is deep enough to submerge one pack of instant ramen, which a college student may appreciate. However, the skillet doesn’t grip surfaces that well due to its hard padded base, so be careful not to rock the skillet if hot liquid is inside.
 
-Unlike most other higher-end skillets, the pan is not dishwasher-safe, but the lid is. Nonetheless, the pan is still durable and the non-stick coating is easy to clean.
+Unlike most higher-end skillets, the pan is not dishwasher-safe, but the lid is. Nonetheless, the pan is still durable and the non-stick coating is easy to clean.
 
 **Things We Like**
 
