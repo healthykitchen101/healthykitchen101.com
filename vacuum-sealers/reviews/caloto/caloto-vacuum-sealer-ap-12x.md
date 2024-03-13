@@ -54,9 +54,9 @@ Suction Mode: N/A
 
 Food Mode: Dry - 1
 
-Suction Strength: 18 kPA (1) - 20 kPA (2)
+Suction Strength: 40 kPA (1) - 43 kPA (2)
 
-Cycle Time: 33s (1) - 33s (2)
+Cycle Time: 23s (1) - 31s (2)
 
 Our vacuum gauge recorded a suction of 18 kPA and 44 kPA respectively across two dry food test sessions. Both are below-average compared to most vacuum sealers on the market, which typically go way above 45 kPA (as an example, the Mueller MV-1100, which is in the same price range as the AP-12X, has peak suctions of 46 and 47 kPA across two similar test sessions.)
 
