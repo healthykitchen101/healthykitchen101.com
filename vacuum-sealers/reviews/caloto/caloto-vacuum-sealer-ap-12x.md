@@ -70,9 +70,9 @@ Suction Mode: N/A
 
 Food Mode: Moist - 4
 
-Suction Strength: 11 kPA (1) - 10 kPA (2)
+Suction Strength: 18 kPA (1) - 20 kPA (2)
 
-Cycle Time: 49s(1) - 47s (2)
+Cycle Time: 33s(1) - 33s (2)
 
 After a disappointing dry food test, we didn't have high hopes for the AP-12X in the moist food test, and our expectations were unfortunately met. It recorded a lackluster peak suction of only 11 kPA in the first test and an even weaker 10 kPA in the second test. This level of suction is barely effective, as there were still visible air pockets inside the bags.
 
