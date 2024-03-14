@@ -52,7 +52,7 @@ We challenged our Ninja AMZ493BRN with green smoothies brimming with tropical fr
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxsck30001e788eaiu3wk6.jpg" alt="The AMZ493BRN blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxt2ji0002e7883gcf8chp.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja AMZ493BRN smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxsck30001e788eaiu3wk6.jpg" alt="The AMZ493BRN blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxt2ji0002e7883gcf8chp.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja AMZ493BRN smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmop9004awz884hyt0tt6.jpg" alt="Ninja Compact Kitchen System Blender Smoothie Video" width="300px" height="200px">
 
 Blending Time: 3 mins
 
