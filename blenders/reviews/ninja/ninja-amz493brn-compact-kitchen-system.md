@@ -66,7 +66,7 @@ The root cause of this gap can likely be traced back to the blade assembly of th
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxx4xf0003e7886h5g5du7.jpg" alt="The Ninja AMZ493BRN motor base stands beside a glass bowl containing a portion of blended smoothie. Next to it, a smartphone displays a blending time of 4 minutes and 10 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxxlss0004e7884d2nc65b.jpg" alt="A sample of frozen fruit smoothie created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmp13004cwz8846rx6uuy.jpg" alt="Ninja Compact Kitchen System Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxx4xf0003e7886h5g5du7.jpg" alt="The Ninja AMZ493BRN motor base stands beside a glass bowl containing a portion of blended smoothie. Next to it, a smartphone displays a blending time of 4 minutes and 10 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxxlss0004e7884d2nc65b.jpg" alt="A sample of frozen fruit smoothie created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqr2kna004ewz883abh4eal.jpg" alt="Ninja Compact Kitchen System Blender Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 4 mins 10 seconds
 
