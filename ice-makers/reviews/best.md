@@ -56,7 +56,7 @@ The Vivo Home design is a little dated compared to more modern designs which oft
 
 If you’re looking for a no-fuss machine that consistently makes excellent quality ice, and the large chunky bullets, this Vivo Home is our top pick for a countertop ice maker.
 
-2\. Best Overall: Frigidaire EFIC189 Portable Ice Maker
+2\. Best Runner-Up: Frigidaire EFIC189 Portable Ice Maker
 
 *   Performance
 *   Production capacity
@@ -75,21 +75,6 @@ It was one of the few machines, like the VivoHome, that averaged over 18 oz or 5
 Not only that, the average weight per large ice bullet was a good **6.2 g**, and occasionally it managed to put out bullets of 7 grams. The amount of waste or broken ice produced was only an average of 1.8% of net basket weight, which was one of the lowest.
 
 The Frigidaire EFIC 189 has a rounded rather than boxy design with high interior visibility. However, we found the control panel a bit cramped at the rear end of the machine, and the lid joinings were not so good. For keeping and serving ice throughout the day, the lid insulation was not the best, and very similar to the Vivo Home.
-
-2\. Best for Ice Quality: AGLucky HZB-12/B Ice Maker
-
-*   Overall performance
-*   Ice quality
-*   Raised control panel
-
-*   Flimsy ice basket
-*   Internal visibility
-
-The AGLucky HZB-12/B proved to be an excellent machine for chunky, quality ice. The average ice bullet weight was around **6.3 grams** and waste ice a neat 2% of the basket total. This gave it a slight edge over the Frigidaire.\[148\] AGLucky HZB-12/B Ice Maker - Best for Superior Ice Quality
-
-The time to fill a basket was only **90 minutes**. With a slightly smaller basket compared to its close rival, this AGLucky only managed around **16 oz** (456 g) per basket or around 10.7 oz (304 g) per hour and the net capacity per 24 hours worked out at **16 lbs** or **7.3 kg**.
-
-We really liked the raised control panel, but a few design issues detracted from its great performance. For one, the generic ice basket is rather flimsy. More importantly though, for serving ice throughout the day, the lid did not rank the best in terms of insulation.
 
 3\. Best Tech and Color Line-Up: Silonn SLIM01 Countertop Ice Maker
 
