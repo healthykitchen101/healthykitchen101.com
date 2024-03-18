@@ -35,6 +35,16 @@ Reviews of the Best Portable Bullet Ice Makers in 2024
 
 Here are our picks for the best countertop ice makers tested and evaluated in our lab. For more detailed information, follow the link at the end of each review.
 
+The Vivo Home VH808 won out as our best countertop ice maker due to its robust build and top-class performance. Although somewhat bulky and ergonomic in its design, its most stand-out feature is the spacious and user-friendly control panel.
+
+In our tests, the Vivo Home consistently produced some of the largest and chunkiest ice bullets we have ever seen. The average weight of a large ice bullet was **7 grams** with some reaching up to 8.56 grams. Close rivals rarely managed more than 7 grams on occasions.\[192\] VIVOHOME Automatic Ice Maker Ice Quality Test 2
+
+The Vivo Home was also one of the few machines we tested that consistently produced zero amounts of broken or waste ice. The average basket capacity was a whopping **561 grams**—just slightly more than our runner-up the Frigidaire EFIC189 and the time per basket clocked 10 minutes more at **113 min per load**.
+
+The Vivo Home design is a little dated compared to more modern designs which often have larger transparent lids. Nonetheless, we particularly liked the upfront control panel on the Vivo Home lid and the wide ice basket had good scoop leverage.
+
+If you’re looking for a no-fuss machine that consistently makes excellent quality ice, and the large chunky bullets, this Vivo Home is our top pick for a countertop ice maker.
+
 1\. Best Overall: Frigidaire EFIC189 Portable Ice Maker
 
 *   Performance
