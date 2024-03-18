@@ -46,6 +46,8 @@ The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 showed the most we
 
 ### Analyzing Heat Distribution
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-analyzing-heat-distribution-cltwcx78t004qwz88cs9xgf7k.jpg" alt="The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 with a white oil-absorbent sheet covering the surface of the pan. The dark double circles indicate where the heating element is." width="300px" height="200px">
+
 Temperature: High heat / 400°F
 
 Temperature Differences: 11.85%
@@ -57,6 +59,8 @@ To gauge temperature differences across the skillet's surface, we placed a satur
 Our findings revealed an average temperature variance of **11.85%** compared to a 10% standard average. This scored a 7.6/10 in our rating system, which fell slightly short of the same-sized Crux and the Bella electric skillets.
 
 ### Making Pancakes
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-making-pancakes-cltwcx78z004twz887ovhgu6a.jpg" alt="The top side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the GreenLife Ceramic Non-Stick Electric Skillet" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-making-pancakes-1-cltwcx791004uwz88h0lu8i9j.jpg" alt="The bottom side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the GreenLife Ceramic Non-Stick Electric Skillet" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-making-pancakes-2-cltwcx76q004iwz88cg4mg8q8.jpg" alt="Two hands breaking a pancake apart. In the background is the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="300px" height="200px">
 
 Heating Time: 1 min 58 sec
 
@@ -71,6 +75,8 @@ We only cooked one pancake at a time, but this 12-inch pan can easily fit two to
 GreenLife’s reputable and excellent non-stick coating needed no greasing at all. However, it's advisable to brush on a thin layer of oil to extend the pan’s longevity.
 
 ### Cooking Steaks
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-cooking-steaks-cltwcx78l004mwz884mt16p27.jpg" alt="A piece of deep golden brown steak inside the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-cooking-steaks-1-cltwcx78n004nwz8857nh7ok1.jpg" alt="On the cutting board, a tong is holding the steak while a knife is slicing the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-cooking-steaks-2-cltwcx78v004rwz883skk0z4f.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="300px" height="200px">
 
 Heating Time: 2 min 36 sec
 
@@ -102,6 +108,8 @@ The GreenLife Electric Skillet CC003725-002 has a shiny and eye-catching ceramic
 
 ### 8.0 - Pan
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-pan-cltwcx78f004kwz889n1e4hr7.jpg" alt="The pan of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is 11.73 inches in length, 11.73 inches in width, and 2.56 inches in depth." width="300px" height="200px">
+
 Cooking Capacity: 6.1 qt.
 
 Dimensions: L11.73 x W11.73 x H2.56 inches
@@ -126,6 +134,8 @@ The instruction manual states that this skillet isn’t designed for deep frying
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-lid-cltwcx6u5004gwz88ebnmcx3h.jpg" alt="The tempered glass lid of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has a steam vent." width="300px" height="200px">
+
 Material: Tempered glass
 
 Handle: Steel
@@ -138,6 +148,8 @@ The tempered glass lid is dishwasher-safe (+4). It has a steam vent to release t
 
 ### 7.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-base-cltwcx78i004lwz88gbqv0p68.jpg" alt="The base of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has four stands with anti-slip pads." width="300px" height="200px">
+
 Material: Steel
 
 Detachable: No
@@ -149,6 +161,8 @@ Dishwasher-Safe: Yes
 You will notice that the metal base has four stands with anti-slip pads at the bottom. These make the pan very sturdy despite it being so lightweight (+4). The pan is not detachable so make sure your dishwasher is big enough to fit the entire skillet (+3).
 
 ### 7.0 - Thermostat
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-thermostat-cltwcx76k004hwz887j0y2eib.jpg" alt="The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has 6 settings including Warm-200–250-300-350-400°F." width="300px" height="200px">
 
 Temperature Range: Warm-200–250-300-350-400°F
 
@@ -177,6 +191,8 @@ The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 doesn’t have ult
 We found that the thermostat fitted nicely, the temperatures were precise, and the indicator light was easy to see (+3). Additionally, the skillet’s exterior never got too hot nor posed any risk of accidental burning (+3). The anti-slip pads on the base maintained stability even when the skillet was rocked vigorously (+3).
 
 ### 9.0 - Cleaning and Storing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-ease-use-cltwcx78p004owz88fopr4e6d.jpg" alt="The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 with its thermostat inserted." width="300px" height="200px">
 
 As anticipated, the ceramic non-stick coating of the GreenLife released food without a problem, even the burnt caramel in our heat distribution test (+3). All it  needed was a quick hand-wash with warm water and some dishwashing liquid (+4). Or, you can just pop everything, except the thermostat, into the dishwasher (+2).
 
