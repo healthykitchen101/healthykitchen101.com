@@ -141,9 +141,9 @@ The pan’s deep enough to submerge one pack of instant ramen, which a college s
 Honorable Mentions
 ------------------
 
-*   **The Presto Electric Skillet 06852** could have made the list if not for our top two contenders. Its base is not detachable and its performance was slightly less than the Presto 06857 while the Hamilton Beach has a better non-stick coating for the pan.
-*   **The Ovente Non-Stick Electric Skillet SK11112B** has a round and shallow pan. It heats up extremely fast to a high temperature which, although excellent for searing meat, is not at all suitable for delicate carbohydrates like pancakes.
-*   **The Crux Non-Stick Electric Skillet 14620** was on par with the GreenLife in terms of cooking performance for a medium-sized pan. However, the non-stick coating wasn’t as good nor as eye-catching.
+1.  **The Presto Electric Skillet 06852** could have made the list if not for our top two contenders. Its base is not detachable and its performance was slightly less than the Presto 06857 while the Hamilton Beach has a better non-stick coating for the pan.
+2.  **The Ovente Non-Stick Electric Skillet SK11112B** has a round and shallow pan. It heats up extremely fast to a high temperature which, although excellent for searing meat, is not at all suitable for delicate carbohydrates like pancakes.
+3.  **The Crux Non-Stick Electric Skillet 14620** was on par with the GreenLife in terms of cooking performance for a medium-sized pan. However, the non-stick coating wasn’t as good nor as eye-catching.
 
 Why Should You Buy
 ------------------
