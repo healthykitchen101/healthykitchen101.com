@@ -49,6 +49,8 @@ Among its peers, the Nesco Non-Stick Electric Skillet ES-08 scored the highest i
 
 ### Analyzing Heat Distribution
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-analyzing-heat-distribution-cltwmrn2b005cwz883osk5xfh.jpg" alt="The Nesco Non-Stick Electric Skillet ES-08 with a white oil-absorbent sheet covering the surface of the pan. The dark double circles indicate where the heating element is." width="300px" height="200px">
+
 Temperature: High heat / 400°F
 
 Temperature Differences: 4.1%
@@ -60,6 +62,8 @@ To assess temperature variances across the skillet's surface, we used an oil abs
 From these points, spanning from the center to the edges of the pan, we observed an average temperature difference of only 4.1%. This exceptional result earned the skillet the record score of 9.2/10.
 
 ### Making Pancakes
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-making-pancakes-cltwmrn2a005bwz88ge0n33nw.jpg" alt="The top side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Nesco Non-Stick Electric Skillet ES-08." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-making-pancakes-1-cltwmrn250058wz882yjmex7z.jpg" alt="The bottom side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Nesco Non-Stick Electric Skillet ES-08." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-making-pancakes-2-cltwmrn1v0052wz88ehk51i1w.jpg" alt="Two hands breaking a pancake apart. In the background is the Nesco Non-Stick Electric Skillet ES-08." width="300px" height="200px">
 
 Heating Time: 1 min 24 sec
 
@@ -76,6 +80,8 @@ In addition, while the pancake was fluffy, it retained slightly more moisture th
 Looking at the results, we concluded that the skillet is more suitable for thick, lumpy pancakes rather than the smooth, fluffy ones that our recipe aimed to achieve. While the non-stick coating eliminates the need for butter or oil, it's advisable to add a small amount of oil to the pan to extend its lifespan.
 
 ### Cooking Steaks
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-cooking-steaks-cltwmrn220056wz8842gkhsrl.jpg" alt="A piece of deep golden brown steak inside the Nesco Non-Stick Electric Skillet ES-08. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-cooking-steaks-1-cltwmrn1r0050wz887corcxi3.jpg" alt="On the cutting board, a tong is holding the steak while a knife is slicing the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-cooking-steaks-2-cltwmrn1z0054wz880kwu8xt2.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Nesco Non-Stick Electric Skillet ES-08." width="300px" height="200px">
 
 Heating Time: 1 min 58 sec
 
@@ -109,6 +115,8 @@ Although small and only 8 x 8 inches and 1.5 inches deep, the Nesco Non-Stick El
 
 ### 5.0 - Pan
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-pan-cltwmrn1x0053wz88b36mcwyb.jpg" alt="The pan of the Nesco Non-Stick Electric Skillet ES-08 is 7.79 inches in length, 7.79 inches in width, and 1.73 inches in depth." width="300px" height="200px">
+
 Cooking Capacity: 1.8 qt.
 
 Dimensions: L7.79" x W7.79" x H1.73"
@@ -131,6 +139,8 @@ The skillet has steel handles and its simple design has no pouring spout (+1). T
 
 ### 9.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-lid-cltwmrn1i004xwz88789u1wsm.jpg" alt="The tempered glass lid of the Nesco Non-Stick Electric Skillet ES-08 has a steam vent." width="300px" height="200px">
+
 Material: Tempered glass
 
 Handle: Thermosetting plastic
@@ -143,6 +153,8 @@ The tempered glass lid is the only part which is dishwasher-safe (+4). It has a 
 
 ### 5.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-base-cltwmrn270059wz888xpc3fn8.jpg" alt="The base of the Nesco Non-Stick Electric Skillet ES-08 has four stands with anti-slip pads." width="300px" height="200px">
+
 Material: Steel
 
 Detachable: No
@@ -154,6 +166,8 @@ Dishwasher-Safe: No
 The metal base features four sturdy stands equipped with anti-slip pads (+4). The base is not detachable from the pan so the unit cannot go into the dishwasher (+1).
 
 ### 6.0 - Thermostat
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-thermostat-cltwmrn1m004ywz889f095a49.jpg" alt="The thermostat of the Nesco Non-Stick Electric Skillet ES-08 has 5 settings including On-275°F–325-375-425°F." width="300px" height="200px">
 
 Temperature Range: On-275°F–325-375-425°F
 
@@ -183,11 +197,15 @@ The Nesco Non-Stick Electric Skillet ES-08 is easy to use, store, and clean. How
 
 ### 6.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-ease-use-cltwmrn230057wz885zjwdbuq.jpg" alt="The Nesco Non-Stick Electric Skillet ES-08 with its thermostat inserted." width="300px" height="200px">
+
 The thermostat was precise in terms of its temperatures and the indicator light easy to see(+3). Additionally, the skillet’s exterior didn’t get too hot while cooking, so as long as you have your hands on the handles, you won’t risk burning yourself (+3).
 
 The 4 anti-slip pads were unfortunately too hard and smooth to provide sufficient friction. Therefore, you need to take care not to rock the skillet when it’s filled with hot liquid and also hold it down to remove the rather stiff thermostat (+0).
 
 ### 8.0 - Cleaning and Storing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-cleaning-storing-cltwmrn1q004zwz8897y974ec.jpg" alt="Burnt caramel on the surface of the Nesco Non-Stick Electric Skillet ES-08." width="300px" height="200px">
 
 When it got down to cleaning, the pan released food easily, even the burnt caramel in our heat distribution test (+3). After testing, all the skillet required was a quick hand-wash with warm water and a dab of dishwashing liquid (+3).
 
