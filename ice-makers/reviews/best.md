@@ -123,8 +123,8 @@ You can expect around **284 grams per basket** within an average time of **87 mi
 *   [**EUHomy IM-01-WA**](https://healthykitchen101.com/ice-makers/reviews/euhomy/euhomy-ice-maker-im-01-wa/)**:** The EUHomy has excellent build quality and non-generic custom made parts. However, it falls short in terms of performance with time, capacity, and ice quality all much lower than competitive machines. 
 *   [**Igloo (Nostalgia)**](https://healthykitchen101.com/ice-makers/reviews/igloo/igloo-portable-ice-maker-26-lb-handle/)**:** The Igloo is attractive for its retro-design and nice color range. It disappointed with performance and is not a machine we recommend.
 
-Things That Affect Good Ice Makin
----------------------------------
+Things That Affect Good Ice Making
+----------------------------------
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/ice-makers/close-up-two-countertop-ice-makers-with-full-ice-baskets-clpc2eh5f000lmm889k1kh3fs.jpg" alt="A close up of two countertop ice makers with full baskets of ice. The one to the right has clear ice made from zero TDS water, the one to right has cloudy ice made from tap water." width="640" height="427">
 
