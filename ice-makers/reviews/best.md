@@ -1,4 +1,4 @@
-A portable ice maker has a built-in water reservoir and therefore no need for an inlet water line. The most popular of these countertop ice machines make bullet-shaped ice. Bullet ice makers are an affordable and fast way to make ice and most machines put out small and large ice bullets. They are easy to use and to keep clean while also quiet to run.
+A portable ice maker has a built-in water reservoir and therefore no need for an inlet water line. The most popular of these countertop ice machines make bullet-shaped ice. Bullet ice makers are an affordable and fast way to make ice. They are easy to keep clean while also quiet to run.
 
 How We Test
 -----------
@@ -7,9 +7,9 @@ How We Test
 
 Two bullet ice makers getting readied for testing
 
-Most portable bullet ice makers claim to make up to 26 lbs or 12 kg of ice in one day. We have never substantiated such claims since there are many variables that can affect the working rhythm and quality of ice your machine makes.
+Most portable bullet ice makers claim to make up to 26 lbs or 12 kg of ice in one day. We have never substantiated such claims since there are many variables that can affect the working rhythm of an ice machine and its ice quality.
 
-Our ice capacity test focuses on practical concerns that affect users.
+Our [ice capacity test](https://healthykitchen101.com/ice-makers/tests/bullet/ice-capacity/) focuses on practical concerns that affect users.
 
 1.  We prep machines by running them **overnight**.
 2.  The tanks are refilled with **slightly chilled water**.
@@ -17,18 +17,18 @@ Our ice capacity test focuses on practical concerns that affect users.
 
 From this, we calculate the average time it takes to fill a basket, how much ice you get per basket, the ice capacity per hour, and how much ice you can expect over 24 hours.
 
-For our ice quality test, we run the machines from start up timing and separately weighing each round of ice making. All our tests use zero TDS filtered water.
+For our [ice quality test](https://healthykitchen101.com/ice-makers/tests/bullet/ice-quality/), we run the machines from start up, timing and separately weighing each round of ice making. All our tests use zero TDS filtered water.
 
-We see how long it takes a machine to start making ice bullets with a net weight of over 5 grams while running some 15 to 20 ice-making cycles. A decent machine usually takes 5 to 8 rounds of ice making to get a consistent net bullet weight of 5 to 7 grams.
+We see how long it takes a machine to produce ice bullets of a consistent weight. Most machines stabilize to a net weight of 5 grams or more. A decent machine usually takes 5 to 8 rounds of ice making to stabilize and we run our test for 15 to 20 rounds.
 
-You can read more in detail about how we test portable bullet ice makers.
+You can read more in detail about [how we test ice makers](https://healthykitchen101.com/ice-makers/tests/).
 
 How We Rate
 -----------
 
 Apart from the data driven tests above, we also monitor ice makers for the noise they make. As part of our overall rating system, we evaluate various key aspects of design and how this impacts **user-friendliness**.
 
-We pay careful attention to **visibility** into machines for easy-of-use and effective troubleshooting. We rate machines for build quality, control panels for **user-centered** design, and ice baskets for effective scooping. We also run machines overnight to test **lid insulation**.
+We pay careful attention to **visibility** into machines for easy-of-use and effective troubleshooting. We rate machines for build quality, control panels for **user-centered** design, and ice baskets for **effective scooping**. We also run machines overnight to test **lid insulation**.
 
 Reviews of the Best Portable Bullet Ice Makers in 2024
 ------------------------------------------------------
