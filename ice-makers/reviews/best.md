@@ -117,6 +117,12 @@ In terms of performance and ice making, the Crownful understandably produces les
 
 You can expect around **284 grams per basket** within an average time of **87 minutes**. Ice quality varied somewhat and although measured against a high benchmark, we found the performance to be good for its size.
 
+### Other Machines We Have Tested
+
+*   [**AGLucky HZB-12/B**](https://healthykitchen101.com/ice-makers/reviews/aglucky/aglucky-ice-maker-hzb-12b/)**:** A worthy competitor especially in terms of ice bullet size, quality, as well as overall capacity. Its performance is better than the Silonn, but the build quality is rather average and the ice basket a low quality generic design. 
+*   [**EUHomy IM-01-WA**](https://healthykitchen101.com/ice-makers/reviews/euhomy/euhomy-ice-maker-im-01-wa/)**:** The EUHomy has excellent build quality and non-generic custom made parts. However, it falls short in terms of performance with time, capacity, and ice quality all much lower than competitive machines. 
+*   [**Igloo (Nostalgia)**](https://healthykitchen101.com/ice-makers/reviews/igloo/igloo-portable-ice-maker-26-lb-handle/)**:** The Igloo is attractive for its retro-design and nice color range. It disappointed with performance and is not a machine we recommend.
+
 Things That Affect Good Ice Makin
 ---------------------------------
 
@@ -126,7 +132,7 @@ Left: Clear zero TDS ice; Right: TDS 0.45 ppm tap water ice
 
 Regardless of what portable ice maker you buy, there are a few things that will affect the quality of your ice and your machine’s production capacity. 
 
-*   For clear-looking ice and to extend the lifespan of your machine, use filtered water, distilled water, or [zero TDS water](https://healthykitchen101.com/water-filters/reviews/zerowater/zerowater-pitcher-23-cup/).
+*   For clear-looking ice and to extend the lifespan of your machine, use filtered water or [zero TDS water](https://healthykitchen101.com/water-filters/reviews/zerowater/zerowater-pitcher-23-cup/).
 *   Refill using chilled (filtered) water of around 10℃ (50℉) to maintain consistent ice bullet weight and production capacity.
 *   Run your ice maker away from direct sunlight and with a room temperature of 10‒32 ℃ (50‒90℉).
 
