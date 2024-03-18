@@ -150,12 +150,12 @@ A portable ice maker will generally only make one type of ice. Bullet ice makers
 
 **Large ice bullets:**
 
-*   Between 5 and 7 grams.
+*   Average 5 to 7 grams.
 *   Best for ice teas, smoothies, sodas, and similar beverages.
 
 **Small ice bullets:** 
 
-*   Between 2 and 5 grams.
+*   Average 2 to 5 grams.
 *   Best of ice beds for seafood, beer, or other beverage containers.
 
 **Nugget ice:** 
@@ -182,40 +182,37 @@ Often, the key choice is whether to go with a countertop bullet ice maker or a n
 | More versatile than ice cubes. | Chewable and absorb beverage flavor. |
 | Small bullets can be used for ice beds. | Suitable for ice beds. |
 
-Troubleshooting Your Portable Bullet Ice Maker
-----------------------------------------------
-
 Portable ice makers, as convenient as they are, can be temperamental! Here are a few common issues we came across during testing, and tips to keep the ice flowing.
 
-**1\. Why are my Ice bullets so small?**
+### 1\. Why are my Ice bullets so small?
 
 If the (large) ice bullets continually come out too small (<5g average) the problem could be the machine isn’t selecting the correct ice type even though you select large. Remember, it usually takes around 8 cycles to reach 5g or more.
 
 **Solution:** Hold down the start button to run the self-cleaning function. This will flush the system and probably clear the settings. Switch the machine off for about 3 minutes and then restart.
 
-**2\. Why does my ice maker say ‘FULL’ when it’s not?**
+### 2\. Why does my ice maker say ‘ICE FULL’ when it’s not?
 
-Sometimes the FULL alert will display, but the ice basket is not full. This could be due to the fit of the ice basket or other interference with the infrared sensors. 
+Sometimes the ICE FULL alert will display, but the ice basket is not full. This could be due to the fit of the ice basket or other interference with the infrared sensors. 
 
 **Solution:** Make sure the ice basket is secure by pressing it down more firmly into place. Wipe the sensors to remove any mineral deposits and check to see if light refraction isn’t affecting the interior of the machine.
 
-**3\. Why does my ice maker say ‘ADD WATER’ when there is water?**
+### 3\. Why does my ice maker say ‘ADD WATER’ when there is water?
 
 A more common problem we encountered was the ADD WATER alert popping on even though the tank had enough water. There could be a number of reasons for this such as maybe an air blockage or dirt in the system.
 
 **Solution:** Usually, if you long-press the start button to run the self-cleaning function the problem will sort itself out. An additional trick is to drain some water out the machine and the pressure could move the air block. Failing this, we fixed one ice maker by cleaning the machine with a solution of white vinegar and water. Grime under the water guard could also be an issue.
 
-**4\. Why does it take so long to make ice (often poor quality)?**
+### 4\. Why does it take so long to make ice (often poor quality)?
 
-There could be an ice blockage in the system. Sometimes this is a result of the water being too cold and / or the room temperature too low. Alternatively, it could mean you have a problem with the ice making coolant.
+If you’ve been running your machine for a long time, there could be an ice blockage. Alternatively, your water and room temperature may not be ideal. 
 
-**Solution:** Switch off the machine for at least an hour to melt any ice that may be trapped and then restart using fresh water. Use water of over 15℃, lower your room temperature, or place the machine in a cooler location.
+**Solution:** Switch off the machine for at least an hour to melt any ice that may be trapped and then restart using fresh water. Use water of over 15℃, check your room temperature, or place the machine in a cooler location.
 
-**5\. Why is my ice always so cloudy?**
+### 5\. Why is my ice always so cloudy?
 
 This has nothing to do with how your ice maker or if it’s not working properly. The clearness of your ice will vary according to the quality of water you use for your ice maker.
 
-**Solution:** If you want clear-looking ice then you need to lower the total dissolved solids (TSD) of your water. Use filtered water, or even better use a TDS zero water filter or distilled water. If you are happy with cloudy ice, then remember to descale your machine more often to reduce mineral deposits.
+**Solution:** If you want clear-looking ice then you need to lower the total dissolved solids (TSD) of your water. Use filtered water, or even better use a TDS zero water filter. If you are happy with cloudy ice, then remember to descale your machine more often to reduce mineral deposits.
 
 Our Expertise
 -------------
