@@ -97,6 +97,26 @@ Regardless, the Silonn has a refreshing and spacious design for its control pane
 
 If you like the color choice, it’s not a bad machine. Also, not many portable ice makers have a model with [a smart app](https://play.google.com/store/apps/details?id=com.smart.life.regineer&hl=en&gl=US&pli=1) which can be used to set a timer, select ice bullet size, run auto clean, and get status notifications.
 
+4\. Best Compact Design: Crownful Small 22lbs Portable Ice Machine
+
+*   Compactness
+*   High visibility
+*   Ice scoop
+*   Ice basket
+
+*   Control panel
+*   Varying ice quality
+
+Although all bullet ice makers we review are portable, this Crownful is the best compact ice maker we have tested. It’s significantly smaller than most other machines and is a **22 lbs ice maker** rather than a 26 lbs machine.
+
+Apart from being small and compact, the Crownful is customized in other ways thus avoiding generic parts and designs. The small ice basket has a sloped design to maximize ice storage and a raised edge for easier ice scooping.\[221\] CROWNFUL Ice MakerIce Quality Test
+
+It also has a neat bonnet-like transparent lid that forms part of the front body. The control panel has uniquely designed icons, although we felt them to be cramped and not so intuitive to understand.
+
+In terms of performance and ice making, the Crownful understandably produces less ice than a full-sized machine. Overall, it took slightly longer to make ice and the bullets were **only 4 grams** on average, or one to two grams smaller than most other machines.
+
+You can expect around **284 grams per basket** within an average time of **87 minutes**. Ice quality varied somewhat and although measured against a high benchmark, we found the performance to be good for its size.
+
 Things That Affect Good Ice Makin
 ---------------------------------
 
