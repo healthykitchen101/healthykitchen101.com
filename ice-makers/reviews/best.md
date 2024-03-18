@@ -35,6 +35,8 @@ Reviews of the Best Portable Bullet Ice Makers in 2024
 
 Here are our picks for the best countertop ice makers tested and evaluated in our lab. For more detailed information, follow the link at the end of each review.
 
+1\. Best Overall: VIVOHOME Automatic Ice Maker
+
 *   Large chunky ice bullets
 *   Spacious control panel
 *   Large ice basket
@@ -54,7 +56,7 @@ The Vivo Home design is a little dated compared to more modern designs which oft
 
 If you’re looking for a no-fuss machine that consistently makes excellent quality ice, and the large chunky bullets, this Vivo Home is our top pick for a countertop ice maker.
 
-1\. Best Overall: Frigidaire EFIC189 Portable Ice Maker
+2\. Best Overall: Frigidaire EFIC189 Portable Ice Maker
 
 *   Performance
 *   Production capacity
@@ -68,13 +70,11 @@ If you’re looking for a no-fuss machine that consistently makes excellent qual
 
 The Frigidaire ice maker is an all-round excellent machine. Good design and build quality is matched to both consistent high ice quality and top production capacity.
 
-The Frigidaire took a little longer than most other machines to fill a basket of ice, but it was one of the few machines that averaged over 18 oz or 500 g (**555g** exact) of quality ice per basket. It produced 11.4 oz (323 g) of ice per hour and one basket took around **103 minutes**.\[52\] Frigidaire Portable Ice Maker Good Capacity 1
+It was one of the few machines, like the VivoHome, that averaged over 18 oz or 500 g (**555g** exact) of quality ice per basket. It produced 11.4 oz (323 g) of ice per hour and one basket took around **103 minutes**.\[52\] Frigidaire Portable Ice Maker Good Capacity 1
 
-Not only that, the average weight per large ice bullet was **6.2 g**, which was really good and occasionally it managed to put out bullets of 7 grams. The amount of waste or broken ice produced was only an average of 1.8% of net basket weight. Overall, the machine should produce about **17 lbs or 7.8 kg** of ice per 24 hours.
+Not only that, the average weight per large ice bullet was a good **6.2 g**, and occasionally it managed to put out bullets of 7 grams. The amount of waste or broken ice produced was only an average of 1.8% of net basket weight, which was one of the lowest.
 
-While some machines such as the AGLucky HZB-12/B produced chunkier and heavier ice, the Frigidaire had the overall best consistency in terms of quantity and quality.
-
-The Frigidaire EFIC 189 has a rounded rather than boxy design with high interior visibility. However, we found the control panel a bit cramped at the rear end of the machine, and the lid joinings were not so good. For keeping and serving ice throughout the day, the lid insulation was one of the poorer designs we tested.
+The Frigidaire EFIC 189 has a rounded rather than boxy design with high interior visibility. However, we found the control panel a bit cramped at the rear end of the machine, and the lid joinings were not so good. For keeping and serving ice throughout the day, the lid insulation was not the best, and very similar to the Vivo Home.
 
 2\. Best for Ice Quality: AGLucky HZB-12/B Ice Maker
 
