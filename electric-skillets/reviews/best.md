@@ -5,6 +5,8 @@ Additionally, an electric skillet can serve as your main cooking appliance or pr
 How We Test
 -----------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-clto35b1g0041wz88a1o11fwd.jpg" alt="Three people paying close attention to a piece of steak cooking inside the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="640" height="427">
+
 Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspectives that we could never have anticipated.
 
 We evaluate an electric skillet’s performance with 3 tests:
@@ -41,7 +43,7 @@ The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is hands down our b
 
 The skillet is top-tier in terms of **even heat distribution**. The average temperature difference between 5 key points from the center to the edge of the pan was only 5.9%— compared to a typical 10%. This earned it an impressive score of 8.8/10.
 
-It took only **3 min 20 sec** to preheat the pan to 350°F and a couple of minutes each side to cook a 3.17 oz pancake. More importantly, every pancake was perfectly steamy and fluffy with a golden brown texture (9.5/10). The 15-inch pan can cook 3 to 4 pancakes at a time.
+It took only **3 min 20 sec** to preheat the pan to 350°F and a couple of minutes each side to cook a 3.17 oz pancake. More importantly, every pancake was perfectly steamy and fluffy with a golden brown texture (9.5/10). The 15-inch pan can cook 3 to 4 pancakes at a time.\[125\] Hamilton Beach Electric Skillet 38529K Cooking Steaks 5
 
 In our other test, we cooked an **8 oz**, **1.38-inch** top blade steak. The skillet took **4 min30 sec** to preheat to 400°F which was fast for its size. We were more impressed, however, with the stable temperature. The pan didn’t get to 500°F like some other skillets so the crust wasn’t the thickest or crispiest. However, the steak was **incredibly juicy** and reached a **perfect medium-rare**, thus earning it a 9.5/10.
 
@@ -62,7 +64,7 @@ The user-friendly pan simply **lifts up** from its base by its side handles and 
 
 The 16-inch Presto Foldaway Non-Stick Electric Skillet 06857 is a very close runner-up. Compared to the Hamilton, it’s overall more user-friendly with only slight differences in cooking performance. Despite all this, significant demerits were the Teflon coating (not ceramic) and the loose-fitting lid.
 
-Its thick cast aluminum pan (0.12 in) and large rectangular heating element effected excellent heat distribution. We saw an average of **5.7%** in temperature differences in 5 points from the center of the pan of the edges (compared to 5.9% for the Hamilton) scoring an impressive 8.9/10.
+Its thick cast aluminum pan (0.12 in) and large rectangular heating element effected excellent heat distribution. We saw an average of **5.7%** in temperature differences in 5 points from the center of the pan of the edges (compared to 5.9% for the Hamilton) scoring an impressive 8.9/10.\[126\] Presto Foldaway Electric Skillet 06857 Making Pancakes 4
 
 The PFOA-free Teflon non-stick coating, both inside and outside, allowed us to make pancakes without any butter or oil. After **3 min 50 sec** of preheating, we had a **steamy and fluffy** pancake scoring 9.5/10—just slightly better than its main rivals.
 
@@ -72,7 +74,7 @@ The best thing about the Presto’s design is how you just  unlock the two clip
 
 The pan has a spout for pouring liquid so the tempered glass lid doesn’t need a steam vent. All parts are **dishwasher-safe** except for the thermostat. Nonetheless, thanks to the non-stick coating, we found a quick hand-washing was more than enough after cooking the steak.
 
-3\. Best Deep Pan: Elite Gourmet Electric Skillet EG-6203#
+3\. Best Deep Pan: Elite Gourmet Non-Stick Electric Skillet EG-6203#
 
 *   Raised honeycomb pan
 *   Excellent cooking capacity
@@ -103,7 +105,7 @@ The pan has a **marble coating** (comprises resin) which is much more durable th
 
 *   Not suitable for deep-frying
 
-Our best 3 electric skillets are all large-sized, so we felt compelled to add the best medium-sized option. And, the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 fits the bill with its great cooking performance and **excellent coating**.
+Our best 3 electric skillets are all large-sized, so we felt compelled to add the best medium-sized option. And, the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 fits the bill with its great cooking performance and **excellent coating**.\[127\] GreenLife Electric Skillet 5QT Making Pancake 4
 
 This skillet preheated to 350°F in just **1 min 58 sec** and to 400°F in **2 min 36 sec**. This was significantly faster than the top 3 due to its smaller surface area and despite a lower power draw.
 
@@ -146,6 +148,10 @@ Honorable Mentions
 Why Should You Buy
 ------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hy-should-you-buy-electric-skillets-clto3en4p0043wz887c2g5w81.jpg" alt="The Elite Gourmet Non-Stick Electric Skillet EG-6203# is cooking up a chicken hot pot with different vegetables and pieces of chicken." width="640" height="427">
+
+Electric skillets are useful for making hotpots for a large feast.
+
 Here are 5 good reasons why you should buy an electric skillet if you have never tried one before:
 
 1.  Convenient and versatile.
@@ -156,6 +162,10 @@ Here are 5 good reasons why you should buy an electric skillet if you have never
 
 Things To Keep in Mind When Buying
 ----------------------------------
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-electric-skillets-clto3h8d70044wz88cyio2d2v.jpg" alt="Five people discussing electric skillets. Also on the table are testing equipment and ingredients." width="640" height="427">
+
+Evaluating electric skillets is an all-hands-on-deck discussion for our team at Healthy Kitchen 101.
 
 A typical electric skillet has three main parts: a circular or rectangular pan, a tempered glass lid, and a thermostat / temperature control probe. All parts are usually fully immersible in water with the exception of the thermostat.
 
