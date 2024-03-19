@@ -65,7 +65,7 @@ The element also has an **on-off heating cycle** of slightly increasing and decr
 5\. Make Sure the Lid is Tempered Glass
 ---------------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/make-sure-lid-is-tempered-glass-clty3dtm7005nwz885jg41ljx.jpg" alt="A person holding the Elite Gourmet Non-Stick Electric Skillet EG-6203 in one hand and its lid in the other." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/make-sure-lid-is-tempered-glass-clty3dtm7005nwz885jg41ljx.jpg" alt="A person holding the Elite Gourmet Non-Stick Electric Skillet EG-6203 in one hand and its lid in the other." width="640" height="427">
 
 All skillets have a glass lid which makes it easier to check on food, retain moisture, and protect from splashing. With deep pans, a lid can turn your skillet into a hotpot.
 
