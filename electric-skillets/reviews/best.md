@@ -5,7 +5,7 @@ Additionally, an electric skillet can serve as your main cooking appliance or pr
 How We Test
 -----------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-clto35b1g0041wz88a1o11fwd.jpg" alt="Three people paying close attention to a piece of steak cooking inside the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltxszn17005fwz88ew3vdb4x.jpg" alt="How to Test the Best Electric Skillets" width="640" height="427">
 
 Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspectives that we could never have anticipated.
 
