@@ -163,7 +163,7 @@ Here are 5 good reasons why you should buy an electric skillet if you have never
 Things To Keep in Mind When Buying
 ----------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-electric-skillets-clto3h8d70044wz88cyio2d2v.jpg" alt="Five people discussing electric skillets. Also on the table are testing equipment and ingredients." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-electric-skillets-cltxt36pf005gwz885tfrdavj.jpg" alt="Three people discussing electric skillets. Also on the table are testing equipment and ingredients." width="640" height="427">
 
 Evaluating electric skillets is an all-hands-on-deck discussion for our team at Healthy Kitchen 101.
 
