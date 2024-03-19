@@ -65,6 +65,8 @@ The element also has an **on-off heating cycle** of slightly increasing and decr
 5\. Make Sure the Lid is Tempered Glass
 ---------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/make-sure-lid-is-tempered-glass-clty3dtm7005nwz885jg41ljx.jpg" alt="A person holding the Elite Gourmet Non-Stick Electric Skillet EG-6203 in one hand and its lid in the other." width="768" height="512">
+
 All skillets have a glass lid which makes it easier to check on food, retain moisture, and protect from splashing. With deep pans, a lid can turn your skillet into a hotpot.
 
 It's best to go for a lid with a **steam vent**, unless the pan has a pouring spot. Without a vent, pressure can cause the lid to wiggle and shift a bit to let steam escape. This can be unsafe with hot liquid also splashing onto your counter.
