@@ -1,5 +1,7 @@
 A typical electric skillet only has three main parts. However, these handy appliances tend to differ in terms of heating times, evenness of heat distribution, user-friendliness, and the space they take up. Our checklist of 8 key points will take you through everything you need to know about the cooking pan, the glass lid, and the thermostat control.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-best-electric-skillets-clty2srta005kwz88bvky21yg.jpg" alt="On the dining table, a hand lifts up the lid of the Elite Gourmet Non-Stick Electric Skillet EG-6203# to reveal a steamy chicken hot pot." width="768" height="512">
+
 1\. Choose the Right Size
 -------------------------
 
@@ -11,6 +13,8 @@ Electric skillet sizes aren’t really set in stone but you can still categorize
 
 2\. Look for a High-Quality Pan
 -------------------------------
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-clti2zynn002qwz88h0nt8gxm.jpg" alt="The pan of the Presto Foldaway Non-Stick Electric Skillet 06857 is 15.71 inches in length, 11.77 inches in width, and 2.79 inches in depth." width="640" height="427">
 
 Electric skillets usually have a circular or rectangular pan. The majority have a coated cast aluminum base, but you can get ones in stainless steel.
 
@@ -44,6 +48,8 @@ Teflon poses [health concerns](https://www.sciencedirect.com/science/article/pii
 4\. Our Reviews Reveal Core Heating Dynamics
 --------------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-analyzing-heat-distribution-cltmfqdy40038wz887bff4wy7.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K with a white oil-absorbent sheet covering the surface of the pan. The dark rectangle indicates where the heating element is." width="640" height="427">
+
 The core heating dynamics of the element can only be known by hands-on testing. For this reason, make sure to read our reviews. We focus on minimum and maximum temperature oscillations and temperature stabilization.
 
 The embedded heating elements usually follow the pan outline. The larger the area they cover, the better the heat distribution is with fewer cold spots.
@@ -68,6 +74,8 @@ Lids will also have a stay-cool knob made from either metal or thermosetting pla
 6\. Go For a Detachable Base
 ----------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-ease-use-clti2zyhg002lwz88at0wgy0x.jpg" alt="The base of Presto Foldaway Non-Stick Electric Skillet 06857 clips off and the pan can be lifted up." width="640" height="427">
+
 Similar to the lid handle, the base for an electric skillet is usually thermosetting plastic or metal. Check to make sure the base has good **anti-slip pads**.
 
 Electric skillets are commonly designed with their base **fixed** to the pan. When this is the case, the base usually extends into the side handles for the pan as well.
@@ -82,6 +90,8 @@ Most electric skillets are designed with **two side handles**. It is important t
 8\. Make Sure the Thermostat is Removable
 -----------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-thermostat-cltwcx76k004hwz887j0y2eib.jpg" alt="The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has 6 settings including Warm-200–250-300-350-400°F." width="768" height="512">
+
 The thermostat will usually have a temperature control dial made of thermosetting plastic and metal rod that connects into the heating element socket.
 
 Most thermostats are detachable these days, but it’s good to check nonetheless. Detachable thermostats make cleaning all the more easier, but they should not be immersed into water.
@@ -90,6 +100,10 @@ The general temperature range is 200 to 400°F in 50°F increments, but a keep w
 
 5 Reasons Why Should You Buy an Electric Skillet
 ------------------------------------------------
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hy-should-you-buy-electric-skillets-clto3en4p0043wz887c2g5w81.jpg" alt="The Elite Gourmet Non-Stick Electric Skillet EG-6203# is cooking up a chicken hot pot with different vegetables and pieces of chicken." width="640" height="427">
+
+Electric skillets are useful for making hotpots for a large feast.
 
 Here are five reasons why you should get an electric skillet if you’ve never tried one before.
 
