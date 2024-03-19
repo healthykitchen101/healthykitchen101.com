@@ -89,12 +89,14 @@ However, a detachable base is more **dishwasher-friendly** and generally **easie
 7\. Cool-to-Touch Handles for Safety
 ------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/cool-touch-handles-for-safety-clty3g05h005owz887ap27rmp.jpg" alt="Coating a steak with butter inside the Presto Foldaway Non-Stick Electric Skillet 06857." width="640" height="427">
+
 Most electric skillets are designed with **two side handles**. It is important to make sure the handles are **heat resistant** if you need to bring your tasty dish from the kitchen to the table. It’s also better to get **textured handles** for a more secure grip.
 
 8\. Make Sure the Thermostat is Removable
 -----------------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-thermostat-cltwcx76k004hwz887j0y2eib.jpg" alt="The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has 6 settings including Warm-200–250-300-350-400°F." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-thermostat-cltwcx76k004hwz887j0y2eib.jpg" alt="The thermostat of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 has 6 settings including Warm-200–250-300-350-400°F." width="640" height="427">
 
 The thermostat will usually have a temperature control dial made of thermosetting plastic and metal rod that connects into the heating element socket.
 
