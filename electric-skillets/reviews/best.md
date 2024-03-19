@@ -169,7 +169,7 @@ Evaluating electric skillets is an all-hands-on-deck discussion for our team at 
 
 A typical electric skillet has three main parts: a circular or rectangular pan, a tempered glass lid, and a thermostat / temperature control probe. All parts are usually fully immersible in water with the exception of the thermostat.
 
-Most electric skillets work well enough. However, better ones excel in terms of heating speed, even cooking, user-friendliness, and how much space they take up. Below are 8 things to keep in mind when looking for the best electric skillet.
+Most electric skillets work well enough. However, better ones excel in terms of heating speed, even cooking, user-friendliness, and how much space they take up. Below are [8 things to keep in mind](https://healthykitchen101.com/electric-skillets/tips/electric-skillet-buying-guide/) when looking for the best electric skillet.
 
 1.  Choose the right size for your needs.
 2.  Look for a thick, high-quality pan.
