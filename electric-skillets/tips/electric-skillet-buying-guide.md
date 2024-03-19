@@ -29,6 +29,8 @@ Ideally, the pan should reach 350°F, but without an [infrared thermometer](http
 3\. Non-Stick Means Less Grease and Easier Cleaning
 ---------------------------------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/non-stick-means-less-grease-easier-cleaning-clty36q4r005lwz88ef385ma6.jpg" alt="A person flipping a pancake in the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002." width="640" height="427">
+
 Non-stick surfaces are easy to clean. At the same time, they can offer oil-free healthier cooking, but a little greasing can extend the longevity of the coating. Also, there are different types of non-stick coatings to choose from.
 
 A ceramic-coated pan is generally considered the safer option. Unlike Teflon ([PTFE](https://phys.org/news/2022-10-teflon-coating-hot-microplastics-cooking.html)), ceramic coating is made from multiple layers of silica (silicium-dioxide) using [spin coating](https://link.springer.com/chapter/10.1007/978-0-387-88953-5_4) technology.
