@@ -130,7 +130,7 @@ If you’re looking for a compact electric skillet, then this Nesco Non-Stick El
 
 The skillet has the **most even heat distribution** out of all our tested units, possibly thanks to the small surface area. The average temperature difference was only **4.1%**, earning the Nesco a 9.2/10.
 
-This skillet preheats faster than the GreenLife despite a much lower low power draw. It only took **1 min 24 sec** to preheat to 350°F and needed only an additional **30 seconds** to reach 400°F.
+This skillet preheats faster than the GreenLife despite a much lower low power draw. It only took **1 min 24 sec** to preheat to 350°F and needed only an additional **30 seconds** to reach 400°F.\[161\] Nesco 8 inch Electric Skillet Cooking Steaks 3
 
 Unfortunately, our pancakes got a bit too dark too fast, especially around the edges right where the heating element is. The pancake was still fluffy but it retained a bit too much moisture to be anywhere near first rate (6/10).
 
