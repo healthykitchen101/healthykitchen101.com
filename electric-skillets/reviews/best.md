@@ -5,7 +5,7 @@ Additionally, an electric skillet can serve as your main cooking appliance or pr
 How We Test
 -----------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltxszn17005fwz88ew3vdb4x.jpg" alt="How to Test the Best Electric Skillets" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltxszn17005fwz88ew3vdb4x.jpg" alt="A photo collage of people using equipment to test and note down results on different electric skillets." width="640" height="427">
 
 Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspectives that we could never have anticipated.
 
@@ -13,7 +13,7 @@ We evaluate an electric skillet’s performance with 3 tests:
 
 *   **Analyzing Heat Distribution:** We soak  an **oil absorbent sheet** in **saturated sugar water**, drain off excess liquid, and flatten it onto the skillet surface. Then, we heat the skillet until the central area reaches **400°F** and use an infrared thermometer to measure 5 key points towards the edges. Afterwards, we collate the data and tally a score.
 *   **Making Pancakes:** We chose this test for its simple and universally common recipe. It also shows how fast the skillet preheats to **350°F** and how it maintains a stable temperature needed to cook up **steamy**, **fluffy** and **golden brown** pancakes.
-*   **Cooking Steaks:** Cooking a steak allows us to test preheating to **400°F** and provides an assessment of **good crusting** and **even cooking** for the perfect **medium-rare** steak. We keep the seasoning to its most basic and garnished with butter and rosemary. 
+*   **Cooking Steaks:** Cooking a steak allows us to test preheating to **400°F** and provides an assessment of **good crusting** and **even cooking** for the perfect **medium-rare** steak. We keep the seasoning to its most basic and garnished with butter and rosemary.
 
 For design, we rate the fabrication materials of the pan, lid, base, thermostat, and all the key features. Since design directly impacts user-friendliness. We assess how easy it is to control the thermostat, to maneuver the pan while cooking, and to clean up afterward.
 
