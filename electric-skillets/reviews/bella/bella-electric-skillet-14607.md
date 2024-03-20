@@ -171,14 +171,14 @@ Usability
 
 usability Scores: **NaN**
 
-*   Ease of Use (9%) - **70**/undefined
+*   Ease of Use (70%) - **9.0**/undefined
     
 *   Cleaning and Storing (30%) - **8.5**/undefined
     
 
 The Bella Non-Stick Electric Skillet 14607 was easy to use with well-fitting parts and the pan can conveniently go in a dishwasher. Its medium size also makes storage easier. While general cleaning is easy enough, we had issues with stubborn burn-ons like caramel.
 
-### 70.0 - Ease of Use
+### 9.0 - Ease of Use
 
 We had no trouble with the fit of the electric thermostat, the temperatures were precise, and the indicator light was easy-to-see (+3). The skillet's exterior never gets hot enough to risk accidental burning, but always make sure to grip it by the handles only (+3).  Additionally, the anti-slip pads worked well and the pan remained stable even under vigorous use (+3).
 
