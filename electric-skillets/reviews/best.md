@@ -87,7 +87,7 @@ The pan has a spout for pouring liquid so the tempered glass lid doesn’t need 
 
 The Elite Gourmet Non-Stick Electric Skillet EG-6203# is our best choice for a **large and deep** pan, quite capable of frying chicken for 6 to 8 people. Not only that, its **raised honeycomb** pan is quite aesthetic and it cooked really well too.
 
-This skillet has a 0.16-inch (4 mm) cast aluminum pan with a black lacquer finish. Despite the extra thickness, our heat distribution test revealed significant temperature differences from the center to the edges—an average of **13.3%** compared to 10% for all skillets combined, thus it only got a 7.3/10.\[116\] Elite Gourmet Electric Skillet EG 6203 Making Pancakes
+This skillet has a 0.16-inch (4 mm) cast aluminum pan with a black lacquer finish. Despite the extra thickness, our heat distribution test revealed significant temperature differences from the center to the edges—an average of **13.3%** compared to 10% for all skillets combined, thus it only got a 7.3/10.\[114\] Elite Gourmet Electric Skillet EG 6203 Analyzing Heat Distribution
 
 This weakness didn’t affect the skillet’s ability to make awesome pancakes though. And, the honeycomb pattern impressed onto **golden brown**, **fluffy**, **steamy** pancakes are a sure hit for children, 9/10.
 
