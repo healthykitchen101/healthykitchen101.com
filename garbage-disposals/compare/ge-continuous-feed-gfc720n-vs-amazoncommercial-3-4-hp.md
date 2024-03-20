@@ -1,0 +1,3 @@
+While the GE GFC720N 3/4-HP has a more solid build, the AmazonCommercial 3/4-HP is a much cheaper option. They both have considerable grinding power, but the GFC720N is a little better at breaking scraps up and avoiding clogging. That said, the AmazonCommercial is very close, performance wise, but only at half the price.
+
+It’s worth noting that the GFC720N uses a different type of impeller that is thicker than those inside the AmazonCommercial, considering that both disposals follow the same design. Also, the AmazonCommercial doesn’t offer a 3-bolt adapter (for 3-bolt mounting) like the GE does.
