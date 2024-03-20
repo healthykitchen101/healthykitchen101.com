@@ -160,8 +160,8 @@ Here are 5 good reasons why you should buy an electric skillet if you have never
 4.  Reduces residual heat in the kitchen.
 5.  You can take your skillet on the road.
 
-Things To Keep in Mind When Buying
-----------------------------------
+Things to Keep in Mind When Buying an Electric Skillet
+------------------------------------------------------
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-electric-skillets-cltxt36pf005gwz885tfrdavj.jpg" alt="Three people discussing electric skillets. Also on the table are testing equipment and ingredients." width="640" height="427">
 
