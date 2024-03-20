@@ -1,0 +1,3 @@
+The Frigidaire FF05DISPC1 presents itself nicely, boasting a seemingly quality body casing and attention to details. However, performance testing reveals its unreliability when processing high volumes of foods. Despite being one of the cheapest 1/2-HP units on the market, we’re not sure if it’s worth the money.
+
+On the other hand, the GE GFC720N emerges as a standout choice within the mid-range market segment. It features a powerful magnet motor that easily handles various food types while effectively preventing jamming. Moreover, with sturdy construction, the disposal offers a mix of durability and affordability.
