@@ -50,6 +50,8 @@ The Bella Non-Stick Electric Skillet 14607 was the best medium-sized skillet we 
 
 ### Analyzing Heat Distribution
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-analyzing-heat-distribution-cltzhd45t0063wz88a8s0he17.jpg" alt="The Bella Non-Stick Electric Skillet 14607 with a white oil-absorbent sheet covering the surface of the pan. The dark double circles indicate where the heating element is." width="300px" height="200px">
+
 Temperature: High heat / 400°F
 
 Temperature Differences: 9.85%
@@ -61,6 +63,8 @@ To assess temperature variances across the skillet's surface, we placed an oil a
 Our analysis of these 5 points spanning from the center to the corners of the pan, revealed an average temperature difference of **9.85%**. Although slightly better than the combined averages of 10%, it surpassed the similar-sized GreenLife and fell just short of out-matching the Crux. The score we gave was 8/10.
 
 ### Making Pancakes
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-making-pancakes-cltzhd4600068wz88206oa6tp.jpg" alt="The top side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-making-pancakes-1-cltzhd45z0067wz886k1i5bq5.jpg" alt="The bottom side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-making-pancakes-2-cltzhd45n0060wz88cc0f1tlf.jpg" alt="Two hands breaking a pancake apart. In the background is the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px">
 
 Heating Time: 2 min 4 sec
 
@@ -77,6 +81,8 @@ For testing purposes, we made one pancake at a time, although this 12-inch pan c
 Thanks to its non-stick coating, there was no need to grease the pan with butter or oil. However, it's best to brush a little oil across the pan to prolong its longevity.
 
 ### Cooking Steaks
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-cooking-steaks-cltzhd45r0062wz88d7l795af.jpg" alt="A piece of deep golden brown steak inside the Bella Non-Stick Electric Skillet 14607. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-cooking-steaks-1-cltzhd45u0064wz88feij6due.jpg" alt="On the cutting board, a tong is holding the steak while a knife is slicing the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-cooking-steaks-2-cltzhd45i005xwz88f8cy7o7g.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px">
 
 Heating Time: 2 min 30 sec
 
@@ -108,6 +114,8 @@ The Bella Non-Stick Electric Skillet 14607 is very basic but has overall good de
 
 ### 8.5 - Pan
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-pan-cltzhd3rm005uwz885uc81ifj.jpg" alt="The pan of the Bella Non-Stick Electric Skillet 14607 is 11.7 inches in length, 11.7 inches in width, and 1.97 inches in depth." width="300px" height="200px">
+
 Cooking Capacity: 4.7 qt.
 
 Dimensions: L11.7 x W11.7 x H1.97 inches
@@ -130,6 +138,8 @@ The skillet has a titanium **ceramic non-stick coating** which is free of PTFE a
 
 ### 10 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-lid-cltzhd45m005zwz888r6beugk.jpg" alt="The tempered glass lid of the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px">
+
 Material: Tempered glass
 
 Handle: Steel
@@ -142,6 +152,8 @@ The tempered glass lid is dishwasher-safe (+4). It has a steel handle and a stea
 
 ### 7.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-base-cltzhd3sk005vwz88cvpdgazd.jpg" alt="The base of the Bella Non-Stick Electric Skillet 14607 has four stands with anti-slip pads." width="300px" height="200px">
+
 Material: Thermosetting plastic
 
 Detachable: No
@@ -153,6 +165,8 @@ Dishwasher-Safe: Yes
 The metal base has four sturdy stands and four anti-slip pads at the bottom, enhancing stability and durability without adding excessive weight to the pan (+4). You can’t detach the pan from the metal base, so check the dimensions to see if it will fit  in your dishwasher (+3).
 
 ### 6.0 - Thermostat
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-thermostat-cltzhd45p0061wz882jn97115.jpg" alt="The thermostat of the Bella Non-Stick Electric Skillet 14607 has 5 settings including Keep Warm-300°F–350-400-450°F." width="300px" height="200px">
 
 Temperature Range: Keep Warm-300°F–350-400-450°F
 
@@ -180,9 +194,13 @@ The Bella Non-Stick Electric Skillet 14607 was easy to use with well-fitting par
 
 ### 9.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-ease-use-cltzhd45k005ywz881khj6b2n.jpg" alt="The Bella Non-Stick Electric Skillet 14607 with its thermostat inserted." width="300px" height="200px">
+
 We had no trouble with the fit of the electric thermostat, the temperatures were precise, and the indicator light was easy-to-see (+3). The skillet's exterior never gets hot enough to risk accidental burning, but always make sure to grip it by the handles only (+3).  Additionally, the anti-slip pads worked well and the pan remained stable even under vigorous use (+3).
 
 ### 8.5 - Cleaning and Storing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-cleaning-storing-cltzhd3rg005swz88ch76c24c.jpg" alt="Burnt caramel on the surface of the Bella Non-Stick Electric Skillet 14607." width="300px" height="200px">
 
 The ceramic non-stick coating of the Bella releases food well (+3). However, we had to wash it more than once with warm water and dishwashing liquid to entirely remove the burnt caramel from our heat distribution test (-0.5).
 
