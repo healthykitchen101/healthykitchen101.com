@@ -10,28 +10,28 @@ Overall Score: **NaN**
 *   Usability (25%) - **9.0**/undefined
     
 
-At 16 inches and 10.5 quarts, the Elite Gourmet Non-Stick Electric Skillet EG-6203# has the largest and deepest pan in our line-up, capable of frying chicken for 6 to 8 people. But that’s not all there is to our designated best deep pick.
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# measures 16 inches across and holds up to 10.5 quarts. It’s the largest and deepest pan in our line-up capable of frying up chicken for 6 to 8 people.
 
-The marble-coated raised honeycomb pan is both aesthetic and practical while being easy to clean. It produced excellent cooking results with the fastest preheating times among our large electric skillets. These were enough reasons for us to look past its uneven heat distribution.
+We found the **marble-coated raised honeycomb** pan aesthetic, functional, and easy to clean. Pancakes cooked perfectly, while steaks were extra tender and juicy with a light crusting. Considering this, and the fastest preheating times of any large skillet, we let pass the somewhat uneven heat distribution.
 
-The thermostat has a trigger release which is a rare and appreciated touch making it easier to remove. If we’re trying to be nitpicking about such a high-quality pan, we thought this large skillet could use a detachable and foldable base for easier storage. But with the price of only **$58.70** (at the time of writing), we couldn’t ask for more.
+The **trigger release** on the thermostat was also much appreciated. For a large skillet, the base is neither detachable nor foldable, but at only **$58.70** (at the time of writing), we couldn’t ask for more.
 
 **Things We Like**
 
 *   Raised honeycomb pan
-*   Excellent cooking capacity
+*   Large capacity
 *   Fast heating speed
 *   Stable temperatures
-*   Durable marble non-stick coating
+*   Marble coating
 *   High build quality
 
 **Things We Don’t Like**
 
 *   Heat distribution
 
-We weren’t familiar with marble-coated, raised honeycomb pan of the Elite Gourmet Non-Stick Electric Skillet EG-6203# so we were excited to get down to business. During prenups, we didn’t expect much in terms of heating speed but that changed when we tried boiling some water. Also, cleaning up the fried eggs was surprisingly easier than we thought. Let’s see what else is in store!
+Elite Gourmet, by Maxi-Matic, is a US-based Chinese brand of more than 37 years standing. They manufacture a wide range of small kitchen appliances including toaster ovens, blenders, waffle makers, food dehydrators, deep fryers, steamers, and more.
 
-Elite Gourmet by Maxi-Matic is a US-based Chinese brand of small kitchen appliances operating for more than 37 years. Besides electric kettles, they also manufacture toaster ovens, blenders, waffle makers, food dehydrators, deep fryers, and steamers to name a few.
+Being unfamiliar with the marble-coated, raised honeycomb design of the Elite Gourmet Non-Stick Electric Skillet EG-6203#, we were doubly excited to get into the kitchen. During our ‘meet and greet’ we didn’t know what to expect. However,  fast-boiling water piqued our interest and fried eggs cleaned off the pan in no time. Join us and see what more this skillet has in store for you!
 
 Performance
 -----------
@@ -45,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **9.4**/undefined
     
 
-The Elite Gourmet Non-Stick Electric Skillet EG-6203# has some of the best scores in making pancakes and cooking steaks with exceptional heating speed. However, its performance rating is dragged down by our heat distribution analysis.
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# was one of the best skillets for making pancakes and searing steaks, plus the heating speed was exceptional. Despite this, the somewhat uneven heat distribution analysis dragged down its performance score.
 
 ### Analyzing Heat Distribution
 
@@ -55,11 +55,11 @@ Temperature: High heat / 400°F
 
 Temperature Differences: 13.3%
 
-To detect the temperature differences across the skillet’s surface, we placed an oil absorbent sheet of saturated sugar water on top. We then heated the pan to 400°F and used an infrared thermometer to check key temperature points.
+To detect the temperature differences across the skillet’s surface, we placed some oil absorbent sheets saturated with sugar water inside. We then heated the pan to 400°F and used an infrared thermometer to check 5 key temperature points.
 
-Since it’s the largest and deepest pan we’ve got, it didn’t surprise us that the Elite Gourmet had the highest temperature variances among the large electric skillets we tested. However, the skillet’s thicker than average cast aluminum pan and large M-shaped heating element prevented the heat distribution from being bad.
+Since this is the largest and deepest pan we’ve tested, we weren’t surprised by the wide temperature differences. However, the skillet’s **thicker** than average pan and **broad M-shaped element** seemed to largely mitigate these differences while cooking.
 
-Between five points from the center of the pan to the edges, we noted a **13.3% difference** in average temperatures compared to a typical 10%. This number equated to an adequate 7.3/10.
+Between five points from the center of the pan to the edges, we noted a **13.3% difference** in average temperatures compared to a typical 10%. This number equated to an acceptable score of 7.3/10.
 
 ### Making Pancakes
 
@@ -69,11 +69,15 @@ Heating Time:  2 min 16 sec
 
 Temperature: Medium heat / 350°F
 
-The Elite Gourmet took **2 min 16 sec** to preheat to 350°F, surprisingly faster than any other large skillets and comparable to medium-sized ones (9.7/10). Afterward, with our original recipe ready, we poured **3.17 oz** of batter into the skillet.
+The Elite Gourmet took **2 min 16 sec** to preheat to 350°F. This was surprisingly fast for a large skillet and comparable to even a medium-sized one (9.7/10). With the skillet ready, we poured **3.17 oz** of batter from our original pancake mix into the skillet.
 
-To our surprise, the weakness in heat distribution didn’t affect the skillet’s ability to make awesome pancakes. This skillet managed to perfectly cook the pancake in a flash, just **1 min 10 sec** on the first side and **1 min 30 sec** on the flip side. The result was a **golden brown**, **fluffy**, **steamy** pancake with a honeycomb pattern that  can be a sure hit for children.
+To our surprise, the unevenness in heat distribution did not detract from quality, awesome pancakes. Not only that, they cooked in a flash taking **1 min 10 sec** on the first side and **1 min 30 sec** on the flip side. 
 
-You may need to adjust the timing as per your recipe, and this 16-inch pan can do 3 to 4 pancakes at a time. We didn’t need to coat the pan with any butter or oil thanks to the non-stick coating. Nonetheless, adding oil to the pan is recommended to prolong the coating’s lifespan.
+The results were **golden brown** pancakes with a lovely honeycomb pattern, **fluffy and steamy** on the inside—a sure hit with children.
+
+We attributed the faster heating times to the larger surface area covered by the M-shaped elements compared to skillets with simple rectangular ones. The high power draw, commonly seen in large skillets, definitely helped as well.
+
+This 16-inch pan can do 3 to 4 pancakes at a time, and you may need to adjust the cooking time as per your recipe. We didn’t need to grease the pan, but a little butter or oil can prolong the life of the coating.
 
 ### Cooking Steaks
 
@@ -83,15 +87,15 @@ Heating Time: 3 min 5 sec
 
 Temperature: High heat / 400°F
 
-To achieve the optimal crust on our **8 oz**, **1.38-inch** top blade steak, we preheated the Elite Gourmet to 400°F. This took only **3 min 5 sec**, which was two whole minutes faster than average for the same size category. Therefore, it received an astounding 8.9/10, comparable to even medium-sized skillets.
+We preheated the Elite Gourmet to 400°F to ensure a perfect crusting for our **8 oz**, **1.38-inch** top blade steak. This took only **3 min 5 sec**—a whole two minutes faster on average for a large skillet thus achieving an astounding 8.9/10, similar to a medium-sized skillet.
 
-We seared both sides for **4 min** each. Since the temperature took a while to stabilize, the second side didn’t take longer than the first as was the case with most other electric skillets.
+We seared both sides for **4 min** each. Unlike other skillets, the flipside cooked in equal time because of how fast the temperature stabilized.
 
-Interestingly, the skillet power cycled off at around 8 minutes, just as we finished the two sides and were just about to move onto the edges. The fat cap took **1 min 30 sec** to sear and the other edges **1 min** each. Finally, we added rosemary and butter and seared each side for an additional **1 min**.
+Interestingly, the power cycled off at around 8 min just as we were just about to move onto the edges. The fat cap took **1 min 30 sec** to sear and the other edges **1 min** each. Finally, we added rosemary and butter and seared each side for an additional **1 min**.
 
-Our meat probes showed the steak's internal temperature to be **140°F**, which rose to **145°F** after the mandatory 3 minutes of resting. The entire process took just under 16 minutes and resulted in a spot-on medium-rare steak, earning the skillet a near perfect rating of 9.5/10 from our chef.
+Our meat probes read an internal temperature of **140°F** and this rose to **145°F** after a standard 3 minutes of resting. It took just under 16 minutes to achieve a spot-on medium-rare steak, earning the skillet a near perfect rating of 9.5/10 from our chef.
 
-Though not sizzling hot, the skillet maintained an **exceptionally steady** heat. Therefore, although the crust wasn’t as thick and crispy as the Hamilton Beach’s, the meat was juicier and more tender.
+Though not sizzling hot, the skillet maintained an **exceptionally steady** heat. Therefore, although the crust wasn’t as thick and crispy as the Hamilton Beach, the meat was juicier and more tender.
 
 Design
 ------
@@ -107,7 +111,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **8.0**/undefined
     
 
-The entire build of the Elite Gourmet Non-Stick Electric Skillet EG-6203# was extremely sturdy. All the design features were of high quality, especially the marble-coated, raised honeycomb pan with an impressive capacity.
+The entire build of the Elite Gourmet Non-Stick Electric Skillet EG-6203# is extremely sturdy. All the design features are of a high quality, especially the raised honeycomb pan with its marble coating and impressive capacity.
 
 ### 10 - Pan
 
@@ -127,19 +131,13 @@ Spout: Yes
 
 Dishwasher-Safe: Yes
 
-The Elite Gourmet skillet has a 0.16" thick (4 mm) cast aluminum pan which is more durable than just non-cast aluminum (+4). The pan’s thickness means that it’s less likely to deform in the presence of heat and maintains heat better.
+The Elite Gourmet skillet has a thick 0.16-inch (4 mm) **cast aluminum pan** which is more durable than just a non-cast pan (+4). This extra thickness means the pan is unlikely to deform under high heat and should maintain steadier temperatures.
 
-Usually, the thickness should help with even heating but this pan seemed to be too large so the temperature variances were more severe than others. Even its large M-shaped heating element wasn’t enough to help with this heat distribution problem.
+The skillet has a noticeably raised pan with a striking honeycomb pattern. We measured the cooking capacity to be around 11.1 quarts but the usable volume should be 10.5 quart as the label states.
 
-However, we attributed the Elite Gourmet’s fast heating time to its heating element covering a larger surface area than most other skillets having just rectangular ones. The high power output commonly seen in large skillets definitely helped as well.
+The pan has a spout for pouring liquid as well as fixed handles and base (+1). Nonetheless, the entire unit is dishwasher-safe (+3).
 
-The pan has a visually striking raised honeycomb pattern. It doesn’t make the coating more susceptible to breaking and peeling, but it’s advisable to refrain from using metal utensils or scrubbers.
-
-The pan has a **marble coating** (comprises resin), or granite coating, which is much more durable than Teflon and doesn’t pose any health concern similar to a ceramic coating (+2). This product adheres to [California’s Proposition 65](https://oehha.ca.gov/proposition-65).
-
-We measured the cooking capacity to be around 11.1 quarts but the usable volume should be 10.5 quart as the label stated. The pan has a spout for pouring liquid, so the lid doesn’t need to have a steam vent to release the pressure (+1).
-
-The handles aren’t detached from the pan but that’s not a problem (+1). Of course, the entire pan is dishwasher-safe (+2).
+The **marble coating** (aka granite) is made up of resin which is much more durable than Teflon. It also poses less of a [health concern](https://www.healthline.com/nutrition/nonstick-cookware-safety), and marble is less likely to chip than a ceramic coating (+2). This non-stick skillet meets the strict non-toxic criteria of [California’s Proposition 65](https://oehha.ca.gov/proposition-65).
 
 ### 10 - Lid
 
@@ -153,7 +151,7 @@ Steam Vent: Yes
 
 Dishwasher-Safe: Yes
 
-The tempered glass lid is dishwasher-safe and features a thermosetting plastic knob handle (+4). In addition, its steam vent effectively alleviates pressure during cooking (+3). Finally, the precisely crafted metal edging seamlessly fits the pan, ensuring a snug and secure fit (+3).
+The tempered glass lid is dishwasher-safe and features a thermosetting plastic knob handle (+3). In addition, its steam vent effectively alleviates pressure during cooking (+3). Finally, the precisely crafted metal edging seamlessly fits the pan, ensuring a snug and secure fit (+3).
 
 ### 7.0 - Base
 
@@ -181,9 +179,9 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-The detachable thermostat is a conventional design with a working indicator light (+4). Its temperature range is a standard from 200 to 400°F plus a keep warm setting of around 150°F (+1).
+The detachable thermostat has a working indicator light (+4). Its temperature range is standard, meaning from 200 to 400°F (+1). There isn’t a Keep Warm setting as such, but it maintained around 150°F by dialing shy of 200°F .
 
-In addition to a seamless fit ,the thermostat has a rare release trigger making removal much more effortless (+3). Nonetheless, like most other thermostats, you shouldn’t put it in the dishwasher.
+In addition to a seamless fit, the thermostat has a rare release trigger making it all the more easier to remove (+3). Nonetheless, like most other thermostats, you shouldn’t put it in the dishwasher.
 
 Usability
 ---------
@@ -195,22 +193,22 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-The Elite Gourmet Non-Stick Electric Skillet EG-6203# is extra easy to use thanks to its thermostat having a trigger release. The pan was the easiest to clean out of all of our skillets but it could use a detachable and foldable base like the Presto 06857 for easier storage.
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# is super easy to use thanks to its thermostat having a trigger release. The non-stick pan was the easiest to clean out of all of our tested skillets. However, it could use a detachable and foldable base like the Presto 06857 for easier storage.
 
 ### 9.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-ease-use-cltnuvhi6003pwz88369eh8mm.jpg" alt="The pan and lid of the Elite Gourmet Non-Stick Electric Skillet EG-6203." width="300px" height="200px">
 
-We found that the thermostat fitted nicely and was extra easy to remove with its trigger release (+2). The temperatures were precise and the indicator light was easy to see as well (+2).
+We found the thermostat fitted nicely and perfectly easy to remove (+2). The temperatures were precise and the indicator light clearly visible (+2).
 
-Additionally, the skillet's exterior remained at a safe temperature throughout the cooking process, minimizing the risk of accidental burning (+2). Moreover, the anti-slip pads on the base provided excellent stability, even when we tried bashing it around (+3).
+Additionally, the skillet's exterior remained at a safe temperature throughout the cooking process, minimizing the risk of accidental burning (+2). Moreover, the anti-slip pads on the base provided excellent stability, even when we tried bashing the pan around (+3).
 
 ### 9.0 - Cleaning and Storing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-cleaning-storing-cltnuvhhx003mwz881f098f6z.jpg" alt="Burnt caramel on the surface of the Elite Gourmet Non-Stick Electric Skillet EG-6203." width="300px" height="200px">
 
-During testing, we found that this skillet was the **easiest to clean** of them all to our surprise, even the burnt caramel posed no problem (+2).
+During testing, this Elite Gourmet turned out the **easiest skillet to clean** and even burnt caramel just slid right off (+2).
 
- All it needed was a quick hand-wash with warm water and some dishwashing liquid (+2). Or you can just pop everything except for the thermostat in the dishwasher, just make sure there’s enough space for such a large skillet (+2).
+All it needed was a quick hand-wash with warm water and some dishwashing liquid (+2). The skillet can just go in the dishwasher, but it would be better to check the dimensions first (+2).
 
-The skillet is quite large so you may not want to keep it on your kitchen counter. Luckily, it can fit back in the box just fine (+3).
+Although the skillet fits back in its box just fine, with its large size, it may be better to leave it out on the kitchen counter.(+3).
