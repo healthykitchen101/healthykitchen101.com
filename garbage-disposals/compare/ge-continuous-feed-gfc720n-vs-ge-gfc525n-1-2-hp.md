@@ -1,0 +1,3 @@
+Both the GE GFC720N and the GFC525N are strong garbage disposals. The 720N is one of the strongest 3/4-HP units we’ve evaluated. It employs a powerful permanent magnet motor that takes on all sorts of scraps while effectively avoiding jamming. The disposal also has a rigid construction and a reasonable price tag.
+
+The 525N is much smaller but it’s a strong unit, as well. It processes kitchen scraps better than most other small disposals we’ve tested and its high-speed motor (the same type as the 720N, albeit not as powerful) avoids jamming beautifully. And it costs about the same you’d expect a small disposal does.
