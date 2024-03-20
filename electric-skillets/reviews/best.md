@@ -68,7 +68,7 @@ Its thick cast aluminum pan (0.12 in) and large rectangular heating element effe
 
 The PFOA-free Teflon non-stick coating, both inside and outside, allowed us to make pancakes without any butter or oil. After **3 min 50 sec** of preheating, we had a **steamy and fluffy** pancake scoring 9.5/10—just slightly better than its main rivals.
 
-The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.\[126\] Presto Foldaway Electric Skillet 06857 Making Pancakes 4
+The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.\[126\] The base of the Presto Foldaway Electric Skillet 06857
 
 The best thing about the Presto’s design is how you just unlock the two clips to fold down the stay-cool handles, and **detach the pan** from the base. The base additionally fits upside down inside the 3-inch deep pan for **easy and compact storing**.
 
