@@ -1,0 +1,3 @@
+The GE GFC720N is highly effective at handling a wide variety of foods, ranging from vegetables to cooked chicken bones. Its capability stems from the robust permanent magnet motor and the disposal's thick impellers. Plus, the high-speed motor aids in preventing jams, particularly when processing large volumes of food scraps.
+
+The AmazonCommercial 1/2-HP doesn’t really compare and it’s not the best small disposals we’ve ever tested. However, it does handle common kitchen scraps quite nicely. The disposal also runs on permanent magnet motors which are incredible at avoiding jamming. Fair to say it’s a solid choice for tight cabinet spaces as well as tight budgets.
