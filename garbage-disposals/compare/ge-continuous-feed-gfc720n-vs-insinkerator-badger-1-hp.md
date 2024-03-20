@@ -1,0 +1,3 @@
+One thing about garbage disposals that we’ve had to find out the hard way is that their power ratings don't reflect their actual grinding power. Here we have the perfect example of a “weaker” grinder outdoing the “stronger” one where the GE GFC720N leaves the InSinkErator Badger 1 HP legions behind in test results.
+
+Admittedly, the Badger 1 HP has an incredible construction and these InSinkErator’s standard garbage disposals are known for their durability. But it does cost roughly $50 more than the GE GFC720N.
