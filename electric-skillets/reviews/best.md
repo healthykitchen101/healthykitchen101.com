@@ -105,9 +105,9 @@ The pan has a **marble coating** (comprises resin) which is much more durable th
 
 *   Not suitable for deep-frying
 
-Our best 3 electric skillets are all large-sized, so we felt compelled to add the best medium-sized option. And, the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 fits the bill with its great cooking performance and **excellent coating**.\[127\] GreenLife Electric Skillet 5QT Making Pancake 4
+Our best 3 electric skillets are all large-sized, so we felt compelled to add the best medium-sized option. And, the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 fits the bill with its great cooking performance and **excellent coating**.
 
-This skillet preheated to 350°F in just **1 min 58 sec** and to 400°F in **2 min 36 sec**. This was significantly faster than the top 3 due to its smaller surface area and despite a lower power draw.
+This skillet preheated to 350°F in just **1 min 58 sec** and to 400°F in **2 min 36 sec**. This was significantly faster than the top 3 due to its smaller surface area and despite a lower power draw.\[127\] GreenLife Electric Skillet 5QT Making Pancake 4
 
 The pancakes we cooked were **moist**, **fluffy**, and **golden brown** but with a slightly darker edge from the pan’s heating element (8/10). The steak had a **good crust** but the meat lacked the tenderness that our top three skillets produced (7.5/10).
 
