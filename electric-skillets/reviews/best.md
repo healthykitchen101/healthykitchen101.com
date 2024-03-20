@@ -64,11 +64,11 @@ The user-friendly pan simply **lifts up** from its base by its side handles and 
 
 The 16-inch Presto Foldaway Non-Stick Electric Skillet 06857 is a very close runner-up. Compared to the Hamilton, it’s overall more user-friendly with only slight differences in cooking performance. Despite all this, significant demerits were the Teflon coating (not ceramic) and the loose-fitting lid.
 
-Its thick cast aluminum pan (0.12 in) and large rectangular heating element effected excellent heat distribution. We saw an average of **5.7%** in temperature differences in 5 points from the center of the pan of the edges (compared to 5.9% for the Hamilton) scoring an impressive 8.9/10.\[126\] Presto Foldaway Electric Skillet 06857 Making Pancakes 4
+Its thick cast aluminum pan (0.12 in) and large rectangular heating element effected excellent heat distribution. We saw an average of **5.7%** in temperature differences in 5 points from the center of the pan of the edges (compared to 5.9% for the Hamilton) scoring an impressive 8.9/10.
 
 The PFOA-free Teflon non-stick coating, both inside and outside, allowed us to make pancakes without any butter or oil. After **3 min 50 sec** of preheating, we had a **steamy and fluffy** pancake scoring 9.5/10—just slightly better than its main rivals.
 
-The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.
+The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.\[126\] Presto Foldaway Electric Skillet 06857 Making Pancakes 4
 
 The best thing about the Presto’s design is how you just unlock the two clips to fold down the stay-cool handles, and **detach the pan** from the base. The base additionally fits upside down inside the 3-inch deep pan for **easy and compact storing**.
 
