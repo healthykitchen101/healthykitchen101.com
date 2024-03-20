@@ -3,11 +3,11 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (50%) - **1.5**/undefined
+*   Performance (50%) - **7.4**/undefined
     
-*   Design (25%) - **0.0**/undefined
+*   Design (25%) - **7.0**/undefined
     
-*   Usability (25%) - **0.0**/undefined
+*   Usability (25%) - **8.8**/undefined
     
 
 **Things We Like**
@@ -19,11 +19,11 @@ Performance
 
 performance Scores: **NaN**
 
-*   (20%) - **7.4**/undefined
+*   (20%) - **9.0**/undefined
     
-*   (40%) - **0**/undefined
+*   (40%) - **7.3**/undefined
     
-*   (40%) - **0**/undefined
+*   (40%) - **6.8**/undefined
     
 
 ### Analyzing Heat Distribution
@@ -49,16 +49,16 @@ Design
 
 design Scores: **NaN**
 
-*   (40%) - **0**/undefined
+*   (40%) - **7.0**/undefined
     
-*   (15%) - **0**/undefined
+*   (15%) - **9.0**/undefined
     
-*   (30%) - **0**/undefined
+*   (30%) - **6.0**/undefined
     
-*   (15%) - **0**/undefined
+*   (15%) - **7.0**/undefined
     
 
-### Pan
+### 7.0 - Pan
 
 Cooking Capacity:
 
@@ -74,7 +74,7 @@ Spout:
 
 Dishwasher-Safe:
 
-### Lid
+### 9.0 - Lid
 
 Material:
 
@@ -84,7 +84,7 @@ Steam Vent:
 
 Dishwasher-Safe:
 
-### Base
+### 6.0 - Base
 
 Material:
 
@@ -94,7 +94,7 @@ Anti-Slip Pads:
 
 Dishwasher-Safe:
 
-### Thermostat
+### 7.0 - Thermostat
 
 Temperature Range:
 
@@ -109,11 +109,11 @@ Usability
 
 usability Scores: **NaN**
 
-*   (70%) - **0**/undefined
+*   (70%) - **9.0**/undefined
     
-*   (30%) - **0**/undefined
+*   (30%) - **8.5**/undefined
     
 
-### Easeof Use
+### 9.0 - Easeof Use
 
-### Cleaningand Storing
+### 8.5 - Cleaningand Storing
