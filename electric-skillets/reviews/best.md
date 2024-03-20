@@ -11,7 +11,7 @@ Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspe
 
 We evaluate an electric skillet’s performance with 3 tests:
 
-*   **Analyzing Heat Distribution:** We soak  an **oil absorbent sheet** in **saturated sugar water**, drain off excess liquid, and flatten it onto the skillet surface. Then, we heat the skillet until the central area reaches **400°F** and use an infrared thermometer to measure 5 key points towards the edges. Afterwards, we collate the data and tally a score.
+*   **Analyzing Heat Distribution:** We soak an **oil absorbent sheet** in **saturated sugar water**, drain off excess liquid, and flatten it onto the skillet surface. Then, we heat the skillet until the central area reaches **400°F** and use an infrared thermometer to measure 5 key points towards the edges. Afterwards, we collate the data and tally a score.
 *   **Making Pancakes:** We chose this test for its simple and universally common recipe. It also shows how fast the skillet preheats to **350°F** and how it maintains a stable temperature needed to cook up **steamy**, **fluffy** and **golden brown** pancakes.
 *   **Cooking Steaks:** Cooking a steak allows us to test preheating to **400°F** and provides an assessment of **good crusting** and **even cooking** for the perfect **medium-rare** steak. We keep the seasoning to its most basic and garnished with butter and rosemary.
 
@@ -68,9 +68,9 @@ Its thick cast aluminum pan (0.12 in) and large rectangular heating element effe
 
 The PFOA-free Teflon non-stick coating, both inside and outside, allowed us to make pancakes without any butter or oil. After **3 min 50 sec** of preheating, we had a **steamy and fluffy** pancake scoring 9.5/10—just slightly better than its main rivals.
 
-The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It  seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.
+The skillet took **6 min** to preheat to 400°F—not the fastest but the temperature was still very stable. It seared a **medium-rare** steak to almost to perfection, or worthy of a 9/10, but the crusting wasn’t as good as the Hamilton.
 
-The best thing about the Presto’s design is how you just  unlock the two clips to fold down the stay-cool handles, and **detach the pan** from the base. The base additionally fits upside down inside the 3-inch deep pan for **easy and compact storing**.
+The best thing about the Presto’s design is how you just unlock the two clips to fold down the stay-cool handles, and **detach the pan** from the base. The base additionally fits upside down inside the 3-inch deep pan for **easy and compact storing**.
 
 The pan has a spout for pouring liquid so the tempered glass lid doesn’t need a steam vent. All parts are **dishwasher-safe** except for the thermostat. Nonetheless, thanks to the non-stick coating, we found a quick hand-washing was more than enough after cooking the steak.
 
@@ -111,7 +111,7 @@ This skillet preheated to 350°F in just **1 min 58 sec** and to 400°F in **2 m
 
 The pancakes we cooked were **moist**, **fluffy**, and **golden brown** but with a slightly darker edge from the pan’s heating element (8/10). The steak had a **good crust** but the meat lacked the tenderness that our top three skillets produced (7.5/10).
 
-The GreenLife skillet has a ceramic non-stick coating free of PFAS (which includes PTFE or Teflon), PFOA, lead, and cadmium, thus staying true to their brand name reputation. 
+The GreenLife skillet has a ceramic non-stick coating free of PFAS (which includes PTFE or Teflon), PFOA, lead, and cadmium, thus staying true to their brand name reputation.
 
 In addition to the turquoise exterior, the pan’s interior has a **shiny surface** making it a lovely-looking piece in your kitchen. We had an easy time hand-cleaning this skillet, but you can just pop it in the dishwasher.
 
@@ -126,7 +126,7 @@ In addition to the turquoise exterior, the pan’s interior has a **shiny surfac
 *   Pan not dishwasher-safe
 *   Anti-slip pads can be improved
 
-If you’re looking for a compact electric skillet, then this Nesco Non-Stick Electric Skillet ES-08 is our best choice for **a single living space**. At just 8 inches, this one is all about  performance and not so much design or convenient features.
+If you’re looking for a compact electric skillet, then this Nesco Non-Stick Electric Skillet ES-08 is our best choice for **a single living space**. At just 8 inches, this one is all about performance and not so much design or convenient features.
 
 The skillet has the **most even heat distribution** out of all our tested units, possibly thanks to the small surface area. The average temperature difference was only **4.1%**, earning the Nesco a 9.2/10.
 
