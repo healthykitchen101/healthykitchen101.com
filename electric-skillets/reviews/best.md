@@ -7,7 +7,7 @@ How We Test
 
 Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspectives that we could never have anticipated.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltzaxo1g005qwz88c32rhbx4.jpg" alt="A photo collage of people using equipment to test and note down results on different electric skillets." width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltzaxo1g005qwz88c32rhbx4.jpg" alt="A photo collage of people using equipment to test and note down results on different electric skillets." width="640" height="427">
 
 We evaluate an electric skillet’s performance with 3 tests:
 
