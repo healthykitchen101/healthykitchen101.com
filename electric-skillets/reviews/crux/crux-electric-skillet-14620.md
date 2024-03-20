@@ -109,11 +109,11 @@ Usability
 
 usability Scores: **NaN**
 
-*   (70%) - **9.0**/undefined
+*   Ease of Use (70%) - **9.0**/undefined
     
-*   (30%) - **8.5**/undefined
+*   Cleaning and Storing (30%) - **8.5**/undefined
     
 
-### 9.0 - Easeof Use
+### 9.0 - Ease of Use
 
-### 8.5 - Cleaningand Storing
+### 8.5 - Cleaning and Storing
