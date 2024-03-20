@@ -43,7 +43,7 @@ performance Scores: **NaN**
     
 *   Making Pancakes (40%) - **7.3**/undefined
     
-*   Cooking Steaks (8.6%) - **40**/undefined
+*   Cooking Steaks (40%) - **8.6**/undefined
     
 
 The Bella Non-Stick Electric Skillet 14607 was the best medium-sized skillet we tested for cooking steaks. It had excellent heat distribution, but the intensity of the heat was not ideal for making pancakes.
