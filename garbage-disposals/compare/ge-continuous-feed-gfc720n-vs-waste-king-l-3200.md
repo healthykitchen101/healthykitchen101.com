@@ -1,0 +1,3 @@
+The GE GFC720N can deal with all sorts of different foods, from vegetables to cooked chicken bones. This is thanks to the powerful permanent magnet motor and the disposal’s thick impellers. Additionally, the high-speed motor helps the disposal avoid jamming when dealing with excessive amounts of scraps.
+
+The Waste King L-3200 is not as capable a disposal. It has a much harder time processing the same types of foods as the GFC720N and has an arguably poorer build quality. This is evident by the states of their body casings in our lab. However, the jam-less magnet motor and the $50 difference does balance things out, so to speak.
