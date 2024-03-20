@@ -1,0 +1,3 @@
+Both the GE GFC720N and the Waste King L-1001 are robust disposals. The GFC720N stands out as one of the strongest 3/4-HP units we've evaluated. It features a powerful magnet motor that effortlessly tackles various food types while effectively preventing jamming. Moreover, the disposal boasts sturdy construction and comes at a reasonable price. 
+
+On the other hand, the L-1001, though smaller, is a capable unit. It processes kitchen scraps better than most other small disposals we've tested, thanks to its high-speed magnet motor that also helps avoid jamming. Additionally, it is priced similarly to what one would expect for a small disposal.
