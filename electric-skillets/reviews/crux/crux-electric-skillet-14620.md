@@ -19,11 +19,11 @@ Performance
 
 performance Scores: **NaN**
 
-*   (20%) - **9.0**/undefined
+*   Analyzing Heat Distribution (20%) - **9.0**/undefined
     
-*   (40%) - **7.3**/undefined
+*   Making Pancakes (40%) - **7.3**/undefined
     
-*   (40%) - **6.8**/undefined
+*   Cooking Steaks (40%) - **6.8**/undefined
     
 
 ### Analyzing Heat Distribution
@@ -49,13 +49,13 @@ Design
 
 design Scores: **NaN**
 
-*   (40%) - **7.0**/undefined
+*   Pan (40%) - **7.0**/undefined
     
-*   (15%) - **9.0**/undefined
+*   Lid (15%) - **9.0**/undefined
     
-*   (30%) - **6.0**/undefined
+*   Base (30%) - **6.0**/undefined
     
-*   (15%) - **7.0**/undefined
+*   Thermostat (15%) - **7.0**/undefined
     
 
 ### 7.0 - Pan
