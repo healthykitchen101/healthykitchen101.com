@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (50%) - **8.0**/undefined
     
-*   Design (25%) - **7.9**/undefined
+*   Design (25%) - **7.8**/undefined
     
 *   Usability (25%) - **8.8**/undefined
     
@@ -105,9 +105,9 @@ design Scores: **NaN**
     
 *   Lid (15%) - **10**/undefined
     
-*   Base (30%) - **7.0**/undefined
+*   Base (30%) - **6.0**/undefined
     
-*   Thermostat (15%) - **6.0**/undefined
+*   Thermostat (15%) - **7.0**/undefined
     
 
 The Bella Non-Stick Electric Skillet 14607 is very basic but has overall good design fundamentals. We found the all-important non-stick ceramic coating not the best quality, but good enough nonetheless.
@@ -150,7 +150,7 @@ Dishwasher-Safe: Yes
 
 The tempered glass lid is dishwasher-safe (+4). It has a steel handle and a steam vent to release pressure (+3). The metal edging is accurately sized to fit the pan well, (+3).
 
-### 7.0 - Base
+### 6.0 - Base
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-base-cltzhd3sk005vwz88cvpdgazd.jpg" alt="The base of the Bella Non-Stick Electric Skillet 14607 has four stands with anti-slip pads." width="300px" height="200px">
 
@@ -164,7 +164,7 @@ Dishwasher-Safe: Yes
 
 The metal base has four sturdy stands and four anti-slip pads at the bottom, enhancing stability and durability without adding excessive weight to the pan (+4). You can’t detach the pan from the metal base, so check the dimensions to see if it will fit  in your dishwasher (+3).
 
-### 6.0 - Thermostat
+### 7.0 - Thermostat
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-thermostat-cltzhd45p0061wz882jn97115.jpg" alt="The thermostat of the Bella Non-Stick Electric Skillet 14607 has 5 settings including Keep Warm-300°F–350-400-450°F." width="300px" height="200px">
 
