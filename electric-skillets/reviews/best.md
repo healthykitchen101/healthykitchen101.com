@@ -5,9 +5,9 @@ Additionally, an electric skillet can serve as your main cooking appliance or pr
 How We Test
 -----------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltxszn17005fwz88ew3vdb4x.jpg" alt="A photo collage of people using equipment to test and note down results on different electric skillets." width="640" height="427">
-
 Hands-on testing has given our team at _Healthy Kitchen 101_ insights and perspectives that we could never have anticipated.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-test-best-electric-skillets-cltxszn17005fwz88ew3vdb4x.jpg" alt="A photo collage of people using equipment to test and note down results on different electric skillets." width="360" height="240">
 
 We evaluate an electric skillet’s performance with 3 tests:
 
