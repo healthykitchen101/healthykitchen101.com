@@ -1,0 +1,3 @@
+The GE GFC720N features a robust, high-speed permanent magnet motor that effortlessly handles a variety of food scraps with little effort. Moreover, its rapid-spinning operation effectively avoids jamming, even with large amounts of food. Considering its reasonable cost, performance, and build quality, the disposal is arguably the most well-rounded mid-range grinder available on the market.
+
+On the flip side, the Moen Host GXS75C remains one of the most versatile 3/4-HP garbage disposals we've tested. At around $125, its grinding power offers significant value, especially compared to the other typical garbage disposals. Additionally, its build quality and service life are more than satisfactory, to say the least.
