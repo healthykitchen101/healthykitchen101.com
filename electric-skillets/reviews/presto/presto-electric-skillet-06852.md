@@ -60,29 +60,29 @@ design Scores: **NaN**
 
 ### 9.0 - Pan
 
-Cooking Capacity:
+Cooking Capacity: 8.9 qt.
 
-Dimensions:
+Dimensions: L15.71 x W11.73 x H2.79 inches
 
-Material:
+Material: Cast aluminum
 
-Coating:
+Coating: Teflon
 
-Handle:
+Handle: Thermosetting plastic
 
-Spout:
+Spout: No
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
 
 ### 8.0 - Lid
 
-Material:
+Material: Tempered glass
 
-Handle:
+Handle: Steel
 
-Steam Vent:
+Steam Vent: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
 
 ### 4.0 - Base
 
@@ -96,13 +96,13 @@ Dishwasher-Safe: Yes
 
 ### 7.0 - Thermostat
 
-Temperature Range:
+Temperature Range: Warm-200–250-300-350-400°F
 
-Detachable:
+Detachable: Yes
 
-Indicator Light:
+Indicator Light: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: No
 
 Usability
 ---------
