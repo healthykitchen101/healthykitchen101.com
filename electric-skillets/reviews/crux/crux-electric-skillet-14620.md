@@ -179,7 +179,7 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-The detachable thermostat features a conventional design with a standard temperature range from 200 to 400°F, along with a keep warm setting of around 150°F (+3). It is well-designed with a seamless fit and is equipped with a working indicator light (+4). However, like most other thermostats, it is not dishwasher-safe.
+The detachable thermostat has a conventional design with a standard temperature range from 200 to 400°F, along with a keep warm setting of around 150°F (+3). It is well-designed with a seamless fit and a working indicator light (+4). However, like most other thermostats, it is not dishwasher-safe.
 
 Usability
 ---------
