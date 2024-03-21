@@ -53,9 +53,9 @@ design Scores: **NaN**
     
 *   Lid (15%) - **8.0**/undefined
     
-*   (30%) - **4.0**/undefined
+*   Base (30%) - **4.0**/undefined
     
-*   (15%) - **7.0**/undefined
+*   Thermostat (15%) - **7.0**/undefined
     
 
 ### 9.0 - Pan
@@ -86,13 +86,13 @@ Dishwasher-Safe:
 
 ### 4.0 - Base
 
-Material:
+Material: Thermosetting plastic
 
-Detachable:
+Detachable: No
 
-Anti-Slip Pads:
+Anti-Slip Pads: No
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
 
 ### 7.0 - Thermostat
 
@@ -109,11 +109,11 @@ Usability
 
 usability Scores: **NaN**
 
-*   (70%) - **5.0**/undefined
+*   Ease of Use (70%) - **5.0**/undefined
     
-*   (30%) - **9.0**/undefined
+*   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-### 5.0 - Easeof Use
+### 5.0 - Ease of Use
 
-### 9.0 - Cleaningand Storing
+### 9.0 - Cleaning and Storing
