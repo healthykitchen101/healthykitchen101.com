@@ -17,7 +17,11 @@ Consequently, in addition to carrots, pumpkins, and onions, we also added celery
 
 Our chef found that due to their low density, celery and onion usually rise to the soup surface rather than sinking to the bottom with other veggies. As such, this test made it easier for us to clarify the blender’s efficiency in pulling ingredients to its blade.
 
-### Testing Recipe: 2 Servings 
+### Testing Recipe: 2 Servings
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0qpun6000iiq88gl5c6y7i.jpg" alt="Immersion blenders and bowls of vegetables" width="640" height="427">
+
+We put dozens of immersion blenders through this hot soup test
 
 *   1 cup chicken broth 
 *   0.25 oz onion
