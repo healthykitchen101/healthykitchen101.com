@@ -1,0 +1,3 @@
+While the GE GFC720N is more powerful, it also comes at a higher cost in terms of money and space compared to the Moen Prep GX50C, which is one of the better small disposals on the market. They are both well-built products and they utilize permanent magnet motors so jamming is not a problem to either of them.
+
+What separates them the most is the ability to deal with tougher scraps. Where the GE GFC720N barely struggled to pass the tests, the Moen GX50C could only put up satisfactory numbers. But this may be justified by the smaller price tag and size.
