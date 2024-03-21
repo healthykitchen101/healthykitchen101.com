@@ -137,9 +137,9 @@ Spout: No
 
 Dishwasher-Safe: Yes
 
-The Crux skillet has a cast aluminum pan which is more durable than a non-cast pan (+3). The pan is merely 2 mm (0.8 in) thick but it didn’t deform under high heat and it proved to have heated up very evenly (+1). We calculated the total capacity to be around 6.8 quarts but the usable volume should be 6 quarts as the label states.
+The Crux skillet has a **cast aluminum** pan which is more durable than a non-cast one (+3). The pan is only 2 mm (0.8 in) thick, but it didn’t deform under high heat and it heated up very evenly (+1). We calculated the total capacity to be around 6.8 quarts with a usable volume of 6 quarts as the label states.
 
-The skillet has a **ceramic non-stick coating** which is free of PTFE and PFOA (+2). Unfortunately, we found some tiny chippings on the coating’s surface (-0.5). 
+The skillet has a **ceramic non-stick coating** which is free of PTFE and PFOA (+2). We noticed some grainy specs on the coating’s surface but this could be normal since they didn’t form any chipping or crack after cooking. We did, however, find some tiny chippings which could indicate a lower quality assembly (-0.5). 
 
 The pan along with the attached base are dishwasher-safe (+2). Unlike some other pans we tested, this one does not have a pouring spout.
 
@@ -155,7 +155,7 @@ Steam Vent: Yes
 
 Dishwasher-Safe: Yes
 
-The tempered glass lid is dishwasher-safe (+4). It features a thermosetting plastic handle and a steam vent to release pressure (+2). Moreover, the metal edging is precisely sized to fit the pan well (+3).
+The tempered glass lid is dishwasher-safe (+4). It features a thermosetting plastic handle and a steam vent to release pressure (+2). Moreover, the metal edging is precisely sized to fit the pan (+3).
 
 ### 6.0 - Base
 
@@ -169,7 +169,7 @@ Anti-Slip Pads: Four
 
 Dishwasher-Safe: Yes
 
-You will notice that the flat base has four extra stands with anti-slip pads at the bottom (+2). These make the pan very sturdy despite its thermosetting plastic material being much lighter than metal (+2). The pan is not detachable so make sure your dishwasher is big enough to fit the entire skillet (+2).
+You will notice that the flat base has four stands with anti-slip pads at the bottom (+2). We found the pan to be very sturdy even though the thermosetting plastic material is much lighter than metal (+2). The pan is not detachable so make sure your dishwasher is big enough to fit the entire skillet (+2).
 
 ### 7.0 - Thermostat
 
@@ -195,7 +195,7 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **8.5**/undefined
     
 
-The Crux Non-Stick Electric Skillet 14620 was user-friendly and its medium size fit well in the dishwasher as well as in the storage. Although cleaning was simple for the most part, we encountered challenges with persistent burnt residue such as caramel stains.
+The Crux Non-Stick Electric Skillet 14620 is user-friendly, its medium size fitted well in the dishwasher, and it’s easy to store away. Although cleaning was simple for the most part, we encountered challenges with persistent burnt residues such as caramel stains.
 
 ### 9.0 - Ease of Use
 
