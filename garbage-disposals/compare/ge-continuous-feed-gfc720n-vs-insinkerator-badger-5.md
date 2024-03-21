@@ -1,0 +1,3 @@
+The InSinkErator Badger 5 is one of the most popular garbage disposals in the industry. Its versatile build, delivering satisfactory power, durability, and affordability all in one package, makes it an attractive choice for the space-saving segment of the market. Although it’s not the most capable small disposal we’ve tested, the Badger 5 is a safe bet for the average home.
+
+The GE GFC720N is a much stronger and larger option in comparison. It’s a suitable choice for homes who have the space and don’t mind investing in a little grinding power. Plus, the disposal’s magnet motor is very effective at preventing jamming.
