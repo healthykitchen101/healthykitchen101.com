@@ -102,6 +102,25 @@ However, the filtering process didn’t work out quite like we expected, and tha
 #### Score Breakdown
 
 *   **Exceptionally smooth**: We awarded **9 - 10 points** for soups with restaurant-quality texture — the ones that left effectively no visible residual solids in our strainer.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clps41zjr00032i88fgam871u.jpg" alt="A batch of soup pureéd by the Ninja CI101 Foodi immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="640" height="427">
+
+This soup made by the Ninja Foodie leaves very little residue on the strainer - 10 points
+
 *   **Smooth**: These soups blended evenly but there still remained a few tiny veggie chunks. We awarded them **8 - 8.5 points**.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clptibbba000o2i8839lw08fr.jpg" alt="A batch of soup pureéd by the  Braun MQ7035X immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer. " width="640" height="427">
+
+The Braun MultiQuick made soup with a few small chunks - 8 points.
+
 *   **Slightly chunky:** This soup had an acceptable smoothness and was packed with plenty of small pieces. We allocated **7 - 7-5 points** to it.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clq6e260y0003vv8884gndmi1.jpg" alt="A batch of soup pureéd by the Betty Crocker immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="640" height="427">
+
+Soup made with the Bretty Crocker hand blender - 7 points
+
 *   **Chunky**: If the blender ended up with larger unprocessed ingredients, causing its soup to look grainy, we gave it **no more than 7 points**, depending on the shape and amount of food chunks.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clqd6kbdb0002f58873zq85d0.jpg" alt="A batch of soup pureéd by the Cuisinart EvolutionX RHB-100TG immersion blender is checked for smoothness by being drained through a stainless steel mesh strainer." width="640" height="427">
+
+Soup made with the Cuisinart hand blender - 6 points
