@@ -10,11 +10,13 @@ Overall Score: **NaN**
 *   Usability (25%) - **8.8**/undefined
     
 
-The 12-inch Crux Non-Stick Electric Skillet 14620 posed a very **attractive aesthetic** with its gray exterior accentuated by polished copper linings. However, we wanted some more substance from it.
+The 12-inch Crux Non-Stick Electric Skillet 14620 impressed with its gray exterior accentuated by polished copper linings. However, we were more interested in how it actually cooked.
 
-Compared to the GreenLife and Bella of the same size, it had better **heat distribution** and equally **fast heating speed**. Unfortunately, we found that the skillet’s temperature stabilization point was a bit too low to cook food how we wanted it.
+The heat distribution was better than other medium-sized skillets, such as the GreenLife and Bella, and it heated equally fast. Unfortunately, we found that the skillet’s temperature stabilization point was a bit too low to cook food the way we wanted.
 
-In addition, the coating had some chipping similar to the Bella. With the price of **$46.80** (at the time of writing), the GreenLife is by far the better choice.
+Pancakes turned out average at the very best, while the heating cycle just wasn’t suited to cooking up a perfectly medium-rare steak.
+
+In addition, the coating had some chipping, so with a price tag of  **$46.80** (at the time of writing), the GreenLife is by far a better choice.
 
 **Things We Like**
 
@@ -43,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **6.8**/undefined
     
 
-The Crux Non-Stick Electric Skillet 14620 had the best heat distribution among our tested medium-sized skillets. That strength, however, only carried to an adequate pancake score and a subpar steak score.
+The Crux Non-Stick Electric Skillet 14620 had the best heat distribution among the medium-sized skillets we tested. This strength, unfortunately, only carried over to an average pancake and a subpar steak.
 
 ### Analyzing Heat Distribution
 
@@ -53,11 +55,11 @@ Temperature: High heat / 400°F
 
 Temperature Differences: 5.2%
 
-The Crux showed a highly even heat distribution which is a rarity in medium-sized skillets. Normally, the temperatures at the edges are lower due to the pan being square but the heating element circular.
+The Crux demonstrated highly even heat distribution which is a rarity in medium-sized skillets. Normally, temperatures at the edges are lower due to the pan being square but the heating element circular.
 
-To evaluate temperature consistency across the skillet's surface, we utilized a saturated sugar water-soaked oil absorbent sheet placed atop. Then, we heated the pan to 400°F and employed an infrared thermometer.
+To evaluate temperature consistency across the skillet's surface, we placed an  oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and deployed an infrared thermometer.
 
-Our assessment, conducted at five distinct points spanning from the center to the corners of the pan, unveiled an average temperature difference of **5.2%**. This performance translates to an excellent 9/10 in our dataset, even slightly better than all of our larger skillets including the top 1 Hamilton Beach 38529K.
+Our assessment, measuring five distinct points spanning from the center to the corners of the pan, revealed a **5.2% average temperature variance**. This scored an excellent 9/10 in our dataset, even slightly better than all larger skillets such as the top-performing Hamilton Beach 38529K.
 
 ### Making Pancakes
 
@@ -67,17 +69,17 @@ Heating Time: 2 min
 
 Temperature: Medium heat / 350°F
 
-The Crux preheated to 350°F in exactly **2 min**, just the right score of a 10/10. Despite its slightly lower power draw, the smaller surface area of the skillet facilitated faster heating, which understandably outperformed the larger skillets.
+The Crux preheated to 350°F in exactly **2 min**, scoring a perfect 10/10. Despite its slightly lower power draw, the smaller surface area of the skillet facilitated faster heating, which understandably outperformed the larger skillets.
 
-With our homemade pancake batter, we gave 1 min 10 sec to the top and 3 min to the flipside of our **3.17 oz** pancake. Unfortunately, the even heat distribution didn’t translate to an even color on the pancake.
+With our homemade pancake batter, we gave 1 min 10 sec to the top and 3 min to the flipside of **a 3.17 oz pancake**. Unfortunately, the even heat distribution didn’t translate to an even color on the pancake.
 
-While most of the pancake was a **golden brown color**, it had a lot of **mottled white spots**. The same batch of batter was used in other skillets before and afterward so it wasn’t the problem.
+While most of the pancake was a **golden brown color**, it also had a lot of **mottled white spots**. The same batch of batter was used in other skillets before and afterward so this wasn’t the problem.
 
-Also, since the pan was relatively thin, the edges of the pancake got a bit dark right where the heating element is. The silver lining was **steamy** inside, enough for a 7/10—quite a common score among medium-sized skillets.
+Also, since the pan is relatively thin, the edges of the pancake got a bit dark right where the heating element is. The silver lining was a **steamy inside**, enough for a 7/10— a common enough score among medium-sized skillets.
 
-Although this 12-inch pan has the capacity to comfortably accommodate 2 or even 3 pancakes simultaneously, we only prepared one pancake at a time during our testing. Depending on your pancake mix, you may need to adjust the cooking time accordingly.
+Although this 12-inch pan can cook 2 or even 3 pancakes together, we only did one at a time for testing. Depending on your pancake mix, you may need to adjust the cooking time accordingly.
 
-While the non-stick coating eliminates the need for greasing the pan with butter or oil, it's recommended to lightly brush some oil across the pan's surface to prolong its lifespan.
+While the non-stick coating didn’t need any greasing, a light brushing of oil helps prolong the pan’s lifespan.
 
 ### Cooking Steaks
 
@@ -87,17 +89,19 @@ Heating Time: 3 min
 
 Temperature: High heat / 400°F
 
-We first preheated the Bella to 400°F to make sure our **8 oz, 1.38-inch** top blade steak got the best crusting possible. Similar to other medium-sized electric skillets in our data set, this took only **3 min** which translated to a commendable 9/10.
+We first preheated the Bella to 400°F to make sure our **8 oz, 1.38-inch** top blade steak got the best crusting possible. Similar to other medium-sized electric skillets in our data set, this took only **3 min** scoring a commendable 9/10.
 
 After seasoning the steak and inserting a meat thermometer, we seared each side for 4 min and 30 sec. Then, we seared the edge with the fat cap for 1 min and 30 sec, while the remaining edges were seared for 1 min each.
 
 Afterward, we added fresh rosemary and butter, allowing each side to cook for an additional 1 min. The steak's internal temperature reached 142°F initially, which then increased to 145°F after resting for 3 minutes.
 
-Since the heat didn’t stay high for long enough, the searing of both sides took a whole minute longer than similarly-sized skillets. And despite that, the crust was still **very thin**. We would later found out what exactly the problem was when checking the temperature oscialations down in the Ease of Use section.
+Since the heat didn’t stay high for long enough, the searing of both sides took a whole minute longer than similarly-sized skillets. And despite this, the crust was still **very thin**. 
 
-The entire cooking process took 18 min 30 sec and made the steak go **slightly over** medium-rare. Therefore, the steak lost a significant amount of juice and became **slightly tough**. Our chef had no choice but to rate it a 6.5/10.
+We later discovered the issue lay with temperature oscillations as detailed in our Ease of Use section further down.
 
-If we shortened the searing time for a more ideal doneness, we would compromise the already lackluster crust. So, we thought this was a fair compromise.
+The entire cooking process took 18 min 30 sec and the steak was **slightly overdone** for a medium-rare. The steak lost a significant amount of juice and became **slightly tough,** so our chef had no choice but to rate it a 6.5/10.
+
+If we shortened the searing time for a more ideal doneness, we would compromise the already lackluster crust. So, we thought this was as good as it gets.
 
 Design
 ------
@@ -113,7 +117,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **7.0**/undefined
     
 
-The Crux Non-Stick Electric Skillet 14620 has an attractive exterior and all the basic design features. The majority was of high quality but the all-important ceramic non-stick coating had some unfortunate chipping.
+The Crux Non-Stick Electric Skillet 14620 looks good on the outside and has all the basic design features. The overall build quality is good, but the all-important ceramic non-stick coating unfortunately had some chipping .
 
 ### 7.0 - Pan
 
