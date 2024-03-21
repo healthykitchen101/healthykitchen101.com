@@ -95,6 +95,8 @@ Once the machine reached our 30-second limit, we would stop operating it and dra
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckzz1wqg200005u88bp8c9io7.jpg" alt="Someone pouring the pureéd soup from the plastic beaker to the stainless steel mesh strainer lying above a white bowl to check its smoothness." width="640" height="427">
 
+The soup is run through a strainer to check for smoothness
+
 However, the filtering process didn’t work out quite like we expected, and that resulted in an additional step. As a creamy paste, very little of the soup passed through the strainer’s tiny holes. More often than not, it all got stuck in the strainer. At this point, we had to hold each batch under running tap water. A steady stream of water forced the liquid to drain through the strainer. It also rendered the soup itself unusable, but we got the unblended residue we were after.
 
 #### Score Breakdown
