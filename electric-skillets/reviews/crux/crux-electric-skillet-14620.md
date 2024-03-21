@@ -191,10 +191,24 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **8.5**/undefined
     
 
+The Crux Non-Stick Electric Skillet 14620 was user-friendly and its medium size fit well in the dishwasher as well as in the storage. Although cleaning was simple for the most part, we encountered challenges with persistent burnt residue such as caramel stains.
+
 ### 9.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-ease-use-clu0o6bvj0005iq882fhqbpp9.jpg" alt="The Crux Non-Stick Electric Skillet 14620 with its thermostat inserted." width="300px" height="200px">
 
+We encountered no issues with the fit of the electric thermostat, and found the indicator light to be easily visible (+3).
+
+The temperature settings weren’t exactly imprecise but we found the skillet cycling off and then back on to around the exact input temperature instead of going past for around 50°F like most other skillets. This made the pan’s temperatures stabilize slightly below the intensity we desired (-1).
+
+Nonetheless, the skillet's exterior consistently maintains a safe temperature, minimizing the risk of accidental burning, though it's essential to handle it by the handles only to ensure safety (+3). Furthermore, the anti-slip pads effectively prevented the pan from slipping and provided stability, even under vigorous use (+3).
+
 ### 8.5 - Cleaning and Storing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-cleaning-storing-clu0o6c5z000biq880ka6132p.jpg" alt="Burnt caramel on the surface of the Crux Non-Stick Electric Skillet 14620." width="300px" height="200px">
+
+The ceramic non-stick coating of the Crux effectively releases food (+3). During our heat distribution test however, we found that it required multiple washes with warm water and dishwashing liquid to entirely remove the burnt caramel (-0.5).
+
+On a positive note, regular clean-ups were effortless (+4). Additionally, all parts of the skillet, except for the thermostat, can be conveniently cleaned in the dishwasher (+2).
+
+The skillet is really attractive so it looks good out on the counter, or you can put it back in the box for safe keeping (+3).
