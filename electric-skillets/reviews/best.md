@@ -1,4 +1,4 @@
-Electric skillets (also known as electric fry pans) are extremely versatile. They can sauté, fry, grill, steam, and even make hotpots. All this is possible because they conduct heat over a wide surface and have select temperature settings.
+Electric skillets (also known as electric fry pans) are extremely versatile. They can sauté, fry, grill, steam, and even make hotpots. All this is possible because they conduct heat over a wide surface and have select temperature settings.aaaa
 
 Additionally, an electric skillet can serve as your main cooking appliance or provide an extra cooking surface when needed. Best of all, they are easy to clean and store away. Find out more and which of our best electric skillets is the one for you.
 
