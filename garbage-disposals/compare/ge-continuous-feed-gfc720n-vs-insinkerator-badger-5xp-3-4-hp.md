@@ -1,0 +1,3 @@
+Through our testing, the GE GFC720N arises as one of the best 3/4-HP garbage disposals. It boasts a strong permanent magnet motor that offers enough power to handle most common kitchen scraps, including cooked chicken bones. The fast-paced motor also helps reduce the risk of jamming even when the chamber is filled.
+
+In comparison, the InSinkErator Badger 5XP isn’t as capable. Its grinding capabilities are limited to easy vegetables and fruits and it operates at a much slower rate, making it prone to jamming. Luckily, the motor should have enough torque to break free.
