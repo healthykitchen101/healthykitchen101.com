@@ -82,7 +82,9 @@ Next, we strained the liquid through our mesh strainer and removed the pulp as w
 
 Once we finished dividing the whole soup batch into equal parts, our next assignment was to make sure all the smaller batches had roughly the same temperature when being put to the test. To make this possible, each soup was reheated in the microwave for 30-45 seconds prior to blending. We aimed for temperatures between **136°F and 140°F**. Each batch was checked with a thermometer.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckzz0j1ux00000r882h09e63c.jpg" alt="Someone using a thermometer to check the temperature of the soup contained in a 24-oz plastic beaker. " width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0rgvov000miq88esqqai7y.jpg" alt="thermometer in soup, a hand blender" width="640" height="427">
+
+We used a thermometer to check the soup temperature
 
 After the initial test, we decided to set a new benchmark for our immersion blenders. Rather than mixing the whole soup pot without a specific blending duration, we operated each blender at its highest speed for **30 seconds**. We still aimed for an even blend, so we had to constantly move the blade around, including up and down, during the operation.
 
