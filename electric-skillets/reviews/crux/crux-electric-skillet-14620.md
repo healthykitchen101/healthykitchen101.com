@@ -197,11 +197,13 @@ The Crux Non-Stick Electric Skillet 14620 was user-friendly and its medium size 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-ease-use-clu0o6bvj0005iq882fhqbpp9.jpg" alt="The Crux Non-Stick Electric Skillet 14620 with its thermostat inserted." width="300px" height="200px">
 
-We encountered no issues with the fit of the electric thermostat, and found the indicator light to be easily visible (+3).
+We encountered no issues with the fit of the electric thermostat, and the indicator light was easily visible (+3).
 
-The temperature settings weren’t exactly imprecise but we found the skillet cycling off and then back on to around the exact input temperature instead of going past for around 50°F like most other skillets. This made the pan’s temperatures stabilize slightly below the intensity we desired (-1).
+The temperature settings were not exactly imprecise, but we found the skillet cycled off and then back on around the exact input temperature. Most other skillets exceed the input temperature by around 50°F before dropping again below it.
 
-Nonetheless, the skillet's exterior consistently maintains a safe temperature, minimizing the risk of accidental burning, though it's essential to handle it by the handles only to ensure safety (+3). Furthermore, the anti-slip pads effectively prevented the pan from slipping and provided stability, even under vigorous use (+3).
+As a result, temperatures stabilized slightly below the desired intensity and negatively affected cooking outcomes in our tests (-1).
+
+Like other skillets, the exterior maintained a safe temperature with no risk of burning, but it’s still safer to grip the pan by the handles only (+3). Furthermore, the anti-slip pads did their job well even when we vigorously rocked the pan (+3).
 
 ### 8.5 - Cleaning and Storing
 
