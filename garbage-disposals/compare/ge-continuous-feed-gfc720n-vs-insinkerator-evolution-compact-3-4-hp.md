@@ -1,0 +1,3 @@
+The GE GFC720N features a sturdy, high-speed permanent magnet motor, effortlessly handling food scraps with minimal effort. Moreover, the motor effectively reduces the risk of jamming, even under large input loads. Considering both its reasonable cost and performance, this disposal is one of the most well-balanced mid-range grinder available on the market.
+
+On the other hand, the InSinkErator Evolution Compact is one of the most capable disposals in the industry. The disposal boasts a noise reduction system and a multi-stage grinding mechanism that is only rivaled by the others in the same series. Additionally, it’s a durable and well-constructed machine.
