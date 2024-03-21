@@ -1,4 +1,6 @@
-There are numerous cooking appliances for preparing hot soup, but seasoned chefs recommend immersion blenders most often. That’s why we believe this is the test that people will care about most. 
+There are numerous cooking appliances for preparing hot soup, but seasoned chefs recommend immersion blenders most often. That’s why we believe this is the test that people will care about most.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0qjdsm000hiq882dvm9k3d.jpg" alt="22 immersion blenders with ingredients for hot soup test." width="768" height="512">
 
 To make the best comparisons we could, we used a standardized testing procedure for all of our [immersion blenders](https://healthykitchen101.com/blenders/reviews/best/immersion-blenders/). We wanted consistent and comprehensive results which we would count on to highlight the blender’s capability and illuminate its drawbacks. 
 
