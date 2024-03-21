@@ -28,21 +28,21 @@ performance Scores: **NaN**
 
 ### Analyzing Heat Distribution
 
-Temperature:
+Temperature: High heat / 400°F
 
-Temperature Differences:
+Temperature Differences: 5.8%
 
 ### Making Pancakes
 
-Heating Time:
+Heating Time: 3 min 44 sec
 
-Temperature:
+Temperature: Medium heat / 350°
 
 ### Cooking Steaks
 
-Heating Time:
+Heating Time: 5 min 20 sec
 
-Temperature:
+Temperature: High heat / 400°F
 
 Design
 ------
