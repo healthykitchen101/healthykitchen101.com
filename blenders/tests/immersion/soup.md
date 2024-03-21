@@ -64,7 +64,9 @@ In the new test, the soup recipe and cooking technique remained unchanged, but w
 
 Instead of pureeing food in the cooking pot like in the initial test, we tested each blender in a 24-oz beaker.
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckzyzgsd60000el88b2wj67i8.jpg" alt="Testing Equipment Beaker" width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0rdon7000liq8872h14adt.jpg" alt="soup in a beaker" width="640" height="427">
+
+We use a universal beaker for all immersion blenders
 
 The pot was so big that it demanded a full range of hand motions to thoroughly process the mixtures. If our blending motions weren’t consistent with each blender, the results might be skewed. The smaller container, on the other hand, would allow us to keep the agitation to a minimum, thus giving us more equity between testing procedures.
 
