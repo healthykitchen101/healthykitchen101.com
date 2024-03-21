@@ -207,8 +207,8 @@ Nonetheless, the skillet's exterior consistently maintains a safe temperature, m
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-cleaning-storing-clu0o6c5z000biq880ka6132p.jpg" alt="Burnt caramel on the surface of the Crux Non-Stick Electric Skillet 14620." width="300px" height="200px">
 
-The ceramic non-stick coating of the Crux effectively releases food (+3). During our heat distribution test however, we found that it required multiple washes with warm water and dishwashing liquid to entirely remove the burnt caramel (-0.5).
+The ceramic non-stick coating of the Crux effectively releases food (+2). During our heat distribution test however, we found that it required multiple washes with warm water and dishwashing liquid to entirely remove the burnt caramel (-0.5).
 
-On a positive note, regular clean-ups were effortless (+4). Additionally, all parts of the skillet, except for the thermostat, can be conveniently cleaned in the dishwasher (+2).
+On a positive note, regular clean-ups were effortless (+2). Additionally, all parts of the skillet, except for the thermostat, can conveniently go into the dishwasher (+2).
 
 The skillet is really attractive so it looks good out on the counter, or you can put it back in the box for safe keeping (+3).
