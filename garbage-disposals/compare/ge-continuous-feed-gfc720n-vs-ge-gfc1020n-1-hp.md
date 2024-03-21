@@ -1,0 +1,3 @@
+Coming from the same series, the GFC1020N and the GFC720N share a number of features. Most notably, their design is identical, and they both feature thick impellers exclusive to the series (as far as we're aware). They both run on high-speed magnet motors that differ only in size. 
+
+That said, the GFC720N emerges as the superior option between the two. Not only is it less expensive, but it also delivers better performance results in comparison. They have roughly the same holding capacity, yet the GFC1020N occupies more space due to its larger motor.
