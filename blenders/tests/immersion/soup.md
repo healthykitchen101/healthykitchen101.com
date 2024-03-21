@@ -40,6 +40,10 @@ Testing Procedure
 
 Our pumpkin soup was prepared in two stages: we first pressure-cooked all the ingredients in the Instant Pot Duo in 20 minutes and then pureed them using our blender until they were entirely smooth. Rather than blending right in the pressure cooker, we immersed our [beautiful blenders](https://healthykitchen101.com/blenders/reviews/best/) in a transparent pot so as to easily observe the whole procedure.
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0qtx6j000jiq88cwa1bqhu.jpg" alt="woman cooking with a pressure cooker" width="640" height="427">
+
+Chef Tuyet was the developer of the soup recipe
+
 Regarding stage two, we blended each pot of soup for 30 seconds under the blender’s highest speed. At this point, if any unprocessed food chunks remained, we kept blending until our chef signaled to stop. During the process, we needed to use a gentle up-and-down motion with the blender to obtain optimum results. And if the motor demanded a cooldown pause, we didn’t count that time toward the overall time.
 
 #### Testing Result
