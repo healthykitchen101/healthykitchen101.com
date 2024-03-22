@@ -113,6 +113,32 @@ design Scores: **NaN**
 
 The entire build of the Elite Gourmet Non-Stick Electric Skillet EG-6203# is extremely sturdy. All the design features are of a high quality, especially the raised honeycomb pan with its marble coating and impressive capacity.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-box-cltnuvhib003rwz88cly7elzm.jpg" alt="On the upper right is the  Elite Gourmet Electric Skillet EG-6203. On the left is its cardboard box. Below the skillet, on the right is a thermostat and on the left is an instruction manual." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: US 1-year
+
+Inside the Elite Gourmet box is one electric skillet, one pan lid, one thermostat, all secured in a large styrofoam pad. The instruction manual includes safeguards, a list of parts and features, instructions for first use and general operation, cleaning and maintenance, as well as care and storing. It also has instructions on cooking time and temperature as well as some recipes to go along with the skillet.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-dimensions-cltnuvhhs003lwz887idz7ia3.jpg" alt="Elite Gourmet Electric Skillet EG 6203 Dimensions" width="300px" height="200px">
+
+Length: 20.6" (52.2 cm)
+
+Width: 13.3" (33.7 cm)
+
+Height: 8.3" (21.0 cm)
+
+Weight: 8.4 lbs (3.8 kg)
+
+The manufacturer didn’t provide dimensions for the entire skillet including the handles, so you can refer to our hand-measured ones. However, the pan’s dimensions matched well with our own.
+
 ### 10 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-pan-cltnuvhie003swz88e65g9v1q.jpg" alt="The pan of the Elite Gourmet Non-Stick Electric Skillet EG-6203 is 15.94 inches in length, 12.79 inches in width, and 3.15 inches in depth." width="300px" height="200px">
@@ -182,6 +208,20 @@ Dishwasher-Safe: No
 The detachable thermostat has a working indicator light (+4). Its temperature range is standard, meaning from 200 to 400°F (+1). There isn’t a Keep Warm setting as such, but it maintained around 150°F by dialing shy of 200°F .
 
 In addition to a seamless fit, the thermostat has a rare release trigger making it all the more easier to remove (+3). Nonetheless, like most other thermostats, you shouldn’t put it in the dishwasher.
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/elite-gourmet-electric-skillet-eg-6203-power-cord-cltnuvgyd003hwz884qm7hwq8.jpg" alt="The flat two-prong power cord of the Elite Gourmet Non-Stick Electric Skillet EG-6203 is 31.1 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 36.8" (93.5 cm)
+
+Power: 1500 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord features a flat design and measures 36.81 inches in length, which is more than enough for any location even off the kitchen counter. It uses a two-prong plug, which is generally perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
