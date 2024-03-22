@@ -114,6 +114,32 @@ design Scores: **NaN**
 
 The excellent build quality of the Hamilton Beach 38529K shone through in its thick pan, PTFE and PFOA-free ceramic non-stick coating, and sturdy detachable base. Furthermore, it was surprisingly the lightest skillet we have in the large size category.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-box-cltmfqdxz0036wz88e4wu81ao.jpg" alt="On the upper right is the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K. On the left is its cardboard box. Below the skillet from right to left is an instruction manual, a thermostat, and a detachable base." width="300px" height="200px">
+
+*   One electric skillet
+*   One tempered glass lid
+*   One detachable thermostat
+*   One instruction manual
+*   Warranty: Canada 5-year limited and US 1-year limited
+
+Inside the Hamilton box, you will find one electric skillet, one pan lid, one thermostat, all secured in a single styrofoam pad. The simple instruction manual includes safeguards, parts and features, operating instructions as well as care and cleaning. There it states not to use the ‘SANI’ setting on your dishwasher because the high temperature can damage the skillet.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-dimensions-cltmfqdxt0034wz88hhcsdnv5.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is 18.78 inches in length, 11.97 inches in width, and 7.48 inches in height." width="300px" height="200px">
+
+Length: 18.8" (47.7 cm)
+
+Width: 12.0" (30.4 cm)
+
+Height: 7.5" (19.0 cm)
+
+Weight: 8.8 oz (250 g)
+
+The manufacturer’s dimensions of 12.5"D x 20.5"W x 7.5"H were slightly different from our hand-measured ones that took the handles into account.
+
 ### 9.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-pan-cltmfqcef002wwz88b167ba5r.jpg" alt="The pan of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is 14.96 inches in length, 11.69 inches in width, and 2.48 inches in depth." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-pan-1-cltmfqdxo0032wz88ca0n47q0.jpg" alt="The bottom of the detached pan of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K." width="300px" height="200px">
@@ -181,6 +207,20 @@ Dishwasher-Safe: No
 The detachable thermostat is standard for its range of 200 to 400°F (+3). Although it has a warm setting, we found it hovers around 150°F and doesn't retain the preset temperature like some other skillets.
 
 Thermostat seamlessly pops into the socket, is easy to remove, and it has a working light indicator (+4). It's important to note that the thermostat is not dishwasher-safe.
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-power-cord-cltmfqcea002vwz886imx15yw.jpg" alt="The flat two-prong power cord of the Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K is 28.74 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 28.7" (73.0 cm)
+
+Power: 1500 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord has a flat design and measures 38.74 inches in length. While quite short by our standards, it should suffice for cooking on the kitchen counter. The cord utilizes a two-prong plug, which is typically perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
