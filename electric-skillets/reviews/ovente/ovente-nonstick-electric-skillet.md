@@ -20,7 +20,15 @@ The non-stick coating makes **cleaning easy**, but not everyone likes Teflon. In
 
 **Things We Like**
 
+*   Double-wall design
+*   Lightweight
+
 **Things We Don’t Like**
+
+*   Excessive heat
+*   Small cooking capacity
+*   Low build quality
+*   Teflon non-stick coating
 
 Ovente is a US household brand launched by TopNet Inc. in 2010. They manufacture a wide range of household products and kitchen appliances like air fryer ovens, blenders, and kettles.
 
