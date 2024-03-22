@@ -31,7 +31,7 @@ The **trigger release** on the thermostat was also much appreciated. For a large
 
 Elite Gourmet, by Maxi-Matic, is a US-based Chinese brand of more than 37 years standing. They manufacture a wide range of small kitchen appliances including toaster ovens, blenders, waffle makers, food dehydrators, deep fryers, steamers, and more.
 
-Being unfamiliar with the marble-coated, raised honeycomb design of the Elite Gourmet Non-Stick Electric Skillet EG-6203#, we were doubly excited to get into the kitchen. During our ‘meet and greet’ we didn’t know what to expect. However,  fast-boiling water piqued our interest and fried eggs cleaned off the pan in no time. Join us and see what more this skillet has in store for you!
+Being unfamiliar with the marble-coated, raised honeycomb design of the Elite Gourmet Non-Stick Electric Skillet EG-6203#, we were doubly excited to get into the kitchen. During our ‘meet and greet’ we didn’t know what to expect. However, fast-boiling water piqued our interest and fried eggs cleaned off the pan in no time. Join us and see what more this skillet has in store for you!
 
 Performance
 -----------
