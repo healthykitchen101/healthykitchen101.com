@@ -50,6 +50,8 @@ The Ovente Non-Stick Electric Skillet SK11112B scored well for heat distribution
 
 ### Analyzing Heat Distribution
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-analyzing-heat-distribution-clu2645jx0002tf8884c53fua.jpg" alt="The Ovente Non-Stick Electric Skillet SK11112B with a white oil-absorbent sheet covering the surface of the pan. The dark double circles indicate where the heating element is." width="300px" height="200px">
+
 Temperature: High heat / 400°F
 
 Temperature Differences: 8.8%
@@ -63,6 +65,8 @@ Our findings revealed an average **8.8% temperature variance** compared to a 10%
 However, with the speed at which the pan heated to 400°F, we were left wondering how cooking pancakes and steaks would turn out.
 
 ### Making Pancakes
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-making-pancakes-clu2645qr000etf888swsf2pn.jpg" alt="The top side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Ovente Non-Stick Electric Skillet SK11112B." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-making-pancakes-1-clu2645qw000gtf888yu90nxp.jpg" alt="The bottom side of a golden brown pancake that’s dark around the edges inside an air fryer basket. In the corner is the Ovente Non-Stick Electric Skillet SK11112B." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-making-pancakes-2-clu2645ps0009tf886y2ig1ov.jpg" alt="Two hands breaking a pancake apart. In the background is the Ovente Non-Stick Electric Skillet SK11112B." width="300px" height="200px">
 
 Heating Time: 40 sec
 
@@ -85,6 +89,8 @@ In the end, we had no choice but to score the pancake a **4/10** for edibility�
 On the only bright side, although we added no oil, the skillet’s non-stick coating still worked. Nonetheless, it's advisable to brush on a thin layer of oil to extend the pan’s longevity.
 
 ### Cooking Steaks
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-cooking-steaks-clu2645q5000ctf88cvrmhgeq.jpg" alt="A piece of deep golden brown steak inside the Ovente Non-Stick Electric Skillet SK11112B. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-cooking-steaks-1-clu2645pw000atf88dbl2arl3.jpg" alt="On the cutting board, a tong is holding the steak while a knife is slicing the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-cooking-steaks-2-clu2645k30004tf88fe9f8lqg.jpg" alt="A hand in black glove using a fork to pick up a slice of steak. In the background is the Ovente Non-Stick Electric Skillet SK11112B." width="300px" height="200px">
 
 Heating Time: 50 sec
 
@@ -124,6 +130,8 @@ The Ovente Non-Stick Electric Skillet SK11112B had all the design features for a
 
 ### 5.0 - Pan
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-pan-clu2645ki0008tf88033833qm.jpg" alt="The pan of the Ovente Non-Stick Electric Skillet SK11112B is 10.24 inches in diameter and 1.38 inches in depth." width="300px" height="200px">
+
 Cooking Capacity: 2.5 quarts
 
 Dimensions:  L10.24 x W10.24 x H1.38 inches
@@ -148,6 +156,8 @@ The pan is dishwasher-safe and has a Teflon non-stick coating (+3). Although che
 
 ### 9.0 - Lid
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-lid-clu2645kc0006tf884tclhrli.jpg" alt="The tempered glass lid of the Ovente Non-Stick Electric Skillet SK11112B has a steam vent." width="300px" height="200px">
+
 Material: Tempered glass
 
 Handle: Thermosetting plastic
@@ -160,6 +170,8 @@ The tempered glass lid is dishwasher-safe (+4). It has a steam vent to release t
 
 ### 6.0 - Base
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-base-clu2645qt000ftf88e2wn7m1u.jpg" alt="The base of the Ovente Non-Stick Electric Skillet SK11112B has four stands with anti-slip pads." width="300px" height="200px">
+
 Material: Thermosetting plastic
 
 Detachable: No
@@ -171,6 +183,8 @@ Dishwasher-Safe: Yes
 The thermosetting plastic base has four stands with anti-slip pads at the bottom (+3). Since the pan is not detachable, make sure your dishwasher is large enough to fit the entire skillet (+3).
 
 ### 5.0 - Thermostat
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-thermostat-clu2645hr0001tf882xxu6aov.jpg" alt="The thermostat of the Ovente Non-Stick Electric Skillet SK11112B has 5 settings." width="300px" height="200px">
 
 Temperature Range: 1-2-3-4-5
 
@@ -208,11 +222,15 @@ The Ovente Non-Stick Electric Skillet SK11112B was the trickiest skillet to cont
 
 ### 5.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-ease-use-clu2645kf0007tf88ejg4b940.jpg" alt="The Ovente Non-Stick Electric Skillet SK11112B with its thermostat inserted." width="300px" height="200px">
+
 One issue with the Ovente is that we found the numbered temperature settings to be unintuitive (-1). More problematic were the imprecise and unstable temperatures (-1). In addition, the thermostat fits the socket a bit too tightly so you need to hold the skillet firmly to remove it.
 
 On the bright side, the indicator light was easy to see (+1). Also, the skillet is very lightweight and the four thermosetting plastic stands with anti-slip pads gripped the counter surface firmly (+3). Finally, the double-wall feature prevents the exterior from getting too hot, thus reducing the chance of accidental burning (+3).
 
 ### 9.0 - Cleaning and Storing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-cleaning-storing-clu2645qc000dtf88c8poe5c1.jpg" alt="Burnt caramel on the surface of the Ovente Non-Stick Electric Skillet SK11112B." width="300px" height="200px">
 
 Despite the quality and design issues highlighted, we were happy that the non-stick coating of the Ovente released food without a problem—even the burnt caramel in our heat distribution test (+2). A simple hand-wash with warm water and dishwashing liquid should suffice (+2). Alternatively, everything except the thermostat can be cleaned in the dishwasher (+2).
 
