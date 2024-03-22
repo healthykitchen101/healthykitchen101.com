@@ -69,6 +69,14 @@ Heating Time: 3 min 44 sec
 
 Temperature: Medium heat / 350°
 
+The Presto skillet preheated to 350°F in just **3 min 44 sec**, quite fast for its substantial size, earning it a rating of 8.3/10.
+
+Using our original electric skillet pancake batter, it cooked a **3.17 oz pancake** to perfection in a mere 4 min and 30 sec. The result was in a delightfully steamy and fluffy interior, although with a slightly less even golden brown hue compared to its counterpart, the Presto 06857 which had a competitively better garnering a rating of 9/10.
+
+This skillet achieved an optimal cooking time with **1 min 30 sec** on the first side and double the time on the flip side. And with its 16-inch size, the pan can accommodate 3 to 4 pancakes simultaneously. Depending on your recipe, adjustments may be necessary.
+
+Thanks to its non-stick coating, butter or oil was unnecessary, although adding oil is recommended to prolong the coating's lifespan.
+
 ### Cooking Steaks
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-cooking-steaks-clu2c370u000vtf88dpxib83k.jpg" alt="A piece of golden brown steak inside the Presto Electric Skillet 06852. In front of the skillet is a digital timer and a meat thermometer with its probe inserted into the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-cooking-steaks-1-clu2c36c4000qtf882rulhgl9.jpg" alt="On the cutting board, a tong is holding the steak while a knife is slicing the steak." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-cooking-steaks-2-clu2c339g000jtf88fwyk0ftv.jpg" alt="A hand in black glove using a fork to pick up a slice of steak." width="300px" height="200px">
@@ -76,6 +84,16 @@ Temperature: Medium heat / 350°
 Heating Time: 5 min 20 sec
 
 Temperature: High heat / 400°F
+
+To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first needed to preheat the Presto to 400°F. This took **5 min** **20 sec** which was quite slow even for a large skillet, so we had to score it 6.7/10.
+
+After seasoning the steak and inserting a meat thermometer, we seared both sides for **4 min**. We then gave the long edge with the fat cap 2 min, the other long edge for 1 min 30 sec, and the shorter edge for 1 min. Finally, we added some fresh rosemary and butter  and seared the first side for 30 sec and the flip side 1 min more.
+
+The cooking process raised the steak’s internal temperature to **133°F** which increased to **140°F** after a standard 3 minute resting time. This hit the sweet spot for an **excellent medium-rare** steak that was both **tender** and **juicy**.
+
+Interestingly, the entire process took around 17 minutes which was 2 minutes shorter than the Presto 06857 but their results were similar. Therefore, our chef gave the steak the same high score of 9/10.
+
+We assumed the shorter cooking time was due to a more stable heat from the Presto 06852’s 1-mm thicker pan. Nonetheless, the skillet wasn’t as hot as the Hamilton Beach 38529K for that crispier crust.
 
 Design
 ------
@@ -90,6 +108,8 @@ design Scores: **NaN**
     
 *   Thermostat (15%) - **7.0**/undefined
     
+
+The Presto Non-Stick Electric Skillet 06852 has a thick, durable pan with a cast iron pattern. However, we felt such a heavy pan would require anti-slip pads on the bottom to keep it in place. It also shared the same problem of ill-fitting lid as the 06857 model.
 
 ### 9.0 - Pan
 
