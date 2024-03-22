@@ -10,9 +10,28 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.2**/undefined
     
 
+The 16-inch Presto Electric Skillet 06852 could have made the list if not for our top two contenders. Priced **$63** (at the time of writing), it didn’t have fancy design features but that didn’t affect its ease of use.
+
+It had equally good maximum temperature retention as our runner up—the Presto Foldaway 06857 of the same brand—and better **temperature stability** but less even heat distribution. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
+
+The PFOA-free Teflon non-stick surface, although not a ceramic coating, effectively reduced the amount of oil required for cooking as well as the effort in cleaning afterward. The main issue for us was that its pan, although high quality, lacked the anti-slip pads to keep it in place while cooking, causing unnecessary inconveniences.
+
 **Things We Like**
 
+*   Great heat distribution
+*   Stable temperatures
+*   Sizzling hot searing
+*   High build quality
+
 **Things We Don’t Like**
+
+*   Teflon non-stick coating
+*   Lid not the best fit
+*   No anti-slip pads
+
+Established in 1905, National Presto Industries, Inc. is a manufacturer of small electric appliances in the United States. Their range of products includes vacuum sealers, knife sharpeners, pizza ovens, air fryers, pressure cookers, waffle makers, and electric skillets.
+
+We assessed the PrestoNon-Stick Electric Skillet 06852 alongside the Foldaway 06857 so a comparison was inevitable. Their initial tests of frying eggs and boiling water yielded similar results. Therefore, we were eager to put them to a faceoff in terms of performance, design, and ease of use.
 
 Performance
 -----------
@@ -26,6 +45,8 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **8.8**/undefined
     
 
+The Presto Non-Stick Electric Skillet 06852 stands out for its temperature stability, even heat distribution, and high maximum temperature. These qualities resulted in delicious pancakes and succulent steaks, on par with the Presto 06857, during our testing sessions.
+
 ### Analyzing Heat Distribution
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-analyzing-heat-distribution-clu2c36tq000ttf888sfe4qbz.jpg" alt="The Presto Electric Skillet 06852 with a white oil-absorbent sheet covering the surface of the pan. The dark rectangle indicates where the heating element is." width="300px" height="200px">
@@ -33,6 +54,12 @@ performance Scores: **NaN**
 Temperature: High heat / 400°F
 
 Temperature Differences: 5.8%
+
+The Presto skillet showcased exceptional heat distribution, surpassing the majority of other skillets in our testing lineup. This superior performance can be attributed to its thicker-than-average cast aluminum pan and sizable rectangular heating element.
+
+In our testing process, we used oil absorbent sheets saturated with sugar water to detect temperature variances across the skillet's surface. After heating the pan to 400°F, we measured key temperature points using an infrared thermometer.
+
+Across five designated points spanning from the pan's center to its edges, we observed a mere **5.8% difference** in average temperatures. This remarkable consistency earned the skillet a commendable rating of 8.8/10, literally one decimal point lower than the Presto 06857.
 
 ### Making Pancakes
 
