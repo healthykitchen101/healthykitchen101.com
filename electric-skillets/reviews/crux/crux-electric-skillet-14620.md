@@ -29,9 +29,9 @@ In addition, the coating had some chipping, so with a price tag of  **$46.80** 
 *   Chipped coating
 *   Stubborn burn-ons may require some effort
 
-Crux is a kitchenware brand founded in NYC in 2016 as part of the Made by Gather™. With a focus on premium design, they conceptualize products including electric skillets, air-fryer toaster ovens, waffle makers, sous vide cookers, and stand mixers.
+Crux is a Made by Gather kitchenware brand founded in NYC in 2016. They try to bring a personal touch to their designs. Other products include air-fryer toaster ovens, waffle makers, sous vide cookers, and stand mixers.
 
-With that said, the Crux Non-Stick Electric Skillet 14620 certainly impressed visually at first and our initial tests of frying eggs and boiling water gave good results. Let’s see what else it will have in store for us!
+Out the box, the Crux Non-Stick Electric Skillet 14620 certainly impressed with its good looks. The test-run of frying eggs and boiling water was a hit, but how did it do with delicate pancakes and a perfectly seared medium-rare steak? See our reveal together with data scores and original pics.
 
 Performance
 -----------
