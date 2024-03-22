@@ -68,7 +68,7 @@ Temperature: Medium heat / 350°F
 
 The GreenLife took **1 min 58 sec** to preheat to 350°F, which was worthy of a perfect 10/10. Despite a lower power draw, this was also significantly faster than any of the large skillets.
 
-With our customized pancake batter ready, it took just 1 min topside and 2 min 30 sec on the flip side to cook a  **3.17 oz pancake**. The surface texture was an even color but only slightly firm and a little fluffy on the inside. This scored an 8/10, but better nonetheless than any other medium-sized skillet.
+With our customized pancake batter ready, it took just 1 min topside and 2 min 30 sec on the flip side to cook a **3.17 oz pancake**. The surface texture was an even color but only slightly firm and a little fluffy on the inside. This scored an 8/10, but better nonetheless than any other medium-sized skillet.
 
 We only cooked one pancake at a time, but this 12-inch pan can easily fit two to three at a time. You may need to adjust the time depending on your pancake mix.
 
@@ -194,6 +194,6 @@ We found that the thermostat fitted nicely, the temperatures were precise, and t
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-ease-use-cltwcx78p004owz88fopr4e6d.jpg" alt="The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 with its thermostat inserted." width="300px" height="200px">
 
-As anticipated, the ceramic non-stick coating of the GreenLife released food without a problem, even the burnt caramel in our heat distribution test (+3). All it  needed was a quick hand-wash with warm water and some dishwashing liquid (+4). Or, you can just pop everything, except the thermostat, into the dishwasher (+2).
+As anticipated, the ceramic non-stick coating of the GreenLife released food without a problem, even the burnt caramel in our heat distribution test (+3). All it needed was a quick hand-wash with warm water and some dishwashing liquid (+4). Or, you can just pop everything, except the thermostat, into the dishwasher (+2).
 
 The skillet is really attractive so it looks good out on the counter, or you can put it back in the box for safe keeping (+3).
