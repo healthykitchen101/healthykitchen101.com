@@ -10,39 +10,93 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.2**/undefined
     
 
+Out of all the products we tested, the Ovente Non-Stick Electric Skillet SK11112B was the odd-one-out in both size and performance—but not in a good way.
+
+The rapid heating of the pan suggested it was only good for stir-frying meat and veggies. It proved **too hot** for delicate foods like pancakes and **too unstable** for precise cooking like searing steaks.
+
+Fortunately, the **10-inch** skillet is double-walled for an “extra layer of burning protection”. On the other hand, the small capacity of 2.5 quarts makes the pan too shallow for liquid-based dishes. Meanwhile, the thin aluminum pan **deformed** due to higher-than-normal temperatures raising questions about the durability and longevity of the product.
+
+The non-stick coating makes **cleaning easy**, but not everyone likes Teflon. In conclusion, we don’t recommend this skillet despite it being the cheapest one we’ve purchased to date—**$22.30** (at the time of writing).
+
 **Things We Like**
 
 **Things We Don’t Like**
+
+Ovente is a US household brand launched by TopNet Inc. in 2010. They manufacture a wide range of household products and kitchen appliances like air fryer ovens, blenders, and kettles.
+
+Upon unboxing, the Ovente SK11112B felt really light despite the pan’s double-thick walls. In our initial tests, fried eggs cooked in a jiffy while boiling water was shockingly fast. Rather different from other electric skillets, is the Ovente a good choice? See our full test results and hands-on review.
 
 Performance
 -----------
 
 performance Scores: **NaN**
 
-*   (20%) - **8.2**/undefined
+*   Analyzing Heat Distribution (20%) - **8.2**/undefined
     
-*   (40%) - **4.6**/undefined
+*   Making Pancakes (40%) - **4.6**/undefined
     
-*   (40%) - **6.5**/undefined
+*   Cooking Steaks (40%) - **6.5**/undefined
     
+
+The Ovente Non-Stick Electric Skillet SK11112B scored well for heat distribution, and especially high in heating speed. However, no matter how hard we tried, we couldn’t get this skillet to cook decent pancakes or even steaks.
 
 ### Analyzing Heat Distribution
 
-Temperature:
+Temperature: High heat / 400°F
 
-Temperature Differences:
+Temperature Differences: 8.8%
+
+To gauge temperature differences across the skillet's surface, we placed an oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and used an infrared thermometer to measure 5 key points.
+
+To its credit, the Ovente had a **highly even heat distribution** even to the edges. This was  surprising considering the thin pan, but the combo of a round pan and round heating element seemed to work well.
+
+Our findings revealed an average **8.8% temperature variance** compared to a 10% standard average. This scored an 8.2/10 in our rating system, which was only lower than the Crux 14620 among our medium-sized skillet lineup.
+
+However, with the speed at which the pan heated to 400°F, we were left wondering how cooking pancakes and steaks would turn out.
 
 ### Making Pancakes
 
-Heating Time:
+Heating Time: 40 sec
 
-Temperature:
+Temperature: Medium heat / 350°F
+
+According to the manual, the setting number 3 seemed to be the closest to 350°F on other skillets, so that was what we chose. The manual stated the temperature would oscillate between 304°F to 439°F, so we paid close attention to the heat.
+
+What all that said, the Ovente took only **40 sec** to preheat to 350°F, which was mind boggling since 2 min on our benchmark tested scoreboard equaled a 10/10. The higher than normal power draw for a medium skillet, and the thin pan, probably had a lot to do with it.
+
+However, this quickly revealed a major problem—the temperature quickly spiked to **near 600°F** within the next few minutes. As a result, the top side of our **3.17 oz pancake** darkened within  **30 sec** and we had to quickly flip it.
+
+Another major issue arose, namely the pan took too long to cool down to  350°F before cycling on again due to the high temperature spike. Therefore, even after **3 minutes** cooking on the flip side the pancake firmed up without proper browning.
+
+The final nail, however, was that the inside of the pancake **wasn’t properly cooked**. Our customized pancake batter had worked fine with all other skillets, so only the Ovente could take blame.
+
+In our persistence for excellence, we tried lowering the settings, but still the temperature spikes were too high and the recovery time too long, so the pancakes flopped once more. Our best solution was to leave the skillet running for 5 to 6 minutes for the temperatures to stabilize, but this simply made cooking timely and impractical.
+
+In the end, we had no choice but to score the pancake a **4/10** for edibility—the worst we’ve had so far. Moreover, since the pan is round, we could only **fit one** pancake while similarly 12‒inch but square pans can fit two or three at a time.
+
+On the only bright side, although we added no oil, the skillet’s non-stick coating still worked. Nonetheless, it's advisable to brush on a thin layer of oil to extend the pan’s longevity.
 
 ### Cooking Steaks
 
-Heating Time:
+Heating Time: 50 sec
 
-Temperature:
+Temperature: High heat / 400°F
+
+Staying consistent to our test parameters, we chose the fourth setting of the Ovente to cook our **8 oz**, **1.38-inch top blade steak**. And, the skillet reached 400°F in just **50 sec** and earned a score of 10/10 similarly to our pancake test.
+
+Once the steak was seasoned and a meat thermometer inserted, we seared the first side for **3 min** and the flip side **3 min 30 sec**. By that time, the skillet had cycled on and off twice in an attempt to stabilize the temperature.
+
+Then, the edge with the fat cap needed 2 min, while the remaining edges needed 1 min 30 sec each. Finally, we added fresh rosemary and butter, allowing each side an additional 1 min.
+
+By 11 min 20 sec, the steak’s internal temperature had already reached the required 145°F. Yet, the outside of the steak wasn't properly cooked so our chef decided to go on.
+
+In total, the cooking took **14 min 30 sec** and brought the steak’s internal temperature all the way to **156°F**. After a 3-minute resting period, the temperature actually decreased to **144°F** as opposed to increasing like with the steaks of other skillets.
+
+Therefore, the steak went slightly over medium rare but not yet medium. However, juice had already begun to seep out at around 145°F so the steak **wasn’t as tender or juicy** as others. The crust had a **deep amber color** but with all the juice seeping out, it couldn’t maintain a crispy bite.
+
+All of this resulted in a **subpar steak** that was the worst in our line-up, scoring only a **6.5/10**.
+
+To better understand the skillet, we ran it dry and noticed that the temperature stabilized around 400°F after about 5 min.
 
 Design
 ------
@@ -57,6 +111,8 @@ design Scores: **NaN**
     
 *   (15%) - **5.0**/undefined
     
+
+The Ovente Non-Stick Electric Skillet SK11112B had all the design features for a worthy skillet. However, its build quality was worrying, especially concerning the pan’s deformation.
 
 ### 5.0 - Pan
 
