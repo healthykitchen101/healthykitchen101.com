@@ -103,9 +103,9 @@ Design
 
 design Scores: **NaN**
 
-*   (40%) - **5.0**/undefined
+*   Pan (40%) - **5.0**/undefined
     
-*   (15%) - **9.0**/undefined
+*   Lid (15%) - **9.0**/undefined
     
 *   (30%) - **6.0**/undefined
     
@@ -116,29 +116,39 @@ The Ovente Non-Stick Electric Skillet SK11112B had all the design features for a
 
 ### 5.0 - Pan
 
-Cooking Capacity:
+Cooking Capacity: 2.5 quarts
 
-Dimensions:
+Dimensions:  L10.24 x W10.24 x H1.38 inches
 
-Material:
+Material: Aluminum
 
-Coating:
+Coating: Teflon
 
-Handle:
+Handle: Thermosetting plastic
 
-Spout:
+Spout: No
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The Ovente skillet has a simple **aluminum pan** as opposed to most other skillets we’ve tested that have a more durable cast aluminum pan (+1). There is, however, an additional exterior layer covering the pan and heating element (+1).
+
+We calculated the total capacity to be around 2.5 quarts which was quite shallow compared to other 12‒inch skillets such as the GreenLife CC003725-002. Moreover, less than 2 quarts are usable volume.
+
+It’s also the thinnest pan we’ve seen so far being less than 1 mm or 0.04 inches thick (+1), so it came as no surprise that the pan deformed due to high heat (-1). The area above the heating element indented while the area towards the center of the pan expanded upwards.
+
+The pan is dishwasher-safe and has a Teflon non-stick coating (+3). Although cheaper than ceramic coating, some people may see [health concerns](https://www.healthline.com/nutrition/nonstick-cookware-safety) despite modern Teflon being free of PFOA.
 
 ### 9.0 - Lid
 
-Material:
+Material: Tempered glass
 
-Handle:
+Handle: Thermosetting plastic
 
-Steam Vent:
+Steam Vent: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The tempered glass lid is dishwasher-safe (+4). It has a steam vent to release the pressure and a thermosetting plastic handle (+2). Since the pan is round, the metal edging is an easy fit (+3).
 
 ### 6.0 - Base
 
