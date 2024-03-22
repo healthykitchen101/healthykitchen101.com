@@ -106,6 +106,32 @@ design Scores: **NaN**
 
 The GreenLife Electric Skillet CC003725-002 has a shiny and eye-catching ceramic non-stick coating which also meets high expectations in terms of healthy cookware. Furthermore, it’s sturdy yet lightweight with high build quality demonstrated in its design features.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-box-cltwcx78x004swz88h7hj1d19.jpg" alt="On the upper right is the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002. On the left is its cardboard box. Below the skillet, on the right is a thermostat and on the left is an instruction manual." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: 1-year limited
+
+Our unboxing of the GreenLife revealed an electric skillet, a pan lid, and a detachable thermostat all nestled within a large styrofoam pad for safe and secure transportation. The simple instruction manual includes safeguards, parts and features, instructions on operating as well as cleaning and maintenance. It also has cooking times and temperatures for various foods.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-dimensions-cltwcx6jd004fwz8873dwaffz.jpg" alt="The GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is 15.75 inches in length, 11.85 inches in width, and 7.28 inches in height." width="300px" height="200px">
+
+Length: 15.8" (40.0 cm)
+
+Width: 11.8" (30.1 cm)
+
+Height: 7.3" (18.5 cm)
+
+Weight: 4.8 lbs (2.2 kg)
+
+Our hand measurements matched well to the manufacturer’s 15.71" x 12. 24" x 7.13". However, there must be a mistake with the weight listing since there’s no way the entire skillet could weigh just 1 lb.
+
 ### 8.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-pan-cltwcx78f004kwz889n1e4hr7.jpg" alt="The pan of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is 11.73 inches in length, 11.73 inches in width, and 2.56 inches in depth." width="300px" height="200px">
@@ -173,6 +199,20 @@ Indicator Light: Yes
 Dishwasher-Safe: No
 
 The detachable thermostat is a conventional design with a standard temperature range from 200 to 400°F and a keep warm setting of around 150°F (+3). It’s well-designed with a seamless fit and a working indicator light (+4). Like most other thermostats, you shouldn’t put it in the dishwasher.
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/greenlife-electric-skillet-5qt-power-cord-cltwcx786004jwz881vdogc7b.jpg" alt="The flat two-prong power cord of the GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is 38.58 inches long." width="300px" height="200px">
+
+Type: Two-pron
+
+Length: 38.6" (98.0 cm)
+
+Power: 1200 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is a flat design and 38.58 inches long, which is additionally lengthy for locations off the kitchen counter. It uses a two-prong plug which is typically not as safe as a grounded three-prong one.
 
 Usability
 ---------
