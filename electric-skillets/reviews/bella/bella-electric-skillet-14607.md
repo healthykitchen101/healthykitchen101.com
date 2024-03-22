@@ -112,6 +112,32 @@ design Scores: **NaN**
 
 The Bella Non-Stick Electric Skillet 14607 is very basic but has overall good design fundamentals. We found the all-important non-stick ceramic coating not the best quality, but good enough nonetheless.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-box-cltzhd45y0066wz884ql3frve.jpg" alt="On the upper right is the Bella Non-Stick Electric Skillet 14607. On the left is its cardboard box. Below the skillet, on the right is a thermostat and on the left is an instruction manual." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: 2-year limited
+
+Inside the Bella box is one electric skillet, one pan lid, one thermostat, all securely packed within a large styrofoam pad. The instruction manual includes cooking methods and useful cooking times for different foods. It also lists parts and features with instructions for first use, general operation, cleaning and care, as well as storage.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-dimensions-cltzhd45c005wwz88bc3o101p.jpg" alt="The Bella Non-Stick Electric Skillet 14607 is 16.93 inches in length, 12 inches in width, and 6.3 inches in height." width="300px" height="200px">
+
+Length: 16.9" (43.0 cm)
+
+Width: 12.0" (30.5 cm)
+
+Height: 6.3" (16.0 cm)
+
+Weight: 5.1 lbs (2.3 kg)
+
+Our hand measurements matched well to those of the manufacturer which were 16.73" x 12.2" x 7.87" and 4.7 lbs in weight.
+
 ### 8.5 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-pan-cltzhd3rm005uwz885uc81ifj.jpg" alt="The pan of the Bella Non-Stick Electric Skillet 14607 is 11.7 inches in length, 11.7 inches in width, and 1.97 inches in depth." width="300px" height="200px">
@@ -179,6 +205,20 @@ Dishwasher-Safe: No
 The Bella’s detachable thermostat has a different temperature range compared to other skillets (+2). It has four settings from 300°F to 450°F in 50°F increments as opposed to five settings from 200°F to 400°F. Also, the Keep Warm feature maintains around 200°F and not the set temperature like some other skillets.
 
 The thermostat fits snugly into the socket, is easy to remove, and the indicator light is clearly visible (+2). It isn’t dishwasher-safe, but the pan is (+2).
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-power-cord-cltzhd3rk005twz88h1ik6duk.jpg" alt="The flat two-prong power cord of the Bella Non-Stick Electric Skillet 14607 is 26.57 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 26.6" (67.5 cm)
+
+Power: 1200 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is flat and measures 26.57 inches in length. This may be a little short for some people, but adequate for placing on a kitchen counter. It has a two-prong plug, which is generally considered less safe than a grounded three-prong plug.
 
 Usability
 ---------
