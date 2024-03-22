@@ -16,7 +16,7 @@ The heat distribution was better than other medium-sized skillets, such as the G
 
 Pancakes turned out average at the very best, while the heating cycle just wasn’t suited to cooking up a perfectly medium-rare steak.
 
-In addition, the coating had some chipping, so with a price tag of  **$46.80** (at the time of writing), the GreenLife is by far a better choice.
+In addition, the coating on the pan rim had some chipping and the base had grainy specs protruding. We felt with a price tag of  **$46.80** (at the time of writing), the GreenLife is by far a better choice.
 
 **Things We Like**
 
@@ -117,7 +117,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **7.0**/undefined
     
 
-The Crux Non-Stick Electric Skillet 14620 looks good on the outside and has all the basic design features. The overall build quality is good, but the all-important ceramic non-stick coating unfortunately had some chipping .
+The Crux Non-Stick Electric Skillet 14620 looks good on the outside and has all the basic design features. The overall build quality is good, but the all-important ceramic non-stick coating unfortunately had some chipping on the rim.
 
 ### 7.0 - Pan
 
@@ -139,7 +139,7 @@ Dishwasher-Safe: Yes
 
 The Crux skillet has a **cast aluminum** pan which is more durable than a non-cast one (+3). The pan is only 2 mm (0.8 in) thick, but it didn’t deform under high heat and it heated up very evenly (+1). We calculated the total capacity to be around 6.8 quarts with a usable volume of 6 quarts as the label states.
 
-The skillet has a **ceramic non-stick coating** which is free of PTFE and PFOA (+2). We noticed some grainy specs on the coating’s surface but this could be normal since they didn’t form any chipping or crack after cooking. We did, however, find some tiny chippings which could indicate a lower quality assembly (-0.5). 
+The skillet has a **ceramic non-stick coating** which is free of PTFE and PFOA (+2). We noticed some grainy specs on the coating’s surface but this could be normal since they didn’t form any chipping or crack after cooking. We did, however, find some chipping on the rim which could indicate manufacturing and assembly issues (-0.5).
 
 The pan along with the attached base are dishwasher-safe (+2). Unlike some other pans we tested, this one does not have a pouring spout.
 
@@ -195,7 +195,7 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **8.5**/undefined
     
 
-The Crux Non-Stick Electric Skillet 14620 is user-friendly, its medium size fitted well in the dishwasher, and it’s easy to store away. Although cleaning was simple for the most part, we encountered challenges with persistent burnt residues such as caramel stains.
+The Crux Non-Stick Electric Skillet 14620 is user-friendly, its medium size fits well in most dishwashers, and it’s easy to store away. Although cleaning was simple for the most part, we encountered challenges with persistent burnt residues such as caramel stains.
 
 ### 9.0 - Ease of Use
 
@@ -213,7 +213,7 @@ Like other skillets, the exterior maintained a safe temperature with no risk of 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-cleaning-storing-clu0o6c5z000biq880ka6132p.jpg" alt="Burnt caramel on the surface of the Crux Non-Stick Electric Skillet 14620." width="300px" height="200px">
 
-The ceramic non-stick coating of the Crux effectively releases food (+2). During our heat distribution test however, we found that it required multiple washes with warm water and dishwashing liquid to entirely remove the burnt caramel (-0.5).
+The ceramic non-stick coating of the Crux effectively releases food (+2). During our heat distribution test however, we found that it required multiple washes with warm water and dishwashing liquid to entirely remove the burnt caramel stains (-0.5).
 
 On a positive note, regular clean-ups were effortless (+2). Additionally, all parts of the skillet, except for the thermostat, can conveniently go into the dishwasher (+2).
 
