@@ -107,6 +107,32 @@ design Scores: **NaN**
 
 The Presto Foldaway Non-Stick Electric Skillet 06857 has 16 inches of great build quality. We loved the detachable base and fold-down handles. The thick pan spoke well to even heat distribution, but the metal edging of the lid was not the best fit. Additionally, we would have preferred a ceramic coating to the Teflon.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-box-clti2zyns002swz880qvddnfi.jpg" alt="On the upper right is the Presto Foldaway Non-Stick Electric Skillet 06857. On the left is its cardboard box. Below the skillet from right to left is an instruction manual, a thermostat, and a detachable base." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One detachable thermostat
+*   One instruction manual
+*   Warranty: US 2-year limited
+
+Inside the Presto box is one electric skillet, one pan lid, and one thermostat all secured in a large styrofoam pad. The useful manual includes safeguards, instructions on assembly and operating, care and cleaning, as well as cooking times and temperatures for different foods.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-dimensions-clti2zxu0002gwz88e71u6tha.jpg" alt="The Presto Foldaway Non-Stick Electric Skillet 06857 is 20.08 inches in length, 11.97 inches in width, and 8.07 inches in height." width="300px" height="200px">
+
+Length: 20.1" (51.0 cm)
+
+Width: 12.0" (30.4 cm)
+
+Height: 8.1" (20.5 cm)
+
+Weight: 8.5 oz (241 g)
+
+Out hand measurements matched well to the manufacturer’s 19. 81" x 12. 25" x 8. 06" and 8.55 pounds in weight.
+
 ### 9.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-clti2zynn002qwz88h0nt8gxm.jpg" alt="The pan of the Presto Foldaway Non-Stick Electric Skillet 06857 is 15.71 inches in length, 11.77 inches in width, and 2.79 inches in depth." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-1-clti2zyha002iwz8854r72j0t.jpg" alt="The Presto Foldaway Non-Stick Electric Skillet 06857 has a pouring spout." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-2-clti2zynk002pwz889x9o3ghw.jpg" alt="The bottom of the detached pan of the Presto Foldaway Non-Stick Electric Skillet 06857." width="300px" height="200px">
@@ -174,6 +200,20 @@ Indicator Light: Yes
 Dishwasher-Safe: No
 
 The detachable thermostat is pretty standard with a temperature range of 200 to 400°F (+3). The warm setting is around 150°F and does not maintain the set temperature like some other skillets.The thermostat fits the socket nicely, making it easy to remove (+2). It has an indicator light and isn’t dishwasher-safe (+2).
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-power-cord-clti2ztru002bwz88dzkseqpx.jpg" alt="The flat two-prong power cord of the Presto Foldaway Non-Stick Electric Skillet 06857 is 31.1 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 31.1" (79.0 cm)
+
+Power: 1500 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is a flat design and 31.1 inches long, which is a little short for our liking but long enough for cooking on a kitchen counter. It uses a two-prong plug which is typically not as safe as a grounded three-prong one.
 
 Usability
 ---------
