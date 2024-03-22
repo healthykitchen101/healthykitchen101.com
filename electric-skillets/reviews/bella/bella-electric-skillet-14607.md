@@ -162,7 +162,7 @@ Anti-Slip Pads: Four
 
 Dishwasher-Safe: Yes
 
-The metal base has four sturdy stands and four anti-slip pads at the bottom, enhancing stability and durability without adding excessive weight to the pan (+4). You can’t detach the pan from the metal base, so check the dimensions to see if it will fit  in your dishwasher (+3).
+The metal base has four sturdy stands and four anti-slip pads at the bottom, enhancing stability and durability without adding excessive weight to the pan (+4). You can’t detach the pan from the metal base, so check the dimensions to see if it will fit in your dishwasher (+3).
 
 ### 7.0 - Thermostat
 
@@ -196,7 +196,7 @@ The Bella Non-Stick Electric Skillet 14607 was easy to use with well-fitting par
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/bella-electric-skillet-14607-ease-use-cltzhd45k005ywz881khj6b2n.jpg" alt="The Bella Non-Stick Electric Skillet 14607 with its thermostat inserted." width="300px" height="200px">
 
-We had no trouble with the fit of the electric thermostat, the temperatures were precise, and the indicator light was easy-to-see (+3). The skillet's exterior never gets hot enough to risk accidental burning, but always make sure to grip it by the handles only (+3).  Additionally, the anti-slip pads worked well and the pan remained stable even under vigorous use (+3).
+We had no trouble with the fit of the electric thermostat, the temperatures were precise, and the indicator light was easy-to-see (+3). The skillet's exterior never gets hot enough to risk accidental burning, but always make sure to grip it by the handles only (+3). Additionally, the anti-slip pads worked well and the pan remained stable even under vigorous use (+3).
 
 ### 8.5 - Cleaning and Storing
 
