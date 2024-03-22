@@ -128,6 +128,26 @@ design Scores: **NaN**
 
 The Ovente Non-Stick Electric Skillet SK11112B had all the design features for a worthy skillet. However, its build quality was worrying, especially concerning the pan’s deformation.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-box-clu2645q2000btf88f5xc0e37.jpg" alt="On the upper right is the Ovente Non-Stick Electric Skillet SK11112B. On the left is its cardboard box. Below the skillet, on the right is a thermostat and on the left is an instruction manual." width="300px" height="200px">
+
+Upon unboxing the Ovente, we received an electric skillet, a pan lid, and a detachable thermostat packaged within a sizable styrofoam pad. The simple instruction manual includes safeguards, parts and features, instructions on operating as well as care and maintenance.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-dimensions-clu2645k00003tf883fpj3r3n.jpg" alt="The Ovente Non-Stick Electric Skillet SK11112B is 13.78 inches in length, 12 inches in width, and 5.9 inches in height." width="300px" height="200px">
+
+Length: 13.8" (35.0 cm)
+
+Width: 12.0" (30.5 cm)
+
+Height: 5.9" (15.0 cm)
+
+Weight: 3.3 oz (94 g)
+
+The manufacturer’s dimensions of 13.5"D x 11.5"W x 4"H were slightly different from our hand-measured ones that took the lid’s knob handle into account.
+
 ### 5.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-pan-clu2645ki0008tf88033833qm.jpg" alt="The pan of the Ovente Non-Stick Electric Skillet SK11112B is 10.24 inches in diameter and 1.38 inches in depth." width="300px" height="200px">
@@ -207,6 +227,20 @@ The settings are numbered 1 through 5 rather than having set temperatures as wit
 In addition to these 5 settings, dialing between 0 (off) to 1 should maintain the skillet at around 150°F. If true, the Ovente should be good for different cooking methods than other skillets.
 
 In our actual use, however, we noticed that the actual maximum temperatures were a lot higher than the manual stated. This was probably due to a faulty heat sensor and made the Ovente very tricky to use as you can see with the results in our performance tests (-1).
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/ovente-electric-skillet-sk11112b-power-cord-clu2645k90005tf8806721mna.jpg" alt="The flat two-prong power cord of the Ovente Non-Stick Electric Skillet SK11112B is 40.94 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 40.9" (104.0 cm)
+
+Power: 1400 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is a flat design and 40.94 inches long, which should be long enough for anywhere on or off the kitchen counter. It uses a two-prong plug which is commonly considered less safe than a grounded three-prong one.
 
 Usability
 ---------
