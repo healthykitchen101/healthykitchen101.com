@@ -129,6 +129,14 @@ Spout: No
 
 Dishwasher-Safe: Yes
 
+The Presto skillet boasts a 0.16-inch (4 mm) thick cast aluminum pan, which offers superior durability compared to non-cast aluminum (+4). The added thickness of the pan promotes more even heat distribution and reduces the likelihood of deformation under heat.
+
+Our hand-measured capacity of the pan is 8.9 quarts, with an estimated usable volume of around 8 quarts (+1). It’s dishwasher-safe and features fixed handles but lacks a pouring spout (+3).
+
+The surface of the pan is textured similarly to a cast iron skillet, enhancing its visual appeal. However, its impact on cooking performance remains uncertain to us.
+
+The non-stick coating of the pan is Teflon, which is typically more budget-friendly than ceramic coating(+1). However, some individuals may worry about health concerns associated with Teflon, despite the modern formulations being free of PFOA.
+
 ### 8.0 - Lid
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-lid-clu2c348x000ntf884k1beht5.jpg" alt="The tempered glass lid of the Presto Electric Skillet 06852 has a steam vent." width="300px" height="200px">
@@ -140,6 +148,8 @@ Handle: Steel
 Steam Vent: Yes
 
 Dishwasher-Safe: Yes
+
+The tempered glass lid is dishwasher-safe (+4). It has a steel handle and a steam vent to relieve pressure build-up during cooking (+3). However, the metal edging, while common, does not fit the pan as tightly as observed in some other skillets (+1).
 
 ### 4.0 - Base
 
@@ -153,6 +163,8 @@ Anti-Slip Pads: No
 
 Dishwasher-Safe: Yes
 
+The Presto 06852 has two screw-on thermosetting plastic handles that also act as the base similarly to most other skillets (+2). These handles can go in the dishwasher along with the pan or separated for your convenience (+2). However, they lack anti-slip pads at the bottom for the extra grip on the table (+0).
+
 ### 7.0 - Thermostat
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-thermostat-clu2c3054000htf88h9oo6w3n.jpg" alt="The thermostat of the Presto Electric Skillet 06852 has 6 settings including Warm-200–250-300-350-400°F." width="300px" height="200px">
@@ -165,6 +177,10 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
+The detachable thermostat features a standard temperature range of 200 to 400°F (+3). Meanwhile, the warm setting, which is approximately 150°F, does not maintain the set temperature like some other skillets.
+
+The thermostat fits the socket nicely, facilitating easy removal (+2). It includes an indicator light but is not dishwasher-safe, similar to most other electric skillets (+2).
+
 Usability
 ---------
 
@@ -175,10 +191,20 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **9.0**/undefined
     
 
+The Presto Non-Stick Electric Skillet 06852 doesn’t have ultra-convenient detachable and foldable handles like the 06857 model but it’s easy to use, clean, and store away. The biggest problem was how easily displaced it was due to a lack of anti-slip pads.
+
 ### 5.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-ease-use-clu2c33lp000ltf8817lu0nlg.jpg" alt="The Presto Electric Skillet 06852 with its thermostat inserted." width="300px" height="200px">
 
+We found that the thermostat was a nice fit and the temperatures stayed precise (+2). Also, the skillet's exterior consistently maintained a safe temperature, eliminating the risk of accidental burning (+3).
+
+However, the indicator light is below the surface of the thermostat so it can be slightly difficult to see under bright lighting. Additionally, with no anti-slip pads on the base, we had a few cases where we accidentally knocked into the skillet and it started sliding away.
+
 ### 9.0 - Cleaning and Storing
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-cleaning-storing-clu2c35k5000ptf88ady98ev9.jpg" alt="Burnt caramel on the surface of the Presto Electric Skillet 06852." width="300px" height="200px">
+
+As anticipated from a high-quality non-stick pan, the food is effortlessly released from the surface, requiring only a quick, mild-soapy hand wash for cleaning (+4). Grease from the nooks and crannies along the textured surface cleaned out easily as well (+1).
+
+The screw-on handles give you the option of dismantling them to put in the dishwasher or store away. (+4).
