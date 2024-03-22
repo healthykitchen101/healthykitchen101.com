@@ -111,6 +111,32 @@ design Scores: **NaN**
 
 The Presto Non-Stick Electric Skillet 06852 has a thick, durable pan with a cast iron pattern. However, we felt such a heavy pan would require anti-slip pads on the bottom to keep it in place. It also shared the same problem of ill-fitting lid as the 06857 model.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-box-clu2c36qq000stf889oll1mqu.jpg" alt="On the upper right is the Presto Electric Skillet 06852. On the left is its cardboard box. Below the skillet from right to left is an instruction manual, a thermostat, and two screw-on handles." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: US 2-year limited
+
+The Presto box contains one electric skillet, one pan lid, two screw-on handles, and one thermostat, all held in place by a large styrofoam pad to prevent damage during transportation. The included manual features safeguards, assembly and operating instructions, care and cleaning, as well as recommended cooking times and temperatures for various foods.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-dimensions-clu2c35k3000otf88hs1nbh6p.jpg" alt="The Presto Electric Skillet 06852 is 22.44 inches in length, 12.05 inches in width, and 8.07 inches in height." width="300px" height="200px">
+
+Length: 22.4" (57.0 cm)
+
+Width: 12.1" (30.6 cm)
+
+Height: 8.1" (20.5 cm)
+
+Weight: 7.8 lbs (3.6 kg)
+
+Our hand measurements matched well to the manufacturer’s 23" x 13" x 9" and 9 pounds in weight.
+
 ### 9.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-pan-clu2c33lh000ktf884dia3cm2.jpg" alt="The pan of the Presto Electric Skillet 06852 is 15.71 inches in length, 11.73 inches in width, and 2.79 inches in depth." width="300px" height="200px">
@@ -180,6 +206,20 @@ Dishwasher-Safe: No
 The detachable thermostat features a standard temperature range of 200 to 400°F (+3). Meanwhile, the warm setting, which is approximately 150°F, does not maintain the set temperature like some other skillets.
 
 The thermostat fits the socket nicely, facilitating easy removal (+2). It includes an indicator light but is not dishwasher-safe, similar to most other electric skillets (+2).
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-power-cord-clu2c321w000itf88focrfytr.jpg" alt="The flat two-prong power cord of the Presto Electric Skillet 06852 is 31.1 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 31.1" (79.0 cm)
+
+Power: 1500 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord features a flat design and measures 31.1 inches in length, which, while slightly shorter than preferred, is adequate for cooking on a kitchen counter. It has a two-prong plug, which is generally perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
