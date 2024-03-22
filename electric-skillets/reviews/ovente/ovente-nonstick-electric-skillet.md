@@ -56,7 +56,7 @@ Temperature Differences: 8.8%
 
 To gauge temperature differences across the skillet's surface, we placed an oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and used an infrared thermometer to measure 5 key points.
 
-To its credit, the Ovente had a **highly even heat distribution** even to the edges. This was  surprising considering the thin pan, but the combo of a round pan and round heating element seemed to work well.
+To its credit, the Ovente had a **highly even heat distribution** even to the edges. This was surprising considering the thin pan, but the combo of a round pan and round heating element seemed to work well.
 
 Our findings revealed an average **8.8% temperature variance** compared to a 10% standard average. This scored an 8.2/10 in our rating system, which was only lower than the Crux 14620 among our medium-sized skillet lineup.
 
@@ -72,9 +72,9 @@ According to the manual, the setting number 3 seemed to be the closest to 350°F
 
 What all that said, the Ovente took only **40 sec** to preheat to 350°F, which was mind boggling since 2 min on our benchmark tested scoreboard equaled a 10/10. The higher than normal power draw for a medium skillet, and the thin pan, probably had a lot to do with it.
 
-However, this quickly revealed a major problem—the temperature quickly spiked to **near 600°F** within the next few minutes. As a result, the top side of our **3.17 oz pancake** darkened within  **30 sec** and we had to quickly flip it.
+However, this quickly revealed a major problem—the temperature quickly spiked to **near 600°F** within the next few minutes. As a result, the top side of our **3.17 oz pancake** darkened within **30 sec** and we had to quickly flip it.
 
-Another major issue arose, namely the pan took too long to cool down to  350°F before cycling on again due to the high temperature spike. Therefore, even after **3 minutes** cooking on the flip side the pancake firmed up without proper browning.
+Another major issue arose, namely the pan took too long to cool down to 350°F before cycling on again due to the high temperature spike. Therefore, even after **3 minutes** cooking on the flip side the pancake firmed up without proper browning.
 
 The final nail, however, was that the inside of the pancake **wasn’t properly cooked**. Our customized pancake batter had worked fine with all other skillets, so only the Ovente could take blame.
 
