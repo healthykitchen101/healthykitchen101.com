@@ -191,11 +191,21 @@ Usability
 
 usability Scores: **NaN**
 
-*   (70%) - **5.0**/undefined
+*   Ease of Use (70%) - **5.0**/undefined
     
-*   (30%) - **9.0**/undefined
+*   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-### 5.0 - Easeof Use
+The Ovente Non-Stick Electric Skillet SK11112B was the trickiest skillet to control out of all the ones we’ve tested in this product line. The silver lining is that it is safe to cook with, as well as easy to clean and store.
 
-### 9.0 - Cleaningand Storing
+### 5.0 - Ease of Use
+
+One issue with the Ovente is that we found the numbered temperature settings to be unintuitive (-1). More problematic were the imprecise and unstable temperatures (-1). In addition, the thermostat fits the socket a bit too tightly so you need to hold the skillet firmly to remove it.
+
+On the bright side, the indicator light was easy to see (+1). Also, the skillet is very lightweight and the four thermosetting plastic stands with anti-slip pads gripped the counter surface firmly (+3). Finally, the double-wall feature prevents the exterior from getting too hot, thus reducing the chance of accidental burning (+3).
+
+### 9.0 - Cleaning and Storing
+
+Despite the quality and design issues highlighted, we were happy that the non-stick coating of the Ovente released food without a problem—even the burnt caramel in our heat distribution test (+2). A simple hand-wash with warm water and dishwashing liquid should suffice (+2). Alternatively, everything except the thermostat can be cleaned in the dishwasher (+2).
+
+Since it has some nooks and crannies, let the skillet dry completely before putting it back in the box (+3).
