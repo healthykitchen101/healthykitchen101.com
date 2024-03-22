@@ -91,7 +91,7 @@ To make sure our **8 oz**, **1.38-inch top blade steak** developed the best crus
 
 After seasoning the steak and inserting a meat thermometer, we seared the first side for 2 min and 30 sec and the flipside for 3 min and 30 sec. Next, we dedicated 2 minutes to the edge with the fat cap and 1 minute each to the other edges. Finally, we added fresh rosemary and butter, allowing each side an additional 1 minute to cook.
 
-The more intense temperatures, while not good for pancakes, resulted in a favorable **deep amber color** on the steak’s crust. The cooking process raised the steak’s internal temperature to **131°F** which increased to **149°F** after  3 minutes of resting.
+The more intense temperatures, while not good for pancakes, resulted in a favorable **deep amber color** on the steak’s crust. The cooking process raised the steak’s internal temperature to **131°F** which increased to **149°F** after 3 minutes of resting.
 
 The entire process took around 15 min 25 sec, which was similar to the top-listers like the Hamilton Beach 38529K and Elite Gourmet EG-6203#. The meat, although still tender, went slightly beyond medium-rare and wasn’t as juicy as it should have been, resulting in a 7.5/10 score from our chef.
 
