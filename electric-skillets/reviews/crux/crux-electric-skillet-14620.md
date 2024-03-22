@@ -16,7 +16,7 @@ The heat distribution was better than other medium-sized skillets, such as the G
 
 Pancakes turned out average at the very best, while the heating cycle just wasn’t suited to cooking up a perfectly medium-rare steak.
 
-In addition, the coating on the pan rim had some chipping and the base had grainy specs protruding. We felt with a price tag of  **$46.80** (at the time of writing), the GreenLife is by far a better choice.
+In addition, the coating on the pan rim had some chipping and the base had grainy specs protruding. We felt with a price tag of **$46.80** (at the time of writing), the GreenLife is by far a better choice.
 
 **Things We Like**
 
@@ -57,7 +57,7 @@ Temperature Differences: 5.2%
 
 The Crux demonstrated highly even heat distribution which is a rarity in medium-sized skillets. Normally, temperatures at the edges are lower due to the pan being square but the heating element circular.
 
-To evaluate temperature consistency across the skillet's surface, we placed an  oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and deployed an infrared thermometer.
+To evaluate temperature consistency across the skillet's surface, we placed an oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and deployed an infrared thermometer.
 
 Our assessment, measuring five distinct points spanning from the center to the corners of the pan, revealed a **5.2% average temperature variance**. This scored an excellent 9/10 in our dataset, even slightly better than all larger skillets such as the top-performing Hamilton Beach 38529K.
 
