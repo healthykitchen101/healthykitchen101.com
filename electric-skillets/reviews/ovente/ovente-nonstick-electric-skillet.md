@@ -107,9 +107,9 @@ design Scores: **NaN**
     
 *   Lid (15%) - **9.0**/undefined
     
-*   (30%) - **6.0**/undefined
+*   Base (30%) - **6.0**/undefined
     
-*   (15%) - **5.0**/undefined
+*   Thermostat (15%) - **5.0**/undefined
     
 
 The Ovente Non-Stick Electric Skillet SK11112B had all the design features for a worthy skillet. However, its build quality was worrying, especially concerning the pan’s deformation.
@@ -152,23 +152,39 @@ The tempered glass lid is dishwasher-safe (+4). It has a steam vent to release t
 
 ### 6.0 - Base
 
-Material:
+Material: Thermosetting plastic
 
-Detachable:
+Detachable: No
 
-Anti-Slip Pads:
+Anti-Slip Pads: Four
 
-Dishwasher-Safe:
+Dishwasher-Safe: Yes
+
+The thermosetting plastic base has four stands with anti-slip pads at the bottom (+3). Since the pan is not detachable, make sure your dishwasher is large enough to fit the entire skillet (+3).
 
 ### 5.0 - Thermostat
 
-Temperature Range:
+Temperature Range: 1-2-3-4-5
 
-Detachable:
+Detachable: Yes
 
-Indicator Light:
+Indicator Light: Yes
 
-Dishwasher-Safe:
+Dishwasher-Safe: No
+
+The detachable thermostat fits the socket tightly and has a working indicator light (+5). Like most other thermostats, you shouldn’t put it in the dishwasher.
+
+The settings are numbered 1 through 5 rather than having set temperatures as with most other skillets (+1). The manual details the temperature oscillation range, but this is common with all skillets since they cycle on and off around the input temperature.
+
+*   1: 219–367°F
+*   2: 257–403°F
+*   3: 304–439°F
+*   4: 325–462°F
+*   5: 329–480°F
+
+In addition to these 5 settings, dialing between 0 (off) to 1 should maintain the skillet at around 150°F. If true, the Ovente should be good for different cooking methods than other skillets.
+
+In our actual use, however, we noticed that the actual maximum temperatures were a lot higher than the manual stated. This was probably due to a faulty heat sensor and made the Ovente very tricky to use as you can see with the results in our performance tests (-1).
 
 Usability
 ---------
