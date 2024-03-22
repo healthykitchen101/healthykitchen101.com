@@ -119,6 +119,32 @@ design Scores: **NaN**
 
 The Crux Non-Stick Electric Skillet 14620 looks good on the outside and has all the basic design features. The overall build quality is good, but the all-important ceramic non-stick coating unfortunately had some chipping on the rim.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-box-clu0o6c5r0008iq887ouadukb.jpg" alt="On the upper right is the Crux Non-Stick Electric Skillet 14620. On the left is its cardboard box. Below the skillet, on the left is a thermostat and on the right is an instruction manual." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: 2-year limited
+
+Inside the Crux box is one electric skillet, one pan lid, one thermostat, all secured within a large styrofoam pad. The instruction manual includes cooking methods, [USDA guidelines](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart), and some recipes to go along with the skillet. It also details safeguards, parts and features, before first use, instructions on operating, care and cleaning, maintenance, and storing.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-dimensions-clu0o6bv50004iq88as6z51e9.jpg" alt="The Crux Non-Stick Electric Skillet 14620 is 14.96 inches in length, 11.97 inches in width, and 7.68 inches in height." width="300px" height="200px">
+
+Length: 15.0" (38.0 cm)
+
+Width: 12.0" (30.4 cm)
+
+Height: 7.7" (19.5 cm)
+
+Weight: 5.4 lbs (2.4 kg)
+
+Our hand measurements matched well with the manufacturer’s 14.76" x 12" x 8. 07". We only weighed the skillet with the lid on, but the entire package should be around 8.55 pounds as they stated.
+
 ### 7.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-pan-clu0o6bof0002iq885sgrbdc1.jpg" alt="The pan of the Crux Non-Stick Electric Skillet 14620 is 11.8 inches in length, 11.8 inches in width, and 2.8 inches in depth." width="300px" height="200px">
@@ -184,6 +210,20 @@ Indicator Light: Yes
 Dishwasher-Safe: No
 
 The detachable thermostat has a conventional design with a standard temperature range from 200 to 400°F, along with a keep warm setting of around 150°F (+3). It is well-designed with a seamless fit and a working indicator light (+4). However, like most other thermostats, it is not dishwasher-safe.
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/crux-electric-skillet-14620-power-cord-clu0o6boi0003iq883zkk3u7l.jpg" alt="The flat two-prong power cord of the Crux Non-Stick Electric Skillet 14620 is 31.1 inches long." width="300px" height="200px">
+
+Type: Two-prong
+
+Length: 26.6" (67.5 cm)
+
+Power: 1300 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is a flat design and measures 26.57 inches in length. This may be slightly short for some users but it’s generally adequate for placing on a kitchen counter. It has a two-prong plug, which is typically perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
