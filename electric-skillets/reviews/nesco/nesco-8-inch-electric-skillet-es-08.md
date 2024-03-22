@@ -113,6 +113,32 @@ design Scores: **NaN**
 
 Although small and only 8 x 8 inches and 1.5 inches deep, the Nesco Non-Stick Electric Skillet ES-08 has plenty of capacity for a one-person cook up. It’s durable, but some people may not like that the pan isn’t dishwasher-safe.
 
+### In the Box
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-box-cltwmrn29005awz881fbdba10.jpg" alt="On the upper right is the Nesco Non-Stick Electric Skillet ES-08. On the left is its cardboard box. Below the skillet, on the right is a thermostat and on the left is an instruction manual." width="300px" height="200px">
+
+*   One electric skillet
+*   One pan lid
+*   One thermostat
+*   One instruction manual
+*   Warranty: 2 years
+
+Contained within the Nesco box is an electric skillet, a pan lid, and a thermostat, all tightly secured within a styrofoam pad. The manual lists parts and features, safeguards, first use and operating instructions, care and cleaning, maintenance, and storing tips. It also has instructions on cooking methods, [USDA health guidelines](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/safe-temperature-chart), and some recipes to go along with the skillet.
+
+### Dimensions
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-dimensions-cltwmrn1t0051wz88er3jhcpk.jpg" alt="The Nesco Non-Stick Electric Skillet ES-08 is 10.94 inches in length, 8.03 inches in width, and 5.51 inches in height." width="300px" height="200px">
+
+Length: 10.9" (27.8 cm)
+
+Width: 8.0" (20.4 cm)
+
+Height: 5.5" (14.0 cm)
+
+Weight: 2.4 lbs (1.1 kg)
+
+The measurements of 15"D x 15"W x 7"H and 3.5 lbs listed on their Amazon page seemed to be of the entire boxed package instead of just the skillet with the lid as our measurements show.
+
 ### 5.0 - Pan
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-pan-cltwmrn1x0053wz88b36mcwyb.jpg" alt="The pan of the Nesco Non-Stick Electric Skillet ES-08 is 7.79 inches in length, 7.79 inches in width, and 1.73 inches in depth." width="300px" height="200px">
@@ -182,6 +208,20 @@ While the design of the detachable thermostat is standard, its temperature range
 However, the number of settings are the same so we decided to score it the same as other skillets (+1). The ‘On’ setting maintains a temperature of around 200°F which is not the usual Keep Warm of 150°F.
 
 The thermostat has an indicator light and isn’t dishwasher-safe (+2). It fitted the socket well but held on a bit too tightly (+1). As a result, we had to put in a little effort holding down the skillet everytime we wanted to remove the thermostat.
+
+### Power Cord
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/nesco-8-inch-electric-skillet-power-cord-cltwmrn200055wz88ee9rcx2p.jpg" alt="The flat three-prong power cord of the Nesco Non-Stick Electric Skillet ES-08 is 38.58 inches long." width="300px" height="200px">
+
+Type: Three-prong
+
+Length: 38.6" (98.0 cm)
+
+Power: 800 W
+
+Rated Output: 120 V ~ 60 Hz
+
+The power cord is a flat design and 38.58 inches long, which is surprisingly lengthy for such a small skillet. It uses a two-prong plug which is typically not as safe as a grounded three-prong one.
 
 Usability
 ---------
