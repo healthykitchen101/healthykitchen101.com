@@ -60,7 +60,7 @@ To gauge temperature differences across the skillet's surface, we placed an oil 
 
 To its credit, the Ovente had a **highly even heat distribution** even to the edges. This was surprising considering the thin pan, but the combo of a round pan and round heating element seemed to work well.
 
-Our findings revealed an average **8.8% temperature variance** compared to a 10% standard average. This scored an 8.2/10 in our rating system, which was only lower than the Crux 14620 among our medium-sized skillet lineup.
+Our findings revealed an average **8.8% temperature variance** compared to a 10% standard average. This scored an 8.2/10 in our rating system, which was only lower than the [Crux 14620](https://healthykitchen101.com/electric-skillets/reviews/crux/crux-electric-skillet-14620/) among our medium-sized skillet lineup.
 
 However, with the speed at which the pan heated to 400°F, we were left wondering how cooking pancakes and steaks would turn out.
 
