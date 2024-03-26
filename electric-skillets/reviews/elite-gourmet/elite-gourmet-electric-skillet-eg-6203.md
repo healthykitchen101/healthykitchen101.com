@@ -233,7 +233,7 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-The Elite Gourmet Non-Stick Electric Skillet EG-6203# is super easy to use thanks to its thermostat having a trigger release. The non-stick pan was the easiest to clean out of all of our tested skillets. However, it could use a detachable and foldable base like the Presto 06857 for easier storage.
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# is super easy to use thanks to its thermostat having a trigger release. The non-stick pan was the easiest to clean out of all of our tested skillets. However, it could use a detachable and foldable base like the [Presto 06857](https://healthykitchen101.com/electric-skillets/reviews/presto/presto-foldaway-electric-skillet-06857/) for easier storage.
 
 ### 9.0 - Ease of Use
 
