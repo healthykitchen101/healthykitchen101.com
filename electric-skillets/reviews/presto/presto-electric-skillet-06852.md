@@ -155,13 +155,13 @@ Spout: No
 
 Dishwasher-Safe: Yes
 
-The Presto skillet boasts a 0.16-inch (4 mm) thick cast aluminum pan, which offers superior durability compared to non-cast aluminum (+4). The added thickness of the pan promotes more even heat distribution and reduces the likelihood of deformation under heat.
+The Presto 06852 skillet boasts a 0.16-inch (4 mm) thick **cast aluminum pan** which is 1 mm thicker than the average 3 mm of the Presto 06857 (+4). The added thickness of the pan promotes more even heat distribution and reduces the likelihood of deformation under heat.
 
-Our hand-measured capacity of the pan is 8.9 quarts, with an estimated usable volume of around 8 quarts (+1). It’s dishwasher-safe and features fixed handles but lacks a pouring spout (+3).
+Our hand-measured capacity of the pan is 8.9 quarts, with an estimated usable volume of around 8 quarts (+1). The handles are fixed to the pan as part of the base bracket and there is no pouring spout (+1). The complete unit, except for the thermostat, can go into the dishwasher (+2). 
 
 The surface of the pan is textured similarly to a cast iron skillet, enhancing its visual appeal. However, its impact on cooking performance remains uncertain to us.
 
-The non-stick coating of the pan is Teflon, which is typically more budget-friendly than ceramic coating(+1). However, some individuals may worry about health concerns associated with Teflon, despite the modern formulations being free of PFOA.
+Similar to the foldable Presco we reviewed, the non-stick coating of the pan is Teflon which is typically more budget-friendly than ceramic coating (+1). However, some people may have [health concerns](https://www.healthline.com/nutrition/nonstick-cookware-safety) around Teflon, despite the modern formulation being free of PFOA.
 
 ### 8.0 - Lid
 
@@ -175,7 +175,9 @@ Steam Vent: Yes
 
 Dishwasher-Safe: Yes
 
-The tempered glass lid is dishwasher-safe (+4). It has a steel handle and a steam vent to relieve pressure build-up during cooking (+3). However, the metal edging, while common, does not fit the pan as tightly as observed in some other skillets (+1).
+The tempered glass lid is dishwasher-safe (+4). It has a steel handle but no steam vent to relieve pressure build-up during cooking (+2).
+
+Moreover, the metal edging (+1), while common, does not fit the pan as tightly as observed in some other skillets. This may unintentionally relieve said pressure but we thought it should still count as a manufacturing flaw.
 
 ### 4.0 - Base
 
@@ -189,7 +191,7 @@ Anti-Slip Pads: No
 
 Dishwasher-Safe: Yes
 
-The Presto 06852 has two screw-on thermosetting plastic handles that also act as the base similarly to most other skillets (+2). These handles can go in the dishwasher along with the pan or separated for your convenience (+2). However, they lack anti-slip pads at the bottom for the extra grip on the table (+0).
+The Presto 06852 has two screw-on thermosetting plastic handles that form part of the base bracket and similar to most other skillets (+2). The entire unit can go in the dishwasher (+2). As mentioned, there are no anti-slip pads on the base stands for an extra-tight grip to the surface (+0).
 
 ### 7.0 - Thermostat
 
@@ -203,9 +205,9 @@ Indicator Light: Yes
 
 Dishwasher-Safe: No
 
-The detachable thermostat features a standard temperature range of 200 to 400°F (+3). Meanwhile, the warm setting, which is approximately 150°F, does not maintain the set temperature like some other skillets.
+The detachable thermostat features a standard temperature range of 200 to 400°F (+3). Meanwhile, the warm setting, which is approximately 150°F, does not maintain the set temperature like some other skillets. This is the same as the Presto 06857.
 
-The thermostat fits the socket nicely, facilitating easy removal (+2). It includes an indicator light but is not dishwasher-safe, similar to most other electric skillets (+2).
+The thermostat fits the socket nicely and is easy to remove (+2). Similar to most other skillets, the thermostat has an indicator light and is not dishwasher-safe (+2).
 
 ### Power Cord
 
@@ -219,7 +221,7 @@ Power: 1500 W
 
 Rated Output: 120 V ~ 60 Hz
 
-The power cord features a flat design and measures 31.1 inches in length, which, while slightly shorter than preferred, is adequate for cooking on a kitchen counter. It has a two-prong plug, which is generally perceived as less safe than a grounded three-prong plug.
+The power cord is exactly the same as the Presto 06857 with a flat design and measures 31.1 inches in length. While slightly shorter than preferred, this is adequate for cooking on a kitchen counter. It has a two-prong plug, which is generally perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
