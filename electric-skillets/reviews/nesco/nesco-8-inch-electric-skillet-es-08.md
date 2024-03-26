@@ -87,13 +87,13 @@ Heating Time: 1 min 58 sec
 
 Temperature: High heat / 400°F
 
-To make sure our **8 oz**, **1.38-inch top blade steak** developed the best crust possible, we first preheated the Nesco to 400°F. This skillet only took **1 min 58 sec** to preheat to 400°F, and only 30 seconds longer than to 350°F. This compared exceptionally well to even medium-sized skillets such as the Crux 14620 which heated to 400°F in 3 minutes.
+To make sure our **8 oz**, **1.38-inch top blade steak** developed the best crust possible, we first preheated the Nesco to 400°F. This skillet only took **1 min 58 sec** to preheat to 400°F, and only 30 seconds longer than to 350°F. This compared exceptionally well to even medium-sized skillets such as the [Crux 14620](https://healthykitchen101.com/electric-skillets/reviews/crux/crux-electric-skillet-14620/) which heated to 400°F in 3 minutes.
 
 After seasoning the steak and inserting a meat thermometer, we seared the first side for 2 min and 30 sec and the flipside for 3 min and 30 sec. Next, we dedicated 2 minutes to the edge with the fat cap and 1 minute each to the other edges. Finally, we added fresh rosemary and butter, allowing each side an additional 1 minute to cook.
 
 The more intense temperatures, while not good for pancakes, resulted in a favorable **deep amber color** on the steak’s crust. The cooking process raised the steak’s internal temperature to **131°F** which increased to **149°F** after 3 minutes of resting.
 
-The entire process took around 15 min 25 sec, which was similar to the top-listers like the Hamilton Beach 38529K and Elite Gourmet EG-6203#. The meat, although still tender, went slightly beyond medium-rare and wasn’t as juicy as it should have been, resulting in a 7.5/10 score from our chef.
+The entire process took around 15 min 25 sec, which was similar to the top-listers like the [Hamilton Beach 38529K](https://healthykitchen101.com/electric-skillets/reviews/hamilton-beach/hamilton-beach-electric-skillet-38529k/) and [Elite Gourmet EG-6203#](https://healthykitchen101.com/electric-skillets/reviews/elite-gourmet/elite-gourmet-electric-skillet-eg-6203/). The meat, although still tender, went slightly beyond medium-rare and wasn’t as juicy as it should have been, resulting in a 7.5/10 score from our chef.
 
 If we shortened the searing time for a more ideal doneness, the crust would lack color and crispiness. So, we thought this was a fair compromise.
 
