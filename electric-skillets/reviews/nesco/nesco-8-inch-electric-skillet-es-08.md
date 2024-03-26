@@ -69,7 +69,7 @@ Heating Time: 1 min 24 sec
 
 Temperature: Medium heat / 350°F
 
-Despite its low power output, this skillet preheats faster than even medium-sized ones like the GreenLife CC003725-002. The Nesco only took **1 min 24 sec** to preheat to 350°F.
+Despite its low power output, this skillet preheats faster than even medium-sized ones like the [GreenLife CC003725-002](https://healthykitchen101.com/electric-skillets/reviews/greenlife/greenlife-electric-skillet-5qt/). The Nesco only took **1 min 24 sec** to preheat to 350°F.
 
 With our homemade pancake batter ready, our **3.17 oz pancake** only needed 50 seconds for the top side and 2 minutes for the bottom side. In most other skillets, pancakes cooked for 1 min 30 sec and 3 min respectively. This was quite speedy so we didn’t mind that the skillet is only large enough for one pancake at a time.
 
