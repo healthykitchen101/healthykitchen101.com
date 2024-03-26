@@ -233,15 +233,15 @@ usability Scores: **NaN**
 *   Cleaning and Storing (30%) - **9.0**/undefined
     
 
-The Presto Non-Stick Electric Skillet 06852 doesn’t have ultra-convenient detachable and foldable handles like the 06857 model but it’s easy to use, clean, and store away. The biggest problem was how easily displaced it was due to a lack of anti-slip pads.
+The Presto Non-Stick Electric Skillet 06852 doesn’t have ultra-convenient detachable and foldable handles like the Presto 06857 but it’s just as easy to use, clean, and store away. The main usability issue was no anti-slip pads so the pan was prone to moving around.
 
 ### 5.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-ease-use-clu2c33lp000ltf8817lu0nlg.jpg" alt="The Presto Electric Skillet 06852 with its thermostat inserted." width="300px" height="200px">
 
-We found that the thermostat was a nice fit and the temperatures stayed precise (+2). Also, the skillet's exterior consistently maintained a safe temperature, eliminating the risk of accidental burning (+3).
+We found that the thermostat was a nice fit and the temperatures stabilized well (+2). Also, the skillet's exterior maintained a safe temperature, so there’s no risk of accidental burning (+3). 
 
-However, the indicator light is below the surface of the thermostat so it can be slightly difficult to see under bright lighting. Additionally, with no anti-slip pads on the base, we had a few cases where we accidentally knocked into the skillet and it started sliding away.
+However, both Prestos were similar in that their indicator light is sunken and somewhat difficult to see under bright lighting. Also, this basic Presto has no anti-slip pads on the base and we had some incidences of the skillet moving around while cooking.
 
 ### 9.0 - Cleaning and Storing
 
