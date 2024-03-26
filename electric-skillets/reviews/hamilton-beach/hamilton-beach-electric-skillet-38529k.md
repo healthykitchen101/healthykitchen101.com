@@ -220,7 +220,7 @@ Power: 1500 W
 
 Rated Output: 120 V ~ 60 Hz
 
-The power cord has a flat design and measures 38.74 inches in length. While quite short by our standards, it should suffice for cooking on the kitchen counter. The cord utilizes a two-prong plug, which is typically perceived as less safe than a grounded three-prong plug.
+The power cord has a flat design and measures 28.74 inches in length. While quite short by our standards, it should suffice for cooking on the kitchen counter. The cord utilizes a two-prong plug, which is typically perceived as less safe than a grounded three-prong plug.
 
 Usability
 ---------
