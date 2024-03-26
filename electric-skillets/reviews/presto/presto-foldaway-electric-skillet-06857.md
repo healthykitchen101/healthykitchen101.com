@@ -89,7 +89,7 @@ After seasoning the steak and inserting a meat thermometer, we seared both sides
 
 The cooking process raised the steak’s internal temperature to **135°F** which increased to **142°F** after a standard 3 minute resting time. This hit the sweet spot for an **excellent medium-rare** steak that was both **tender** and **juicy**. The entire process took around 19 minutes.
 
-The skillet’s heat was **stable** but didn’t reach 500°F like some other skillets, so the crust wasn’t the thickest nor the crispiest. Nonetheless, it was good enough to earn a 9/10 from our chef. Only the Hamilton Beach 38529K scored higher for its crispier crust.
+The skillet’s heat was **stable** but didn’t reach 500°F like some other skillets, so the crust wasn’t the thickest nor the crispiest. Nonetheless, it was good enough to earn a 9/10 from our chef. Only the [Hamilton Beach 38529K](https://healthykitchen101.com/electric-skillets/reviews/hamilton-beach/hamilton-beach-electric-skillet-38529k/) scored higher for its crispier crust.
 
 Design
 ------
