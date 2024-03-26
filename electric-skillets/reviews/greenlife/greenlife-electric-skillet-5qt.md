@@ -88,7 +88,7 @@ Once the steak was seasoned and a meat thermometer inserted, we seared both side
 
 Finally, we added fresh rosemary and butter, allowing each side an additional **1 min**. As a result, the internal temperature of the steak reached **133°F**, rising to **141°F** after a 3-minute resting period. All this took 16 minutes.
 
-Unfortunately, although the heat was steady, it was not high enough to quickly sear the outside as well as the Bella did. As a result, juice seeped out before we could flip the steak for the first time. This made the meat, while still a **tender medium-rare**, not as juicy as it could have been, thus only scoring a 7.5/10.
+Unfortunately, although the heat was steady, it was not high enough to quickly sear the outside as well as the [Bella](https://healthykitchen101.com/electric-skillets/reviews/bella/bella-electric-skillet-14607/) did. As a result, juice seeped out before we could flip the steak for the first time. This made the meat, while still a **tender medium-rare**, not as juicy as it could have been, thus only scoring a 7.5/10.
 
 Design
 ------
