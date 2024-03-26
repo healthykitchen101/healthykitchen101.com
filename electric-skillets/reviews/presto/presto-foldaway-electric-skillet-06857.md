@@ -59,7 +59,7 @@ The Presto had superbly even heat distribution outdoing most other skillets we t
 
 To detect the temperature differences across the skillet’s surface, we placed an oil absorbent sheet of saturated sugar water on top. We then heated the pan to 400°F and used an infrared thermometer to check key temperature points.
 
-Between five points from the center of the pan to the edges, we noted a **5.7% difference** in average temperatures. This number equated to an impressive 8.9/10 which was only slightly lower than the much smaller Nesco.
+Between five points from the center of the pan to the edges, we noted a **5.7% difference** in average temperatures. This number equated to an impressive 8.9/10 which was only slightly lower than the much smaller [Nesco](https://healthykitchen101.com/electric-skillets/reviews/nesco/nesco-8-inch-electric-skillet-es-08/).
 
 ### Making Pancakes
 
