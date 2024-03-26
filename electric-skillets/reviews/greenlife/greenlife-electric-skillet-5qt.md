@@ -56,7 +56,7 @@ The GreenLife didn’t have the most evenly distributed heat, but it wasn’t ba
 
 To gauge temperature differences across the skillet's surface, we placed a saturated sugar water-soaked oil absorbent sheet in it. Then, we heated the pan to 400°F and used an infrared thermometer to measure 5 key points.
 
-Our findings revealed an average temperature variance of **11.85%** compared to a 10% standard average. This scored a 7.6/10 in our rating system, which fell slightly short of the same-sized Crux and the Bella electric skillets.
+Our findings revealed an average temperature variance of **11.85%** compared to a 10% standard average. This scored a 7.6/10 in our rating system, which fell slightly short of the same-sized [Crux](https://healthykitchen101.com/electric-skillets/reviews/crux/crux-electric-skillet-14620/) and the Bella electric skillets.
 
 ### Making Pancakes
 
