@@ -168,7 +168,7 @@ Dishwasher-Safe: Yes
 
 The Ovente skillet has a simple **aluminum pan** as opposed to most other skillets we’ve tested that have a more durable cast aluminum pan (+1). There is, however, an additional exterior layer covering the pan and heating element (+1).
 
-We calculated the total capacity to be around 2.5 quarts which was quite shallow compared to other 12‒inch skillets such as the GreenLife CC003725-002. Moreover, less than 2 quarts are usable volume.
+We calculated the total capacity to be around 2.5 quarts which was quite shallow compared to other 12‒inch skillets such as the [GreenLife CC003725-002](https://healthykitchen101.com/electric-skillets/reviews/greenlife/greenlife-electric-skillet-5qt/). Moreover, less than 2 quarts are usable volume.
 
 It’s also the thinnest pan we’ve seen so far being less than 1 mm or 0.04 inches thick (+1), so it came as no surprise that the pan deformed due to high heat (-1). The area above the heating element indented while the area towards the center of the pan expanded upwards.
 
