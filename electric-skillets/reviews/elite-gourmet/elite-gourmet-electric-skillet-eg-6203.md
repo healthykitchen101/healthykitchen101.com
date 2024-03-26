@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **9.0**/undefined
     
 
-The Elite Gourmet Non-Stick Electric Skillet EG-6203# measures 16 inches across and holds up to 10.5 quarts. It’s the largest and deepest pan in our line-up capable of frying up chicken for 6 to 8 people.
+The Elite Gourmet Non-Stick Electric Skillet EG-6203# measures 16 inches across and holds up to 10.5 quarts. It’s the [largest and deepest](https://healthykitchen101.com/electric-skillets/reviews/best/) pan in our line-up capable of frying up chicken for 6 to 8 people.
 
 We found the **marble-coated raised honeycomb** pan aesthetic, functional, and easy to clean. Pancakes cooked perfectly, while steaks were extra tender and juicy with a light crusting. Considering this, and the fastest preheating times of any large skillet, we let pass the somewhat uneven heat distribution.
 
