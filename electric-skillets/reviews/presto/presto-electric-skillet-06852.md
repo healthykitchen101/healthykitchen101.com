@@ -10,11 +10,11 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.2**/undefined
     
 
-The 16-inch Presto Electric Skillet 06852 could have made the list if not for our top two contenders. Priced **$63** (at the time of writing), it didn’t have fancy design features but that didn’t affect its ease of use.
+The 16-inch Presto Electric Skillet 06852 could have made the list if not for our top two contenders taking up the spots for large skillets. Priced **$63** (at the time of writing), it doesn’t have fancy design features but that didn’t affect its user-friendliness.
 
-It had equally good maximum temperature retention as our runner up—the Presto Foldaway 06857 of the same brand—and better **temperature stability** but less even heat distribution. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
+It had equally good maximum temperature retention as our runner up—the Presto Foldaway 06857. Overall, the **temperature stability** was better while the heat distribution was only marginally less even. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
 
-The PFOA-free Teflon non-stick surface, although not a ceramic coating, effectively reduced the amount of oil required for cooking as well as the effort in cleaning afterward. The main issue for us was that its pan, although high quality, lacked the anti-slip pads to keep it in place while cooking, causing unnecessary inconveniences.
+While we would have preferred a ceramic coating, the PFOA-free Teflon non-stick surface reduced the need for oil or grease and was super-easy to clean. However, the main usability issue for this pan was the lack of anti-slip pads—something quite unusual. We found the pan moved around too much when cooking.
 
 **Things We Like**
 
@@ -45,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **8.8**/undefined
     
 
-The Presto Non-Stick Electric Skillet 06852 stands out for its temperature stability, even heat distribution, and high maximum temperature. These qualities resulted in delicious pancakes and succulent steaks, on par with the Presto 06857, during our testing sessions.
+The Presto Non-Stick Electric Skillet 06852 stands out for its stable temperature , relatively good heat distribution, and high maximum temperature. In our test sessions, these all resulted in delicious pancakes and succulent steaks—comparable to the Presto 06857 with a folding base.
 
 ### Analyzing Heat Distribution
 
