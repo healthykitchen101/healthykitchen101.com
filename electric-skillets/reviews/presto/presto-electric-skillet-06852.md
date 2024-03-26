@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 The 16-inch Presto Electric Skillet 06852 could have made the list if not for our top two contenders taking up the spots for large skillets. Priced **$63** (at the time of writing), it doesn’t have fancy design features but that didn’t affect its user-friendliness.
 
-It had equally good maximum temperature retention as our runner up—the Presto Foldaway 06857. Overall, the **temperature stability** was better while the heat distribution was only marginally less even. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
+It had equally good maximum temperature retention as [our runner up](https://healthykitchen101.com/electric-skillets/reviews/best/)—the Presto Foldaway 06857. Overall, the **temperature stability** was better while the heat distribution was only marginally less even. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
 
 While we would have preferred a ceramic coating, the PFOA-free Teflon non-stick surface reduced the need for oil or grease and was super-easy to clean. However, the main usability issue for this pan was the lack of anti-slip pads—something quite unusual. We found the pan moved around too much when cooking.
 
@@ -29,9 +29,9 @@ While we would have preferred a ceramic coating, the PFOA-free Teflon non-stick 
 *   Lid not the best fit
 *   No anti-slip pads
 
-Established in 1905, National Presto Industries, Inc. is a manufacturer of small electric appliances in the United States. Their range of products includes vacuum sealers, knife sharpeners, pizza ovens, air fryers, pressure cookers, waffle makers, and electric skillets.
+National Presto Industries, Inc. has been a manufacturer of small kitchen appliances in the United States since 1905. They also make vacuum sealers, knife sharpeners, pizza ovens, air fryers, pressure cookers, and waffle makers.
 
-We assessed the PrestoNon-Stick Electric Skillet 06852 alongside the Foldaway 06857 so a comparison was inevitable. Their initial tests of frying eggs and boiling water yielded similar results. Therefore, we were eager to put them to a faceoff in terms of performance, design, and ease of use.
+We put the PrestoNon-Stick Electric Skillet 06852 through its paces alongside the Foldaway 06857. Our standard test run of frying eggs and boiling water yielded similar results. Therefore, we were eager for a faceoff in terms of performance, design, and ease of use.
 
 Performance
 -----------
