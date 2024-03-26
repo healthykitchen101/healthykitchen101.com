@@ -247,6 +247,6 @@ However, both Prestos were similar in that their indicator light is sunken and s
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-electric-skillet-06852-cleaning-storing-clu2c35k5000ptf88ady98ev9.jpg" alt="Burnt caramel on the surface of the Presto Electric Skillet 06852." width="300px" height="200px">
 
-As anticipated from a high-quality non-stick pan, the food is effortlessly released from the surface, requiring only a quick, mild-soapy hand wash for cleaning (+4). Grease from the nooks and crannies along the textured surface cleaned out easily as well (+1).
+Similar to the foldable Presto 06857, food was effortlessly released from the high-quality non-stick pan. It only needed a quick, mild-soapy hand wash (+4). Likewise, grease in nooks and crannies along the textured surface cleaned out easily (+1).
 
-The screw-on handles give you the option of dismantling them to put in the dishwasher or store away. (+4).
+Although the base doesn’t clip off like the Presto 06857, the screw-on handles are easy to take off if you have a screwdriver handy. In this way, you can separate the base if needs be for storage or if your dishwasher is not big enough to fit the entire unit (+4).
