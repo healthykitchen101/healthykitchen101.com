@@ -55,11 +55,11 @@ Temperature: High heat / 400°F
 
 Temperature Differences: 5.8%
 
-The Presto skillet showcased exceptional heat distribution, surpassing the majority of other skillets in our testing lineup. This superior performance can be attributed to its thicker-than-average cast aluminum pan and sizable rectangular heating element.
+The Presto 06852 skillet showcased exceptional heat distribution, surpassing the majority of other skillets in our test-lineup. This superior performance is largely due to its thicker-than-average cast aluminum pan and sizable rectangular heating element.
 
 In our testing process, we used oil absorbent sheets saturated with sugar water to detect temperature variances across the skillet's surface. After heating the pan to 400°F, we measured key temperature points using an infrared thermometer.
 
-Across five designated points spanning from the pan's center to its edges, we observed a mere **5.8% difference** in average temperatures. This remarkable consistency earned the skillet a commendable rating of 8.8/10, literally one decimal point lower than the Presto 06857.
+Across five designated points spanning from the pan's center to its edges, we observed a mere **5.8% temperature variance** on average. This was only one decimal point lower than the Presto 06857 (5.7%)—a remarkable consistency and worthy of a commendable rating of 8.8/10.
 
 ### Making Pancakes
 
@@ -69,13 +69,13 @@ Heating Time: 3 min 44 sec
 
 Temperature: Medium heat / 350°
 
-The Presto skillet preheated to 350°F in just **3 min 44 sec**, quite fast for its substantial size, earning it a rating of 8.3/10.
+The Presto skillet preheated to 350°F in just **3 min 44 sec**, or 6 sec faster than the foldable Presto 06857. This was quite fast for its large size scoring 8.3/10.
 
-Using our original electric skillet pancake batter, it cooked a **3.17 oz pancake** to perfection in a mere 4 min and 30 sec. The result was in a delightfully steamy and fluffy interior, although with a slightly less even golden brown hue compared to its counterpart, the Presto 06857 which had a competitively better garnering a rating of 9/10.
+Using our original electric skillet pancake batter, it cooked a **3.17 oz pancake** to perfection in a mere 4 min and 30 sec—exactly the same as the Presto 06857. The result was a delightfully steamy and fluffy interior. The golden brown hue, however, was not as good as its rival which had a competitively better rating of 9/10.
 
-This skillet achieved an optimal cooking time with **1 min 30 sec** on the first side and double the time on the flip side. And with its 16-inch size, the pan can accommodate 3 to 4 pancakes simultaneously. Depending on your recipe, adjustments may be necessary.
+This skillet achieved a perfect cooking time with **1 min 30 sec** on the first side and double that on the flip side. Both Prestos have a 16-inch-, pan that can make 3 to 4 pancakes at a time. Depending on your recipe, you may need to adjust cooking times.
 
-Thanks to its non-stick coating, butter or oil was unnecessary, although adding oil is recommended to prolong the coating's lifespan.
+Thanks to its non-stick coating, no butter or oil was needed but adding a little can prolong the coating's lifespan.
 
 ### Cooking Steaks
 
@@ -85,15 +85,15 @@ Heating Time: 5 min 20 sec
 
 Temperature: High heat / 400°F
 
-To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first needed to preheat the Presto to 400°F. This took **5 min** **20 sec** which was quite slow even for a large skillet, so we had to score it 6.7/10.
+To make sure our **8 oz**, **1.38-inch top blade steak** had the best crust possible, we first preheated the Presto to 400°F. This took **5 min** **20 sec** which, although a full 40 sec faster than its faceoff partner, was slow for a large skillet and scored only 6.7/10.
 
-After seasoning the steak and inserting a meat thermometer, we seared both sides for **4 min**. We then gave the long edge with the fat cap 2 min, the other long edge for 1 min 30 sec, and the shorter edge for 1 min. Finally, we added some fresh rosemary and butter  and seared the first side for 30 sec and the flip side 1 min more.
+After seasoning the steak and inserting a meat thermometer, we seared both sides for **4 min**. We then gave the long edge with the fat cap 2 min, the other long edge for 1 min 30 sec, and the shorter edge for 1 min. Finally, we added some fresh rosemary and butter and seared the first side for 30 sec and the flip side 1 min more.
 
 The cooking process raised the steak’s internal temperature to **133°F** which increased to **140°F** after a standard 3 minute resting time. This hit the sweet spot for an **excellent medium-rare** steak that was both **tender** and **juicy**.
 
-Interestingly, the entire process took around 17 minutes which was 2 minutes shorter than the Presto 06857 but their results were similar. Therefore, our chef gave the steak the same high score of 9/10.
+Interestingly, the entire process took around 17 minutes which was **2 minutes shorter** than the Presto 06857—but their results were similar. Therefore, our chef gave the steak the same high score of 9/10.
 
-We assumed the shorter cooking time was due to a more stable heat from the Presto 06852’s 1-mm thicker pan. Nonetheless, the skillet wasn’t as hot as the Hamilton Beach 38529K for that crispier crust.
+We assumed a more stable heat resulted in a shorter cooking time due to this basic Presto having a 1‒mm thicker pan. Nonetheless, this skillet wasn’t as hot as the Hamilton Beach 38529K for that crispier crust.
 
 Design
 ------
@@ -109,7 +109,7 @@ design Scores: **NaN**
 *   Thermostat (15%) - **7.0**/undefined
     
 
-The Presto Non-Stick Electric Skillet 06852 has a thick, durable pan with a cast iron pattern. However, we felt such a heavy pan would require anti-slip pads on the bottom to keep it in place. It also shared the same problem of ill-fitting lid as the 06857 model.
+The Presto Non-Stick Electric Skillet 06852 has an extra-thick, durable pan with a cast iron patterning. However, we felt even such a heavy pan should have anti-slip pads on the bottom. It also shared the same problem of an ill-fitting lid as the fancier 06857 model.
 
 ### In the Box
 
@@ -121,7 +121,7 @@ The Presto Non-Stick Electric Skillet 06852 has a thick, durable pan with a cast
 *   One instruction manual
 *   Warranty: US 2-year limited
 
-The Presto box contains one electric skillet, one pan lid, two screw-on handles, and one thermostat, all held in place by a large styrofoam pad to prevent damage during transportation. The included manual features safeguards, assembly and operating instructions, care and cleaning, as well as recommended cooking times and temperatures for various foods.
+The Presto box contains one electric skillet, one pan lid, two screw-on handles, and one thermostat, all held securely in place by a large styrofoam pad. The included manual features safeguards, assembly and operating instructions, care and cleaning, as well as recommended cooking times and temperatures for various foods.
 
 ### Dimensions
 
