@@ -144,7 +144,7 @@ Width: 12.0" (30.5 cm)
 
 Height: 5.9" (15.0 cm)
 
-Weight: 3.3 oz (94 g)
+Weight: 3.3 lbs (1.5 kg)
 
 The manufacturer’s dimensions of 13.5"D x 11.5"W x 4"H were slightly different from our hand-measured ones that took the lid’s knob handle into account.
 
