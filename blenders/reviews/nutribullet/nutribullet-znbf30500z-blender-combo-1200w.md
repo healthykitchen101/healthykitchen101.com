@@ -55,7 +55,7 @@ However, this blender positively shined in all other areas of our testing by con
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjxbo000kow88c6ff47qc.jpg" alt="The NutriBullet motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjde9000jow881bfvb6zh.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a NutriBullet smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uk0t0000w0q882bdlhtea.jpg" alt="NutriBullet Blender Combo 1200 Watt Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uk0t0000w0q882bdlhtea.jpg" alt="NutriBullet Blender Combo 1200 Watt Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjxbo000kow88c6ff47qc.jpg" alt="The NutriBullet motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwjde9000jow881bfvb6zh.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a NutriBullet smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
 
 Blending Time: 1 min
 
@@ -71,7 +71,7 @@ For those who often struggle with a hectic morning schedule and are looking for 
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwnov7000mow88bfkzerfp.jpg" alt="The NutriBullet motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 49 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwl2e6000low88f5b03cc9.jpg" alt="A sample of frozen fruit smoothie created with a NutriBullet blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uojlx0000k288gw297vso.jpg" alt="NutriBullet Blender Combo 1200 Watt Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9uojlx0000k288gw297vso.jpg" alt="NutriBullet Blender Combo 1200 Watt Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwnov7000mow88bfkzerfp.jpg" alt="The NutriBullet motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 49 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwl2e6000low88f5b03cc9.jpg" alt="A sample of frozen fruit smoothie created with a NutriBullet blender, spread on a white paper." width="300px" height="200px">
 
 Blending Time: 1 min 50 seconds
 
@@ -85,7 +85,7 @@ In the end, the tamper was what gave the NutriBullet ZNBF30500Z an edge over its
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwpi0c000oow88gru3hh8z.jpg" alt="The NutriBullet motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 30 second." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwos2s000now886ysb0fkm.jpg" alt="A mesh strainer filters a protein shake made by the NutriBullet, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsn10cia000ek2887aj36lw2.jpg" alt="NutriBullet Blender Combo 1200 Watt Protein Shake Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsn10cia000ek2887aj36lw2.jpg" alt="NutriBullet Blender Combo 1200 Watt Protein Shake Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwpi0c000oow88gru3hh8z.jpg" alt="The NutriBullet motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 30 second." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwos2s000now886ysb0fkm.jpg" alt="A mesh strainer filters a protein shake made by the NutriBullet, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 1 min 30 seconds
 
@@ -99,7 +99,7 @@ Indeed, the NutriBullet’s results, blending speed, and performance were impres
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwr3kc000qow884h7c0ocy.jpg" alt="The NutriBullet is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwqitt000pow88btbegm7x.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9v9lne0002k288etpyheqq.jpg" alt="NutriBullet Blender Combo 1200 Watt Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cls9v9lne0002k288etpyheqq.jpg" alt="NutriBullet Blender Combo 1200 Watt Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwr3kc000qow884h7c0ocy.jpg" alt="The NutriBullet is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpwqitt000pow88btbegm7x.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on a white paper." width="300px" height="200px">
 
 Blending Time: 6 mins
 
@@ -119,7 +119,7 @@ If your culinary adventure frequently involves making nut butter, this NutriBull
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpws6k5000row885ymddrcs.jpg" alt="The NutriBullet ZNBF30500Z blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clso39rlm000fk2882zf18k3i.jpg" alt="NutriBullet Blender Combo 1200 Watt Crushed Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clso39rlm000fk2882zf18k3i.jpg" alt="NutriBullet Blender Combo 1200 Watt Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhpws6k5000row885ymddrcs.jpg" alt="The NutriBullet ZNBF30500Z blender is beside a black tray containing its crushed ice." width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
