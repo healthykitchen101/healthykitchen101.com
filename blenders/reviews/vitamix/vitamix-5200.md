@@ -57,7 +57,7 @@ Nonetheless, this minor drawback doesn’t hurt its overall rating much. The Vit
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8tq7e0003668811nmbpd0.jpg" alt="The Vitamix 5200 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8ukh4000466887w2g4w4y.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4f1iki0003qw88ebl4dbgg.jpg" alt="Vitamix 5200 blender Green smoothie video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4f1iki0003qw88ebl4dbgg.jpg" alt="Vitamix 5200 blender Green smoothie video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8tq7e0003668811nmbpd0.jpg" alt="The Vitamix 5200 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothies spread while a smartphone showcases the blending time of 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8ukh4000466887w2g4w4y.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
 
 Blending Time: 1 min
 
@@ -71,7 +71,7 @@ The extraordinary outcome of the Vitamix 5200 test is a testament to the blender
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8x9m5000666888hgr0ydo.jpg" alt="The Vitamix 5200 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 9 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4fta5o0004qw885yswf33t.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr1r79hr0000948815tlfxsm.jpg" alt="Vitamix 5200 frozen smoothies video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr1r79hr0000948815tlfxsm.jpg" alt="Vitamix 5200 frozen smoothies video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha8x9m5000666888hgr0ydo.jpg" alt="The Vitamix 5200 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie, while a smartphone displays a blending time of 1 minute and 9 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4fta5o0004qw885yswf33t.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px">
 
 Blending Time: 1 min 10 seconds
 
@@ -85,7 +85,7 @@ This test also demonstrated how important a tamper can be in promoting a smooth,
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha92clk0008668859ig6euj.jpg" alt="The Vitamix 5200 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha93a3h00096688bfk16sih.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix 5200, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4cddd30002qw882dna2q4u.jpg" alt="Vitamix 5200 blender Protein sharkes video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4cddd30002qw882dna2q4u.jpg" alt="Vitamix 5200 blender Protein sharkes video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha92clk0008668859ig6euj.jpg" alt="The Vitamix 5200 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha93a3h00096688bfk16sih.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix 5200, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 1 min
 
@@ -97,7 +97,7 @@ In contrast, other blenders we tested struggled to keep up, with most leaving th
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha94kkr000a66884kpi0tcj.jpg" alt="The Vitamix 5200 is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha95l2g000b6688dapg2wmb.jpg" alt="A sample of almond butter created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4be5bv0001qw8848mhe8db.jpg" alt="Vitamix 5200 blender Almond Butter video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clr4be5bv0001qw8848mhe8db.jpg" alt="Vitamix 5200 blender Almond Butter video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha94kkr000a66884kpi0tcj.jpg" alt="The Vitamix 5200 is beside a white plate containing almond butter with a spatula nestled inside, and a smartphone revealing a blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha95l2g000b6688dapg2wmb.jpg" alt="A sample of almond butter created with a Vitamix 5200 blender, spread on a white paper." width="300px" height="200px">
 
 Blending Time: 1 min
 
@@ -109,7 +109,7 @@ But fear not, because the Vitamix 5200 is the exception to the rule. In just 60 
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha979oz000c66882fipa2xu.jpg" alt="The Vitamix 5200 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhaaxd87000s6688h7q41ioz.jpg" alt="The scale's screen shows  2.28 oz of unblended ice cubes remaining from the Vitamix 5200. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clreey9pp0045qw8894fi2yh6.jpg" alt="Vitamix 5200 blender Crushed Ice video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clreey9pp0045qw8894fi2yh6.jpg" alt="Vitamix 5200 blender Crushed Ice video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clha979oz000c66882fipa2xu.jpg" alt="The Vitamix 5200 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clhaaxd87000s6688h7q41ioz.jpg" alt="The scale's screen shows  2.28 oz of unblended ice cubes remaining from the Vitamix 5200. " width="300px" height="200px">
 
 Ice Fineness: Fine
 
