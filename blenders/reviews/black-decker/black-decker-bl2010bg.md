@@ -50,7 +50,7 @@ The only issue was that our Black+Decker consistently emitted a heated-plastic-l
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa4xt10002ab88bv0ha79p.jpg" alt="The Black+Decker Crush Master blender motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa5hwc0003ab88d5t4fwnj.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Black+Decker smoothies blended for 2 minutes 30 seconds, three minutes, 3 minute 30 seconds, and four minutes." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa4xt10002ab88bv0ha79p.jpg" alt="The Black+Decker Crush Master blender motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa5hwc0003ab88d5t4fwnj.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Black+Decker smoothies blended for 2 minutes 30 seconds, three minutes, 3 minute 30 seconds, and four minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu973x8i001ktf88awuzhng8.jpg" alt="Black and Decker 10 Speed Blender Smoothie Video" width="300px" height="200px">
 
 Blending Time: 3 mins 30 seconds
 
@@ -62,7 +62,7 @@ This speedy performance means the Black+Decker is a reliable choice for those se
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa6u090004ab881yeb20c8.jpg" alt="The Black+Decker Crush Master motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa75gf0005ab88ghfi0r95.jpg" alt="A sample of frozen fruit smoothie created with the Black+Decker Crush Master blender, spread on white paper. " width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa6u090004ab881yeb20c8.jpg" alt="The Black+Decker Crush Master motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa75gf0005ab88ghfi0r95.jpg" alt="A sample of frozen fruit smoothie created with the Black+Decker Crush Master blender, spread on white paper. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu974l0t001mtf88e0f7hyjn.jpg" alt="Black and Decker 10 Speed Blender Frozen Smoothie Video" width="300px" height="200px">
 
 Blending Time: 5 mins
 
@@ -76,7 +76,7 @@ Nonetheless, considering the blender’s price, one might argue this could be a 
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8iec0006ab885d1hhk67.jpg" alt="The Black+Decker Crush Master motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8ws30007ab88arto44xl.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8iec0006ab885d1hhk67.jpg" alt="The Black+Decker Crush Master motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8ws30007ab88arto44xl.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu974kym001ltf88ady791zj.jpg" alt="Black and Decker 10 Speed Blender Protein Shakes Video" width="300px" height="200px">
 
 Blending Time: 2 mins 30 seconds
 
