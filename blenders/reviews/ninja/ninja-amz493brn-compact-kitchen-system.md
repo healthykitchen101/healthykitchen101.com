@@ -52,7 +52,7 @@ We challenged our Ninja AMZ493BRN with green smoothies brimming with tropical fr
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxsck30001e788eaiu3wk6.jpg" alt="The AMZ493BRN blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxt2ji0002e7883gcf8chp.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja AMZ493BRN smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmop9004awz884hyt0tt6.jpg" alt="Ninja Compact Kitchen System Blender Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmop9004awz884hyt0tt6.jpg" alt="Ninja Compact Kitchen System Blender Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxsck30001e788eaiu3wk6.jpg" alt="The AMZ493BRN blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxt2ji0002e7883gcf8chp.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja AMZ493BRN smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px">
 
 Blending Time: 3 mins
 
@@ -66,7 +66,7 @@ The root cause of this gap can likely be traced back to the blade assembly of th
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxx4xf0003e7886h5g5du7.jpg" alt="The Ninja AMZ493BRN motor base stands beside a glass bowl containing a portion of blended smoothie. Next to it, a smartphone displays a blending time of 4 minutes and 10 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxxlss0004e7884d2nc65b.jpg" alt="A sample of frozen fruit smoothie created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqr2kna004ewz883abh4eal.jpg" alt="Ninja Compact Kitchen System Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqr2kna004ewz883abh4eal.jpg" alt="Ninja Compact Kitchen System Blender Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxx4xf0003e7886h5g5du7.jpg" alt="The Ninja AMZ493BRN motor base stands beside a glass bowl containing a portion of blended smoothie. Next to it, a smartphone displays a blending time of 4 minutes and 10 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxxlss0004e7884d2nc65b.jpg" alt="A sample of frozen fruit smoothie created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 4 mins 10 seconds
 
@@ -82,7 +82,7 @@ However, keep in mind that pushing food back towards the blades is not really si
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxywrl0005e788fdclhdi0.jpg" alt="The Ninja AMZ493BRN blender motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 3 minutes 40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxzhpc0006e7882iy5dtr0.jpg" alt="A mesh strainer filters a protein shake made by the Ninja AMZ493BRN, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmoki0049wz883n5i47kc.jpg" alt="Ninja Compact Kitchen System Blender Protein Shakes Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmoki0049wz883n5i47kc.jpg" alt="Ninja Compact Kitchen System Blender Protein Shakes Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxywrl0005e788fdclhdi0.jpg" alt="The Ninja AMZ493BRN blender motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 3 minutes 40 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkaxzhpc0006e7882iy5dtr0.jpg" alt="A mesh strainer filters a protein shake made by the Ninja AMZ493BRN, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 3 mins 40 seconds
 
@@ -94,7 +94,7 @@ However, contrasting with the previous two tests, the story wasn’t all doom an
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay0kl20007e788hpil1s5k.jpg" alt="The Ninja AMZ493BRN is beside a white plate containing almond butter with a spatula, blend assembly, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay112w0008e7889a23bpub.jpg" alt="A sample of almond butter created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmp1m004dwz88b5bv2j0o.jpg" alt="Ninja Compact Kitchen System Blender Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmp1m004dwz88b5bv2j0o.jpg" alt="Ninja Compact Kitchen System Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay0kl20007e788hpil1s5k.jpg" alt="The Ninja AMZ493BRN is beside a white plate containing almond butter with a spatula, blend assembly, and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay112w0008e7889a23bpub.jpg" alt="A sample of almond butter created with the Ninja AMZ493BRN blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 6 mins
 
@@ -108,7 +108,7 @@ After 5 minutes of blending — a considerable amount of time for this task — 
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay2fqa0009e788hj3z1x95.jpg" alt="The Ninja AMZ493BRN blender is beside a black tray containing ice it crushed." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmouu004bwz88ezte2zdk.jpg" alt="Ninja Compact Kitchen System Blender Crushed Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cltqqmouu004bwz88ezte2zdk.jpg" alt="Ninja Compact Kitchen System Blender Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clkay2fqa0009e788hj3z1x95.jpg" alt="The Ninja AMZ493BRN blender is beside a black tray containing ice it crushed." width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
