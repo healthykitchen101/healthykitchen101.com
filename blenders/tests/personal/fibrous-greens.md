@@ -41,6 +41,3 @@ The blended result score was marked on a 10-point scale based on the pulp’s fi
 *   Fine: 8 - 9 points
 *   Coarse: 6 - 7.5 points
 *   Very coarse: 5.5 points or less
-
-Test Results
-------------
