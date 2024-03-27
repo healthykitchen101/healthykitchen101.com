@@ -48,7 +48,7 @@ In our hands-on testing, the Oster Pro came up short in terms of making frozen f
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1coitd0010ey883m69071d.jpg" alt="The Oster Pro motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothie samples while a smartphone showcases the blending time of 1 minute and 30 seconds" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cpexv0011ey881u35dme9.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of the Oster Pro smoothies blended for 30 seconds, a full minute, and 1 minute and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2oefix0026k288hsyl26xy.jpg" alt="Oster Pro 1200 Blender Green Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2oefix0026k288hsyl26xy.jpg" alt="Oster Pro 1200 Blender Green Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1coitd0010ey883m69071d.jpg" alt="The Oster Pro motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features two distinct smoothie samples while a smartphone showcases the blending time of 1 minute and 30 seconds" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cpexv0011ey881u35dme9.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of the Oster Pro smoothies blended for 30 seconds, a full minute, and 1 minute and a half." width="300px" height="200px">
 
 Blending Time: 1 mins 30 seconds
 
@@ -60,7 +60,7 @@ The Oster Pro stood out in a field of Cuisinart and Ninja blenders, carving out 
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqffv0012ey88hopu8cal.jpg" alt="The Oster Pro motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqts50013ey88f44kfz7b.jpg" alt="A sample of frozen fruit smoothie created with a Oster Pro blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2l6qud0025k2881uqzajwc.jpg" alt="Oster Pro 1200 Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2l6qud0025k2881uqzajwc.jpg" alt="Oster Pro 1200 Blender Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqffv0012ey88hopu8cal.jpg" alt="The Oster Pro motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cqts50013ey88f44kfz7b.jpg" alt="A sample of frozen fruit smoothie created with a Oster Pro blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 5 mins
 
@@ -72,7 +72,7 @@ We haven’t been able to nail down a reason for the imperfect results, but we h
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1crymo0014ey88civ633ol.jpg" alt="The Oster Pro  motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 1 minute 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1csihz0015ey888l2uhozp.jpg" alt="A mesh strainer filters a protein shake made by the Oster Pro, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt456tji0029k28868k0c4nb.jpg" alt="Oster Pro 1200 Blender Protein Shakes Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt456tji0029k28868k0c4nb.jpg" alt="Oster Pro 1200 Blender Protein Shakes Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1crymo0014ey88civ633ol.jpg" alt="The Oster Pro  motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 1 minute 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1csihz0015ey888l2uhozp.jpg" alt="A mesh strainer filters a protein shake made by the Oster Pro, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 1 min 50 seconds
 
@@ -82,7 +82,7 @@ In this test, the Oster took nearly one minute and fifty seconds to fully liquef
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1ctud00016ey883u6y0ztq.jpg" alt="The Oster Pro is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cubd10017ey880wcf2z3n.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt3vzrfv0028k2886zgc47xz.jpg" alt="Oster Pro 1200 Blender Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt3vzrfv0028k2886zgc47xz.jpg" alt="Oster Pro 1200 Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1ctud00016ey883u6y0ztq.jpg" alt="The Oster Pro is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 6 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cubd10017ey880wcf2z3n.jpg" alt="A sample of almond butter created with a NutriBullet blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 3 mins 30 seconds
 
@@ -98,7 +98,7 @@ The Oster’s butter was well-blended, creamy, and delicious. We were also happy
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cvf5i0018ey88hu8d3t3o.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cwa6k0019ey88gtj5ak4i.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2dqdjb0024k28828jr1hkv.jpg" alt="Oster Pro 1200 Blender Crushed Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clt2dqdjb0024k28828jr1hkv.jpg" alt="Oster Pro 1200 Blender Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cvf5i0018ey88hu8d3t3o.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cli1cwa6k0019ey88gtj5ak4i.jpg" alt="The Oster Pro blender is beside a black tray containing its crushed ice." width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
