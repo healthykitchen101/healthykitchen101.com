@@ -76,7 +76,7 @@ Nonetheless, considering the blender’s price, one might argue this could be a 
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8iec0006ab885d1hhk67.jpg" alt="The Black+Decker Crush Master motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8ws30007ab88arto44xl.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu974kym001ltf88ady791zj.jpg" alt="Black and Decker 10 Speed Blender Protein Shakes Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu974kym001ltf88ady791zj.jpg" alt="Black and Decker 10 Speed Blender Protein Shakes Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8iec0006ab885d1hhk67.jpg" alt="The Black+Decker Crush Master motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioa8ws30007ab88arto44xl.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 2 mins 30 seconds
 
@@ -90,7 +90,7 @@ Straining the final protein shake through a mesh sieve revealed a small amount o
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaa3f40008ab88cd351w7u.jpg" alt="The Black+Decker Crush Master is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 3 minutes and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaae3p0009ab88c5std55m.jpg" alt="A sample of almond butter created with the Black+Decker Crush Master blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobm5d7000gk28856a68sdw.jpg" alt="Black and Decker 10 Speed Blender Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobm5d7000gk28856a68sdw.jpg" alt="Black and Decker 10 Speed Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaa3f40008ab88cd351w7u.jpg" alt="The Black+Decker Crush Master is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 3 minutes and a half." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioaae3p0009ab88c5std55m.jpg" alt="A sample of almond butter created with the Black+Decker Crush Master blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 3 mins 30 seconds
 
@@ -102,7 +102,7 @@ The final result was well-blended. It had a rich and relatively smooth texture, 
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioacjws000bab886ho80ux3.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioad1ys000cab88bweh3az5.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobmilo000hk28815c2e622.jpg" alt="Black and Decker 10 Speed Blender Crush Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsobmilo000hk28815c2e622.jpg" alt="Black and Decker 10 Speed Blender Crush Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioacjws000bab886ho80ux3.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clioad1ys000cab88bweh3az5.jpg" alt="The BLACK+DECKER  blender is beside a black tray containing its crushed ice." width="300px" height="200px">
 
 Ice Fineness: Coarse
 
