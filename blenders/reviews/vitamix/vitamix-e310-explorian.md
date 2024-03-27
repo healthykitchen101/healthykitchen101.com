@@ -54,7 +54,7 @@ Our evaluation also highlighted the importance of the included tamper in achievi
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3xxrz0003au885csualka.jpg" alt="The Vitamix E310 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it are two distinct smoothie samples spread on white paper while a smartphone showcases the blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3yp410004au88hdfxh35x.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvz000jk2881d5lb6dg.jpg" alt="Vitamix E310 Explorian Blender Green Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvz000jk2881d5lb6dg.jpg" alt="Vitamix E310 Explorian Blender Green Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3xxrz0003au885csualka.jpg" alt="The Vitamix E310 motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it are two distinct smoothie samples spread on white paper while a smartphone showcases the blending time of 1 minute." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3yp410004au88hdfxh35x.jpg" alt="A white paper displays two smoothie samples, showcasing the consistency of a Vitamix smoothie blended for 30 seconds and another blended for a full minute." width="300px" height="200px">
 
 Blending Time: 1 min
 
@@ -70,7 +70,7 @@ Such a speed and quality of blending posed a formidable challenge even to longst
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3zu5z0005au889eshdlpr.jpg" alt="The Vitamix E310 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie while a smartphone displays a blending time of 1 minute and 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf411d90000li885b9x1eh1.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfjmtk000mk288chkmh6qu.jpg" alt="Vitamix E310 Explorian Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfjmtk000mk288chkmh6qu.jpg" alt="Vitamix E310 Explorian Blender Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf3zu5z0005au889eshdlpr.jpg" alt="The Vitamix E310 motor base stands beside the container, which holds a portion of the smoothie it produced. Next to it, a glass bowl contains the remaining smoothie while a smartphone displays a blending time of 1 minute and 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf411d90000li885b9x1eh1.jpg" alt="A sample of frozen fruit smoothie created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px">
 
 Blending Time: 1 min 20 seconds
 
@@ -84,7 +84,7 @@ Another conclusion drawn from this test is the crucial role of a tamper. It shou
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42c730001li885x10dqfd.jpg" alt="The Vitamix E310 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42wo70002li88629h2ry3.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix E310, retaining the unblended solids that fail to pass through." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfdk9j000lk288dzmn4dua.jpg" alt="Vitamix E310 Explorian Blender Protein shake Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssfdk9j000lk288dzmn4dua.jpg" alt="Vitamix E310 Explorian Blender Protein shake Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42c730001li885x10dqfd.jpg" alt="The Vitamix E310 motor base stands beside the container. Next to it, a metal mesh strainer filtered its protein shake while a smartphone displayed a blending time of 1 minute 20 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf42wo70002li88629h2ry3.jpg" alt="A mesh strainer filters a protein shake made by the Vitamix E310, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 1 min 20 seconds
 
@@ -98,7 +98,7 @@ The crown of victory was claimed by none other than the iconic Vitamix 5200. Its
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf440my0003li88eo937f16.jpg" alt="The Vitamix E310 is beside a white plate containing almond butter and a spatula, and a smartphone revealing a blending time of 1 minute and a haft." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf45p6h0004li88agns5lqw.jpg" alt="A sample of almond butter created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssnxs47000nk288a1iee5vi.jpg" alt="Vitamix E310 Explorian Blender Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssnxs47000nk288a1iee5vi.jpg" alt="Vitamix E310 Explorian Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf440my0003li88eo937f16.jpg" alt="The Vitamix E310 is beside a white plate containing almond butter and a spatula, and a smartphone revealing a blending time of 1 minute and a haft." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf45p6h0004li88agns5lqw.jpg" alt="A sample of almond butter created with a Vitamix E310 blender spread on a white paper." width="300px" height="200px">
 
 Blending Time: 1 mins 30 seconds
 
@@ -114,7 +114,7 @@ More interestingly, we found out that the E310's capabilities goes beyond almond
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf46pyn0005li88g4ep0aog.jpg" alt="The Vitamix E310 is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvj000ik288frqcdzjk.jpg" alt="Vitamix E310 Explorian Blender Crushed Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsoehyvj000ik288frqcdzjk.jpg" alt="Vitamix E310 Explorian Blender Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljf46pyn0005li88g4ep0aog.jpg" alt="The Vitamix E310 is beside a black tray containing its crushed ice." width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
