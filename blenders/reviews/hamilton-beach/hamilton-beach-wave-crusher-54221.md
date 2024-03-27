@@ -54,7 +54,7 @@ The Hamilton Beach testing performance was notably lackluster. It faltered in a 
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz48j7y0001eg88clkw0e1k.jpg" alt="The Hamilton Beach Wave Crusher blender motor base and its container filled with apple, banana, and kale, stand on a table. Next to it, a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsu559zv000rk2888u0qc4no.jpg" alt="Hamilton Beach Wave Crusher Blender Green Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsu559zv000rk2888u0qc4no.jpg" alt="Hamilton Beach Wave Crusher Blender Green Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz48j7y0001eg88clkw0e1k.jpg" alt="The Hamilton Beach Wave Crusher blender motor base and its container filled with apple, banana, and kale, stand on a table. Next to it, a smartphone showcases the blending time of 4 minutes." width="300px" height="200px">
 
 Blending Time: 4 mins
 
@@ -70,7 +70,7 @@ In summary, if velvety smoothies are your culinary aspiration, the Hamilton Beac
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4a1lu0002eg889ouw2vsu.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4akrf0003eg884nvd1qlb.jpg" alt="A sample of frozen fruit smoothie created with the Hamilton Beach Wave Crusher blender, spread on white paper." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssrkion000qk288h9nt04hh.jpg" alt="Hamilton Beach Wave Crusher Blender Frozen Smoothie Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssrkion000qk288h9nt04hh.jpg" alt="Hamilton Beach Wave Crusher Blender Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4a1lu0002eg889ouw2vsu.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4akrf0003eg884nvd1qlb.jpg" alt="A sample of frozen fruit smoothie created with the Hamilton Beach Wave Crusher blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 5 mins
 
@@ -86,7 +86,7 @@ For those who are serious about icy treats, we recommend considering more powerf
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4dk2i0004eg88d8ppbi70.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 4 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz50pcz0005eg883lxt1sbx.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsyhy8bq0023k28828f3glhj.jpg" alt="Hamilton Beach Wave Crusher Blender Protein Shakes Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsyhy8bq0023k28828f3glhj.jpg" alt="Hamilton Beach Wave Crusher Blender Protein Shakes Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz4dk2i0004eg88d8ppbi70.jpg" alt="The Hamilton Beach Wave Crusher motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 4 minutes 30 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz50pcz0005eg883lxt1sbx.jpg" alt="A mesh strainer filters a protein shake made by the Black+Decker Crush Master, retaining the unblended solids that fail to pass through. " width="300px" height="200px">
 
 Blending Time: 4 mins 30 seconds
 
@@ -98,7 +98,7 @@ However, the final product was not entirely unpalatable, to be honest. For athle
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz523it0006eg8852z1at8n.jpg" alt="The Hamilton Beach Wave Crusher is beside a white plate containing almond with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz52z0f0007eg885xvjfpzp.jpg" alt="A sample of ground almond created with the Hamilton Beach Wave Crusher  blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsy455rz0022k2881ruo3hoj.jpg" alt="Hamilton Beach Wave Crusher Blender Almond Butter Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clsy455rz0022k2881ruo3hoj.jpg" alt="Hamilton Beach Wave Crusher Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz523it0006eg8852z1at8n.jpg" alt="The Hamilton Beach Wave Crusher is beside a white plate containing almond with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz52z0f0007eg885xvjfpzp.jpg" alt="A sample of ground almond created with the Hamilton Beach Wave Crusher  blender." width="300px" height="200px">
 
 Blending Time: 4 mins
 
@@ -114,7 +114,7 @@ Compounding the grinding issues, the blender also failed in the emulsification p
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz557xp0008eg88hxwjgeo9.jpg" alt="The Hamilton Beach Wave Crusher blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz55zux0009eg88em4u23oi.jpg" alt="The scale's screen shows 9.48 oz of uncrushed ice cubes remaining from the Hamilton Beach Wave Crusher blender." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssqefw3000pk28860cj2zda.jpg" alt="Hamilton Beach Wave Crusher Blender Crushed Ice Video" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clssqefw3000pk28860cj2zda.jpg" alt="Hamilton Beach Wave Crusher Blender Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz557xp0008eg88hxwjgeo9.jpg" alt="The Hamilton Beach Wave Crusher blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cljz55zux0009eg88em4u23oi.jpg" alt="The scale's screen shows 9.48 oz of uncrushed ice cubes remaining from the Hamilton Beach Wave Crusher blender." width="300px" height="200px">
 
 Ice Fineness: Failed
 
