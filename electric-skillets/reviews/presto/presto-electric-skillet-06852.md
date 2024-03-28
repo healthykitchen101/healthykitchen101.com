@@ -45,7 +45,7 @@ performance Scores: **NaN**
 *   Cooking Steaks (40%) - **8.8**/undefined
     
 
-The Presto Non-Stick Electric Skillet 06852 stands out for its stable temperature , relatively good heat distribution, and high maximum temperature. In our test sessions, these all resulted in delicious pancakes and succulent steaks—comparable to the Presto 06857 with a folding base.
+The Presto Non-Stick Electric Skillet 06852 stands out for its stable temperature , relatively good heat distribution, and high maximum temperature. In our test sessions, these all resulted in delicious pancakes and succulent steaks—comparable to the [Presto 06857](https://healthykitchen101.com/electric-skillets/reviews/presto/presto-foldaway-electric-skillet-06857/) with a folding base.
 
 ### Analyzing Heat Distribution
 
