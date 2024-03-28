@@ -93,7 +93,7 @@ The cooking process raised the steak’s internal temperature to **133°F** whic
 
 Interestingly, the entire process took around 17 minutes which was **2 minutes shorter** than the Presto 06857—but their results were similar. Therefore, our chef gave the steak the same high score of 9/10.
 
-We assumed a more stable heat resulted in a shorter cooking time due to this basic Presto having a 1‒mm thicker pan. Nonetheless, this skillet wasn’t as hot as the Hamilton Beach 38529K for that crispier crust.
+We assumed a more stable heat resulted in a shorter cooking time due to this basic Presto having a 1‒mm thicker pan. Nonetheless, this skillet wasn’t as hot as the [Hamilton Beach 38529K](https://healthykitchen101.com/electric-skillets/reviews/hamilton-beach/hamilton-beach-electric-skillet-38529k/) for that crispier crust.
 
 Design
 ------
