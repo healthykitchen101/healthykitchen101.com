@@ -89,7 +89,7 @@ Heating Time: 3 min
 
 Temperature: High heat / 400°F
 
-We first preheated the Bella to 400°F to make sure our **8 oz, 1.38-inch** top blade steak got the best crusting possible. Similar to other medium-sized electric skillets in our data set, this took only **3 min** scoring a commendable 9/10.
+We first preheated the Crux to 400°F to make sure our **8 oz, 1.38-inch** top blade steak got the best crusting possible. Similar to other medium-sized electric skillets in our data set, this took only **3 min** scoring a commendable 9/10.
 
 After seasoning the steak and inserting a meat thermometer, we seared each side for 4 min and 30 sec. Then, we seared the edge with the fat cap for 1 min and 30 sec, while the remaining edges were seared for 1 min each.
 
