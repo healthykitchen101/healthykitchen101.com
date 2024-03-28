@@ -60,7 +60,7 @@ The Bella electric skillet proved to have good heat distribution, but it was not
 
 To assess temperature variances across the skillet's surface, we placed an oil absorbent sheet saturated with a sugar-water solution into the pan. Then, we heated the pan to 400°F and used an infrared thermometer to measure 5 key points.
 
-Our analysis of these 5 points spanning from the center to the corners of the pan, revealed an average temperature difference of **9.85%**. Although slightly better than the combined averages of 10%, it surpassed the similar-sized GreenLife and fell just short of out-matching the Crux. The score we gave was 8/10.
+Our analysis of these 5 points spanning from the center to the corners of the pan, revealed an average temperature difference of **9.85%**. Although slightly better than the combined averages of 10%, it surpassed the similar-sized [GreenLife](https://healthykitchen101.com/electric-skillets/reviews/greenlife/greenlife-electric-skillet-5qt/) and fell just short of out-matching the [Crux](https://healthykitchen101.com/electric-skillets/reviews/crux/crux-electric-skillet-14620/). The score we gave was 8/10.
 
 ### Making Pancakes
 
