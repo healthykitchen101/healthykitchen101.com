@@ -1,11 +1,11 @@
-A typical electric skillet only has three main parts. However, these handy appliances tend to differ in terms of heating times, evenness of heat distribution, user-friendliness, and the space they take up. Our checklist of 8 key points will take you through everything you need to know about the cooking pan, the glass lid, and the thermostat control.
-
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/things-keep-mind-when-buying-best-electric-skillets-clty2srta005kwz88bvky21yg.jpg" alt="On the dining table, a hand lifts up the lid of the Elite Gourmet Non-Stick Electric Skillet EG-6203# to reveal a steamy chicken hot pot." width="768" height="512">
+
+A typical electric skillet only has three main parts. However, these handy appliances tend to differ in terms of heating times, evenness of heat distribution, user-friendliness, and the space they take up. Our checklist of 8 key points will take you through everything you need to know about the cooking pan, the glass lid, and the thermostat control.
 
 1\. Choose the Right Size
 -------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/best-electric-skillets-clto30o330040wz88etud4y92.jpg" alt="Top 5 best electric skillets including the Hamilton Beach Ceramic 38529K, the Presto Foldaway 06857, the Elite Gourmet EG-6203, the GreenLife CC003725-002, and the Nesco ES-08." width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/best-electric-skillets-clto30o330040wz88etud4y92.jpg" alt="Top 5 best electric skillets including the Hamilton Beach Ceramic 38529K, the Presto Foldaway 06857, the Elite Gourmet EG-6203, the GreenLife CC003725-002, and the Nesco ES-08." width="768" height="512">
 
 Electric skillet sizes aren’t really set in stone but you can still categorize them based on the surface cooking area:
 
