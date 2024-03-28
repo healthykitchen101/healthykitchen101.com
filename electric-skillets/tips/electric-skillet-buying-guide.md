@@ -16,7 +16,7 @@ Electric skillet sizes aren’t really set in stone but you can still categorize
 2\. Look for a High-Quality Pan
 -------------------------------
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-clti2zynn002qwz88h0nt8gxm.jpg" alt="The pan of the Presto Foldaway Non-Stick Electric Skillet 06857 is 15.71 inches in length, 11.77 inches in width, and 2.79 inches in depth." width="640" height="427">
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/presto-foldaway-electric-skillet-06857-pan-clti2zynn002qwz88h0nt8gxm.jpg" alt="The pan of the Presto Foldaway Non-Stick Electric Skillet 06857 is 15.71 inches in length, 11.77 inches in width, and 2.79 inches in depth." width="360" height="240">
 
 Electric skillets usually have a circular or rectangular pan. The majority have a coated cast aluminum base, but you can get ones in stainless steel.
 
@@ -26,7 +26,7 @@ A cast aluminum skillet with a non-stick coating is easier. However, a damaged c
 
 From our experience, a pan thicker than 2 mm produces a more steady and even heat. Since the pans get pretty hot, a high smoke point oil or butter is better than cooking spray. 
 
-Ideally, the pan should reach 350°F, but without an [infrared thermometer](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/), there’s no real way of knowing? You can check by pouring one spoonful of water on to the pan. If the water forms droplets and you can swirl them around, then the pan is hot enough—this is called the [Leidenfrost effect](https://www.sciencedirect.com/topics/engineering/leidenfrost-effect).
+Ideally, the pan should reach 350°F, but without an [infrared thermometer](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/), there’s no real way of knowing? You can check by pouring one spoonful of water on to the pan. If the water forms droplets and you can swirl them around, then the pan is hot enough—this is called the[Leidenfrost effect](https://www.sciencedirect.com/topics/engineering/leidenfrost-effect).
 
 3\. Non-Stick Means Less Grease and Easier Cleaning
 ---------------------------------------------------
