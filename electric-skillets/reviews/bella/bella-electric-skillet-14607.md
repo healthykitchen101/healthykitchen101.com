@@ -10,9 +10,9 @@ Overall Score: **NaN**
 *   Usability (25%) - **8.8**/undefined
     
 
-The 12-inch Bella Non-Stick Electric Skillet 14607 proved to be the best medium-sized skillet for searing a perfect medium-rare steak. It has great heat distribution and fast heating times. 
+The 12-inch Bella Non-Stick Electric Skillet 14607 proved to be the [best medium-sized skillet](https://healthykitchen101.com/electric-skillets/reviews/best/) for searing a perfect medium-rare steak. It has great heat distribution and fast heating times. 
 
-Cooking pancakes turned out average at best, but quite comparable to similarly sized skillets. Ultimately, however, the intensity of the heat is more suited to sizzling hot things like steak rather than the delicate batters of pancakes.
+Cooking pancakes turned out average at best, but quite comparable to similarly sized skillets. Ultimately, however, the intensity of the heat is more suited to sizzling hot things like steak rather than the delicate batters of pancakes. 
 
 The Bella’s ceramic coating, while generally fine, didn’t match the superior quality of the GreenLife. Stubborn burn-ons didn’t remove on the first hand-cleaning, and we noticed some chipping in the coating possible due to a manufacturing flaw.
 
