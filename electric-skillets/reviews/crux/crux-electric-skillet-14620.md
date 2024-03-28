@@ -59,7 +59,7 @@ The Crux demonstrated highly even heat distribution which is a rarity in medium-
 
 To evaluate temperature consistency across the skillet's surface, we placed an oil absorbent sheet saturated with sugar water inside. Then, we heated the pan to 400°F and deployed an infrared thermometer.
 
-Our assessment, measuring five distinct points spanning from the center to the corners of the pan, revealed a **5.2% average temperature variance**. This scored an excellent 9/10 in our dataset, even slightly better than all larger skillets such as the top-performing Hamilton Beach 38529K.
+Our assessment, measuring five distinct points spanning from the center to the corners of the pan, revealed a **5.2% average temperature variance**. This scored an excellent 9/10 in our dataset, even slightly better than all larger skillets such as the top-performing [Hamilton Beach 38529K](https://healthykitchen101.com/electric-skillets/reviews/hamilton-beach/hamilton-beach-electric-skillet-38529k/).
 
 ### Making Pancakes
 
