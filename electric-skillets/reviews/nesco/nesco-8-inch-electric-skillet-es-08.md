@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.6**/undefined
     
 
-The Nesco Non-Stick Electric Skillet ES-08 is our top recommendation for a single person or a small kitchen space. At just **8 inches** and **$30.4** (at the time of writing), there are no fancy design features, instead the focus is on simplicity and performance.
+The Nesco Non-Stick Electric Skillet ES-08 is our [top recommendation](https://healthykitchen101.com/electric-skillets/reviews/best/) for a single person or a small kitchen space. At just **8 inches** and **$30.4** (at the time of writing), there are no fancy design features, instead the focus is on simplicity and performance.
 
 Largely due to its small size, the skillet showed the **most even** heat distribution and was the **fastest heating** of all other skillets we tested. This high conductivity means you need to be careful of temperature spikes and delicate foods like pancakes can burn easily.
 
