@@ -95,7 +95,7 @@ Interestingly, the power cycled off at around 8 min just as we were just about t
 
 Our meat probes read an internal temperature of **140°F** and this rose to **145°F** after a standard 3 minutes of resting. It took just under 16 minutes to achieve a spot-on medium-rare steak, earning the skillet a near perfect rating of 9.5/10 from our chef.
 
-Though not sizzling hot, the skillet maintained an **exceptionally steady** heat. Therefore, although the crust wasn’t as thick and crispy as the Hamilton Beach, the meat was juicier and more tender.
+Though not sizzling hot, the skillet maintained an **exceptionally steady** heat. Therefore, although the crust wasn’t as thick and crispy as the [Hamilton Beach](https://healthykitchen101.com/electric-skillets/reviews/hamilton-beach/hamilton-beach-electric-skillet-38529k/), the meat was juicier and more tender.
 
 Design
 ------
