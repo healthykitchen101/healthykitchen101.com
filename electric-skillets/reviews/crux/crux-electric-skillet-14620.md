@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 The 12-inch Crux Non-Stick Electric Skillet 14620 impressed with its gray exterior accentuated by polished copper linings. However, we were more interested in how it actually cooked.
 
-The heat distribution was better than other medium-sized skillets, such as the GreenLife and Bella, and it heated equally fast. Unfortunately, we found that the skillet’s temperature stabilization point was a bit too low to cook food the way we wanted.
+The heat distribution was better than other [medium-sized skillets](https://healthykitchen101.com/electric-skillets/reviews/best/), such as the GreenLife and Bella, and it heated equally fast. Unfortunately, we found that the skillet’s temperature stabilization point was a bit too low to cook food the way we wanted.
 
 Pancakes turned out average at the very best, while the heating cycle just wasn’t suited to cooking up a perfectly medium-rare steak.
 
