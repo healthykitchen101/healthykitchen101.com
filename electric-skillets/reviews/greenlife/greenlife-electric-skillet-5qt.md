@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **9.0**/undefined
     
 
-The 12-inch GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is our best pick for a medium-sized skillet (6.1 qt.). Its above par cooking performance and exceptional ceramic coating set it apart, while its medium size contributed to faster preheating compared to the larger skillets.
+The 12-inch GreenLife Ceramic Non-Stick Electric Skillet CC003725-002 is our best pick for a [medium-sized skillet](https://healthykitchen101.com/electric-skillets/reviews/best/) (6.1 qt.). Its above par cooking performance and exceptional ceramic coating set it apart, while its medium size contributed to faster preheating compared to the larger skillets.
 
 Priced at around **$42** (at the time of writing), this skillet offers exceptional value despite lacking convenient features such as a detachable pan or fold up base. Its colorful and decorative aesthetic means it can happily stand out on a table or your kitchen countertop.
 
