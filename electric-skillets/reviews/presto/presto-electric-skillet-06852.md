@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 The 16-inch Presto Electric Skillet 06852 could have made the list if not for our top two contenders taking up the spots for large skillets. Priced **$63** (at the time of writing), it doesn’t have fancy design features but that didn’t affect its user-friendliness.
 
-It had equally good maximum temperature retention as [our runner up](https://healthykitchen101.com/electric-skillets/reviews/best/)—the [Presto Foldaway 06857](https://healthykitchen101.com/electric-skillets/reviews/presto/presto-foldaway-electric-skillet-06857/). Overall, the **temperature stability** was better while the heat distribution was only marginally less even. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
+It had equally good maximum temperature retention as [our runner up](https://healthykitchen101.com/electric-skillets/reviews/best/)—the Presto Foldaway 06857. Overall, the **temperature stability** was better while the heat distribution was only marginally less even. This translated to a **faster steak searing** time but slightly less even coloration on the pancakes.
 
 While we would have preferred a ceramic coating, the PFOA-free Teflon non-stick surface reduced the need for oil or grease and was super-easy to clean. However, the main usability issue for this pan was the lack of anti-slip pads—something quite unusual. We found the pan moved around too much when cooking.
 
