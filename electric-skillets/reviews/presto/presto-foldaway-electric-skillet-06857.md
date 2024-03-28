@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **9.5**/undefined
     
 
-The Presto Foldaway Non-Stick Electric Skillet 06857, selling for **$77.40** (at the time of writing), is an excellent addition to any kitchen without breaking the bank. It ranked as a close runner-up to our best rated electric skillet and is one of the **most user-friendly** skillets we have tested.
+The Presto Foldaway Non-Stick Electric Skillet 06857, selling for **$77.40** (at the time of writing), is an excellent addition to any kitchen without breaking the bank. It ranked as a close [runner-up](https://healthykitchen101.com/electric-skillets/reviews/best/) to our best rated electric skillet and is one of the **most user-friendly** skillets we have tested.
 
 The thicker than average pan and sizable rectangular heating element showed the **best even heat distribution** for a large skillet. Its pancakes were **perfect** and only the Hamilton managed a better crust on steak searing.
 
