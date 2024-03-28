@@ -5,6 +5,8 @@ A typical electric skillet only has three main parts. However, these handy appli
 1\. Choose the Right Size
 -------------------------
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/best-electric-skillets-clto30o330040wz88etud4y92.jpg" alt="Top 5 best electric skillets including the Hamilton Beach Ceramic 38529K, the Presto Foldaway 06857, the Elite Gourmet EG-6203, the GreenLife CC003725-002, and the Nesco ES-08." width="640" height="427">
+
 Electric skillet sizes aren’t really set in stone but you can still categorize them based on the surface cooking area:
 
 *   **Small** electric skillets are usually between 6 and 10 inches wide and less than 2 inches deep. This cooks enough for 1-2 people or a couple of chicken breasts.
