@@ -26,7 +26,7 @@ A cast aluminum skillet with a non-stick coating is easier. However, a damaged c
 
 From our experience, a pan thicker than 2 mm produces a more steady and even heat. Since the pans get pretty hot, a high smoke point oil or butter is better than cooking spray. 
 
-Ideally, the pan should reach 350°F, but without an [infrared thermometer](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/), there’s no real way of knowing? You can check by pouring one spoonful of water on to the pan. If the water forms droplets and you can swirl them around, then the pan is hot enough—this is called the[Leidenfrost effect](https://www.sciencedirect.com/topics/engineering/leidenfrost-effect).
+Ideally, the pan should reach 350°F, but without an [infrared thermometer](https://healthykitchen101.com/thermometers/reviews/best/infrared-thermometers/), there’s no real way of knowing? You can check by pouring one spoonful of water on to the pan. If the water forms droplets and you can swirl them around, then the pan is hot enough—this is called the [Leidenfrost effect](https://www.sciencedirect.com/topics/engineering/leidenfrost-effect).
 
 3\. Non-Stick Means Less Grease and Easier Cleaning
 ---------------------------------------------------
