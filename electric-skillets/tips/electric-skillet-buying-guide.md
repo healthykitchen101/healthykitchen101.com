@@ -54,7 +54,7 @@ Teflon poses [health concerns](https://www.sciencedirect.com/science/article/pii
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/hamilton-beach-electric-skillet-38529k-analyzing-heat-distribution-cltmfqdy40038wz887bff4wy7.jpg" alt="The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K with a white oil-absorbent sheet covering the surface of the pan. The dark rectangle indicates where the heating element is." width="640" height="427">
 
-The core heating dynamics of the element can only be known by hands-on testing. For this reason, make sure to read our reviews. We focus on minimum and maximum temperature oscillations and temperature stabilization.
+The core heating dynamics of the element can only be known by hands-on testing. For this reason, make sure to [read our reviews](https://healthykitchen101.com/electric-skillets/reviews/best/). We focus on minimum and maximum temperature oscillations and temperature stabilization.
 
 The embedded heating elements usually follow the pan outline. The larger the area they cover, the better the heat distribution is with fewer cold spots.
 
