@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **9.3**/undefined
     
 
-The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K proved to be the [best electric skillet](https://healthykitchen101.com/electric-skillets/reviews/best/) we have tested to date. It ranked the highest across all our test categories and topped our best to buy list among 9 other selected products. It’s the closest thing to an ideal skillet serving **4-5 people** and its copper-plated design is a stylish fit for any kitchen. What’s more, at only **$61.70** (at the time of writing), it has exceptional value and affordability.
+The Hamilton Beach Ceramic Non-Stick Electric Skillet 38529K proved to be the best electric skillet we have tested to date. It ranked the highest across all our test categories and topped our best to buy list among 9 other selected products. It’s the closest thing to an ideal skillet serving **4-5 people** and its copper-plated design is a stylish fit for any kitchen. What’s more, at only $61.70, it has exceptional value and affordability.
 
 The **detachable pan** is not only lightweight, but also reversible and super easy to clean. It has a ceramic non-stick coating that is safer and less likely to crack or peel than Teflon. We cooked up perfect **steamy** and **fluffy pancakes** with a beautiful golden brown color. The **medium-rare steak** we seared was incredibly juicy and tender.
 
@@ -190,7 +190,7 @@ Anti-Slip Pads: Four
 
 Dishwasher-Safe: Yes
 
-The detachable base is made of thermosetting plastic. It’s not as durable as metal, but much lighter nonetheless (+3). The two base handles are unfortunately not foldable like those on the Presto 06857 (+1). It does, however, have four anti-slip pads at the bottom and is dishwasher-safe (+4).
+The detachable base is made of thermosetting plastic. It’s not as durable as metal, but much lighter nonetheless (+3). The two base handles are unfortunately not foldable like those on the [Presto 06857](https://healthykitchen101.com/electric-skillets/reviews/presto/presto-foldaway-electric-skillet-06857/) (+1). It does, however, have four anti-slip pads at the bottom and is dishwasher-safe (+4).
 
 ### 7.0 - Thermostat
 
