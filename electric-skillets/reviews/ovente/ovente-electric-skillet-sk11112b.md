@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (25%) - **6.2**/undefined
     
 
-Out of all the products we tested, the Ovente Non-Stick Electric Skillet SK11112B was the odd-one-out in both size and performance—but not in a good way.
+Out of all the [products we tested](https://healthykitchen101.com/electric-skillets/reviews/best/), the Ovente Non-Stick Electric Skillet SK11112B was the odd-one-out in both size and performance—but not in a good way.
 
 The rapid heating of the pan suggested it was only good for stir-frying meat and veggies. It proved **too hot** for delicate foods like pancakes and **too unstable** for precise cooking like searing steaks.
 
