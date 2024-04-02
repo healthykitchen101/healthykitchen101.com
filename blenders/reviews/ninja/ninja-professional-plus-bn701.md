@@ -47,7 +47,7 @@ For lovers of fruit smoothies and those who need an ice-crushing blender, the N
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5jd001ttf88cibkf4n5.jpg" alt="Ninja Professional Plus Blender BN701 Smoothie Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqp7r00001ls88b3dhfoaz.jpg" alt="The Ninja BN701 Professional Plus blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqq2xq0002ls880c7h4hbx.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja BN701 Professional Plus Blender smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5jd001ttf88cibkf4n5.jpg" alt="Ninja Professional Plus Blender BN701 Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqp7r00001ls88b3dhfoaz.jpg" alt="The Ninja BN701 Professional Plus blender’s motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqq2xq0002ls880c7h4hbx.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Ninja BN701 Professional Plus Blender smoothies blended for 2 minutes and 30 seconds, 3 minutes, 3 minutes and 30 seconds, and 4 minutes." width="300px" height="200px">
 
 Blending Time: 3 mins
 
@@ -65,7 +65,7 @@ Ultimately, if you want to make green leafy smoothies, this is not the blender f
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ic001ptf884e3d49fp.jpg" alt="Ninja Professional Plus Blender BN701 Frozen Smoothie Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqrajo0003ls88hob44sun.jpg" alt="The Ninja BN701 Professional Plus Blender motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 3 minutes and 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqrq3z0004ls889fiz3df3.jpg" alt="A sample of frozen fruit smoothie created with the Ninja BN701 Professional Plus blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ic001ptf884e3d49fp.jpg" alt="Ninja Professional Plus Blender BN701 Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqrajo0003ls88hob44sun.jpg" alt="The Ninja BN701 Professional Plus Blender motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 3 minutes and 59 seconds." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqrq3z0004ls889fiz3df3.jpg" alt="A sample of frozen fruit smoothie created with the Ninja BN701 Professional Plus blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 4 mins
 
@@ -85,7 +85,7 @@ In short, despite the smooth and drinkable enough smoothie yielded, the frustra
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ip001qtf88fww9b9ul.jpg" alt="Ninja Professional Plus Blender BN701 Protein Shakes Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqsqx90005ls882h5obw00.jpg" alt="The Ninja BN701 Professional Plus blender motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 3 minutes 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqtact0006ls883th633tf.jpg" alt="A mesh strainer filters a protein shake made by theNinja BN701 Professional Plus, retaining the unblended solids that fail to pass through. " width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ip001qtf88fww9b9ul.jpg" alt="Ninja Professional Plus Blender BN701 Protein Shakes Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqsqx90005ls882h5obw00.jpg" alt="The Ninja BN701 Professional Plus blender motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 3 minutes 49 seconds. " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqtact0006ls883th633tf.jpg" alt="A mesh strainer filters a protein shake made by theNinja BN701 Professional Plus, retaining the unblended solids that fail to pass through. " width="300px" height="200px">
 
 Blending Time: 4 mins
 
@@ -97,7 +97,7 @@ However, we have to admit that every second is worth the wait as the Ninja BN701
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5j5001stf885soqc6td.jpg" alt="Ninja Professional Plus Blender BN701 Almond Butter Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqua0o0007ls88fs3l99b3.jpg" alt="The Ninja BN701 Professional Plus is beside a white plate containing almond butter with a spatula, blend assembly, and a smartphone revealing a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifquvzh0008ls88a6wo029g.jpg" alt="A sample of almond butter created with the Ninja BN701 Professional Plus blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5j5001stf885soqc6td.jpg" alt="Ninja Professional Plus Blender BN701 Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqua0o0007ls88fs3l99b3.jpg" alt="The Ninja BN701 Professional Plus is beside a white plate containing almond butter with a spatula, blend assembly, and a smartphone revealing a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifquvzh0008ls88a6wo029g.jpg" alt="A sample of almond butter created with the Ninja BN701 Professional Plus blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 5 mins
 
@@ -107,7 +107,7 @@ Making almond butter with the Ninja BN 701 was not as simple as we expected. Alt
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ix001rtf88dz015gdl.jpg" alt="Ninja Professional Plus Blender BN701 Crushed Ice Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqvqgt0009ls889a172w83.jpg" alt="The Ninja BN701 Professional Plus blender is beside a black tray containing its crushed ice." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cluhwx5ix001rtf88dz015gdl.jpg" alt="Ninja Professional Plus Blender BN701 Crushed Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clifqvqgt0009ls889a172w83.jpg" alt="The Ninja BN701 Professional Plus blender is beside a black tray containing its crushed ice." width="300px" height="200px">
 
 Ice Fineness: Very Fine
 
