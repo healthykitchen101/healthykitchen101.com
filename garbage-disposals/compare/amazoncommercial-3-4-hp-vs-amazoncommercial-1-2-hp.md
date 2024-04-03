@@ -1,0 +1,3 @@
+Both the AmazonCommercial 3/4-HP unit and the 1/2-HP unit represent robust options in the industry. The AmazonCommercial 3/4-HP stands out as one of the most formidable units we have assessed. Equipped with a high-speed permanent magnet motor, it adeptly handles various scraps while minimizing jamming. Furthermore, the disposal boasts sturdy construction and an economical price point.
+
+Similarly, the AmazonCommercial 1/2-HP is a strong option. It processes kitchen scraps better than many other compact disposals we've tested, and its high-speed motor, similar to that of the 3/4-HP, effectively prevents jamming despite being weaker. Moreover, it is a very affordable garbage disposal.
