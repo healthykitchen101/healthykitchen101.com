@@ -1,0 +1,3 @@
+Both the AmazonCommercial 3/4-HP and the GE GFC525N 1/2-HP are notable disposals in their own right. The AmazonCommercial 3/4-HP distinguishes itself as one of the most powerful mid-range units we've examined. Featuring a robust magnet motor, it effectively handles various food types while preventing jamming. Furthermore, the disposal offers durable construction and comes at a reasonable price point. 
+
+By contrast, the GE GFC525N, while smaller in size, also excels in processing kitchen scraps. The disposal works a lot better than several other small units we've tested, courtesy of its high-speed magnet motor, the same kind as the AmazonCommercial. What’s interesting here, though, is that the GE GFC525N costs roughly $20 more than the AmazonCommercial 3/4-HP.
