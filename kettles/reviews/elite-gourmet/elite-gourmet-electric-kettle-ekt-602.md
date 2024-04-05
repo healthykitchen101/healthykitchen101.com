@@ -10,11 +10,11 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.7**/undefined
     
 
-We deem the Elite Gourmet Electric Glass Kettle to not be a desirable product. Although its overall score isn’t too bad, it fails at all the important aspects in our electric kettle tests.
+The Elite Gourmet Electric Glass Kettle is not a kettle we recommend. Although its overall score isn’t too bad, it fails to make the grade with the key things that really matter in our tests.
 
-The kettle’s detriment is its slow boiling time and high energy consumption. A quiet boiling phase and a slightly above average ability to keep warm aren’t enough according to our assessment.
+Two key detriments are  its slow boiling time and high energy consumption. On the other hand, it has an exceptionally quiet boiling phase and is slightly better than average with heat retention, but neither of these are a good enough compensation.
 
-The Elite’s design quality is quite good. However, its awkward button placement ruined a product that should be straightforward to use—the whole point of an electric kettle.
+Furthermore, the Elite has an awkward button placement which defeats the purpose of what an electric kettle should be—a simple and easy to use appliance.
 
 **Things We Like**
 
@@ -29,7 +29,7 @@ The Elite’s design quality is quite good. However, its awkward button placemen
 *   Slow boiling time
 *   High energy consumption
 
-We bought the Elite Gourmet Electric Glass Kettle (EKT-602) for $25.43 on Amazon (at the time of writing), which was quite inexpensive compared to others on the market. Unfortunately, our first test run with the product was quite disappointing due to its slow boiling time. Hopefully the complete test will reveal some saving grace for this kettle.
+We bought the Elite Gourmet Electric Glass Kettle (EKT-602) for $23.10 on Amazon (at the time of writing), which was comparatively inexpensive. Unfortunately, on our first test run, the kettle disappointed with a slow boiling time. Read more to see if our complete test program revealed any saving grace for this kettle.
 
 On a side note, the version that we chose was the 1.7-liter glass carafe. However, there’s also a 1-liter version, a 1.7-liter BPA-free plastic carafe version, and a 1.8-liter stainless steel double-wall carafe version that may be more of your cup of tea.
 
