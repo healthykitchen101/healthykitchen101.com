@@ -107,7 +107,6 @@ As a bonus, the kettle was quiet when boiling, reaching just under 75 dB. Howeve
 *   Quite when boiling
 *   Removable mesh filter
 
-*   Overly simplified control
 *   Slow boiling time
 *   Small opening
 *   Awkward handle
