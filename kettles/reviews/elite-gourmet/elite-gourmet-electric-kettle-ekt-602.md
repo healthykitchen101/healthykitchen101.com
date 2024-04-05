@@ -47,7 +47,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.5**/undefined
     
 
-The Elite Gourmet Electric Glass Kettle (EKT-602) failed to perform well enough in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many other competitors.
+The Elite Gourmet Electric Glass Kettle (EKT-602) failed to perform well enough in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many [other competitors](https://healthykitchen101.com/kettles/reviews/best/).
 
 ### Boiling Time
 
@@ -61,7 +61,7 @@ Boiling Time: 10m 4s
 
 For the common electric kettles (not goosenecks) like the Elite Gourmet, we evaluate the time they take to boil a middle ground capacity of 1.5 liters of water. Much in tune with our first impression, this kettle took a staggering 10 minutes and 4 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F / 100°C).
 
-This result was our slowest recorded boiling time overall, even worse than our other tested kettles that had the same 1100 W of power. As a result, we had no choice but to give it a measly score of 4.9/10.
+This result was our slowest recorded boiling time overall, even worse than our other tested kettles that had the same 1100 W of power, e.g. the [Aigostar 300104LCB](https://healthykitchen101.com/kettles/reviews/aigostar/aigostar-electric-kettle-300104lcb/). As a result, we had no choice but to give it a measly score of 4.9/10.
 
 ### Energy Consumption
 
