@@ -10,16 +10,16 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.5**/undefined
     
 
-The Mueller Ultra Electric Kettle (M99S) offers a significantly high performance at an affordable price. Moreover, it has all the design features you’d want in an electric kettle, all of which are high quality.
+We really liked The Mueller Ultra Electric Kettle (M99S) for its excellent performance  at an affordable price. Moreover, it has all the design features you’d want on an electric kettle with a quality to match.
 
-It also poses no problems when using. If only its handle was a bit slimmer or curved at a more favorable angle to have more space for holding.
+Overall, it was really easy to use except for the somewhat uniquely shaped handle. The handle could have been a bit slimmer or curved at a more favorable angle to make more space for large hands.
 
 **Things We Like**
 
 *   Fast boiling time
 *   Low energy consumption
 *   Quite when boiling
-*   Maintain temperature well after boiling
+*   Good heat retention
 *   Inexpensive
 *   Easy to use
 
@@ -28,7 +28,7 @@ It also poses no problems when using. If only its handle was a bit slimmer or cu
 *   Handle not ideally shaped
 *   Cord wrap loosely
 
-From what we could find, the Mueller Ultra Electric Kettle (M99S) is the only kettle of this brand, so it has a lot to prove. We bought this product for $27.44 on Amazon (at the time of writing). At first, we thought the kettle had an uncommon design, especially the handle, but quite a fast boiling time. So, let’s wait no more and dive into it!
+Our research into the Mueller brand revealed  the Mueller Ultra Electric Kettle (M99S) to be their one and only electric kettle. Since it had a lot to prove, we bought it to test for $27.44 on Amazon (at the time of writing). The kettle has a slightly different design, especially the handle, and we were keen to see how it performed. Our first test run clocked  quite a fast boiling time, but read on to find out how it scored overall.
 
 Performance
 -----------
@@ -44,7 +44,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.5**/undefined
     
 
-We were pleasantly surprised with the performance of the Mueller Ultra Electric Kettle across all four of our tests. Compared to many of its competitors, it had a faster boiling time, consumed less energy, was more quiet, and was able to maintain a higher temperature after 5 minutes.
+We were pleasantly surprised with the performance of the Mueller Ultra Electric Kettle across all four of our tests. Compared to many of its competitors, it had a fast boiling time, consumed less energy, was quiet, and could retain heat well for up to 5 minutes.
 
 ### Boiling Time
 
@@ -56,9 +56,9 @@ Water Volume: 1.5 liters
 
 Boiling Time: 7m 14s
 
-For the common electric kettles (not gooseneck) like the Mueller, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The product took 7 minutes and 14 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+We evaluate all common electric kettles (not goosenecks) for the time they take to boil 1.5 liters of water—a middle ground of their capacity. The Mueller took 7 minutes and 14 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
 
-This result was quite fast and comparable to other kettles with the same 1500 W of power in our data, worthy of a 7.8/10.
+This result was quite fast yet comparable to other kettles with the same 1500 W of power in our data, worthy of a 7.8/10 score.
 
 ### Energy Consumption
 
@@ -74,7 +74,7 @@ Power: 1230 W
 
 Energy Consumption: 148 Wh
 
-We used a power meter to measure the Mueller’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 148 Wh which was slightly less than its peers and equated to an 8.4/10 according to our data.
+Our power meter recorded 148 Wh as the Mueller brought 1.5 liters of room-temperature water to a rolling boil. The result was slightly less than most counterparts and earned an 8.4/10 according to our rating system.
 
 ### Noise Level
 
@@ -82,7 +82,7 @@ We used a power meter to measure the Mueller’s total energy consumption to bri
 
 Noise Level: 70.3 dB
 
-During boiling, the Mueller’s noise level peaked at 70.3 dB while reaching a rolling simmer, which was lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result was very good but not the best we’ve recorded, so we gave it a 9/10.
+We also run a sound meter when testing the boiling times of kettles. The Mueller’s noise level peaked at 70.3 dB while reaching a rolling simmer. This is well below the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)’s 80dB which is a safe level for up to 2 hours of noise exposure. This result was very good but not the best we’ve recorded, so we gave it a 9/10.
 
 ### Keep Warm
 
@@ -90,9 +90,9 @@ During boiling, the Mueller’s noise level peaked at 70.3 dB while reaching a r
 
 After 5 Minutes: 203°F / 95.5°C
 
-The glass carafe of the Mueller Ultra doesn’t have the best material for heat retention. The kettle also doesn’t have temperature control for the Keep Warm feature.
+Glass carafes typically don’t retain heat as well as stainless steel kettles. The Mueller, being a basic electric kettle, doesn’t have temperature control or a Keep Warm function.
 
-Nonetheless, the kettle was able to maintain a slightly higher temperature than its similarly designed competitor. After 5 minutes, the temperature only dropped to 203°F / 95.5°C from 212°F / 100°C, which equaled 7.5/10 in our scoreboard.
+Nonetheless, the kettle was able to maintain a slightly higher temperature than  similarly designed competitors. After 5 minutes, the temperature only dropped to 203°F / 95.5°C from 212°F / 100°C, which equaled 7.5/10 in our scoreboard.
 
 Design
 ------
