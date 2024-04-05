@@ -257,6 +257,8 @@ The kettle has an automatic shutoff feature which will activate when the thermo 
 
 ### 5.0 - Ease of Use
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/kettles/bella-ceramic-kettle-14745-ease-use-clum40d690001k8887wlxddlh.jpg" alt="A person in a dark green shirt pouring water from the Bella Ceramic Gooseneck Electric Kettle (14745) into a glass." width="300px" height="200px">
+
 This Bella ceramic kettle is quite heavy compared to glass and even stainless steel (-1). However, ceramics means no plastic coming into contact with your water—something many people appreciate (+1). Evidently, we noticed no odd odor during our first boil or thereafter.
 
 Having only the power switch, the Bella is as easy to use as it can be (+2). The large opening of 3.74 inches allowed us to comfortably pour in water from the tap or any container (+1).
