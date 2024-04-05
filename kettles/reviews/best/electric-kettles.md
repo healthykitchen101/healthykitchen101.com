@@ -53,27 +53,27 @@ The Cuisinart has all the desirable features such as an indicator light, water l
 
 We thought, however, a couple of improvements could be a wider carafe opening and a stainless steel underside to the lid instead of plastic.
 
-2\. Best Glass: Mueller Ultra Electric Kettle M99S
+2\. Best Glass: Peach Street Electric Kettle PE-1300
 
+*   Low price tag
 *   Fast boiling time
-*   Low energy consumption
-*   Quite when boiling
-*   Maintain temperature well after boiling
-*   Inexpensive
+*   Quiet boiling phase
+*   Light weight
 *   Easy to use
+*   Large capacity
 
-*   Handle not ideally shaped
-*   Cord wrap loosely
+*   Slightly high energy consumption
+*   Plastic lid
 
-The Mueller Ultra Electric Kettle M99S is our best glass option, notably for its performance and attractive price tag. Moreover, it has all the design features you’d want in an electric kettle, all of which are high quality.
+The Peach Street Electric Kettle PE-1300 is our best glass option, notably for its performance and attractive price tag. Moreover, it has all the design features you’d want in an electric kettle, all of which are high quality.
 
-\[135\] Mueller Ultra Kettle (M99S) Energy Consumption
+\[375\] Peach Street Electric Kettle PE-1300 Noise Level
 
-We were pleasantly surprised with the performance of the Mueller across all four of our tests. Compared to many of its competitors, it had a faster boiling time than the average 8 minutes, consumed less energy than the common 150 Wh, and was quieter than the usual 75 dB. Also, it could retain considerable heat for up to 5 minutes, maintaining 203°F / 95.5°C.
+We were pleasantly surprised with the performance of the Peach Street across all four of our tests. Compared to many of its competitors, it had a **faster boiling time** than the average 8 minutes, was **much quieter** than the usual 75 dB, and consumed **just slightly more** energy than the common 150 Wh. Also, it could retain considerable heat for up to 5 minutes, maintaining 203°F / 95.5°C.
 
-The Mueller is well-constructed with all desirable features including a mesh filter, an LED ring, water-level markings, and more. Its performance surprised us since everything, besides the uncommon shape, was pretty standard.
+The Peach Street is well-constructed with all desirable features including a mesh filter, an LED ring, water-level markings, and more. Its performance surprised us since everything was pretty standard.
 
-The Mueller is simply straightforward to use. We had no problem with the controls, filling or pouring water. However, the handle could be slimmer or curved at a more favorable angle to have more space for holding.
+The Peach Street is simply straightforward to use. We had no problem with the controls, filling or pouring water.
 
 3\. Best Stainless Steel: Secura Electric Kettle SWK-1701DA
 
