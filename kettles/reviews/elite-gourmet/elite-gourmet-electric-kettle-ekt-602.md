@@ -262,18 +262,18 @@ The kettle has an automatic shutoff feature.This is activated by the thermo fuse
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/elite-gourmet-electric-kettle-ekt-602-ease-use-cllhpozpu000la18848pt8ahe.jpg" alt="A person in a grey shirt pouring water from the Elite Gourmet Electric Glass Kettle (EKT-602) into a glass." width="300px" height="200px">
 
-The standard control of the Elite should’ve meant that it was easy to use. However, since the power switch and the lid button were close to one another, we, more than once, accidentally pushed one instead of the other (+0). And we don’t think you’ll be safe from this unnecessary problem.
+With no specialized features, the Elite should be easy enough  to use. However, since the power switch and the lid button were close to one another, on more than one occasion we accidentally pushed one instead of the other (+0). And, we don’t think you’ll be safe from this unfortunate hitch.
 
-On the bright side, the carafe weighed only slightly more than 2 lbs. Also, the button placement doesn’t make the handle tricky to hold in any way. The carafe was also sturdy enough to be carried around when filled with water to the max (+2).
+The button placement, however, doesn’t make the handle tricky to hold in any way. On the bright side, the carafe weighs only slightly more than 2 lbs and is sturdy enough to carry around filled to the max (+2).
 
-The large opening of 3.54 inches allowed us to comfortably pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
+The large lid opening of 3.54 inches is a comfortable fit for any faucet or container (+1). The water level markings in the middle of the carafe are easy to view for precise decanting (+1).
 
-We found no odd odor during the first boil—a sign of good material quality and upkeep before delivery. The pouring angle between the arm and the kettle was good as well, making the action effortless (+1).
+We detected no odd odor during the first boil—a sign of good material quality and upkeep before delivery. The pouring angle between the arm and the kettle was comfortable and effective (+1).
 
-The power base fits firmly below its carafe so the entire thing doesn’t wobble around during boiling (+1). Despite the round shape of the cord, it didn’t wrap the tightest around its storage. However, it did wrap perfectly around in the end, leaving only the plug to stick out.
+The power base fits firmly below its carafe and we didn’t notice any wobbling during our tests (+1). Despite the round shape of the cord, it didn’t wrap the tightest around its storage, although perfectly enough to leave only the plug sticking out.
 
 ### 7.0 - Cleaning
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/elite-gourmet-electric-kettle-ekt-602-cleaning-cllhppujx000ma188a9i74fzx.jpg" alt="A person in a blue shirt holding the Elite Gourmet Electric Glass Kettle (EKT-602) by its handle on one hand and the other hand wiping the carafe interior with a piece of tissue." width="300px" height="200px">
 
-Cleaning the Elite is very simple and effortless (+2). Its lid doesn’t get in the way and the opening is large enough for an adult hand to fit through and wipe the interior when necessary (+3). The limescale filter is removable for frequent cleaning and maintenance as well (+2).
+Cleaning the Elite is straightforward enough (+2). Its lid doesn’t get in the way and the opening is large enough for an adult hand to easily fit through and wipe the interior (+3). Additionally, the limescale filter is removable for frequent cleaning and maintenance as well (+2).
