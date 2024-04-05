@@ -181,11 +181,11 @@ Type: Hinged
 
 Open Mechanism: Push-button
 
-The Cosori has a hinged lid that pop-ups to an 80° angle with a single push of a button located on the handle (+4). That angle is more than enough for the lid to move out of the way to get water in despite its fixed filter (+2).
+The Cosori has a hinged lid that pop-ups to an 80° angle with a single push of a button on the handle (+4). This angle is wide enough to easily pour in water even with the fixed filter attachment (+2).
 
-The lid has a plastic rim but a stainless steel top and bottom. This means there’s no plastic material coming into contact with your water, which we know many people appreciate. It isn’t entirely cool-touch though, only a small black area.
+The lid has a plastic rim but a stainless steel top and bottom. This means there’s no contact between plastic and hot water, which we know many people will appreciate. However, only the small black area of the lid is cool-to-touch, so you should take care.
 
-Unlike many other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Nonetheless, the lid still closes tightly (+1).
+Unlike many other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Regardless, the lid still closes tightly (+1).
 
 ### 9.0 - Base
 
@@ -197,7 +197,7 @@ Type:  Swivel 360°
 
 Cord Storage: Yes
 
-The Cosori has a standard BPA-free plastic 360° swivel base that’s sturdy and fits the carafe well enough (+5). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4).
+The Cosori has a standard BPA-free plastic 360° swivel base that’s sturdy and fits the carafe well (+5). At the bottom of the base is the cord storage and also three small anti-slip rubber pads (+4).
 
 ### Power Cord
 
