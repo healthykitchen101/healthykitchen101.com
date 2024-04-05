@@ -17,8 +17,8 @@ A relatively fast and highly quiet boiling phase is just the icing on the cake i
 **Things We Like**
 
 *   Glass spout
-*   Stainless steel inner lid
-*   Large and unobstructed opening
+*   Stainless steel under lid
+*   Large opening
 *   Quiet when boiling
 *   Easy to use
 *   Light weight
@@ -28,7 +28,7 @@ A relatively fast and highly quiet boiling phase is just the icing on the cake i
 *   High energy consumption
 *   Cord doesn’t fit storage
 
-The next contender to be in our toplist of the best electric kettles is the Cosori Original Electric Glass Kettle (GK172-CO) that we bought for $28.65 on Amazon. Our first impression of it was a large glass carafe, slightly rigid lid, and fast boiling time. We had some pretty high hopes for this one.
+We bought the Cosori Original Electric Glass Kettle (GK172-CO) for $27.99 on Amazon.  It has a large glass carafe, slightly rigid lid, and we were most impressed with the fast boiling time. Read about other pros and cons, view original pics, and find out if this kettle lived up to our high hopes.
 
 On a side note, beside the black handle, glass carafe, and mesh filter version that we got, there’s a white-handle version as well. There’s also a stainless steel carafe model without a mesh filter.
 
