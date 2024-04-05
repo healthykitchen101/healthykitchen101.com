@@ -7,7 +7,7 @@ Overall Score: **NaN**
     
 *   Design (25%) - **7.6**/undefined
     
-*   Usability (35%) - **7.5**/undefined
+*   Usability (35%) - **7.3**/undefined
     
 
 A somewhat unique point of the Cosori Original Electric Glass Kettle is zero contact of hot water to plastic. This is due to stainless steel on the under part of the lid in addition to a completely glass carafe. The carafe itself also stands out for its large and unobstructed opening, ideal for easy cleaning and filling.
@@ -224,10 +224,10 @@ usability Scores: **NaN**
     
 *   Ease of Use (50%) - **8.0**/undefined
     
-*   Cleaning (20%) - **7.0**/undefined
+*   Cleaning (20%) - **6.0**/undefined
     
 
-The Cosori Original Electric Glass Kettle has a slightly higher usability than its peers mostly thanks to the structure of its entire carafe. Its large and unobstructed opening made it easier to fill water and clean afterward. Other than that, the kettle was easy to use, carry, and pour to an acceptable standard. If only we could wrap the cord neatly around its storage.
+The Cosori Original Electric Glass Kettle is somewhat easier to use than other kettles thanks mostly to the design of the carafe. Its large and unobstructed opening makes it easier to pour in water and clean. Other than that, the kettle pours to an acceptable standard, but unfortunately the cord doesn't wrap so neatly around its storage.
 
 ### 7.0 - User Control
 
@@ -253,22 +253,22 @@ The Cosori has a standard one-touch switch with no digital display or temperatur
 
 The power switch is made of clear plastic and is positioned near the bottom of the carafe along the handle. It also acts as the indicator light which will illuminate with a blue LED when the kettle is running (+2).
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+The kettle has an automatic shutoff feature which will activate when boiling water triggers the thermo fuse (+2). This feature only works if you leave the lid open, but the boil-dry feature will turn the kettle off if all the water boils off (+2).
 
 ### 8.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/cosori-glass-electric-kettle-gk172-co-ease-use-clletwo4c000gzb88fsor7ubj.jpg" alt="A person in a grey shirt pouring water from the Cosori Glass Electric Kettle (GK172-CO) into a glass." width="300px" height="200px">
 
-The Cosori is extremely simple to use, with only two distinctive buttons—one for power and one for opening the lid (+2). We also found no odd odor during the first boil, a sign of good material quality and upkeep before delivery.
+With only two distinctive buttons—one for power and one for opening the lid—the Cosori is very easy to use (+2). We also detected no odd odor during the first boil—a sign of good material quality and upkeep before delivery.
 
-The carafe felt very light when we picked it up—it’s only slightly more than 2 lbs (+2). Holding its handle felt good in the hand and was sturdy enough to be carried around when filled with water to the max. The pouring angle between the arm and the kettle was good as well, making the action effortless (+1).
+The carafe felt very light when we picked it up—it’s only slightly more than 2 lbs (907 g) (+2). It felt good in the hand and was sturdy enough to be carried at maximum capacity. The  angle between the arm and the kettle made pouring effortless (+1).
 
 The large opening of 4.33 inches allowed us to comfortably pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
 
-The power base fits firmly below its carafe so the entire thing doesn’t wobble around during boiling (+1). Due to the flat shape of the cord, it was impossible for us to wrap it tightly around storage. After wrapping, the cord still stuck out quite a bit—6.3 inches, including the plug.
+The power base fits firmly below its carafe so the kettle doesn’t wobble when boiling (+1). Due to the flat shape of the cord, it was impossible for us to wrap it tightly around storage. After wrapping, the cord still stuck out quite a bit—6.3 inches, including the plug.
 
-### 7.0 - Cleaning
+### 6.0 - Cleaning
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/cosori-glass-electric-kettle-gk172-co-cleaning-clletzxay000jzb886491ak0o.jpg" alt="A person in a black shirt holding the Cosori Glass Electric Kettle (GK172-CO) by its handle on one hand and the other hand wiping the carafe interior with a piece of tissue." width="300px" height="200px">
 
-Cleaning the Cosori is very simple and effortless (+3). The opening is more than large enough for an adult hand to fit through and wipe the interior when necessary (+2). The limescale filter is removable for frequent cleaning and maintenance as well (+2).
+Cleaning the Cosori is very simple and effortless (+3). The opening is more than large enough for an adult hand to fit through and wipe the interior when necessary (+2). The limescale filter can be screwed off for frequent cleaning and maintenance as well (+1).
