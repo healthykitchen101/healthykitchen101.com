@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.5**/undefined
     
 
-The Amazon Basics has just the right features to be a simple and easy-to-use electric kettle. Besides a glass carafe, there’s nothing fancy about its design. Nevertheless, its performance scores are actually quite high across the board, making it a good and low-cost choice.
+The Amazon Basics has just the right features to be a simple and easy-to-use electric kettle. Besides a glass carafe, there’s nothing fancy about its design. Nevertheless, its performance scores are actually quite high across the board, making it a good and [low-cost choice](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/).
 
 **Things We Like**
 
