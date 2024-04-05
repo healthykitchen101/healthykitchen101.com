@@ -84,7 +84,7 @@ The Comfee Glass Electric Kettle CEKG003 reaches a maximum of 71.5 dB while boil
 
 Noise Level: 71.5 dB
 
-During boiling, the Comfee’s noise level peaked at 71.5 dB while reaching a rolling simmer, which was lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result showed that the kettle was very quiet while boiling and earned the kettle an 8.9/10.
+During boiling, the Comfee’s noise level peaked at 71.5 dB while reaching a rolling simmer. This is very safe considering the CDC recommended 80 dB safe exposure level for a period of 2 hours. This result showed that the kettle was very quiet while boiling and earned the kettle an 8.9/10.
 
 ### Keep Warm
 
@@ -92,7 +92,7 @@ During boiling, the Comfee’s noise level peaked at 71.5 dB while reaching a ro
 
 After 5 Minutes: 200°F / 94°C
 
-The glass carafe of the Comfee doesn’t have the best material for heat retention. The kettle also doesn’t have temperature control for the Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 200°F / 94°C. This equates to a 6/10 according to our data.
+The glass carafe quality of the Comfee isn’t the best for retaining heat. The kettle also doesn’t have temperature control for the Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 200°F / 94°C. This only scored 6/10 according to our rating scale.
 
 Design
 ------
@@ -108,7 +108,7 @@ design Scores: **NaN**
 *   Base (20%) - **9.0**/undefined
     
 
-The Comfee Glass Electric Kettle has a pretty standard design but the build quality is quite high. It also has all the desirable features, including a mesh filter, a blue LED ring, a large opening, and a pop-up lid.
+The Comfee Glass Electric Kettle looks very similar to many other kettles, but the build quality is notably good. Convenient features include a mesh filter, a blue LED ring, a large opening, and a pop-up lid.
 
 ### In the Box
 
@@ -119,7 +119,7 @@ The Comfee Glass Electric Kettle has a pretty standard design but the build qual
 *   One user manual
 *   Warranty: 1-year limited in the US
 
-The Comfee arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual was standard, having basic information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Comfee arrived between two foam pads—on the top and bottom—inside a carton box. The instruction manual had basic information on the kettle’s parts, how to use, safeguards, cleaning and maintenance, troubleshooting, and a warranty.
 
 ### Dimensions
 
@@ -155,9 +155,9 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
-The carafe is made of glass and has a capacity of 1.7 L, 57.48 fl. oz., or 7 cups (+2). It has a large opening, 3.94 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
+The carafe is made of glass and can hold  1.7 L (57.48 fl. oz.), which is about 7 cups (+2). It has a large opening, 3.94 inches in diameter, so you can comfortably pour in water from your tap or any container (+1).
 
-There are water level markings in the middle of the carafe (+1). The Comfee has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles but is positioned by the lid and is unremovable (+1).
+There are water level markings in the middle of the carafe (+1). The Comfee has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles but is positioned by the lid and is not removable (+1).
 
 Similar to many other cordless electric kettles, the Comfee’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
@@ -169,7 +169,7 @@ Materials: BPA-free plastic
 
 Type: Cool-touch
 
-The cool-touch handle is made of BPA-free plastic (+3). Its design is standard, without an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4).
+The cool-touch handle is made of BPA-free plastic (+3). Its design is standard, without an ergonomic contour or anti-slip feature, but it feels secure and comfortable on the wrist nonetheless (+4).
 
 ### 7.0 - Lid
 
@@ -181,11 +181,11 @@ Type: Hinged
 
 Open Mechanism: Push-button pop-up
 
-The Comfee has a hinged lid that pop-ups to a 75° angle with a single push of a button located on the handle (+4). That angle is good enough for the lid to move out of the way to get water in despite its fixed filter (+2).
+The Comfee has a hinged lid that pop-ups to a 75° angle with a single push of a button on the handle (+4). That angle is good enough for the lid to move out of the way to get water in despite its fixed filter (+2).
 
-The lid’s exterior and interior is simply plastic which can be undesirable for someone who doesn’t like their water coming into contact with plastic material. Nonetheless, we found no odd odor during the first boil.
+The lid’s exterior and interior are plastic which some people may not like since hot water will come in contact with the lid.Nonetheless, we detected no chemical odor during the first boil.
 
-Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Regardless, the lid still closes tightly (+1). It’s not cool-touch though, so be careful not to touch it when the water’s still hot.
+Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Regardless, the lid still closes tightly (+1), but it gets a little hot, so be careful not to touch it straight after boiling.
 
 ### 9.0 - Base
 
@@ -197,7 +197,7 @@ Type: Swivel 360°
 
 Cord Storage: Yes
 
-The Comfee has a standard BPA-free plastic 360° swivel base that’s sturdy and fits the carafe well enough (+5). At the bottom of the base is the cord storage and also three small anti-slip silicone pads (+4).
+The Comfee has a standard BPA-free plastic 360° swivel base that’s sturdy and fits the carafe well (+5). At the bottom of the base is the cord storage and also three small anti-slip silicone pads (+4).
 
 ### Power Cord
 
@@ -227,7 +227,7 @@ usability Scores: **NaN**
 *   Cleaning (20%) - **6.0**/undefined
     
 
-With a standard design, we didn’t expect the Comfee Glass Electric Kettle to excel at usability in any way. So, the fact that it was easy to use, carry, pour, and clean was all we wanted. If there’s anything to complain about, it would be that the cord didn’t wrap neatly around its storage.
+With a standard design, we didn’t expect the Comfee Glass Electric Kettle to excel in usability. The fact that it was easy to use, carry, pour, and clean was good enough. The only thing to fault it for would be the cord which didn’t wrap neatly around its storage.
 
 ### 7.0 - User Control
 
@@ -253,22 +253,22 @@ The Comfee has a standard one-touch switch with no digital display or temperatur
 
 The power switch is made of clear plastic and is positioned near the bottom of the carafe along the handle. It also acts as the indicator light which will illuminate with a blue LED when the kettle is running (+2).
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+The kettle has an automatic shutoff feature which will activate when the thermo fuse detects a boiling point temperature (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, the kettle’s boil-dry protection feature will turn off the kettle anyway when no water is present (+2).
 
 ### 8.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/comfee-electric-kettle-cekg003-ease-use-clnk4bqmu002h7488ghyxhrei.jpg" alt="A person in a grey shirt pouring water from the Comfee Glass Electric Kettle (CEKG003) into a glass." width="300px" height="200px">
 
-The Comfee is extremely simple to use, with only two distinctive buttons—one for power and one for opening the lid (+2).
+The Comfee is extremely simple to use, with only two buttons—one for power and one for opening the lid (+2).
 
-The carafe felt very light when we picked it up—it’s only slightly more than 2 lbs (+2). Holding its handle felt good in the hand and was sturdy enough to be carried around when filled with water to the max. The pouring angle between the arm and the kettle was good as well, making the action effortless (+1).
+The carafe felt very light when we picked it up—it’s only slightly more than 2 lbs (+2). Holding its handle felt good in the hand and it was sturdy enough to be carried around when completely filled with water. The angle between the arm and the kettle made pouring effortless (+1).
 
-The large opening of 3.94 inches allowed us to comfortably pour in water from the tap or any container (+1).  The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
+With a large opening of 3.94 inches (10 cm), it’s easy to pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
 
-The power base fits firmly below its carafe so the entire thing doesn’t wobble around during boiling (+1). Due to the flat shape of the cord, it was impossible for us to wrap it tightly around its storage. After storing, the cord stuck out for 6.89 inches, including the plug.
+The power base fits firmly below its carafe so there’s no wobble during boiling (+1). Due to the flat shape of the cord, it was impossible for us to wrap it tightly around its storage. After storing, the cord stuck out for 6.89 inches, including the plug.
 
 ### 6.0 - Cleaning
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/comfee-electric-kettle-cekg003-cleaning-clnmpdwjz00062a88d0o9f3jp.jpg" alt="A  hand wiping the carafe interior of the Comfee Glass Electric Kettle (CEKG003) with a piece of tissue." width="300px" height="200px">
 
-Cleaning the Comfee is very simple and effortless (+2). The opening is large enough for an adult hand to fit through and wipe the interior when necessary (+2). The limescale filter isn’t removable but the lid opens at a wide enough angle for it to not get in the way of anything (+2).
+Cleaning the Comfee is very easy (+2). The opening is large enough for an adult hand to fit through and wipe the interior when necessary (+2). The limescale filter isn’t removable but the lid opens at a wide enough angle for it to not get in the way of anything (+2).
