@@ -106,7 +106,7 @@ design Scores: **NaN**
 *   Base (20%) - **9.0**/undefined
     
 
-The Chefman Electric Kettle was quite well-designed in its carafe, lid, and power base. However, the handle could have better contour and grip support. Its control panel is quite compact, considering the 5 presets it has. Also, the removable tea infuser is quite a rare addition, especially for the kettle’s price.
+The Chefman Electric Kettle has a  well-designed carafe, lid, and power base. However, the handle could have better contour and grip support. Its control panel is quite compact, considering the 5 included presets. On the other hand, the removable tea infuser is quite a rare addition, especially for the kettle’s price.
 
 ### In the Box
 
@@ -115,9 +115,9 @@ The Chefman Electric Kettle was quite well-designed in its carafe, lid, and powe
 *   One cordless kettle
 *   One corded power base
 *   One user manual
-*   Warranty: 1 year
+*   Warranty:1 year
 
-The Chefman Electric Kettle arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual was detailed with information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Chefman Electric Kettle arrived tightly boxed with a foam pad on the bottom and one on the top. The instruction manual was detailed with information on the kettle’s parts, how to use, safeguards, cleaning and maintenance, troubleshooting, and warranty.
 
 ### Dimensions
 
@@ -153,13 +153,13 @@ Water Level Markings: Yes
 
 Tea Infuser: Detachable
 
-The carafe is made of glass and has a capacity of 1.8 L, 60.87 fl. oz, or a little over 7.5 cups (+2). Contrary to its large capacity, the kettle actually has a rather small opening, 3.23 inches in diameter (-1). A rare feature of the Chefman is that it has a tea infuser that can be mounted to its opening (+2).
+The carafe is made of glass and has a capacity of 1.8 L (60.87 fl. oz.), or a little over 7.5 cups (+2). Despite its large capacity, the kettle actually has a rather small opening, 3.23 inches in diameter (-1). A rare feature of the Chefman is a tea infuser that can be mounted to its opening (+2).
 
 There are water level markings in the middle of the carafe (+1). The plastic spout of the Chefman has a standard V shape. The limescale filter is positioned by the spout and is removable (+2).
 
 Similar to many other cordless electric kettles, the Chefman’s heating element is positioned inside the bottom of the carafe. We also saw the boil-dry protection detector on the bottom of the carafe, something not usually visible.
 
-There’s a ring of multi-colored LED that matches with the chosen preset around the bottom which will illuminate when the kettle’s running (+2). This makes it easy to tell which preset is running and also locate the kettle in the dark.
+There’s a ring of multi-colored LED that matches with the chosen preset around the bottom which will illuminate when the kettle’s running (+2). This makes it easy to tell which preset is running and also to locate the kettle in the dark.
 
 1.  Green LED: green tea (175°F)
 2.  Blue LED: white tea (185°F)
