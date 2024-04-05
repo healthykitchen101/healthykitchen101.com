@@ -29,7 +29,7 @@ Furthermore, the Elite has an awkward button placement which defeats the purpose
 *   Slow boiling time
 *   High energy consumption
 
-We bought the Elite Gourmet Electric Glass Kettle (EKT-602) for $23.10 on Amazon (at the time of writing), which was comparatively inexpensive. Unfortunately, on our first test run, the kettle disappointed with a slow boiling time. Read more to see if our complete test program revealed any saving grace for this kettle.
+We bought the Elite Gourmet Electric Glass Kettle (EKT-602) for $25.43 on Amazon (at the time of writing), which was comparatively inexpensive. Unfortunately, on our first test run, the kettle disappointed with a slow boiling time. Read more to see if our complete test program revealed any saving grace for this kettle.
 
 On a side note, the version that we chose was the 1.7-liter glass carafe. However, there’s also a 1-liter version, a 1.7-liter BPA-free plastic carafe version, and a 1.8-liter stainless steel double-wall carafe version that may be more of your cup of tea.
 
