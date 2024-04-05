@@ -1,4 +1,4 @@
-Electric kettles are still the most efficient appliance for making any hot beverage or getting hot water quickly when you need it. Our trusty electric kettle at Healthy Kitchen 101 has been on the ready for rehydrating dried mushrooms, softening noodles, or reconstituting  stock cubes—so we know how important its job is.
+Electric kettles are still the most efficient appliance for making any hot beverage or getting hot water quickly when you need it. Our trusty electric kettle at Healthy Kitchen 101 has been on the ready for rehydrating dried mushrooms, softening noodles, or reconstituting stock cubes—so we know how important its job is.
 
 Most of all, electric kettles are handy for their rapid boiling time in ratio to water volume—faster than a stovetop kettle or even an induction cooktop. An electric kettle trumps a water boiler too because it pours faster, easier, and cordless kettles can be carried to any point.
 
