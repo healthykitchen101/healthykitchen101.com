@@ -35,7 +35,7 @@ The sheet gives us a visual heat impression and an uniform surface material for 
 
 Pancakes are served.
 
-The next test is Making Pancakes (40%). We chose this test for its simple and universally common recipe, and to test how fast the skillet preheats to 350°F. Not to mention whether the skillet can make great pancakes!
+The next test is [Making Pancakes](https://healthykitchen101.com/electric-skillets/tests/pancakes/) (40%). We chose this test for its simple and universally common recipe, and to test how fast the skillet preheats to 350°F. Not to mention whether the skillet can make great pancakes!
 
 We define a perfect pancake as having an even golden brown color with a  moist and fluffy interior. In order to showcase the non-stick coating, we don’t glaze the pan with butter or oil. Secondly, we use this test for a run-off evaluation of ease of cleaning.
 
