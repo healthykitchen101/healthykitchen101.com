@@ -216,7 +216,7 @@ Cord Placement: Base
 
 Cord Length: 28.7" (73.0 cm)
 
-The Elite Gourmet has a 28.74 inch flat power cord, which should be enough for household use. It has a three-pronged plug which is typically safer than a two-pronged one by having a grounding wire.
+The Elite Gourmet has a 28.74 inch round power cord, which should be enough for household use. It has a three-pronged plug which is typically safer than a two-pronged one by having a grounding wire.
 
 Usability
 ---------
@@ -230,7 +230,7 @@ usability Scores: **NaN**
 *   Cleaning (20%) - **7.0**/undefined
     
 
-Upon further inspection, the Elite Gourmet Electric Glass Kettle has some problems because of one design feature. The kettle’s placement of its two buttons made it unnecessarily awkward to use.
+Further inspection revealed that the Elite Gourmet Electric Glass Kettle has some issues due to one design flaw. The positioning of its two buttons makes it unnecessarily awkward to use.
 
 ### 6.0 - User Control
 
@@ -238,7 +238,7 @@ Upon further inspection, the Elite Gourmet Electric Glass Kettle has some proble
 
 Control: One touch
 
-Indicator Light: Blue LED
+Indicator Light: No
 
 Display: No
 
@@ -246,7 +246,7 @@ Temperature Control: No
 
 Presets: No
 
-Keep Warm: 30 minutes
+Keep Warm: No
 
 Automatic Shut-Off: Yes
 
@@ -254,9 +254,9 @@ Boil-Dry Protection: Yes
 
 The Elite has a standard one-touch switch with no digital display or temperature control (+1). However, the power switch is awkwardly positioned right below the lid button (-1).
 
-The kettle doesn’t have an indicator light inside the switch like many of its peers. Thankfully, the carafe still has a blue LED ring to let you know the kettle is running (+2).
+The kettle doesn’t have an indicator light inside the switch like many of its counterparts. Thankfully, the carafe still has a blue LED ring to let you know the kettle is running (+2).
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+The kettle has an automatic shutoff feature.This is activated by the thermo fuse when the temperature reaches boiling point (+2). This feature won’t work if the lid is not closed, but the boil-dry protection feature will turn off the kettle when no water is present (+2).
 
 ### 7.0 - Ease of Use
 
