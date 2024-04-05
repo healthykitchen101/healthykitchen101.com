@@ -163,6 +163,8 @@ The heating element, much like many other cordless electric kettles, is position
 
 ### 7.0 - Handle
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/kettles/mueller-ultra-kettle-m99s-handle-clum3870s0000k8888cbu67lm.jpg" alt="A person holding the Mueller Ultra Electric Kettle (M99S) by its handle." width="300px" height="200px">
+
 Materials: Cool-touch BPA-free plastic
 
 Type: Cool-touch, anti-slip
