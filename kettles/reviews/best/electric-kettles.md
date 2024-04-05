@@ -164,16 +164,19 @@ Over the course of us testing different electric kettles, we’ve identified a n
 6.  Round power cords work best.
 7.  Check the safety features.
 
+Why Trust Us?
+-------------
+
+Simply put, we independently buy and test kitchen products. Our specialized team designs tests and evaluations that prioritize user experience. Furthermore, we don’t just say we test products. We provide all the evidence and data including details on our test methodologies and evaluation criteria.
+
+Tests are all videotaped for authenticity and our expert photographers show you details of products and testing procedures.
+
+After testing, the best electric kettles from our selection are deployed in the _Healthy Recipes 101_ kitchen for long term user evaluation. In this way, we maintain a **constant flow of feedback** on quality and performance.
+
 Our Expertise
 -------------
 
-Alan Nguyen is a consumer researcher and writer for Healthy Kitchen 101. His expert insight into kitchen equipment and appliances comes from prior work experience in restaurants, catering, and military kitchens. He is also an avid home cook and foodie.
-
-Working together with the ResearchTesting and Review team (RTR), he began his quest for the best electric kettles by researching countless options before narrowing the race down to 20 distinctive models.
-
-The RTR team then purchased the kettles and ran preliminary test batches before finalizing our testing methodology. Apart from data-driven performance tests, we also evaluated all kettles for user-friendliness and design.
-
-We literally boiled over a hundred liters of water in our testing and evaluation of 20 of the best electric kettles so you will know which is the one for you.
+Alan Nguyen is a consumer researcher and writer for Healthy Kitchen 101. Working together with the ResearchTesting and Review team (RTR), he began his quest for the best electric kettles by researching countless options before narrowing the race down to 20 distinctive models. We literally boiled over a hundred liters of water in our testing and evaluation of 20 of the best electric kettles so you will know which is the one for you.
 
 FAQ
 ---
