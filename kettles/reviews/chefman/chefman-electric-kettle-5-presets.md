@@ -10,9 +10,9 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.8**/undefined
     
 
-The Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) is only average in terms of performance but strikingly **inexpensive** for the features it offers. Standing out from similarly-priced kettles, the Chefman has a mesh filter, a tea infuser, and most remarkably, 5 presets for green tea, white tea, Oolong tea, French Press coffee, and Herbal tea or black tea.
+The Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) is only average in terms of performance, but strikingly **inexpensive** for the features it has. Standing out from similarly-priced kettles, the Chefman has a mesh filter, a tea infuser, and most remarkably, 5 presets. These are for green tea, white tea, Oolong tea, French Press coffee, and Herbal tea or black tea.
 
-If only some of the features were of higher quality though. We felt like they cut corners with the handle design and cord storage. The kettle’s performance didn’t deliver in only one test—boiling time—but that’s also the most important one.
+It is one of the quietest boiling kettles we have tested, and for some people this may be a key factor. However, the kettle failed to deliver in the one test that mattered the most—the boiling time test. Additionally, we felt the design cut corners with handle and the cord storage.
 
 **Things We Like**
 
@@ -46,7 +46,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.0**/undefined
     
 
-The Chefman Electric Kettle’s total performance score was quite good but that was mostly because of how quiet it was when boiling water. The kettle had a really slow boiling time—the most important aspect of electric kettles’ performance evaluation. Its energy consumption and ability to keep warm were both average.
+The Chefman Electric Kettle’s total performance score was quite good but that was mostly because of how quiet it was when boiling water. However, it had a really slow boiling time while energy consumption and heat retention were both average. 
 
 ### Boiling Time
 
