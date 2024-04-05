@@ -16,12 +16,11 @@ It’s easy to use and has all the desirable design features as well. If only th
 
 **Things We Like**
 
-*   Highly inexpensive
-*   Quiet when boiling
+*   Very inexpensive
+*   Quiet and fast boiling
 *   Easy to use
 *   Light weight
 *   Large capacity
-*   Pretty fast boiling time
 *   Long cord
 
 **Things We Don’t Like**
@@ -29,7 +28,7 @@ It’s easy to use and has all the desirable design features as well. If only th
 *   High energy consumption
 *   Cord doesn’t fit storage
 
-The next product in line for our testing is the Comfee Glass Electric Kettle CEKG003 with a glass carafe and black plastic base. Our first impression of the kettle upon first interactions was that it had a solid design, a fast boiling time, and a shockingly cheap price of $26.17 on Amazon (at the time of writing). So let’s get into it to see if our judgement was biased because of the kettle’s price.
+ We purchased the Comfee Glass Electric Kettle (CEKG003) because of its popularity and shockingly low price of $25.23 on Amazon (at the time of writing). . Of the bat, we were impressed with its solid design and fast boiling time. Read on to find out how this kettle performed across the board on all our tests and evaluations.
 
 On a side note, this kettle has other similar models if you’re interested. One has a glass carafe and stainless steel base, one has a stainless steel carafe with a water level window, and one has a stainless steel carafe but without a water level window.
 
