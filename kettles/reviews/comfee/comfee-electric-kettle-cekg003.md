@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 After being run through all our tests, the Comfee Electric Kettle (CEKG003) proved to be an all-around excellent glass kettle. Apart from comparatively high energy consumption, performance was good.
 
-It’s user-friendly with all the design features you would want on a kettle, except that the cord storage does not work so well. Nevertheless, considering the generally low price point, it's an excellent choice for anyone on a budget.
+It’s user-friendly with all the design features you would want on a kettle, except that the cord storage does not work so well. Nevertheless, considering the generally low price point, it's an excellent choice for anyone [on a budget](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/).
 
 **Things We Like**
 
