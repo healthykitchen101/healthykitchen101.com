@@ -99,7 +99,26 @@ Our performance tests confirmed product claims that the double-wall stainless st
 
 As a bonus, the kettle was quiet when boiling, reaching just under 75 dB. However, it consumed 155 Wh, slightly more energy than others.
 
-4\. Best with Tea Infuser: Chefman Electric Kettle with 5 Presets
+4\. Best Value: Comfee Electric Kettle CEKG003
+
+*   Low price tag
+*   Quiet when boiling
+*   Easy to use
+*   Light weight
+*   Large capacity
+*   Fast boiling time
+*   Long cord
+
+*   High energy consumption
+*   Cord doesn’t fit storage
+
+The Comfee Electric Kettle CEKG003 is one of our **most affordable** options and an all-around good glass kettle. It has a **fast** and very **quiet** boiling phase, reaching just over 70 dB within the 7 min 30 sec period.\[255\] COMFEE Electric Kettle CEKG003 Noise Level
+
+The kettle has a standard design and is easy to use, carry, pour, and clean. Even more, it still has all the nice extras such as a mesh filter, a blue LED ring, a large opening, and a pop-up lid—all high quality.
+
+It does, however, consume 161 Wh—quite a bit more energy compared to other kettles—and its heat retention isn’t anything to write home about either. Also, the cord didn’t wrap neatly around its storage.
+
+5\. Best with Tea Infuser: Chefman Electric Kettle with 5 Presets
 
 *   5 different presets
 *   Removable tea infuser
@@ -119,7 +138,7 @@ Truth be told, however, the kettle’s performance was average at best. Quiet bo
 
 Its value propositions might be enough to convince you, but the handle was awkward to hold and the cord storage didn’t wrap well. Also, the lid opening is a little narrow therefore making it difficult to clean inside.
 
-5\. Best Ceramic: Bella Ceramic Gooseneck Electric Kettle 14745
+6\. Best Ceramic: Bella Ceramic Gooseneck Electric Kettle 14745
 
 *   Attractive design
 *   Gooseneck spout
