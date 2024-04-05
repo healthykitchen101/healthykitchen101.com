@@ -156,11 +156,11 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
-The carafe is made of glass and has a capacity of 1.7 L, 57.48 fl. oz, or 7 cups (+2). It has a large opening, 3.54 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
+The carafe holds 1.7 L (57.48 fl. oz.), or around 7 cups, and is made of glass (+2). It has a wide lid opening, 3.54 inches in diameter, so pouring in water from your tap or any container is very easy (+1).
 
-There are water level markings in the middle of the carafe (+1). The plastic spout of the Elite Gourmet has a standard V shape. The limescale filter is positioned by the spout and is removable (+2).
+There are water level markings in the middle of the carafe (+1). The spout is made of plastic and not shaped out of the glass carafe like some other kettles. It has a standard V shape and a removable limescale filter positioned by the spout (+2).
 
-Similar to many other cordless electric kettles, the Elite Gourmet’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
+Similar to many other cordless electric kettles, the Elite Gourmet’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which lights up when the kettle’s running, making it easy to spot in the dark (+2).
 
 ### 7.0 - Handle
 
@@ -170,7 +170,7 @@ Materials: Cool-touch BPA-free plastic
 
 Type: Cool-touch, anti-slip
 
-The cool-touch handle is made of BPA-free plastic (+3). It doesn’t have an ergonomic contour or anti-slip feature, but feels secure and comfortable on the wrist nonetheless (+4). On the handle are two buttons, the one above is to open the lid and the one below is to start the kettle.
+The cool-touch handle is made of BPA-free plastic (+3). It feels secure and comfortable on the wrist even though it doesn’t have an ergonomic contour or anti-slip feature (+4). On the handle are two buttons, the one above is to open the lid and the one below is to start the kettle.
 
 ### 7.0 - Lid
 
@@ -182,13 +182,13 @@ Type: Hinged
 
 Open Mechanism: Push-button pop-up
 
-The Elite Gourmet has a hinged lid that pops up to an 80° angle with a single push of a button located on the handle (+3). However, in reality, the lid only popped up to 75° and we had to manually pull the rest. Anyway, the lid angle is enough to get water in (+2).
+The Elite Gourmet has a hinged lid operated by a button on the handle which should pop up to an 80° (+3). However, in reality, the lid only popped up to 75°, but the remaining 5 degrees we could lift up manually. Regardless, the lid angle is enough to easily get water in (+2).
 
-Its exterior is plastic with a stainless steel coating (+1). The lid isn’t entirely cool-touch, only a small black area.
+Its exterior is plastic with a stainless steel coating (+1). The lid isn’t entirely cool-to-touch, only a small black area.
 
-The interior is simply plastic which can be undesirable for someone who doesn’t like their water coming into contact with plastic material. Nonetheless, we found no odd odor during the first boil.
+The interior is plastic which some people may not like since hot water will contact the plastic material. Nonetheless, we detected no chemical odor during the first boil.
 
-Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Nonetheless, the lid still closes tightly (+1).
+Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. However, the lid still closes tightly (+1).
 
 ### 9.0 - Base
 
