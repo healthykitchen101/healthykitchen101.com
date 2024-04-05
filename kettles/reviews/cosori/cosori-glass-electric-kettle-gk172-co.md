@@ -119,7 +119,7 @@ It has overall good build quality and sports a typical mesh filter, a blue LED r
 *   One user manual
 *   Warranty: 2 years
 
-The Cosori Electric Glass Kettle arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual was quite detailed with information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Cosori Electric Glass Kettle arrived securely boxed between a styrofoam pad on the top and the bottom. The instruction manual was quite detailed with information on the kettle’s parts, how to use, safeguards, cleaning and maintenance, troubleshooting, and warranty.
 
 ### Dimensions
 
@@ -155,11 +155,11 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
-The carafe is made of glass and has a capacity of 1.7 L, 57.48 fl. oz, or 7 cups (+2). It has a large opening, 4.33 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
+The borosilicate glass carafe holds a maximum of 1.7 L (57.48 fl. oz), which is about 7 cups (+2). It has a large opening, 4.33 inches (11 cm) in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
 
-There are water level markings in the middle of the carafe (+1). The Cosori has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles but is positioned by the lid and is unremovable (+1).
+There are water level markings in the middle of the carafe (+1). The Cosori has  a  V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter doesn’t attach to the spout like other kettles but is positioned by the lid and is undetachable (+1). The filter is screw-on, however, so you can still remove it.
 
-Similar to many other cordless electric kettles, the Cosori’ heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
+Similar to many other cordless electric kettles, the Cosori’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
 ### 7.0 - Handle
 
