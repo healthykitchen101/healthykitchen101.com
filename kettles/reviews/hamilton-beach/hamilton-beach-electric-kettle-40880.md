@@ -91,7 +91,7 @@ During boiling, the Hamilton Beach’s noise level peaked at 72.8 dB while reach
 
 After 5 Minutes: 202°F / 95°C
 
-Although the Hamilton Beach has a stainless steel carafe, it didn’t retain heat any better than its glass or plastic competitors. The kettle also doesn’t have temperature control for the Keep Warm feature.
+Although the Hamilton Beach has a stainless steel carafe, it didn’t retain heat any better than its glass or plastic competitors, e.g. the [Peach Street PE-1300](https://healthykitchen101.com/kettles/reviews/peach-street/peach-street-electric-kettle-pe-1300/). The kettle also doesn’t have the Keep Warm feature.
 
 After 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
 
