@@ -109,7 +109,7 @@ design Scores: **NaN**
 *   Base (20%) - **9.0**/undefined
     
 
-Looking at the Elite Gourmet Electric Glass Kettle, it has a standard design in a good way. The kettle’s carafe, spout, handle, lid, base, and power cord all serve their purpose.
+The Elite Gourmet Electric Glass Kettle has a standard design, but is very functional in that the carafe, spout, handle, lid, base, and power cord all serve their purpose well.
 
 ### In the Box
 
@@ -120,7 +120,7 @@ Looking at the Elite Gourmet Electric Glass Kettle, it has a standard design in 
 *   One user manual
 *   Warranty: 1-year limited in the US
 
-The Elite Gourmet Electric Glass Kettle arrived between two foam pads on the top and the bottom inside a carton box. The instruction manual was standard, having basic information on the kettle’s parts, how to use, safeguards, cleaning and maintaining, troubleshooting, and warranty.
+The Elite Gourmet Electric Glass Kettle arrived neatly packaged between two foam pads, one the top and the bottom inside a carton box. The instruction manual was standard, having basic information on the kettle’s parts, how to use, safeguards, cleaning and maintenance, troubleshooting, and a warranty.
 
 ### Dimensions
 
