@@ -58,9 +58,9 @@ Water Volume: 50.72 fl. oz. (1.5 liters)
 
 Boiling Time: 9m 23s
 
-For the common electric kettles (not gooseneck) like the Chefman, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The product took 9 minutes and 23 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+For the common electric kettles (not gooseneck) like the Chefman, we evaluate the time they take to boil a mid-range capacity of 1.5 liters of water. This kettle took 9 minutes and 23 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
 
-This result was disappointingly slow but to be expected of the kettle’s 1100 W of power, worthy of only a 5.6/10.
+This result was  slow but not entirely unexpected since it only has 1100 W of power and not the typical 1500 W. Therefore, it only scored a 5.6/10.
 
 ### Energy Consumption
 
