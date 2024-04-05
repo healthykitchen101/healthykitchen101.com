@@ -82,7 +82,7 @@ We used a power meter to measure the Chefman’ total energy consumption to brin
 
 Noise Level: 69 dB
 
-During boiling, the Chefman’s noise level peaked at 69 dB while reaching a rolling simmer, which was lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result showed that the kettle was extremely quiet while boiling and earned the kettle a 9.1/10.
+During boiling, the Chefman’s noise level peaked at 69 dB while reaching a rolling simmer. This result showed that the kettle was extremely quiet while boiling and earned the kettle a 9.1/10. The [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.) notes a sound level of 80dB for a period of two hours can cause hearing loss.
 
 ### Keep Warm
 
@@ -90,7 +90,7 @@ During boiling, the Chefman’s noise level peaked at 69 dB while reaching a rol
 
 After 5 Minutes: 202°F / 95°C
 
-The glass carafe of the Chefman doesn’t have the best material for heat retention. In addition, even though the kettle has temperature control via presets, it doesn’t have the Keep Warm feature like many others do. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
+The glass carafe of the Chefman doesn’t have the best material for heat retention. In addition, even though the kettle has temperature control via presets, it doesn’t have the Keep Warm or reheat feature like many others do. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
 
 Design
 ------
