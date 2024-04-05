@@ -203,7 +203,7 @@ The Cosori has a standard BPA-free plastic 360° swivel base that’s sturdy and
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/cosori-glass-electric-kettle-gk172-co-power-cord-clleu1lk0000kzb88h2613kcu.jpg" alt="The two-pronged plug of the Cosori Glass Electric Kettle (GK172-CO)." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/kettles/cosori-glass-electric-kettle-gk172-co-power-cord-1-clleywajs000lzb888yfm85ad.jpg" alt="The power cord of the Cosori Glass Electric Kettle (GK172-CO) is 29.53 inches in length." width="300px" height="200px">
 
-Type: three-pronged plug
+Type: two-pronged plug
 
 Power: 1500 W
 
@@ -213,7 +213,7 @@ Cord Placement: Base
 
 Cord Length: 29.5" (75.0 cm)
 
-The Cosori has a 29.53 inch flat power cord, which should be plenty enough for household use. Its three-pronged plug is typically safer than a two-pronged one by having a grounding wire.
+The Cosori has a 29.53-inch flat power cord, which should be enough for household use. The cord uses a two-pronged plug which is typically considered not as safe as a three-pronged one. Nonetheless, it should be safe since the power base has a plastic casing and not a metal one.
 
 Usability
 ---------
