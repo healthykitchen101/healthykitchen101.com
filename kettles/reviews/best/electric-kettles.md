@@ -154,9 +154,9 @@ Close Competitors
 Things to Consider When Buying
 ------------------------------
 
-Over the course of us testing different electric kettles, we’ve identified a number of [key desirable qualities](https://healthykitchen101.com/kettles/tips/electric-kettle-buying-guide/) regarding their performance, design, usability, and lastly, price.
+Over the course of us testing different electric kettles, we’ve identified a number of key desirable qualities regarding their performance, design, usability, and lastly, price.
 
-1.  Aim for 1800 W or above.
+1.  Aim for 1500 W or above.
 2.  Stainless is best.
 3.  Ideal volume is 1.7 L.
 4.  Temperature control and presets.
