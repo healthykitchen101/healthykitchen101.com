@@ -18,20 +18,19 @@ If only some of the features were of higher quality though. We felt like they cu
 
 *   5 different presets
 *   Removable tea infuser
-*   Highly inexpensive
-*   Quite when boiling
+*   Low price
+*   Quiet when boiling
 *   Removable mesh filter
 
 **Things We Don’t Like**
 
-*   Overly simplified control
 *   Slow boiling time
 *   Small opening
 *   Awkward handle
 
-The next electric kettle in our roster is the Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) that we bought for $34.34 on Amazon (at the time of writing). We had quite a high expectation for this kettle going into it due to its 5 presets and removable tea infuser.
+ We bought the Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) t on Amazon for $34.34 (at the time of writing). We had high expectations for this kettle due to its 5 presets and removable tea infuser!
 
-However, upon first interactions, we weren’t happy with its control. The kettle’s boiling time was slow as well but that’s to be expected of its 1100 W of power. So, let’s dive further into it to see how that played out in our evaluation.
+However, off the bat the controls were not that great and, considering its 1100 W of power, the boiling time was a little slow.
 
 Performance
 -----------
