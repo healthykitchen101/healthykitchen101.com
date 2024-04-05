@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.5**/undefined
     
 
-The Ovente Electric Glass Kettle KG83B is a pretty average product. Its strongest points are low energy consumption at a very low price. This means, you can at least save money in the long run. That is, if you don’t mind the slow boiling time and inconvenient button placement.
+The Ovente Electric Glass Kettle (KG83B) is a pretty average product. Its [strongest points](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) are low energy consumption at a very low price. This means, you can at least save money in the long run. That is, if you don’t mind the slow boiling time and inconvenient button placement.
 
 **Things We Like**
 
