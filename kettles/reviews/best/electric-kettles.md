@@ -113,7 +113,7 @@ As a bonus, the kettle was quiet when boiling, reaching just under 75 dB. Howeve
 
 \[291\] Chefman Electric Kettle 5 Presets Cleaning
 
-The Chefman Electric Kettle with 5 Presets RJ11-17-CTI-RL earned its place on our list for its excellent value at a low price. This included a tea infuser and 5 temperature presets (rare enough) plus a well-designed carafe, pop-up lid, control panel, and power base.
+The Chefman Electric Kettle with 5 Presets RJ11-17-CTI-RL earned its place on our list for its **excellent value** at a low price. This included a **tea infuser** and **5 temperature presets** (rare enough) plus a well-designed carafe, pop-up lid, control panel, and power base.
 
 Truth be told, however, the kettle’s performance was average at best. Quiet boiling (only 69 dB) was the key to its acceptable performance score. Other than that, it was slow—over 9 minutes to boil 1.5 liters of water—with mid-range energy consumption and heat retention.
 
