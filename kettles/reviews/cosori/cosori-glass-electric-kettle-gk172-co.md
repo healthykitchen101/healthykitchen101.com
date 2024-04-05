@@ -10,9 +10,9 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.5**/undefined
     
 
-From a user perspective, the main selling point of the Cosori Original Electric Glass Kettle to us is the fact that there’s no plastic coming into contact with the water. And of course, we have the kettle’s glass carafe and spout as well as its stainless steel inner lid to thank for that. Speaking of which, the carafe also stands out quite a bit with its large and unobstructed opening for easy cleaning and filling.
+A somewhat unique point of the Cosori Original Electric Glass Kettle is zero contact of hot water to plastic. This is due to stainless steel on the under part of the lid in addition to a completely glass carafe. The carafe itself also stands out for its large and unobstructed opening, ideal for easy cleaning and filling.
 
-A relatively fast and highly quiet boiling phase is just the icing on the cake in this case. It does consume more energy than its peers but still has a great performance score nonetheless.
+The icing on the cake is a comparatively fast and very quiet boiling phase. On the other hand, this kettle did consume more energy than its counterparts but overall performance was great.
 
 **Things We Like**
 
@@ -46,7 +46,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **6.5**/undefined
     
 
-The Cosori Original Electric Glass Kettle has a pretty fast and very quiet boiling phase, which is great for its performance. However, its ability to keep warm is only average and its energy consumption is significantly higher than many other products with the same power draw.
+The Cosori Original Electric Glass Kettle has a pretty fast and very quiet boiling phase, which is something everyone can appreciate. However, heat retention was only average and its energy consumption was significantly higher than many other kettles with the same power draw.
 
 ### Boiling Time
 
@@ -58,9 +58,9 @@ Water Volume: 1.5 liters
 
 Boiling Time: 7m 1s
 
-For the common electric kettles (not gooseneck) like the Cosori, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The product took 7 minutes and 1 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+For the common electric kettles (not goosenecks) like the Cosori, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. This kettle took 7 minutes and 1 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
 
-This result was quite fast and matched with the kettle’s 1500 W of power, worthy of a 8/10. Moreover, it matched with the manufacturer’s advertised [British STRIX Tech](https://strix.com/our-technology-strix.html) claiming their boiling times ranged from 3-7 minutes.
+This result was quite fast and matched other kettle’s with 1500 W of power, so it was worthy of a 8/10 score. Moreover, it matched with the manufacturer’s advertised [British STRIX Tech](https://strix.com/our-technology-strix.html) claiming boiling times from 3 to 7 minutes.
 
 ### Energy Consumption
 
