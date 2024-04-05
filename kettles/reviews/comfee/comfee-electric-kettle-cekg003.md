@@ -157,7 +157,7 @@ Tea Infuser: No
 
 The carafe is made of glass and can hold  1.7 L (57.48 fl. oz.), which is about 7 cups (+2). It has a large opening, 3.94 inches in diameter, so you can comfortably pour in water from your tap or any container (+1).
 
-There are water level markings in the middle of the carafe (+1). The Comfee has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles but is positioned by the lid and is not removable (+1).
+There are water level markings in the middle of the carafe (+1). The Comfee has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles, e.g. the [Peach Street PE-1300](https://healthykitchen101.com/kettles/reviews/peach-street/peach-street-electric-kettle-pe-1300/), but is positioned by the lid and is not removable (+1).
 
 Similar to many other cordless electric kettles, the Comfee’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
