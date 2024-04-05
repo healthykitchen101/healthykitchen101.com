@@ -47,7 +47,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.5**/undefined
     
 
-The Elite Gourmet Electric Glass Kettle (EKT-602) didn’t perform well in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many of its competitors.
+The Elite Gourmet Electric Glass Kettle (EKT-602) failed to perform well enough in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many other competitors.
 
 ### Boiling Time
 
@@ -59,9 +59,9 @@ Water Volume: 1.5 liters
 
 Boiling Time: 10m 4s
 
-For the common electric kettles (not gooseneck) like the Elite Gourmet, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. Confirming our first impression, the product took a staggering 10 minutes and 4 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+For the common electric kettles (not goosenecks) like the Elite Gourmet, we evaluate the time they take to boil a middle ground capacity of 1.5 liters of water. Much in tune with our first impression, this kettle took a staggering 10 minutes and 4 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F / 100°C).
 
-This result was our slowest recorded boiling time so far, even worse than our other tested kettles that had the same 1100 W of power. As a result, we had no choice but to give it a measly 4.9/10.
+This result was our slowest recorded boiling time overall, even worse than our other tested kettles that had the same 1100 W of power. As a result, we had no choice but to give it a measly score of 4.9/10.
 
 ### Energy Consumption
 
@@ -75,7 +75,7 @@ Power: 960 W
 
 Energy Consumption: 161 Wh
 
-We used a power meter to measure the Elite Gourmet’ total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The kettle turned out to consume 161 Wh which was quite a bit more than other kettles on our data and consequently equaled a 5.8/10.
+While conducting the boiling test, we also used a power meter to measure the Elite Gourmet’ total energy consumption. The kettle took 161 Wh to bring 1.5 liters of room temperature water to a roiling boil. This was considerably more than other kettles in our data and consequently scored a 5.8/10.
 
 ### Noise Level
 
@@ -83,7 +83,7 @@ We used a power meter to measure the Elite Gourmet’ total energy consumption t
 
 Noise Level: 68.3 dB
 
-The Elite Gourmet’s low noise level was its main saving grace, earning it an excellent and much needed 9.2/10. During boiling, the kettle’s noise level peaked at 68.3 dB while reaching a rolling simmer, which was significantly lower than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This outcome was one of our best so far alongside the Ovente Electric Kettle (KP72W).
+The Elite Gourmet’s low noise level turned out to be its saving grace, earning it an excellent and much needed 9.2/10. During boiling, the kettle’s noise level peaked at 68.3 dB while reaching a rolling simmer, which was significantly lower than 80dB—the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)’s safe level for up to 2 hours of noise exposure. This outcome was one of our best so far alongside the Ovente Electric Kettle (KP72W).
 
 ### Keep Warm
 
@@ -91,9 +91,9 @@ The Elite Gourmet’s low noise level was its main saving grace, earning it an e
 
 After 5 Minutes: 203°F / 95.5°C
 
-The glass carafe of the Elite Gourmet doesn’t have the best material for heat retention, similar to the majority of our tested units. The kettle also doesn’t have temperature control for the Keep Warm feature.
+The glass of the Elite Gourmet carafe isn’t the best material for heat retention, but this is much the same as other kettles we tested. The kettle also doesn’t have temperature control for the Keep Warm feature.
 
-However, the water temperature inside the kettle dropped noticeably slower than its peers. After 5 minutes, the temperature dropped from 212°F / 100°C to 203°F / 95.5°C while many others dropped to 201°F. Checking with our data, this equates to a good score of 7.5/10.
+However, the water temperature inside the kettle dropped noticeably slower than its peers, possible due to a more fitted assembly. After 5 minutes, the temperature dropped from 212°F / 100°C to 203°F / 95.5°C while many others dropped to 201°F. Checking with our data, this equates to a good score of 7.5/10.
 
 Design
 ------
