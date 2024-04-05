@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 Our overall verdict for the Bella Ceramic Gooseneck Electric Kettle did not disappoint on  our first impressions. We really like the ceramic carafe and gooseneck spout of the kettle, enough to overlook its relatively slow boiling time.
 
-We were hoping to recommend this kettle for our senior tea enthusiasts.  Being a little on the heavier side with a tight lid soon, we soon scuttled that idea. However, it’s simple to use, easy to clean, and pours nicely enough for that nice cuppa.
+We were hoping to recommend this kettle for our senior tea enthusiasts. Seeing that the kettle was a little on the heavier side with a tight lid, we soon scuttled that idea. However, it’s simple to use, easy to clean, and pours nicely enough for that nice cuppa.
 
 **Things We Like**
 
