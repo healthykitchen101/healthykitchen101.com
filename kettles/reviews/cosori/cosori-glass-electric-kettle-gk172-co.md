@@ -74,7 +74,7 @@ Power: 1370 W
 
 Energy Consumption: 161 Wh
 
-We used a power meter to measure the Cosori’ total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The resulting 161 Wh indicated quite a lot of energy consumed for the task of boiling water. Compared to other kettles in our data, this one deserved only a 5.8/10.
+We used a power meter to measure the Cosori’ total energy consumption. It took 161 Wh to bring 1.5 liters of room temperature water to a rolling boil. Compared to our data from other kettles, this was quite high and deserved only a 5.8/10.
 
 ### Noise Level
 
@@ -82,7 +82,7 @@ We used a power meter to measure the Cosori’ total energy consumption to bring
 
 Noise Level: 70.4 dB
 
-During boiling, the Cosori’s noise level peaked at 70.4 dB while reaching a rolling simmer, which was much quieter than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)\-recommended 80 dB. This result earned the kettle a whopping 9/10 from our line-up.
+During boiling, the Cosori’s noise level peaked at 70.4 dB while reaching a rolling simmer, which was much quieter than the [CDC](https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=The%20U.S.%20Environmental%20Protection%20Agency,prevent%20noise%2Dinduced%20hearing%20loss.)’s safe level of exposure to 80 dB for 2 hours. By comparison to many other kettles, this was really quiet and earned a whopping 9/10.
 
 ### Keep Warm
 
@@ -90,7 +90,7 @@ During boiling, the Cosori’s noise level peaked at 70.4 dB while reaching a ro
 
 After 5 Minutes: 201°F / 94.5°C
 
-The glass carafe of the Cosori doesn’t have the best material for heat retention. The kettle also doesn’t have temperature control for the Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 201°F / 94.5°C. This was average among our tested kettles and equated to a 6.5/10 according to our data.
+The glass carafe of the Cosori isn’t the best material for heat retention. The kettle also doesn’t have temperature control or a  Keep Warm feature. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 201°F / 94.5°C. This was average among our tested kettles and equated to a 6.5/10 according to our data.
 
 Design
 ------
@@ -106,9 +106,9 @@ design Scores: **NaN**
 *   Base (20%) - **9.0**/undefined
     
 
-The Cosori Original Electric Glass Kettle has some interesting tweaks on an otherwise pretty standard design. Most notably, its spout is shaped out of the glass carafe and the inner lid is stainless steel—meaning absolutely no plastic is coming into contact with the water.
+The Cosori Original Electric Glass Kettle has some interesting tweaks to an otherwise standard design. Most notably, its spout is shaped out of the glass carafe and the underside of the lid is stainless steel—meaning absolutely no contact with hot water and plastic.
 
-In addition, the kettle’s overall build quality is quite high. This can be seen through all of its desirable features for an electric kettle, like a mesh filter, a blue LED ring, a large opening, and a pop-up lid.
+It has overall good build quality and sports a typical mesh filter, a blue LED ring, a large opening, and a pop-up lid.
 
 ### In the Box
 
