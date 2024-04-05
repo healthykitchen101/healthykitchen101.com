@@ -10,9 +10,9 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.3**/undefined
     
 
-All things considered, the Comfee Electric Kettle CEKG003 is an all-around good glass kettle. It shows a positive performance, except for maybe its comparatively high energy consumption.
+After being run through all our tests, the Comfee Electric Kettle (CEKG003) proved to be an all-around excellent glass kettle. Apart from comparatively high energy consumption, performance was good.
 
-It’s easy to use and has all the desirable design features as well. If only the cord storage was better designed though. Nonetheless, we think its affordability, in addition to everything, makes it a good budget choice.
+It’s user-friendly with all the design features you would want on a kettle, except that the cord storage does not work so well. Nevertheless, considering the generally low price point, it's an excellent choice for anyone on a budget.
 
 **Things We Like**
 
@@ -46,7 +46,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **6.0**/undefined
     
 
-The Comfee Glass Electric Kettle has a pretty fast and very quiet boiling phase. However, it consumes quite a bit more energy compared to other kettles on our list. Its ability to keep warm isn’t anything to write home about either.
+The Comfee Glass Electric Kettle has a pretty fast and very quiet boiling phase. However, it consumes quite a bit more energy compared to other kettles on our list. Its ability to retain heat isn’t anything to write home about either.
 
 ### Boiling Time
 
@@ -58,7 +58,9 @@ Water Volume: 50.72 fl. oz. (1.5 liters)
 
 Boiling Time: 7m 34s
 
-For the common electric kettles (not gooseneck) like the Comfee, we evaluate the time they take to boil 1.5 liters of water—a middle ground of their capacity. The product took 7 minutes and 34 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+For the common electric kettles (not gooseneck) like the Comfee, we see how long it takes to boil 1.5 liters of water—a good mid-capacity. This kettle took 7 minutes and 34 seconds to bring 1.5 liters of room-temperature water (80°F/26.7°C) to boiling point (212°F/100°C).
+
+This result was acceptable for the kettle’s 1500 W of power, worthy of a 7.4/10 score.
 
 ### Energy Consumption
 
@@ -72,7 +74,7 @@ Power: 1280 W
 
 Energy Consumption: 161 Wh
 
-We used a power meter to measure the Comfee’ total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 161 Wh which was a lot of energy. Comparing it to other kettles in our data, this one could only get a 5.8/10.
+We used a power meter to measure the Comfee’ total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 161 Wh which was quite high. Compared to other kettles in our data, this one could only get a 5.8/10.
 
 ### Noise Level
 
