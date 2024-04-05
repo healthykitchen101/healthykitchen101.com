@@ -87,7 +87,7 @@ The Peach Street is simply straightforward to use. We had no problem with the co
 *   Energy consumption
 *   No water-level markings
 
-In terms of having a stainless steel body, the Secura Kettle SWK-1701DA is even better than the Cuisinart. Its double-wall construction keeps the water hot and prevents accidental burns.
+In terms of having a stainless steel body, the Secura Kettle SWK-1701DA is even better than the Cuisinart. Its **double-wall** construction keeps the water hot and prevents accidental burns.
 
 \[230\] Secura Electric Kettle SWK-1701DA Lid 2
 
@@ -95,7 +95,7 @@ There is also no contact between water and plastic parts, which we know some peo
 
 The carafe’s large lid opening also makes it extremely easy to fill water and also to clean. However, a silicone band around the lid for tighter seal, a mesh filter, and a water-level window would be nice extras.
 
-Our performance tests confirmed product claims that the double-wall stainless steel helps to boil water faster and retains heat for longer. It took just over 7 minutes to boil 1.5 liters of water and remained at 205°F / 96.5°C after 5 minutes.
+Our performance tests confirmed product claims that the double-wall stainless steel helps to boil water faster and retains heat for longer. It took **just over 7 minutes** to boil 1.5 liters of water and remained at **205°F / 96.5°C** after 5 minutes.
 
 As a bonus, the kettle was quiet when boiling, reaching just under 75 dB. However, it consumed 155 Wh, slightly more energy than others.
 
