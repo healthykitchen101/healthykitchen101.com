@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.2**/undefined
     
 
-All things considered, the Ovente Electric Kettle KP72W has the main benefits of being light in weight and cheap in price. However, the kettle’s plastic material may be a cause for health concerns and not as long-lasting as glass or stainless steel products.
+All things considered, the Ovente Electric Kettle KP72W has the main benefits of being [light in weight](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) and cheap in price. However, the kettle’s plastic material may be a cause for health concerns and not as long-lasting as glass or stainless steel products.
 
 **Things We Like**
 
@@ -70,7 +70,7 @@ Power: 940 W
 
 Energy Consumption: 146 Wh
 
-We used a power meter to measure the Ovente’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 146 Wh which was quite low and equaled to an 8.8/10 according to our data. Interestingly, this model consumed significantly less energy than the KG83B glass model from the same brand.
+We used a power meter to measure the Ovente’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 146 Wh which was quite low and equaled to an 8.8/10 according to our data. Interestingly, this model consumed significantly less energy than the [KG83B glass model](https://healthykitchen101.com/kettles/reviews/ovente/ovente-glass-electric-kettle-kg83b/) from the same brand.
 
 ### Noise Level
 
