@@ -181,18 +181,18 @@ Alan Nguyen is a consumer researcher and writer for Healthy Kitchen 101. Working
 FAQ
 ---
 
-**How fast can an electric kettle boil water?**
+**1\. Why should you buy electric kettles?**
+
+Boiling water is one of the most efficient purification methods when you don’t have access to drinkable water or in the case of a service breakdown. And, electric kettles are our number one recommendation for the job. Read more on [reasons for using an electric kettle.](https://healthykitchen101.com/kettles/tips/reasons-for-using-electric-kettle/)
+
+**2\. How fast can an electric kettle boil water?**
 
 Depending on the kettle’s capacity and wattage, it can take from 5 to 9 minutes, with 8 minutes being the average.
 
-**Why should you buy electric kettles?**
-
-Boiling water is one of the most efficient purification methods when you don’t have access to drinkable water or in the case of a service breakdown. And, electric kettles are our number one recommendation for the job. Read more on [reasons for using an electric kettle](https://healthykitchen101.com/kettles/tips/reasons-for-using-electric-kettle/).
-
-**How to clean an electric kettle?**
+**3\. How to clean an electric kettle?**
 
 To [clean the limescale build-up](https://healthykitchen101.com/kettles/tips/how-clean-electric-kettle-remove-limescale/) in a kettle, simply boil a mixture of vinegar and water, let it sit for 2 hours, then rinse afterward.
 
-**How to make tea in a kettle?**
+**4\. How to make tea in a kettle?**
 
-Unless your kettle has an infuser, don’t boil tea directly in it. Put your tea in a teapot and make sure you select the right water temperature from [our quick guide](https://healthykitchen101.com/kettles/tips/how-make-tea-kettle/).
+Unless your kettle has an infuser, don’t boil tea directly in it. The [proper way to make tea](https://healthykitchen101.com/kettles/tips/how-make-tea-kettle/) is to put your tea leaves or tea bag in a container like a teapot and make sure you select the right water temperature from our quick guide.
