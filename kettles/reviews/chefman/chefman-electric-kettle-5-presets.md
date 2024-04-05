@@ -189,7 +189,7 @@ Open Mechanism: Push-button pop-up
 
 The Chefman has a hinged lid that pops up to an 80° angle with a single push of the silver button located in the middle of the lid (+4). It moves out of the way enough to leave the carafe’s opening unobstructed to get water in even with the tea infuser attached (+2).
 
-The plastic lid isn’t entirely cool-touch, only the open button. Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Regardless, the lid still closes tightly (+1).
+The plastic lid isn’t entirely cool-to-touch, only the open button. Unlike some other electric kettles we’ve tested, this one doesn’t have a silicone band around the circumference. Regardless, the lid still closes tightly (+1).
 
 ### 9.0 - Base
 
