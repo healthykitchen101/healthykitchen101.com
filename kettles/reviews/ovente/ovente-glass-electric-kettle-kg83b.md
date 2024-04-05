@@ -153,7 +153,7 @@ Tea Infuser: No
 
 The carafe is made of glass and has a slightly smaller capacity than usual—1.5 L, 50.72 fl. oz, or a bit over 6 cups—but that’s not an issue (+2). Despite its size, it has a wide lid opening, 3.54 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).
 
-There are clear water level markings in the middle of the carafe (+1). The Ovente has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles.Instead, it’s attached to and positioned by the lid and is unremovable (+1).
+There are clear water level markings in the middle of the carafe (+1). The Ovente has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles, e.g. the [Chefman RJ11-17-CTI-RL](https://healthykitchen101.com/kettles/reviews/chefman/chefman-electric-kettle-5-presets/). Instead, it’s attached to and positioned by the lid and is unremovable (+1).
 
 Similar to many other cordless electric kettles, the Ovente’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
