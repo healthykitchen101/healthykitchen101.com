@@ -142,7 +142,7 @@ Close Competitors
 -----------------
 
 *   The [Zeppoli ZPL-KETTLE](https://healthykitchen101.com/kettles/reviews/zeppoli/zeppoli-electric-zpl-kettle/) is an **all-round good performer** with an **exceptionally quiet** boiling phase of 64.7 dB. However, it could be improved with a round three-prong power cord.
-*   The [Comfee CEKG003](https://healthykitchen101.com/kettles/reviews/comfee/comfee-electric-kettle-cekg003/) is one of our **most affordable options** and an all-around good glass kettle. Its boiling phase is fast and quiet but consumes 161 Wh—quite a bit more energy compared to other kettles
+*   The [Mueller Ultra M99S](https://healthykitchen101.com/kettles/reviews/mueller-austria/mueller-ultra-kettle-m99s/) is another **glass pick** that closely matches up to the Zeppoli. Unfortunately, its uniquely shaped handle was quite a hindrance.
 *   The [Bella 14745](https://healthykitchen101.com/kettles/reviews/bella/bella-ceramic-kettle-14745/) is all about great aesthetics. We chose to feature this kettle for its eye-catching **ceramic carafe** and practical **gooseneck spout**.Good looks aside, it was slow to boil.
 
 Things to Consider When Buying
