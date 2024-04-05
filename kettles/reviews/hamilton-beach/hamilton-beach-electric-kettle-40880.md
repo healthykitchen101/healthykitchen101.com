@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.5**/undefined
     
 
-The main strength of the Hamilton Beach Stainless Steel Electric Kettle (40880) lies in its overall good performance. A durable stainless steel carafe and an affordable price are the cherry on top for this product.
+The strength of the Hamilton Beach Stainless Steel Electric Kettle (40880) lies in its overall good performance. The durable stainless steel carafe and its affordable price makes this kettle a [winner](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/).
 
 Unfortunately, we couldn’t help but wish for a larger opening to make cleaning the kettle easier. Moreover, some unnecessary extra bottom stands made the carafe slightly wobbly when boiling.
 
