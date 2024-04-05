@@ -28,7 +28,7 @@ It’s user-friendly with all the design features you would want on a kettle, ex
 *   High energy consumption
 *   Cord doesn’t fit storage
 
- We purchased the Comfee Glass Electric Kettle (CEKG003) because of its popularity and shockingly low price of $25.23 on Amazon (at the time of writing). . Of the bat, we were impressed with its solid design and fast boiling time. Read on to find out how this kettle performed across the board on all our tests and evaluations.
+ We purchased the Comfee Glass Electric Kettle (CEKG003) because of its popularity and shockingly low price of $26.17 on Amazon (at the time of writing). . Of the bat, we were impressed with its solid design and fast boiling time. Read on to find out how this kettle performed across the board on all our tests and evaluations.
 
 On a side note, this kettle has other similar models if you’re interested. One has a glass carafe and stainless steel base, one has a stainless steel carafe with a water level window, and one has a stainless steel carafe but without a water level window.
 
