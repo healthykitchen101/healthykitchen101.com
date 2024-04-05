@@ -217,7 +217,7 @@ Cord Placement: Base
 
 Cord Length: 2.5 ft (0.8 m)
 
-The Chefman has a 29.72-inch flat power cord, which should be enough for household use. The cord uses a two-pronged plug which is typically considered not as safe as a three-pronged one. Nonetheless, it should be safe since the power base doesn’t have a metal casing but a plastic one.
+The flat power cord is 29.72 inches long, which should be enough for household use. The cord uses a two-pronged plug which is typically considered not as safe as a three-pronged one. Nonetheless, it should be safe since the power base doesn’t have a metal casing but a plastic one.
 
 Usability
 ---------
@@ -231,7 +231,7 @@ usability Scores: **NaN**
 *   Cleaning (20%) - **6.0**/undefined
     
 
-The Chefman Electric Kettle’s usability could be improved slightly. The handle was awkward to hold and the cord storage didn’t wrap well. In addition, the carafe’s opening was quite small, making it difficult to fill or clean the kettle.
+The Chefman Electric Kettle could be a little more user-friendly. The handle was awkward to hold and the cord storage didn’t wrap well. In addition, the carafe’s opening was quite small, making it difficult to fill or clean the kettle.
 
 ### 7.0 - User Control
 
@@ -253,29 +253,29 @@ Automatic Shut-Off: Yes
 
 Boil-Dry Protection: Yes
 
-The Chefman allows temperature control with its 5 presets and is not adjustable by 1°C increment like some other products. This kettle doesn’t have the Keep Warm feature that many other kettles with temperature control have.
+The Chefman has temperature control fixed to 5 presets so there is no incremental  adjustment by 1°C. Additionally, there’s no Keep Warm feature that many other kettles with temperature control have.
 
 Its control panel has only 2 raised buttons and no digital display (+2). One is the on/off switch and the other, that has a thermometer icon, is to toggle between its 5 temperature presets including green tea, white tea, Oolong tea, French Press coffee, and Herbal tea or black tea.
 
-As soon as you toggle between the presets, the kettle will start running, no need to press the power switch. If you want to stop the kettle at any time, simply press the power switch.
+As soon as you toggle between the presets, the kettle will start running with no need to press the power switch. If you want to stop the kettle at any time, simply press the power switch.
 
 When the kettle’s running, the chosen preset will glow with a small red LED (+1). When the kettle finishes, it will beep once and automatically turns off.
 
-Here’s where a small hiccup happened. The product’s online specifications didn’t mention a Keep Warm feature but the instruction manual that came with our kettle did. We didn’t expect the kettle to have the Keep Warm feature anyway so it was simply a minor inconvenience.
+As mentioned, this kettle doesn’t have a Keep Warm feature. However, a minor annoyance was that the instruction manual says that it does while the online specifications make no mention of it.
 
-The kettle has an automatic shutoff feature which will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Keep in mind that this feature will not kick in if you leave the lid open. If you do, however, you still don’t have to worry about overheating because the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
+Like most kettles, the automatic shutoff feature will activate when the thermo fuse detects that the temperature has reached boiling point (+2). Remember to close the lid otherwise this function won’t work and, if you forget, the kettle’s boil-dry protection feature will turn off the kettle when no water is present (+2).
 
 ### 7.0 - Ease of Use
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/chefman-electric-kettle-5-presets-ease-use-clnmp9s5n00042a886zcs0qxv.jpg" alt="A hand pouring tea from the Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) into a glass." width="300px" height="200px">
 
-The small opening was enough to pour in water from your tap or any container but not enough to fit one hand in (+0). Luckily, the lid pops up to an 80° angle and doesn’t get in the way (+1).
+The small opening was enough to pour in water from your tap or any container but not enough to fit one’s hand in (+0). Luckily, the lid pops up to an 80° angle and doesn’t get in the way (+1).
 
 The control panel on the handle makes the handle curve in a weird angle and thus, awkward to hold (-1). Controlling is still easy though (+2).
 
 The kettle seemed sturdy when we picked it up when it was filled with water to the max (+1). We also had no trouble pouring water (+2).
 
-The lid’s plastic interior can be undesirable for someone who doesn’t like their water coming into contact with plastic material (+0). Nonetheless, we found no odd odor during the first boil.
+The lid has a plastic interior which may not suit those who wish to completely avoid all contact between hot water and plastic (+0). Nonetheless, we detected no odd odor during the first boil.
 
 The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1). The power base fits firmly below its carafe so the entire thing doesn’t wobble around during boiling (+1).
 
@@ -287,4 +287,4 @@ The flat shape of the cord made it impossible for us to wrap it tightly around i
 
 The Chefman RJ11-17-CTI-RL has a removable mesh filter and tea infuser.
 
-Cleaning the Chefman is a bit tricky since you can’t fit your hand through the opening to wipe the interior (+0). Thus, you’ll need a clamp to do so and the lid doesn’t get in the way of that (+2). On the other hand, the limescale filter is removable for frequent cleaning and maintenance (+2). The tea infuser’s mount can also be dismantled from it for thorough cleaning (+2).
+Cleaning the Chefman is a bit tricky since you can’t fit your hand through the opening to wipe the interior (+0). Thus, you’ll need a clamp to do so but the lid doesn’t get in the way (+2). On the other hand, the limescale filter is removable for frequent cleaning and maintenance (+2). The tea infuser’s mount can also be dismantled for thorough cleaning (+2).
