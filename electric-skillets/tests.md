@@ -1,6 +1,6 @@
 <img src="https://cdn.healthykitchen101.com/reviews/images/electric-skillets/how-we-test-electric-skillets-cltgw6c0j0029wz88bgey73vg.jpg" alt="How we test electric skillets. A person opening his arms towards a photo of a plate of pancakes on the left and a plate of steak, fries, and asparagus on the right." width="768" height="512">
 
-An electric skillet, large or small, is a versatile and convenient countertop space saver. A good skillet should be able to handle any task from sautéing, frying, grilling, and steaming, to even making hotpots. However, with differing materials, quality, and design, how does one choose a truly worthwhile electric skillet?
+An electric skillet, large or small, is a versatile and convenient countertop space saver. A good skillet should be able to handle any task from sautéing, frying, grilling, and steaming, to even making hotpots. However, with differing materials, quality, and design, how does one choose a [truly worthwhile](https://healthykitchen101.com/electric-skillets/reviews/best/) electric skillet?
 
 To answer this, we came up with a series of tests. With these, we grade the skillets we purchase on unbiased criteria as detailed in our Performance, Design, and Usability assessments below.
 
