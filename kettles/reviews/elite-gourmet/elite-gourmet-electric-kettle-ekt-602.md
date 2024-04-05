@@ -47,7 +47,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.5**/undefined
     
 
-The Elite Gourmet Electric Glass Kettle (EKT-602) failed to perform well enough in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many [other competitors](https://healthykitchen101.com/kettles/reviews/best/).
+The Elite Gourmet Electric Glass Kettle (EKT-602) failed to perform well enough in our two most important tests—Boiling Time and Energy Consumption. Surprisingly, its performance in our Noise Level and Keep Warm tests were better than many [other competitors](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/).
 
 ### Boiling Time
 
