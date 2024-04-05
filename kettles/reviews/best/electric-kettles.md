@@ -119,6 +119,31 @@ Truth be told, however, the kettle’s performance was average at best. Quiet bo
 
 Its value propositions might be enough to convince you, but the handle was awkward to hold and the cord storage didn’t wrap well. Also, the lid opening is a little narrow therefore making it difficult to clean inside.
 
+5\. Best Ceramic: Bella Ceramic Gooseneck Electric Kettle 14745
+
+*   Attractive design
+*   Gooseneck spout
+*   Rare ceramic carafe
+*   Well-priced
+*   Tight lid
+
+*   Slightly heavy
+*   No filter
+*   Loose cord wrap
+*   No water-level markings
+
+The Bella Ceramic Gooseneck Electric Kettle 14745 is all about great aesthetics. We chose to feature this kettle for its eye-catching **ceramic carafe** and practical **gooseneck spout**.
+
+\[195\] Bella Ceramic Kettle 14745 Cleaning
+
+Good looks aside, it was slow to boil—over 8 minutes—but energy consumption and noise level were, at least, up to standard at 158 Wh and 73 dB. Unfortunately, our high hopes for heat retention were somewhat dashed seeing the temperature drop to 202°F / 95°C after 5 minutes which was no different from glass kettles.
+
+The ceramic carafe precluded a mesh filter and an LED ring, making it difficult to see in the dark even though it has an indicator light. The power base wasn’t the sturdiest either.
+
+We thought to recommend this kettle for the senior tea enthusiasts. However, the kettle’s on the heavier side, its lid is tight, and its smooth handle lacks extra grip. All things considered, it’s not ideal for pour-over coffee either.
+
+The silver lining here is that the kettle is very easy to clean. Maybe another ceramic electric kettle will take the Bella’s place soon enough.
+
 Close Competitors
 -----------------
 
