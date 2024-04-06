@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.5**/undefined
     
 
-The Zeppoli Electric Kettle ZPL-KETTLE is an all-round good performer with an exceptionally quiet boiling phase. It has a fast boiling speed, good heat retention, and consumes little energy—all in the top tier. To top it off, the kettle is affordable as well.
+The Zeppoli Electric Kettle ZPL-KETTLE is an all-round good performer with an exceptionally quiet boiling phase. It has a fast boiling speed, good heat retention, and consumes little energy—all in the [top tier](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/). To top it off, the kettle is affordable as well.
 
 Its design is standard but has all the desirable features that make it easy to use and clean. If we’re being nitpicky, a round three-prong power cord would make it safer and easier to wrap.
 
