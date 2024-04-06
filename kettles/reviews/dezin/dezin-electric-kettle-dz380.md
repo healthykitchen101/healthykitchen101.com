@@ -160,7 +160,7 @@ Similar to many other cordless electric kettles, the Dezin’s heating element i
 
 There are clear water level markings in the middle of the carafe (+1). The Dezin has quite a unique V-shaped spout that is shaped out of the glass carafe itself.
 
-Usually, this means that the limescale filter will be fixed to the lid and the Dezin’s design stays true to that. However, this kettle only has a low-quality, plastic, holed filter which doesn't actually filter any limescale (+0). The only thing it does is restrict the water flow so that it doesn’t just gush out from the spout.
+Usually, this means that the limescale filter will be fixed to the lid and the Dezin’s design stays true to that. However, this kettle only has a low-quality, plastic, holed filter which doesn't actually filter any limescale—a similar problem to the [Topwit T360](https://healthykitchen101.com/kettles/reviews/topwit/topwit-electric-kettle-t630/) (+0). The only thing it does is restrict the water flow so that it doesn’t just gush out from the spout.
 
 ### 7.0 - Handle
 
