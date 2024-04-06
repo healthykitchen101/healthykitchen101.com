@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.6**/undefined
     
 
-The Dezin Electric Glass Kettle DZ380 has an extremely quiet boiling phase while consuming a standard amount of energy. It also has better heat retention than a lot of similar glass kettles. However, its slow boiling speed really sour the experience.
+The Dezin Electric Glass Kettle DZ380 has an [extremely quiet](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) boiling phase while consuming a standard amount of energy. It also has better heat retention than a lot of similar glass kettles. However, its slow boiling speed really sour the experience.
 
 Moreover, we’ve had some highly affordable kettle but this was a rare occasion where the design was a letdown. The filter was basically useless and the kettle having no cord storage made it difficult to manage.
 
