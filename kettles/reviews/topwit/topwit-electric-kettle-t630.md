@@ -158,7 +158,7 @@ The carafe is made of glass and has a larger-than-usual capacity of 2 L (67.63 f
 
 The Topwit has quite a unique V-shaped spout that is shaped out of the glass carafe itself. Usually, this means that the limescale filter will be fixed to the lid and the Topwit’s design stays true to that.
 
-However, this kettle only has a low-quality, plastic, holed filter which doesn't actually filter any limescale, similar to the Dezin DZ380 (+0). The only thing it does is restrict the water flow so that it doesn’t just gush out from the spout.
+However, this kettle only has a low-quality, plastic, holed filter which doesn't actually filter any limescale, similar to the [Dezin DZ380](https://healthykitchen101.com/kettles/reviews/dezin/dezin-electric-kettle-dz380/) (+0). The only thing it does is restrict the water flow so that it doesn’t just gush out from the spout.
 
 Similar to many other cordless electric kettles, the Topwit’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
