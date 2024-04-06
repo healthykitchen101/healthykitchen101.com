@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 The Topwit T630 has the largest capacity we’ve seen in an electric kettle while remaining lighter than most. However, it doesn’t have the fastest boiling speed, far from it. It could also use a proper limescale filter so that we don’t need to descale it as frequently.
 
-On the bright side, it also has the most quiet boiling phase out of all of the electric kettles we’ve tested. It doesn’t consume a lot of energy and has adequate heat retention.
+On the bright side, it also has the [most quiet](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) boiling phase out of all of the electric kettles we’ve tested. It doesn’t consume a lot of energy and has adequate heat retention.
 
 **Things We Like**
 
