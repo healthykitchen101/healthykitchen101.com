@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **6.5**/undefined
     
 
-The Aigostar Electric Kettle 300104LCB is a good product all things considered but it’s really dragged down by its slow boiling time—the most important aspect of an electric kettle.
+The Aigostar Electric Kettle 300104LCB is a good product all things considered but it’s really dragged down by its slow boiling time—the [most important aspect](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) of an electric kettle.
 
 The kettle has a low price tag as well as low energy consumption, so you can save money in the long run. Even better when it doesn’t cut any corners with its design features.
 
