@@ -76,7 +76,7 @@ Power: 1280 W
 
 Energy Consumption: 155 Wh
 
-We used a power meter to measure the Secura’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 155 Wh which was a little more  than its competitors, so we gave it a 7/10.
+We used a power meter to measure the Secura’s total energy consumption to bring 1.5 liters of room-temperature water to a rolling boil. The result was 155 Wh which was a little more than its competitors, so we gave it a 7/10.
 
 ### Noise Level
 
