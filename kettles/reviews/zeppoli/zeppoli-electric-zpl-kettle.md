@@ -226,7 +226,7 @@ usability Scores: **NaN**
 *   Cleaning (20%) - **7.0**/undefined
     
 
-The Zeppoli Electric Glass Kettle has all the features that makes it easy to use and clean. It could even be better with a round three-prong power cord though.
+The Zeppoli Electric Glass Kettle has all the features that makes it easy to use and clean. It could even be better with a round three-prong power cord like the [Peach Street PE-1300](https://healthykitchen101.com/kettles/reviews/peach-street/peach-street-electric-kettle-pe-1300/) though.
 
 ### 7.0 - User Control
 
