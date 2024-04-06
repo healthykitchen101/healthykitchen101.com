@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **8.0**/undefined
     
 
-For an electric kettle that has no unique features, the Peach Street PE-1300 was quite the performer with how fast and quiet it boils water. It did consume slightly more energy than some top-listers but that’s only nitpicking from us.
+For an electric kettle that has no unique features, the Peach Street PE-1300 was quite the performer with how fast and quiet it boils water. It did consume slightly more energy than some [top-listers](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) but that’s only nitpicking from us.
 
 The kettle has all of our desired features that makes it so easy to use. To top it all off, it’s very affordable as well.
 
@@ -46,7 +46,7 @@ performance Scores: **NaN**
 *   Keep Warm (10%) - **7.5**/undefined
     
 
-The Peach Street Electric Glass Kettle had good scores in the tests of Boiling Time, and Keep Warm. It was even excellent in the Noise Level test. Its Energy Consumption score wasn’t as high as some of its competitors though.
+The Peach Street Electric Glass Kettle had good scores in the tests of Boiling Time, and Keep Warm—losing only to our number one, the [Cuisinart CPK-17P1](https://healthykitchen101.com/kettles/reviews/cuisinart/cuisinart-electric-kettle-cpk-17p1/). It was even excellent in the Noise Level test. Its Energy Consumption score wasn’t as high as some of its competitors though.
 
 ### Boiling Time
 
