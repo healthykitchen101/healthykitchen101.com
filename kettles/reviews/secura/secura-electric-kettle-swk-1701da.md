@@ -114,6 +114,8 @@ The Secura Electric Stainless Steel Double-Wall Kettle has good build quality ov
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/kettles/secura-electric-kettle-swk-1701da-box-clunr4oxx0000sv88cfzmdmv7.jpg" alt="On the upper right is the Secura Electric Stainless Steel Double-Wall Kettle (SWK-1701DA). On the left is a cardboard box. Below the kettle, on the right is an instruction manual and on the left is the power base." width="300px" height="200px">
+
 *   One cordless kettle
 *   One corded power base
 *   One user manual
