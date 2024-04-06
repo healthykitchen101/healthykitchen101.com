@@ -260,7 +260,7 @@ Like most other kettles, it has an automatic shutoff feature which activates whe
 
 The Zeppoli is extremely simple to use, with only two distinctive buttons—one for power and one for opening the lid (+2).
 
-The unobstructed and large opening of 3.54 inches allowed us to comfortably pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
+The unobstructed and large opening of 3.94 inches allowed us to comfortably pour in water from the tap or any container (+1). The water level markings are in the middle of the carafe for easy viewing and precise decanting (+1).
 
 The handle felt good in the hand and seemed sturdy when we picked the kettle up when filled with water to the max (+2). The nice angle between the arm and the kettle made pouring effortless (+1).
 
