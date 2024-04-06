@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.6**/undefined
     
 
-The key attraction of the Secura Electric Stainless Steel Double-Wall Kettle (SWK-1701DA) is its good heat retention and cool-to-touch safe exterior Furthermore, hot water only comes in contact with stainless steel, meaning no internal plastic parts like other kettles we’ve tested.
+The key attraction of the Secura Electric Stainless Steel Double-Wall Kettle (SWK-1701DA) is its [good heat retention](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) and cool-to-touch safe exterior. Furthermore, hot water only comes in contact with stainless steel, meaning no internal plastic parts like other kettles we’ve tested.
 
 On top of that, it only costs a tad more than its glass competitors. It’s a straightforward kettle, fast to boil, but a little high on power consumption and lacks some standard features found on other kettles.
 
@@ -30,7 +30,7 @@ On top of that, it only costs a tad more than its glass competitors. It’s a st
 
 From the start, the Secura Electric Stainless Steel Double-Wall Kettle (SWK-1701DA) won us over with its design. What’s more, the price of $31.75 on Amazon (at the time of writing) was really reasonable.
 
-We chose the simple black version but this model also comes in black onyx, dark purple, red, orange, and white. With just one boil,   the exterior proved cool-to-touch and we couldn’t wait to test for heat retention.
+We chose the simple black version but this model also comes in black onyx, dark purple, red, orange, and white. With just one boil, the exterior proved cool-to-touch and we couldn’t wait to test for heat retention.
 
 Performance
 -----------
