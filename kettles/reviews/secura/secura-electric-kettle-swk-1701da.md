@@ -92,7 +92,7 @@ During boiling, the Secura’s noise level peaked at 74.5 dB while reaching a ro
 
 After 5 Minutes: 205°F / 96.5°C
 
-Understandably, and from our experience, we expected the Securas’s stainless steel double-wall carafe  to have good heat retention despite not having a digital Keep Warm feature. These were the manufacturer’s claims and we were not at all disappointed with the result.
+Understandably, and from our experience, we expected the Securas’s stainless steel double-wall carafe to have good heat retention despite not having a digital Keep Warm feature. These were the manufacturer’s claims and we were not at all disappointed with the result.
 
 After 5 minutes, the temperature only dropped from 212°F / 100°C to 205°F / 96.5°C. This earned the kettle a whopping  8.5/10, or the best out of our non-temperature-control kettles.
 
@@ -110,7 +110,7 @@ design Scores: **NaN**
 *   Base (20%) - **9.0**/undefined
     
 
-The Secura Electric Stainless Steel Double-Wall Kettle has good build quality overall, not just in its titular feature. However,  a silicone band around the lid for tighter a tighter fit, a mesh filter, and a water-level window similar to the Cuisinart CPK-17P1 PerfecTemp would be nice improvements.
+The Secura Electric Stainless Steel Double-Wall Kettle has good build quality overall, not just in its titular feature. However, a silicone band around the lid for tighter a tighter fit, a mesh filter, and a water-level window similar to the [Cuisinart CPK-17P1 PerfecTemp](https://healthykitchen101.com/kettles/reviews/cuisinart/cuisinart-electric-kettle-cpk-17p1/) would be nice improvements.
 
 ### In the Box
 
