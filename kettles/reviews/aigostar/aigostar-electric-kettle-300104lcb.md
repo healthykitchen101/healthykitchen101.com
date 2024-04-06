@@ -154,9 +154,9 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
-The carafe is made of glass and has a capacity of 1.7 L (57.48 fl. oz), or 7 cups of water (+2). It has a wide lid opening, 4.06 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1).  There are clear water level markings in the middle of the carafe (+1).
+The carafe is made of glass and has a capacity of 1.7 L (57.48 fl. oz), or 7 cups of water (+2). It has a wide lid opening, 4.06 inches in diameter, allowing you to comfortably pour in water from your tap or any container (+1). There are clear water level markings in the middle of the carafe (+1).
 
-The Aigostar has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles. Instead, it’s attached to and positioned by the lid and is unremovable (+1).
+The Aigostar has quite a unique V-shaped spout that is shaped out of the glass carafe itself. As a result, the limescale filter can’t be attached to the spout like other kettles, e.g. the [Hamilton Beach 40880](https://healthykitchen101.com/kettles/reviews/hamilton-beach/hamilton-beach-electric-kettle-40880/). Instead, it’s attached to and positioned by the lid and is unremovable (+1).
 
 Similar to many other cordless electric kettles, the Aigostar’s heating element is positioned inside the bottom of the carafe. There’s a ring of blue LED around the bottom which will illuminate when the kettle’s running, making it easy to spot in the dark (+2).
 
