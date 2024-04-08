@@ -171,7 +171,7 @@ We like the way that the waffle maker handles. The baking chamber rotates smooth
 
 The cooking plates can’t be removed, so they’re a pain to clean. Nevertheless, the non-stick coating on the plates functions well enough that we never had to deal with much debris or residue during our tests.
 
-4\. Best Value, Belgian: BELLA 13991 Classic Waffle Maker
+4\. Best Belgian: BELLA 13991 Classic Waffle Maker
 
 *   Affordable
 *   Did well in both of our performance tests
