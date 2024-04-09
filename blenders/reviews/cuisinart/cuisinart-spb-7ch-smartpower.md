@@ -55,7 +55,7 @@ The Cuisinart showcased impressive grinding capabilities and skillful protein sh
 
 ### Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u52a000qsv881c2t6e8c.jpg" alt="Cuisinart SmartPower Blender Smoothie Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mh5930025ab88ex2cffnc.jpg" alt="The Cuisinart SmartPower Blender motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mhu360026ab885ommf46j.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Cuisinart SPB-7CH SmartPower smoothies blended for three minutes, 3 minute 30 seconds, and four minutes." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u52a000qsv881c2t6e8c.jpg" alt="Cuisinart SmartPower Blender Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mh5930025ab88ex2cffnc.jpg" alt="The Cuisinart SmartPower Blender motor base and its container stand on a table, accompanied by a glass filled with a green smoothie. Next to it, a white paper features three distinct smoothie samples while a smartphone showcases the blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mhu360026ab885ommf46j.jpg" alt="A white paper displays three smoothie samples, showcasing the consistency of the Cuisinart SPB-7CH SmartPower smoothies blended for three minutes, 3 minute 30 seconds, and four minutes." width="300px" height="200px">
 
 Blending Time: 4 mins
 
@@ -69,7 +69,7 @@ If a touch of manual intervention doesn't bother you and a bit of extra blending
 
 ### Frozen Fruit Smoothie
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u4w2000osv88e4cd0lwz.jpg" alt="Cuisinart SmartPower Blender Frozen Smoothie Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mjiho0027ab888jy6dbak.jpg" alt="The Cuisinart SmartPower motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mk62o0028ab88d9jy1dps.jpg" alt="A sample of frozen fruit smoothie created with the Cuisinart SPB-7CH SmartPower blender, spread on white paper." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u4w2000osv88e4cd0lwz.jpg" alt="Cuisinart SmartPower Blender Frozen Smoothie Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mjiho0027ab888jy6dbak.jpg" alt="The Cuisinart SmartPower motor base stands beside a glass bowl which contains a portion of the smoothie it produced. Next to it, a smartphone displays a blending time of 5 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mk62o0028ab88d9jy1dps.jpg" alt="A sample of frozen fruit smoothie created with the Cuisinart SPB-7CH SmartPower blender, spread on white paper." width="300px" height="200px">
 
 Blending Time: 5 mins
 
@@ -83,7 +83,7 @@ In short, if your intention is to use this blender specifically for icy treats, 
 
 ### Protein Shake
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u52i000rsv88b1tydm68.jpg" alt="Cuisinart SmartPower Blender Protein Shake Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2ml8oo0029ab881q5u1rdk.jpg" alt="The Cuisinart SPB-7CH SmartPower motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mmabb002aab881xqq8pra.jpg" alt="A mesh strainer filters a protein shake made by the Cuisinart SPB-7CH SmartPower, retaining the unblended solids that fail to pass through." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u52i000rsv88b1tydm68.jpg" alt="Cuisinart SmartPower Blender Protein Shake Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2ml8oo0029ab881q5u1rdk.jpg" alt="The Cuisinart SPB-7CH SmartPower motor base stands beside the container. Next to it, a protein shake has been strained through a metal mesh strainer while a smartphone displays a blending time of 2 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mmabb002aab881xqq8pra.jpg" alt="A mesh strainer filters a protein shake made by the Cuisinart SPB-7CH SmartPower, retaining the unblended solids that fail to pass through." width="300px" height="200px">
 
 Blending Time: 2 mins
 
@@ -95,7 +95,7 @@ What remained was nothing more than tiny sesame seed-like particles. To achieve 
 
 ### Almond Butter
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u4vs000nsv8871ve10xx.jpg" alt="Cuisinart SmartPower Blender Almond Butter Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mnfo9002bab88gnwm6z7v.jpg" alt="The Cuisinart SPB-7CH SmartPower is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mo3v1002cab8825j3do1l.jpg" alt="A sample of almond butter created with the Cuisinart SPB-7CH SmartPower blender is beside a smartphone and the blender’s motor." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u4vs000nsv8871ve10xx.jpg" alt="Cuisinart SmartPower Blender Almond Butter Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mnfo9002bab88gnwm6z7v.jpg" alt="The Cuisinart SPB-7CH SmartPower is beside a white plate containing almond butter with a spatula and a smartphone revealing a blending time of 4 minutes." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mo3v1002cab8825j3do1l.jpg" alt="A sample of almond butter created with the Cuisinart SPB-7CH SmartPower blender is beside a smartphone and the blender’s motor." width="300px" height="200px">
 
 Blending Time: 4 mins
 
