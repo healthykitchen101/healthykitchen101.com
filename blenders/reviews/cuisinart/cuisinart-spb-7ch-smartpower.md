@@ -109,7 +109,7 @@ Despite operating for an additional three and a half minutes, the interaction be
 
 ### Crushed Ice
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u50m000psv886yhz0w7i.jpg" alt="Cuisinart SmartPower Blender Ice Thumbnail" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mph4e002dab88gtkr4iie.jpg" alt="The Cuisinart SPB-7CH SmartPower blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mpz24002eab888uf440y5.jpg" alt="The scale's screen shows 8.17 oz of uncrushed ice cubes remaining from the  Cuisinart SPB-7CH SmartPower blender." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clus1u50m000psv886yhz0w7i.jpg" alt="Cuisinart SmartPower Blender Ice Video" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mph4e002dab88gtkr4iie.jpg" alt="The Cuisinart SPB-7CH SmartPower blender is beside a black tray containing its crushed ice." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clj2mpz24002eab888uf440y5.jpg" alt="The scale's screen shows 8.17 oz of uncrushed ice cubes remaining from the  Cuisinart SPB-7CH SmartPower blender." width="300px" height="200px">
 
 Ice Fineness: Coarse
 
