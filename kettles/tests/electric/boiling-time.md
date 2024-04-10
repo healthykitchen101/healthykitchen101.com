@@ -21,7 +21,7 @@ Water Volume
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/how-we-test-boiling-time-for-electric-kettles-water-volume-cll397kfw000dua88fzae6ilq.jpg" alt="In the foreground, on a white table are 3 electric kettles. The kettle in the middle is filled with 1.5 liters of water from the measuring cup above. In the background are more electric kettles." width="640" height="427">
 
-First, we test all kettles with the same volume of water for fair and comparable results:
+First, we test [all kettles](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) with the same volume of water for fair and comparable results:
 
 The common electric kettle (not the gooseneck pour-over variety) usually has a capacity of minimum 0.5 liters and maximum 1.5 to 1.8 liters. Thus, we chose the middle ground—**1.5 liters**— to conduct our boiling time test.
 
