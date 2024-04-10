@@ -1,0 +1,3 @@
+The InSinkErator Badger 5 1/2-HP is one of the most popular garbage disposals in the industry. Its versatile build, delivering satisfactory power, durability, and affordability, makes it a suitable choice for the compact segment of the market. Although it’s not the most capable disposal we’ve tested, the Badger 5 is a safe bet for the average home.
+
+The AmazonCommercial 3/4-HP is a much stronger and more capable option in comparison. You can tell that the disposal’s primary hook is its appealing power-to-cost ratio. Furthermore, the disposal’s magnet motor is very effective at preventing jamming and it comes at a cheaper price. The catch is it has a much flimsier build in comparison.
