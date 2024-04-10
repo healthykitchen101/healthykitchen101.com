@@ -1,0 +1,3 @@
+Even though the Waste King L-8000 1-HP has a bigger motor with a higher power rating, the AmazonCommercial 3/4-HP still manages to deliver better results. Interestingly enough, they both run on permanent magnet motors, indicating a difference in the quality of the motors. 
+
+These two go for about the same price and are strong garbage disposals that can handle daily kitchen scraps with little hassle. They’re also good at avoiding jamming thanks to the high speed motors, and their bodies feel the same in terms of quality. However, the Waste King L-8000 is considerably larger than the AmazonCommercial 3/4-HP.
