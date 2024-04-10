@@ -6,7 +6,7 @@ There are ways to help dampen the noise of a working electric kettle such as pla
 
 While researching electric kettles, we found sources that claimed the faster the kettle boils water, the less noisy it is. However, our test results showed no clear correlation between boiling time and noise level.
 
-Low noise levels are important for perhaps an office or a small apartment, so we assign this a total of 15% of our total Performance Score. Boiling time (45%) is the most important factor overall followed by energy consumption (30%), noise level, and then heat retention or keep warm (10%).
+[Low noise levels](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) are important for perhaps an office or a small apartment, so we assign this a total of 15% of our total Performance Score. Boiling time (45%) is the most important factor overall followed by energy consumption (30%), noise level, and then heat retention or keep warm (10%).
 
 This test is performed simultaneously with our Boiling Time test. We use **1.5 liters** of room-temperature tap water with a starting temperature of **80°F** (26.7°C).
 
