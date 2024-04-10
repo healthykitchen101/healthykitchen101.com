@@ -2,7 +2,7 @@ According to the [Environmental Protection Agency](https://www.epa.gov/ground-wa
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/how-we-test-electric-kettles-cll34hpti0000ua884t30csv4.jpg" alt="In the front, from left to right is a grey power meter, a blue noise meter, a dark-screen digital timer, a measuring cup filled with water, and an orange two-probe ThermoPro digital thermometer. Behind them are two rows of electric kettles, 6 on each row." width="768" height="512">
 
-This is where we come in with our series of tests. The goal is to assess the kettles we purchase based on their Performance (40%), Design (25%), and Usability (35%) which we’ll elaborate further down the line.
+This is where we come in with our series of tests. The goal is to assess the kettles we purchase based on their **Performance** (40%), **Design** (25%), and **Usability** (35%) which we’ll elaborate further down the line.
 
 All scores (segmental and total) are shown on an easy-to-understand scale of 0 to 10. To give you a rough idea, a good kettle with an overall rating of 8/10 should:
 
