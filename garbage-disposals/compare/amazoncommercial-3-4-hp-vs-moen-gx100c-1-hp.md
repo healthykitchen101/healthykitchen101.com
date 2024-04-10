@@ -1,0 +1,3 @@
+It came as a surprise when the AmazonCommercial 3/4-HP surpassed the Moen Chef GX100C 1-HP in our tests. Seeing the big price difference, our initial expectations favored the Moen. However, the AmazonCommercial 3/4-HP was so much more vigorous, particularly evident in the raw scrap challenges. Moreover, it effortlessly handled large quantities of typical food scraps with speed and thoroughness.
+
+Both the AmazonCommercial 3/4-HP and the Moen Chef employ strong magnet motors, excelling at avoiding jamming. Despite this similarity, the Moen Chef consistently delivers poorer output quality. Our speed test also reveals that its motor operates at a lower speed compared to its counterpart.
