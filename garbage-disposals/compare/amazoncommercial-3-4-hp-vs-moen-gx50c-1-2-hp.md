@@ -1,0 +1,3 @@
+The AmazonCommercial 3/4-HP and the Moen GX50C 1/2-HP both run on jam-resistant permanent magnet motors and are very effective against normal kitchen scraps. While the AmazonCommercial 3/4-HP is more powerful, the Moen Prep GX50C is better constructed. That said, they are both well-built grinders that utilize stainless steel grinding components for the best grinding experience.
+
+The key difference between the two lies in their ability to deal with raw scraps. Where the AmazonCommercial 3/4-HP hardly struggled to deal with such challenges, the Moen GX50C 1/2-HP could only put up satisfactory results.
