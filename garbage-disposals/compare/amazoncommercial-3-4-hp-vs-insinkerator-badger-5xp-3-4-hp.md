@@ -1,0 +1,3 @@
+Throughout our testing phase, the AmazonCommercial 3/4-HP kept on delivering impressive results. It boasts a strong permanent magnet motor that offers enough power to handle most common kitchen scraps, including cooked chicken bones. The fast-paced motor also helps reduce the risk of jamming even when the chamber is filled. However, it has a rather flimsy construction.
+
+In comparison, the InSinkErator Badger 5XP is much more durable and expensive as it’s built for longevity but isn’t as capable. Its grinding capabilities are limited to easy vegetables and fruits, and it operates at a much slower rate, making it prone to jamming. Luckily, the motor usually has enough torque to break free in such an instance.
