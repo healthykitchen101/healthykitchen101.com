@@ -1,0 +1,3 @@
+The GE Disposall GFC1020N 1-HP is a powerhouse of a disposal that features a robust magnet motor motor and thick grinding components. It tackles tough kitchen waste like cooked bone with relative ease and runs smoothly with a low risk of jamming against most common foods. However, the disposal can be quite loud and space-consuming.
+
+AmazonCommercial 3/4-HP is a much more budget-friendly disposal that packs a surprising punch. While affordable, it handles cooked bones and avocado pits with gusto, and heavy loads of common kitchen scraps are not too challenging. But the disposal is quite loud during operation, and it’s not optimized for longevity.
