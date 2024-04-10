@@ -4,7 +4,7 @@ According to the [Environmental Protection Agency](https://www.epa.gov/ground-wa
 
 This is where we come in with our series of tests. The goal is to assess the kettles we purchase based on their **Performance** (40%), **Design** (25%), and **Usability** (35%) which we’ll elaborate further down the line.
 
-All scores (segmental and total) are shown on an easy-to-understand scale of 0 to 10. To give you a rough idea, a good kettle with an overall rating of 8/10 should:
+All scores (segmental and total) are shown on an easy-to-understand scale of 0 to 10. To give you a rough idea, [a good kettle](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) with an overall rating of 8/10 should:
 
 *   Boil reasonably fast
 *   Be energy efficient
