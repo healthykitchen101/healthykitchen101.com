@@ -1,0 +1,3 @@
+Both the AmazonCommercial 3/4-HP and the Waste King L-1001 prove to be effective disposals, albeit with distinct strengths. The AmazonCommercial 3/4-HP is one of the strongest 3/4-HP units in its class. It features a powerful magnet motor that should handle various food types while effectively avoiding jamming. What’s more, the disposal’s sturdy construction and reasonable price adds to its appeal. 
+
+On the other hand, the L-1001 is a capable yet much smaller unit. The disposal excels at tackling kitchen scraps compared to most other small disposals in our line-up, thanks to its high-speed, jam-resistant magnet motor. Additionally, its cost makes sense for a smaller unit.
