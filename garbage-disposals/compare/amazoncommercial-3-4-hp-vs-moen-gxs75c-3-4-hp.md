@@ -1,0 +1,3 @@
+The AmazonCommercial 3/4-HP is equipped with a high-speed permanent magnet motor that effortlessly handles a variety of food scraps. Even with large amounts of food, its fast pace effectively avoids jamming. Considering its reasonable cost, performance, and build quality, the disposal offers plenty of value.
+
+On the flip side, the Moen Host GXS75C remains one of the most versatile 3/4-HP garbage disposals we've tested. In its price range, the disposal’s grinding capabilities are tough to beat. Additionally, its high-speed, jam-resistant motor and solid construction should be enough to satisfy the average home.
