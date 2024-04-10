@@ -2,7 +2,7 @@ We have established in our How We Test article that two crucial aspects of elect
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/how-we-test-energy-consumption-for-electric-kettles-cll4kjxmx000mua889kso1bag.jpg" alt="On a white table is 12 electric kettles. In front of them is a grey and blue-screened power meter. " width="768" height="512">
 
-The two most important factors in electric kettle testing are temperature followed by boiling speed. The third factor, and one often overlooked, is energy consumption. How much energy a kettle uses is a measure of its efficiency and also your electricity bill!
+The two most important factors in electric kettle testing are temperature followed by boiling speed. The third factor, and one often overlooked, is energy consumption. How much energy a kettle uses is a measure of its [efficiency](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) and also your electricity bill!
 
 We were surprised to discover that shorter boiling times don’t necessarily translate into lower energy consumption. The same goes for power output which doesn’t always correlate to performance.
 
