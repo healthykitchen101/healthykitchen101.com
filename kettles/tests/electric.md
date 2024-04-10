@@ -27,7 +27,7 @@ Kettle designers combat this by incorporating two ingenious features:
 
 Evidently, in actual testing, we found all kettles to boil between over 99°C to 100°C without fail. Thus, we don’t use temperature accuracy as a scoring criterion.
 
-Our performance tests focus on the following: **Boiling Time** (45%), **Energy Consumption** (30%), **Noise Level** (15%), and  **Keep Warm** (10%). Out of these four, Boiling Time and Energy Consumption are  more intricate and produce some interesting detail.
+Our performance tests focus on the following: [**Boiling Time**](https://healthykitchen101.com/kettles/tests/electric/boiling-time/) (45%), [**Energy Consumption**](https://healthykitchen101.com/kettles/tests/electric/energy-consumption/) (30%), [**Noise Level**](https://healthykitchen101.com/kettles/tests/electric/noise-level/) (15%), and  [**Keep Warm**](https://healthykitchen101.com/kettles/tests/electric/keep-warm/) (10%). Out of these four, Boiling Time and Energy Consumption are  more intricate and produce some interesting detail.
 
 We video the entire testing process for quality control and also comment on any mishaps along the way. All kettles are cleaned before testing to make sure no impurities affect the results. Since it’s impossible to impartially judge water quality without a lab test, we simply point out bad tastes or odors in the ease of use section below.
 
