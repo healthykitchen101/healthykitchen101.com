@@ -1,0 +1,5 @@
+The comparison between the Cuisinart Electric Kettle CPK-17P1 and the Chefman Electric Kettle RJ11-17-CTI-RL highlights the fact that not all kettles with temperature presets are built the same. Nonetheless, although the Cuisinart is better in all aspects, the Chefman still has its place with its highly affordable price and most importantly, its removable tea infuser.
+
+With a higher power draw, the Cuisinart boils water faster and consumes less energy. Although the Cuisinart is stainless steel and the Chefman is glass, they both have similar noise levels while boiling. The thing that separates them the most is the Cuisinart’s ability to maintain the water temperature for up to 30 minutes after it’s finished.
+
+Their temperature settings are not too different and all just require one touch to operate. The Chefman’s LED ring that changes color depending on the chosen preset is quite cool though. Both have a problem with small lid opening for cleaning but their removable limescale filters are still appreciated.
