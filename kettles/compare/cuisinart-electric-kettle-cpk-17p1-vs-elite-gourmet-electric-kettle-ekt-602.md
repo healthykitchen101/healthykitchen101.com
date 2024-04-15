@@ -1,5 +1,5 @@
-While the CPK-17P1 caters to those seeking premium features and superior build quality, the EKT-602 appeals to users prioritizing affordability and practicality.
+Unfortunately, the Elite Gourmet Electric Kettle (EKT-602) isn’t a product we recommend. This is especially true when compared to the Cuisinart Electric Kettle CPK-17P1 that has superior performance and usability.
 
-Running 1500 W, both kettles have similarly great scores regarding boiling speed, energy consumption, and noise level. However, the Cuisinart’s ability to maintain temperatures for up to 30 minutes gives it a much stronger edge in terms of keeping the water warm.
+The Elite Gourmet’s slow boiling time and high energy consumption were made all the more apparent pitted against the Cuisinart’s excellent scores. On the bright side, the Elite Gourmet was one of the quietest kettles in our roster when boiling.
 
-Both the stainless steel Cuisinart and the glass Elite Gourmet have water level markings. However, the Ovente can be improved with a removable limescale filter and better button placement.
+Both have all the desirable features on their carafes, limescale filters, and lids. However, the Elite Gourmet has some awkward button placement which is less convenient than the Cuisinart’s 6 preset temperatures—all operated by just one-touch. Moreover, the Cuisinart’s ability to maintain temperatures for up to 30 minutes gives it a much stronger edge in terms of keeping the water warm.
