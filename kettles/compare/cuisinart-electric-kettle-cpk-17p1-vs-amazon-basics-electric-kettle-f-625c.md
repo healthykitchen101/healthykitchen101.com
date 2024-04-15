@@ -1,0 +1,5 @@
+While the Cuisinart Electric Kettle CPK-17P1 offers advanced features, the Amazon Basics Electric Kettle F-625C provides simplicity in design.
+
+Equipped with 1500 W, the two kettles are quite equal in terms of boiling speed, energy consumption, and quietness, with the Cuisinart coming out on top just slightly. The thing is that it excels at retaining the chosen temperatures thanks to its keep warm feature of up to 30 minutes. Not to mention its 6 temperature settings, all at a one-touch operation.
+
+Regarding design, the Cuisinart CPK-17P1 boasts a stylish stainless steel exterior with a contemporary look, accompanied by an ergonomic handle and an easy-to-use control panel. In contrast, the Amazon Basics F-625C presents a simple glass construction with an LED ring and a straightforward power switch. Both kettles are equipped with a removable limescale filter for easy cleaning.
