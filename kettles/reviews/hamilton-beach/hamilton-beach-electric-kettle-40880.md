@@ -156,6 +156,16 @@ Water Level Markings: Yes
 
 Tea Infuser: No
 
+The carafe is made of stainless steel and holds 1.7 L (57.48 fl. oz) or 7 cups (+2). The V-shaped spout is also stainless steel and there’s a removable limescale filter  (+2).
+
+In the middle of the carafe, you’ll see a water level window with black markings (+1). The lid opening of the carafe is quite small—only 2.95 inches in diameter (+0).
+
+An interesting design choice on this model is the heating element. It extends from inside the carafe’s bottom to near the top of the carafe’s interior. This may explain why the kettle’s slightly faster boiling time compared to similar models with the same power draw.
+
+The kettle doesn’t have an LED ring around the carafe’s bottom, but there’s a white LED inside the water-level window (+1). It’s not as eye-catching  but still enough to spot in the dark.
+
+The carafe’s bottom is slightly different from other kettles. In addition to little plastic dimples around the circumference for a smoother rotation against the base,  there are also three large round rubber knobs.
+
 ### 7.0 - Handle
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/kettles/hamilton-beach-electric-kettle-40880-handle-cllkjgydq0012a188h4pgbkxt.jpg" alt="The button for the pop-up lid of the Hamilton Beach Stainless Steel Electric Kettle (40880)." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/kettles/hamilton-beach-electric-kettle-40880-handle-1-cllkjqzhq001ca18848h11v9o.jpg" alt="Hamilton Beach Electric Kettle (40880) Handle 1" width="300px" height="200px">
