@@ -5,7 +5,7 @@ How We Test
 
 In reviewing immersion blenders, we aimed to assess each unit’s performance in real-word tasks. After researching what traits users considered most important, we formulated test recipes to evaluate how these devices are commonly used. Each recipe is inspired by our own Chef Tuyet. They include:
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/ckzyzgsd60000el88b2wj67i8.jpg" alt="Testing Equipment Beaker" width="360" height="240">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clu0rdon7000liq8872h14adt.jpg" alt="soup in a beaker" width="360" height="240">
 
 *   **Puréed Hot Soup**: Using ingredients like carrots, pumpkins, onions, and celery, we designed this test to highlight each blender's capability in a simple but critical kitchen task. After cooking, we separated the vegetables from the broth and reheated the mixture to around 140°F prior to blending.  We used an identical 24-oz beaker for each blend, and ran the motor for 30 seconds. Blenders were then scored based on the smoothness of their output. 
 *   **Frozen Fruit Smoothie**: Our test smoothie consists of a demanding blend: frozen fruits (mango and pineapple), kale, and water. Testing took place in a 24-oz beaker, with periodic texture assessments to determine when the blender achieved its optimal texture. The outcomes inform us about the expected duration and the smoothness of the final drink. 
