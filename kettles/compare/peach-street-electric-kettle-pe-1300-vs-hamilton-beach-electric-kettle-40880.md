@@ -1,0 +1,5 @@
+The Hamilton Beach Electric Kettle (40880) is a solid choice for a stainless steel kettle but it has a few problems that garnered it lower scores than our best glass pick—the Peach Street Electric Kettle PE-1300.
+
+The Hamilton Beach’s stainless steel carafe uses a water-level window with a white LED while the Peach Street’s glass carafe has water-level markings and a blue LED ring. Having the same power draw, both had quite similar boiling speed, energy consumption, noise level, and heat retention but the Peach Street did win out in the end.
+
+Although both have a removable limescale filter, the Hamilton Beach’s lid opening is smaller making cleaning a bit more difficult compared to the Peach Street. Moreover, the Hamilton Beach has some unnecessary extra bottom stands that make the carafe slightly wobbly when boiling.
