@@ -1,0 +1,5 @@
+Having similar designs, the Peach Street Electric Kettle PE-1300 and the Zeppoli Electric Kettle ZPL-KETTLE also interestingly share the same overall score. However, there are details that go into why we chose the former as our best glass pick and not the latter.
+
+At the same power draw, the Zeppoli is slightly more efficient in terms of boiling speed, energy consumption, and noise level. And, their glass material poses equally good heat retention.
+
+Their design are neigh identical, having all the desirable features including water-level markings, an LED ring, and a removable limescale mesh filter. However, we deemed that the Zeppoli’s flat power cord making it hard to wrap neatly around its storage could be a lasting inconvenience compared to the Peach Street’s round one, especially considering the kettle’s slightly higher price than its competition.
