@@ -1,5 +1,5 @@
-The Hamilton Beach Electric Kettle (40880) is a solid choice for a stainless steel kettle but it has a few problems that garnered it lower scores than our best glass pick—the Peach Street Electric Kettle PE-1300.
+Although its aesthetic was pleasing, when it comes to proper evaluation, the Bella Ceramic Kettle 14745 falls behind the Peach Street Electric Kettle PE-1300 significantly. With a lower power draw, the Bella boils water more slowly and noisily, consumes more energy, and doesn’t retain heat as well as the Peach Street.
 
-The Hamilton Beach’s stainless steel carafe uses a water-level window with a white LED while the Peach Street’s glass carafe has water-level markings and a blue LED ring. Having the same power draw, both had quite similar boiling speed, energy consumption, noise level, and heat retention but the Peach Street did win out in the end.
+Design-wise, the Bella has a gooseneck for more precise pouring and a silicone band for its lid making it close more tightly. However, it has no water-level markings, only a maximum volume indicator. Its holed filter also isn’t as effective on limescale as the Peach Street’s mesh filter.
 
-Although both have a removable limescale filter, the Hamilton Beach’s lid opening is smaller making cleaning a bit more difficult compared to the Peach Street. Moreover, the Hamilton Beach has some unnecessary extra bottom stands that make the carafe slightly wobbly when boiling.
+In addition to a flimsy base, the Bella, with its higher price, doesn’t offer as much value as the Peach Street.
