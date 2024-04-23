@@ -17,7 +17,7 @@ The overall score is a rating on a scale of 1 to 10. Each of the three scoring c
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-performance-clvc16v4h000pyx88d5fhdod4.jpg" alt="Piles of carrots, kale, apples, and celery with different masticating juicers" width="640" height="427">
 
-We test the performance of each masticating juicer using four different ingredients: root (carrots), fruit (apples), fibrous vegetables (celery), and leafy greens (kale). Each of these take up 25% of the total performance score.
+We test the performance of each masticating juicer using four different ingredients: root (carrots), fruit (apples), fibrous vegetables (celery), and leafy greens (kale). Each of these take up **25%** of the total performance score.
 
 Scoring components for each ingredient include juice yield, juicing time, and for kale, foam level was also taken into account.
 
