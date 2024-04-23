@@ -21,7 +21,7 @@ We test the performance of each masticating juicer using four different ingredie
 
 Scoring components for each ingredient include juice yield, juicing time, and for kale, foam level was also taken into account.
 
-Our Juicer Performance Tests
+[Our Juicer Performance Tests](https://healthykitchen101.com/juicers/tests/masticating/performance/)
 
 ### Usability - 35%
 
