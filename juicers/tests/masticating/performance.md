@@ -212,11 +212,11 @@ The scoring table for foam level is as follows.
 | 90% | 1 |
 | 100% | 0 |
 
+Apart from juice yield, juicing time, and foam level, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating factor among those aspects.
+
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/four-glasses-carrot-juice-with-labels-them-clvc29owh000syx88fyoh93nn.jpg" alt="Four glasses of carrot juice with labels on them" width="640" height="427">
 
 We observed that the juice separation time were similar among different juicer models
-
-Apart from juice yield, juicing time, and foam level, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating factor among those aspects.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/foamy-green-juice-being-strained-using-spoon-strainer-clvc29oa6000ryx8825449fz2.jpg" alt="Foamy green juice being strained using a spoon and strainer" width="640" height="427">
 
