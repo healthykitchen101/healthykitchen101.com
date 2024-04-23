@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (40%) - **7.2**/undefined
     
-*   Design (25%) - **0.0**/undefined
+*   Design (25%) - **5.0**/undefined
     
 *   Usability (35%) - **8.0**/undefined
     
@@ -102,7 +102,12 @@ The Jocuu has many strengths, but juicing kale isn’t one of them. While the sm
 Design
 ------
 
-design Scores: **0.0**
+design Scores: **NaN**
+
+*   Build Quality & Fit (50%) - **8.2**/undefined
+    
+*   Auger (10%) - **8.7**/undefined
+    
 
 The Jocuu masticating juicer is well-built with durable materials and parts fitting nicely together, except at the connection between the drum and body, which squeaks when the machine is working through tough fibers, proving to be a little too flexible. While it could be more stylish, the machine is well-finished, showing no signs of poor build quality. Its parts—the plunger, feed chute, and juice and pulp cups—are all of appropriate size, allowing it to work well in a smaller kitchen and making storage a breeze.
 
@@ -136,9 +141,13 @@ The Jocuu masticator is average in size, equipped with a motor and containers su
 
 We liked that the plunger covers the length of the feed chute but not the diameter, leaving ample wiggle room for the plunger. This proves to be a great design when juicing leafy greens—as a tighter space between the plunger and the feed chute wall can lead to leaves becoming snugly wedged, resulting in more severe clogging.
 
-### Build Quality
+### 8.2 - Build Quality & Fit
 
-### Auger
+The Jocuu has a look and design that matches its price, which is very basic. It’s made of durable materials, has decent finish, and the parts fit together well enough—only making squeaky noises when dealing with particularly tough ingredients. Just don’t expect it to be a decorative item on your countertop.
+
+### 8.7 - Auger
+
+The Jocuu sports an average size auger with just the right space between its teeth, allowing it to handle the toughest ingredients with minimal clogging. The auger and drum size also gives it an interesting advantage: You can run the pulp through it again to get more juice, which would be impossible on a larger model, such as the Omega NC900.
 
 Usability
 ---------
