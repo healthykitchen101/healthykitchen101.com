@@ -9,11 +9,11 @@ How We Rate Masticating Juicers
 
 The overall score is a rating on a scale of 1 to 10. Each of the three scoring categories is weighted to a different percentage:
 
-*   Performance - 40%
-*   Usability - 35%
-*   Design - 25%
+*   Performance - **40%**
+*   Usability - **35%**
+*   Design - **25%**
 
-### 40% - Performance
+### Performance - 40%
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-performance-clvc16v4h000pyx88d5fhdod4.jpg" alt="Piles of carrots, kale, apples, and celery with different masticating juicers" width="640" height="427">
 
@@ -23,7 +23,7 @@ Scoring components for each ingredient include juice yield, juicing time, and fo
 
 Our Juicer Performance Tests
 
-### 35% - Usability
+### Usability - 35%
 
 Ease of use is an important criterion when buying any household appliances, but especially so with juicers. Because juicing is usually not a “must” the way cooking is to most people, convenience arguably plays a more important role than juice yield or quality. A juicer can be very good at extracting juice, but if it’s too much trouble to use, chances are it will eventually find itself taking residence in a cupboard as soon as the “honeymoon phase” is over. 
 
@@ -31,7 +31,7 @@ The usability of a juicer is tied to its ease of assembly, juicing, and cleaning
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-usability-clvc16v4e000oyx888jzjf1l4.jpg" alt="Person using a pair of tongs to feed masticating juicer" width="640" height="427">
 
-#### 30% - Assembling
+#### Assembling - 30%
 
 We evaluate how easily a juicer can be put together and taken apart, focusing on the design's simplicity and intuitiveness. A high score in this category means the juicer is straightforward to assemble and disassemble. We also check if the juicer is stable and safe when put together to reduce accident risks. Furthermore, we look at how compact the juicer is and if its parts can be easily moved, as this helps with storage and handling.
 
@@ -41,7 +41,7 @@ We evaluate how easily a juicer can be put together and taken apart, focusing on
 | Provides a safe and secure fit | +4 |
 | Components are compact and easily movable | +3 |
 
-#### 25% - Juicing
+#### Juicing - 25%
 
 We examine whether the juicer operates efficiently without needing frequent assistance from the user, such as pressing down with a plunger or using the reverse button. Another factor of consideration is the juicer’s ability to accommodate larger pieces of produce, which reduces the need for extensive pre-cutting.
 
@@ -51,7 +51,7 @@ We examine whether the juicer operates efficiently without needing frequent assi
 | Does not easily jam or clog | +4 |
 | Works with larger produce sizes | +2 |
 
-#### 10% - Conveniences
+#### Conveniences - 10%
 
 We delve into the extra touches that elevate the user experience beyond just juicing basics. This assessment covers aspects such as the availability of a reverse function to prevent clogging, the variety of speed or pressure settings tailored to different produce types, the inclusion of an anti-froth feature to ensure cleaner juice, and a host of other convenient additions that ensure maximum efficiency.
 
@@ -63,7 +63,7 @@ We delve into the extra touches that elevate the user experience beyond just jui
 | Anti-froth feature | +1 |
 | Miscellaneous | +1 |
 
-#### 35% - Cleaning
+#### Cleaning - 35%
 
 We examine how fast and straightforward it is to clean the juicer after each juicing session. The inclusion of specialized brushes and tools designed to aid in the cleaning process can gain the juicer points, as does the dishwashability of its removable parts.
 
@@ -73,7 +73,7 @@ We examine how fast and straightforward it is to clean the juicer after each jui
 | Package includes tools for cleaning | +2 |
 | Dishwasher safe parts | +4 |
 
-### 25% - Design
+### Design - 25%
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/components-omega-nc900-masticating-juicer-clvc16v0a000nyx885uz59599.jpg" alt="Components of the Omega NC900 masticating juicer" width="640" height="427">
 
@@ -81,7 +81,7 @@ A well-thought-out design is key to making a juicer both long-lasting and depend
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/we-check-how-well-parts-fit-together-clvc16uzz000myx885hc41ks2.jpg" alt="We check how well the parts fit together" width="640" height="427">
 
-#### 50% - Build Quality & Fit
+#### Build Quality & Fit - 50%
 
 We check if the juicer can withstand normal use without premature wear or damage. A juicer also gains points with a stylish design and polished finish, which add aesthetic appeal to the juicer, making it a desirable addition to any home.
 
@@ -92,7 +92,7 @@ We check if the juicer can withstand normal use without premature wear or damage
 | Polished, seamless, residue-free finish | +2 |
 | Stylish design | +1 |
 
-#### 40% - Size & Footprint 
+#### Size & Footprint - 40%
 
 The dimensions and footprint of a juicer impact not just its portability and storage but also its functionality. We analyze the proportions of its components relative to each other and how this influences usability. Additionally, we assess the footprint of the assembled unit.
 
@@ -104,7 +104,7 @@ The dimensions and footprint of a juicer impact not just its portability and sto
 | Wide feed chute, allowing wiggle room for plunger | +2 |
 | Wide food tray on feeding chute | +1 |
 
-#### 10% - Blade/Auger
+#### Blade/Auger - 10%
 
 A juicer’s auger is scored for its construction quality and the way it is engineered to facilitate quick cutting and efficient crushing.
 
