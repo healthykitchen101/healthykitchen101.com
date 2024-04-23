@@ -104,21 +104,37 @@ Design
 
 design Scores: **0.0**
 
-### In The Box
+The Jocuu masticating juicer is well-built with durable materials and parts fitting nicely together, except at the connection between the drum and body, which squeaks when the machine is working through tough fibers, proving to be a little too flexible. While it could be more stylish, the machine is well-finished, showing no signs of poor build quality. Its parts—the plunger, feed chute, and juice and pulp cups—are all of appropriate size, allowing it to work well in a smaller kitchen and making storage a breeze.
 
-### Dimensions
+### In the Box
 
-Depth:
+*   1 x Jocuu masticating juicer body
+*   Parts, including drum, feed chute, auger, juice mesh, plunger, drum cap
+*   1 x juice cup 
+*   1 x pulp cup
+*   1 x wrench for securing drum cap
+*   1 x cleaning brush
+*   1 x user manual
 
-Width:
+The Jocuu comes with the usual components seen on a masticator, plus a wrench for  the first one for two times securing and removing the drum cap. The cardboard box is compact, but had enough cushion to keep all the parts intact when it arrived at our lab in Saigon after a long journey from the US.
 
-Height:
+### Dimensions & Footprint
 
-Weight:
+Depth: 14.0" (35.6 cm)
 
-Juice Cup Capacity:
+Width: 6.5" (16.5 cm)
 
-Pulp Cup Capacity:
+Height: 15.0" (38.1 cm)
+
+Weight: 6.8 lbs (3.1 kg)
+
+Juice Cup Capacity: 24 fl. oz
+
+Pulp Cup Capacity: 48 fl. oz
+
+The Jocuu masticator is average in size, equipped with a motor and containers suitable for serving a household of 2-4 people. It can comfortably stay on a narrow countertop while in use or, when disassembled, be stored in a standard drawer, though it would likely completely fill it up.
+
+We liked that the plunger covers the length of the feed chute but not the diameter, leaving ample wiggle room for the plunger. This proves to be a great design when juicing leafy greens—as a tighter space between the plunger and the feed chute wall can lead to leaves becoming snugly wedged, resulting in more severe clogging.
 
 ### Build Quality
 
