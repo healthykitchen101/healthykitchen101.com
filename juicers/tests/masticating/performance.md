@@ -12,8 +12,8 @@ Some juicers are faster and more efficient than others at extracting juice from 
 
 Performance makes up **35**% of the total test score. 
 
-The Ingredients 
-----------------
+The Ingredients
+---------------
 
 To evaluate a juicer’s performance on various types of produce, we picked four common juicing ingredients of different texture and water content. Here’s the score weight for each type of ingredients and how we prep them.
 
