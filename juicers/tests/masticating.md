@@ -15,6 +15,8 @@ The overall score is a rating on a scale of 1 to 10. Each of the three scoring c
 
 ### 40% - Performance
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-performance-clvc16v4h000pyx88d5fhdod4.jpg" alt="Piles of carrots, kale, apples, and celery with different masticating juicers" width="640" height="427">
+
 We test the performance of each masticating juicer using four different ingredients: root (carrots), fruit (apples), fibrous vegetables (celery), and leafy greens (kale). Each of these take up 25% of the total performance score.
 
 Scoring components for each ingredient include juice yield, juicing time, and for kale, foam level was also taken into account.
@@ -26,6 +28,8 @@ Our Juicer Performance Tests
 Ease of use is an important criterion when buying any household appliances, but especially so with juicers. Because juicing is usually not a “must” the way cooking is to most people, convenience arguably plays a more important role than juice yield or quality. A juicer can be very good at extracting juice, but if it’s too much trouble to use, chances are it will eventually find itself taking residence in a cupboard as soon as the “honeymoon phase” is over. 
 
 The usability of a juicer is tied to its ease of assembly, juicing, and cleaning, and the convenient features that come with it. We examine these during our multiple trials and performance tests, and score each machine using an elaborate list of criteria.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-usability-clvc16v4e000oyx888jzjf1l4.jpg" alt="Person using a pair of tongs to feed masticating juicer" width="640" height="427">
 
 #### 30% - Assembling
 
@@ -71,7 +75,11 @@ We examine how fast and straightforward it is to clean the juicer after each jui
 
 ### 25% - Design
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/components-omega-nc900-masticating-juicer-clvc16v0a000nyx885uz59599.jpg" alt="Components of the Omega NC900 masticating juicer" width="640" height="427">
+
 A well-thought-out design is key to making a juicer both long-lasting and dependable. When we look at a juicer's design, we focus on three main things. First up is how well it's made and how nicely its parts fit together, with close attention to the materials and the craftsmanship. Then, we take a look at the juicer’s size and how much space it takes up, keeping an eye out for designs that are smart with space without compromising on functionality. Lastly, we dive into how the blade or auger works, making sure it's great at getting all the juice out and can handle all sorts of fruits and veggies.
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/we-check-how-well-parts-fit-together-clvc16uzz000myx885hc41ks2.jpg" alt="We check how well the parts fit together" width="640" height="427">
 
 #### 50% - Build Quality & Fit
 
