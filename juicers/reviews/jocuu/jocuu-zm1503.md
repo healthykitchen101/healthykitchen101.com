@@ -3,11 +3,11 @@ Overall Verdict
 
 Overall Score: **NaN**
 
-*   Performance (40%) - **5.8**/undefined
+*   Performance (40%) - **7.2**/undefined
     
 *   Design (25%) - **0.0**/undefined
     
-*   Usability (35%) - **0.0**/undefined
+*   Usability (35%) - **8.0**/undefined
     
 
 The Jocuu masticating juicer may not boast a stylish design or all the bells and whistles, but it gets the job done decently. It handles most ingredients with ease, crushing them at a reasonable speed and yielding above-average results. The masticator does tend to produce foamy kale juice and may require finer pre-cutting for particularly tough and fibrous ingredients, but aside from that, juicing with it is a breeze. Assembling requires some practice, but disassembling and cleaning are straightforward and effortless.
@@ -42,7 +42,7 @@ performance Scores: **NaN**
     
 *   Celery (25%) - **7.1**/undefined
     
-*   (25%) - **0**/undefined
+*   Kale (25%) - **5.6**/undefined
     
 
 The Jocuu masticating juicer’s strong squeeze  allows it to handle thick, hard fruits and vegetables such as apples, carrots, and celery efficiently—yielding above-average juice within reasonable time frames. It had difficulty juicing kale, however: the yield was modest compared to other masticators, and you may require a separator or a smart cup to remove the foam.
@@ -87,15 +87,17 @@ The Jocuu didn't encounter many problems working through the tough fibers on the
 
 ### Kale
 
-Ingredient Weight:
+Ingredient Weight: 18 oz
 
-Juicing Time:
+Juicing Time: 6 min 35 s
 
-Yield:
+Yield: 9.35 oz (265 g)
 
-Yield Percentage:
+Yield Percentage: 53%
 
-Foam Percentage:
+Foam Percentage: 250%
+
+The Jocuu has many strengths, but juicing kale isn’t one of them. While the smooth feed chute allowed the leaves to pass through with minimal jamming, resulting in a quick juicing time (8.5 points), the auger failed to extract a lot of juice from the paper-thin leaves (5.6 points), and by volume, there was a lot more foam than juice (0.0 points).
 
 Design
 ------
@@ -125,18 +127,37 @@ Pulp Cup Capacity:
 Usability
 ---------
 
-usability Scores: **0.0**
+usability Scores: **NaN**
 
-### Assembling
+*   Assembling (30%) - **8.3**/undefined
+    
+*   Juicing (25%) - **7.8**/undefined
+    
+*   Conveniences (10%) - **3.0**/undefined
+    
+*   Cleaning (35%) - **9.3**/undefined
+    
 
-### Juicing
+The Jocuu offers a functional, albeit basic, juicing experience tailored for budget-conscious users. It works well with small to medium cuts of vegetables, but the small feed chute can't handle whole produce the way a larger model such as the Omega NC900 can. Juicing is straightforward, although assembling does involve a small learning curve. Cleaning takes no more than a few minutes, and the parts are dishwasher-friendly too.
 
-### Conveniences
+### 8.3 - Assembling
 
-Reverse Feature:
+Featuring a rather typical design, however, the Jocuu has a lock to secure its drum into the main body. This requires some intuition to align the two parts into the right position, which can pose a challenge for first-timers. Taking them apart is much easier, as it requires only the press of a button. The assembling and disassembling process can each take less than 1 minute once you’ve got the hang of it.
 
-Speed Pressure Options:
+### 7.8 - Juicing
 
-### Cleaning
+While Jocuu’s rather modest feed chute means it can’t handle a whole or even half a carrot at once, as long as the ingredient is small enough to fit, it tends to pass through with ease. Jamming occurred mostly with tough fibers that the auger had difficulty cutting or breaking, causing the drum to "nod", but you can solve the problem by cutting the ingredients into smaller sticks or wedges.
 
-Dishwasher Safe:
+### 3.0 - Conveniences
+
+Reverse Feature: Yes
+
+Speed Pressure Options: 2
+
+Being a budget masticator, the Jocuu does not come with a lot of bells and whistles. It has two speed options for soft and hard vegetables and fruits, and a reverse function, all controlled by a turn of a knob. However, you need to wait a second or two in the neutral position when switching between normal juicing and reversing, or the motor won’t engage in reverse.
+
+### 9.3 - Cleaning
+
+Dishwasher Safe: Yes
+
+The Jocuu takes only a few minutes to clean manually, with its most challenging parts being the top of the auger and the juice mesh, where fibers tend to stick. We recommend taking the unit apart and submerging these parts in mild soapy water immediately after juicing for easy cleanup.
