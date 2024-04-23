@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (40%) - **7.2**/undefined
     
-*   Design (25%) - **5.0**/undefined
+*   Design (25%) - **7.9**/undefined
     
 *   Usability (35%) - **8.0**/undefined
     
@@ -103,7 +103,7 @@ Yield: 9.35 oz (265 g)
 
 Yield Percentage: 53%
 
-Foam Percentage: 250%
+Foam Level: 250%
 
 The Jocuu has many strengths, but juicing kale isn’t one of them. While the smooth feed chute allowed the leaves to pass through with minimal jamming, resulting in a quick juicing time (8.5 points), the auger failed to extract a lot of juice from the paper-thin leaves (5.6 points), and by volume, there was a lot more foam than juice (0.0 points).
 
@@ -112,6 +112,8 @@ Design
 
 design Scores: **NaN**
 
+*   Dimensions & Footprint (40%) - **7.4**/undefined
+    
 *   Build Quality & Fit (50%) - **8.2**/undefined
     
 *   Auger (10%) - **8.7**/undefined
@@ -131,7 +133,7 @@ The Jocuu masticating juicer is well-built with durable materials and parts fitt
 
 The Jocuu comes with the usual components seen on a masticator, plus a wrench for  the first one for two times securing and removing the drum cap. The cardboard box is compact, but had enough cushion to keep all the parts intact when it arrived at our lab in Saigon after a long journey from the US.
 
-### Dimensions & Footprint
+### 7.4 - Dimensions & Footprint
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-dimensions-clvbwmle4000gyx882kp009ai.jpg" alt="Dimensions of the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-footprint-clvbwmld70004yx886prj23ps.jpg" alt="The juice cup" width="300px" height="200px">
 
