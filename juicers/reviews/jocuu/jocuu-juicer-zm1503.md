@@ -123,6 +123,8 @@ The Jocuu masticating juicer is well-built with durable materials and parts fitt
 
 ### In the Box
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-1-clvbwmldn0009yx88fu6r5cms.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px">
+
 *   1 x Jocuu masticating juicer body
 *   Parts, including drum, feed chute, auger, juice mesh, plunger, drum cap
 *   1 x juice cup 
