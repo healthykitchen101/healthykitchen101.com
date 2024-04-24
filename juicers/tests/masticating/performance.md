@@ -200,7 +200,7 @@ The scoring table for foam level is as follows.
 
 | Foam level | Score |
 | --- | --- |
-| o% | 10 |
+| 0% | 10 |
 | 10% | 9 |
 | 20% | 8 |
 | 30% | 7 |
