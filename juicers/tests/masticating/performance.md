@@ -1,4 +1,4 @@
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-test-masticating-juicers-performance-clv6cdlx50004ku888aildibf.jpg" alt="Piles of carrots, kale, apples, and celery on the table with different masticating juicer models" width="768" height="512">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-test-masticating-juicers-performance-clvdjsedy0002sm88fwur1lnv.jpg" alt="Carrots, kale, apples, and celery on the table with different masticating juicer models" width="768" height="512">
 
 What It Is
 ----------
