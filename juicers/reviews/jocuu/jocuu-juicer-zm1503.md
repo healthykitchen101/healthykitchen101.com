@@ -185,7 +185,7 @@ The Jocuu offers a functional, albeit basic, juicing experience tailored for bud
 
 ### 8.3 - Assembling
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-clvbwmle2000fyx88ad3j8j5y.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-1-clvbwmldn0009yx88fu6r5cms.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-2-clvbwmktc0002yx88cwve56qq.jpg" alt="Removing the cap with a wrench" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-clvbwmle2000fyx88ad3j8j5y.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-2-clvbwmktc0002yx88cwve56qq.jpg" alt="Removing the cap with a wrench" width="300px" height="200px">
 
 Featuring a rather typical design, however, the Jocuu has a lock to secure its drum into the main body. This requires some intuition to align the two parts into the right position, which can pose a challenge for first-timers. Taking them apart is much easier, as it requires only the press of a button. The assembling and disassembling process can each take less than 1 minute once you’ve got the hang of it.
 
