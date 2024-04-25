@@ -51,7 +51,7 @@ The consolation is that you can run the pulp through it a second time to extract
 
 ### Carrot
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-carrot-1-clvbwmldd0007yx88ah6d35cf.jpg" alt="Cup of carrot juice, carrots, masticator" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-carrot-clvbwmldy000dyx88gwp8dtyr.jpg" alt="person juicing carrot sticks" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-carrot-1-clvf1heow0003sm88cd397t3p.jpg" alt="The Jocuu masticator juicing carrots" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-carrot-clvf1jkr00004sm88djde7lek.jpg" alt="Weighing carrot juice made with the Jocuu masticator" width="300px" height="200px">
 
 Ingredient Weight: 18 oz
 
