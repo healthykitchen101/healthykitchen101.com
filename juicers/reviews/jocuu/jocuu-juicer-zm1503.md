@@ -65,7 +65,7 @@ Hard and dense, juicing carrots is easy, but the juice yield from carrots is the
 
 ### Apple
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-apple-clvbwmkt90001yx88gcun8c9n.jpg" alt="Tray of apples, apple juice on a scale, the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-apple-1-clvbwmkny0000yx88329h6ppi.jpg" alt="Tray of apples, apple juice on a scale, the Jocuu masticating juicer" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-apple-clvf1kd4r0005sm885c5ydbpe.jpg" alt="The Jocuu masticator juicing apples" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-apple-1-clvbwmkny0000yx88329h6ppi.jpg" alt="Tray of apples, apple juice on a scale, the Jocuu masticating juicer" width="300px" height="200px">
 
 Ingredient Weight: 18 oz
 
@@ -79,7 +79,7 @@ As hard as they may seem, apples are rich in liquid and relatively easy to juice
 
 ### Celery
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-celery-clvbwmle0000eyx88bz68a9mg.jpg" alt="plate of celery, Jocuu masticator, celery juice and pulp in containers" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-celery-1-clvbwmldg0008yx88b22t1yh2.jpg" alt="Juice cup on kitchen scale" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-celery-2-clvf1m50h0006sm8893bj5ccl.jpg" alt="Jocuu masticator, celery juice and pulp in containers" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-celery-1-clvbwmldg0008yx88b22t1yh2.jpg" alt="Juice cup on kitchen scale" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-celery-clvbwmle0000eyx88bz68a9mg.jpg" alt="plate of celery, Jocuu masticator, celery juice and pulp in containers" width="300px" height="200px">
 
 Ingredient Weight: 18 oz
 
