@@ -47,9 +47,9 @@ performance Scores: **NaN**
 *   Kale (25%) - **5.6**/undefined
     
 
-The Jocuu masticating juicer’s strong squeeze  allows it to handle thick, hard fruits and vegetables such as apples, carrots, and celery efficiently—yielding above-average juice within reasonable time frames. It had difficulty juicing kale, however: the yield was modest compared to other masticators, and you may require a separator or a smart cup to remove the foam.
+The Jocuu masticating juicer’s strong squeeze allows it to handle thick, hard fruits like apples and vegetables such as carrots and celery—yielding above-average quality juice within a reasonable time frame. It had difficulty juicing kale, however: the yield was modest compared to other masticators, and you may require a separator or a cup with a smart lid to remove the foam.
 
-The consolation is that you can run the pulp through it a second time to extract more juice (about 15-20%) from any of those ingredients.
+The upside to this juicer is that, due to the auger and drum size,  you can run pulp through a second time and extract 15-20% more juice—something not every machine can do!
 
 ### Carrot
 
@@ -63,7 +63,7 @@ Yield: 6.95 oz (197 g)
 
 Yield Percentage: 39%
 
-Hard and dense, juicing carrots is easy, but the juice yield from carrots is the lowest among the four ingredients we tested on any masticator. The Jocuu took just shy of 3 minutes to process 18 ounces of carrot sticks, which is neither fast nor slow compared to other machines, earning it 7.8 points for juicing time. It produced nearly 7 ounces of juice, slightly higher than the average mark, and received 6.9 points for juice yield in this test.
+Hard and dense, juicing carrots is easy, but juice yields tend to be the lowest among the four ingredients we test for. The Jocuu took just shy of 3 minutes to process 18 ounces of carrot sticks, which is neither fast nor slow compared to other machines, earning it 7.8 points for juicing time. It produced nearly 7 ounces of juice, slightly higher than the average mark, and received 6.9 points for juice yield.
 
 ### Apple
 
@@ -77,7 +77,7 @@ Yield: 13.65 oz (387 g)
 
 Yield Percentage: 77%
 
-As hard as they may seem, apples are rich in liquid and relatively easy to juice, with the only challenging part being the tough and slippery peel. The Jocuu's auger, similar to that on its AMZChef twin, features a design that allows it to cut through the apple peel very efficiently, even surpassing the Omega NC900 in juicing time (earning 9 points). However, the juice yield (8.4 points) wasn't outstanding compared to the other masticator models we tested in this batch.
+As hard as they may seem, apples are relatively juicy with the only challenge being the tough and slippery peel. The Jocuu's auger design, similar to that on its AMZChef twin,  cuts through apple peel very effectively, even surpassing the Omega NC900 in juicing time, earning it 9 points. However, the juice yield (8.4 points) wasn't as outstanding as other masticator models we tested in this batch.
 
 ### Celery
 
@@ -91,7 +91,7 @@ Yield: 9.91 oz (281 g)
 
 Yield Percentage: 56%
 
-The Jocuu didn't encounter many problems working through the tough fibers on the celery stalks or the soft leaves that accompanied them. It was 30 seconds slower than the AMZ Chef but faster than the Omega NC900 in this test, earning it a juicing time score of 8.5 points. The juice yield was average (6.0 points), lagging slightly behind the Omega, which scored 8.0 points.
+The Jocuu didn't falter with tough fibers on celery stalks or soft leaves. It was 30 seconds slower than the AMZ Chef but 20 seconds faster than the Omega NC900 in this test, earning it a juicing time score of 8.5 points. The juice yield was average (6.0 points), lagging slightly behind the Omega, which scored 8.0 points.
 
 ### Kale
 
@@ -107,7 +107,7 @@ Yield Percentage: 53%
 
 Foam Level: 250%
 
-The Jocuu has many strengths, but juicing kale isn’t one of them. While the smooth feed chute allowed the leaves to pass through with minimal jamming, resulting in a quick juicing time (8.5 points), the auger failed to extract a lot of juice from the paper-thin leaves (5.6 points), and by volume, there was a lot more foam than juice (0.0 points).
+The Jocuu has many strengths, but juicing kale isn’t one of them. The smooth feed chute let through leaves with minimal jamming, resulting in a quick juicing time (8.5 points). However, the auger failed to extract sufficient  juice from the paper-thin leaves (5.6 points), and by volume, there was a lot more foam than juice (0.0 points).
 
 Design
 ------
@@ -121,21 +121,22 @@ design Scores: **NaN**
 *   Auger (10%) - **8.7**/undefined
     
 
-The Jocuu masticating juicer is well-built with durable materials and parts fitting nicely together, except at the connection between the drum and body, which squeaks when the machine is working through tough fibers, proving to be a little too flexible. While it could be more stylish, the machine is well-finished, showing no signs of poor build quality. Its parts—the plunger, feed chute, and juice and pulp cups—are all of appropriate size, allowing it to work well in a smaller kitchen and making storage a breeze.
+The Jocuu masticating juicer is well-built with durable materials. Parts fit nicely together, except at the somewhat loose connection between the drum and body, which squeaks when juicing tough fibers. While it could be more stylish, the machine has a good finish, showing no signs of poor build quality. Its parts—the plunger, feed chute, juice and pulp cups—are all appropriately-sized, so it works well in a small kitchen and storing is a breeze.
 
 ### In the Box
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-1-clvbwmldn0009yx88fu6r5cms.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px">
 
 *   1 x Jocuu masticating juicer body
-*   Parts, including drum, feed chute, auger, juice mesh, plunger, drum cap
+*   Parts: drum, feed chute, auger, juice mesh, plunger, drum cap
 *   1 x juice cup 
 *   1 x pulp cup
 *   1 x wrench for securing drum cap
 *   1 x cleaning brush
-*   1 x user manual
 
-The Jocuu comes with the usual components seen on a masticator, plus a wrench for  the first one for two times securing and removing the drum cap. The cardboard box is compact, but had enough cushion to keep all the parts intact when it arrived at our lab in Saigon after a long journey from the US.
+The Jocuu comes with the usual components seen on a masticator, plus a wrench for  the first one for two times securing and removing the drum cap. The packaged box is compact, but it has enough cushioning to keep all the parts intact  after a long journey from the US to our lab in Saigon. 
+
+Interestingly, we couldn’t locate a user guide, either in the box or online.
 
 ### 7.4 - Dimensions & Footprint
 
@@ -153,21 +154,21 @@ Juice Cup Capacity: 24 fl. oz
 
 Pulp Cup Capacity: 48 fl. oz
 
-The Jocuu masticator is average in size, equipped with a motor and containers suitable for serving a household of 2-4 people. It can comfortably stay on a narrow countertop while in use or, when disassembled, be stored in a standard drawer, though it would likely completely fill it up.
+The Jocuu masticator is average-sized, equipped with a motor and containers suitable for serving a household of 2-4 people. It can comfortably stay out on a narrow countertop, or you can take it apart and store it (just about) in a standard drawer..
 
-We liked that the plunger covers the length of the feed chute but not the diameter, leaving ample wiggle room for the plunger. This proves to be a great design when juicing leafy greens—as a tighter space between the plunger and the feed chute wall can lead to leaves becoming snugly wedged, resulting in more severe clogging.
+We liked that the plunger covers the length of the feed chute but not the diameter, leaving ample wiggle room for the plunger. This proved a great design when juicing leafy greens—as a tighter space between the plunger and the feed chute wall can lead to leaves becoming snugly wedged, resulting in more severe clogging.
 
 ### 8.2 - Build Quality & Fit
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-build-quality-clvbwmlek000hyx88dpmh0o6f.jpg" alt="Jocuu juicer’s drum part" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-build-quality-1-clvbwmld90005yx88hrsx20ei.jpg" alt="hand holding the Jocuu juicer’s juice mesh" width="300px" height="200px">
 
-The Jocuu has a look and design that matches its price, which is very basic. It’s made of durable materials, has decent finish, and the parts fit together well enough—only making squeaky noises when dealing with particularly tough ingredients. Just don’t expect it to be a decorative item on your countertop.
+The design and look of the Jocuu matches its price, which is very basic. It’s made of durable materials, has a decent finish, and the parts fit together well—only making squeaky noises  with particularly tough ingredients (as mentioned). Just don’t expect it to be a decorative item on your countertop.
 
 ### 8.7 - Auger
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-auger-clvbwmld20003yx88clo02rhe.jpg" alt="The auger part of the Jocuu masticating juicer" width="300px" height="200px">
 
-The Jocuu sports an average size auger with just the right space between its teeth, allowing it to handle the toughest ingredients with minimal clogging. The auger and drum size also gives it an interesting advantage: You can run the pulp through it again to get more juice, which would be impossible on a larger model, such as the Omega NC900.
+The Jocuu sports an average-sized auger with just the right space between its teeth to handle the toughest ingredients with minimal clogging. The auger and drum size also present an interesting advantage: You can run the pulp through it again to get more juice, which would be impossible on a larger model such as the Omega NC900. 
 
 Usability
 ---------
@@ -183,13 +184,13 @@ usability Scores: **NaN**
 *   Cleaning (35%) - **9.3**/undefined
     
 
-The Jocuu offers a functional, albeit basic, juicing experience tailored for budget-conscious users. It works well with small to medium cuts of vegetables, but the small feed chute can't handle whole produce the way a larger model such as the Omega NC900 can. Juicing is straightforward, although assembling does involve a small learning curve. Cleaning takes no more than a few minutes, and the parts are dishwasher-friendly too.
+The Jocuu design is functional and basic, with a juicing experience tailored for budget-conscious users. It works well with small to medium cuts of produce, but the small feed chute can't handle large chucks  the way a larger masticator such as the Omega NC900 can. Juicing is straightforward, although assembling does involve a small learning curve. Cleaning takes no more than a few minutes, and the parts are dishwasher-friendly too.
 
 ### 8.3 - Assembling
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-clvbwmle2000fyx88ad3j8j5y.jpg" alt="Parts of the Jocuu masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-assembling-2-clvbwmktc0002yx88cwve56qq.jpg" alt="Removing the cap with a wrench" width="300px" height="200px">
 
-Featuring a rather typical design, however, the Jocuu has a lock to secure its drum into the main body. This requires some intuition to align the two parts into the right position, which can pose a challenge for first-timers. Taking them apart is much easier, as it requires only the press of a button. The assembling and disassembling process can each take less than 1 minute once you’ve got the hang of it.
+The Jocuu’s rather special design has a lock to secure its drum into the main body. This requires some intuition when aligning the two parts, which can pose a challenge in the beginning. Taking them apart is much easier, only requiring the press of a button. The assembling and disassembling process can each take less than 1 minute once you’ve got the hang of it.
 
 ### 7.8 - Juicing
 
