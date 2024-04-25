@@ -196,7 +196,7 @@ The Jocuu’s rather special design has a lock to secure its drum into the main 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-juicing-clvbwmldq000ayx88fxuac3mz.jpg" alt="Juicing celery with the Jocuu masticator" width="300px" height="200px">
 
-While Jocuu’s rather modest feed chute means it can’t handle a whole or even half a carrot at once, as long as the ingredient is small enough to fit, it tends to pass through with ease. Jamming occurred mostly with tough fibers that the auger had difficulty cutting or breaking, causing the drum to "nod", but you can solve the problem by cutting the ingredients into smaller sticks or wedges.
+While Jocuu’s rather modest feed chute cannot handle a whole or even half a carrot at once, as long as the ingredients fit in easily, they tend to pass through without difficulty. Jamming occurred mostly with tough fibers that the auger had problems cutting or breaking, causing the drum to "nod", but you can solve the problem by cutting the ingredients into smaller sticks or wedges.
 
 ### 3.0 - Conveniences
 
@@ -206,7 +206,7 @@ Reverse Feature: Yes
 
 Speed Pressure Options: 2
 
-Being a budget masticator, the Jocuu does not come with a lot of bells and whistles. It has two speed options for soft and hard vegetables and fruits, and a reverse function, all controlled by a turn of a knob. However, you need to wait a second or two in the neutral position when switching between normal juicing and reversing, or the motor won’t engage in reverse.
+The Jocuu, being a budget machine, does not come with a lot of bells and whistles. It has two speed options, one for soft and one for hard ingredients, and a reverse function, all controlled by a turn of a knob. However, you need to wait a second or two in the neutral position when switching between normal juicing and reverse, or the motor won’t engage.
 
 ### 9.3 - Cleaning
 
@@ -214,4 +214,4 @@ Being a budget masticator, the Jocuu does not come with a lot of bells and whist
 
 Dishwasher Safe: Yes
 
-The Jocuu takes only a few minutes to clean manually, with its most challenging parts being the top of the auger and the juice mesh, where fibers tend to stick. We recommend taking the unit apart and submerging these parts in mild soapy water immediately after juicing for easy cleanup.
+The Jocuu takes only a few minutes to clean by hand, with its most challenging parts being the top of the auger and the juice mesh, where fibers tend to stick. We recommend taking the unit apart and submerging these parts in mild soapy water immediately after juicing for an easier cleanup.
