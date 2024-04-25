@@ -1,7 +1,5 @@
-Comparing the Peach Street Electric Kettle PE-1300 to another kettle of the same material like the Cosori Electric Kettle (GK172-CO) makes it apparent why the former is our best glass pick.
+The Topwit Electric Kettle T630 has some unique features but not all of them are positive. As a result, it doesn’t come anywhere close to being our best glass pick which is the Peach Street Electric Kettle PE-1300.
 
-Both kettles have high quality design features like water-level markings, an LED ring, a lid button, and a power switch. They also have similarly large openings for cleaning but the Cosori doesn’t have a silicone band for better sealing.
+At similar prices, the Topwit has a rare capacity of 2 L as opposed to the Peach Street’s more common 1.7 L. Both have water-level markings and an LED ring but the Topwit unfortunately lacks a proper limescale filter, cord storage, and a lid button that the Peach Street has.
 
-Standing out from many other kettles, the Cosori has a stainless steel inner lid making the kettle zero contact of hot water to plastic. However, its limescale filter isn’t removable like the Peach Street.
-
-At the same power draw, the Peach Street outshines the Cosori by boiling water more rapidly, consuming less energy, operating more quietly during boiling, and exhibiting slightly better heat retention after boiling. Furthermore, the Peach Street kettle costs even less than the already budget-friendly Cosori option, adding to its appeal.
+With a lower power draw, it wasn’t a surprise that the Topwit has a lower boiling time than the Peach Street. It also has worse heat retention despite also being glass. However, it consumed less energy and was even quieter than the already well-performed Peach Street.
