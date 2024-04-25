@@ -10,26 +10,28 @@ Overall Score: **NaN**
 *   Usability (35%) - **8.0**/undefined
     
 
-The Jocuu masticating juicer may not boast a stylish design or all the bells and whistles, but it gets the job done decently. It handles most ingredients with ease, crushing them at a reasonable speed and yielding above-average results. The masticator does tend to produce foamy kale juice and may require finer pre-cutting for particularly tough and fibrous ingredients, but aside from that, juicing with it is a breeze. Assembling requires some practice, but disassembling and cleaning are straightforward and effortless.
+The Jocuu masticating juicer may not be super stylish nor have all the bells and whistles, but it gets the job done. It handles most ingredients with ease, crushing them at a reasonable speed. Best of all, juice yields were above-average. 
 
-Overall, this masticator is a solid product for its price. Given its size and capacity, it's best suited for use in a small household (2 - 4 people).
+The masticator does tend to produce foamy kale juice so  finer pre-cutting may be necessary for particularly tough and fibrous ingredients. Other than that, juicing with it is a breeze. Assembling requires some practice, but taking things apart and cleaning are effortless.
+
+Overall, this masticator is a solid machine for the price. Given its size and capacity, it's best suited to a small household (2 - 4 people).
 
 **Things We Like**
 
 *   Affordable price
-*   Two speed modes for soft/hard ingredients
+*   Soft and hard ingredient motor speeds
 *   Compact, modest footprint
 *   Minimal clogging 
 *   Easy cleanup
 
 **Things We Don’t Like**
 
-*   Makes foamy kale juice 
-*   Squeaks when juicing hard ingredients
+*   Foamy kale juice 
+*   Squeaks with hard ingredients
 
-The Jocuu masticator is a budget juicer that's been generating a lot of buzz recently. We purchased it in early 2023 and subjected it to weeks of testing in our lab to evaluate its performance, design, and ease of use. We assembled the parts and assessed how they fit together, measured the juice yield with various types of ingredients, evaluated the noise level during juicing, and disassembled the machine to wash it manually.
+The Jocuu masticator is a budget juicer that's been generating a lot of buzz. We purchased it in early 2023 and spent weeks testing it in our lab to evaluate its performance, design, and user-friendliness. We assembled the parts and assessed their fit. We measured the juice yield from various  ingredients, evaluated  noise levels,  disassembled the machine, and washed it by hand.
 
-Read on to see how this juicer holds up to home use and fits into the rhythm of your daily life.
+Read on to see how this juicer holds up to everyday use and whether it fits the rhythm of your life.
 
 Performance
 -----------
