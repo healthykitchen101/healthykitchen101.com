@@ -93,7 +93,7 @@ The Jocuu didn't encounter many problems working through the tough fibers on the
 
 ### Kale
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-kale-clvbwmler000kyx88e1637uvf.jpg" alt="bowl of kale, Jocuu masticator, kale juice and pulp in containers" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-kale-2-clvbwmlen000iyx88hvyldgzq.jpg" alt="container of kale juice next to Jocuu juicer" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-kale-clvf1pjz70007sm880a7p25ao.jpg" alt="Juicing kale with the Jocuu" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-kale-2-clvbwmlen000iyx88hvyldgzq.jpg" alt="container of kale juice next to Jocuu juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-kale-clvbwmler000kyx88e1637uvf.jpg" alt="bowl of kale, Jocuu masticator, kale juice and pulp in containers" width="300px" height="200px">
 
 Ingredient Weight: 18 oz
 
