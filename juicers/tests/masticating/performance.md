@@ -45,7 +45,7 @@ We use 18 ounces of apples, cored but not peeled, and cut into slices of 0.7-0.8
 
 We use both celery stalks (420 g) and leaves (80 g)
 
-Celery is loved for its mild fragrance and low calorie content. The vegetable has a high water content but also a lot of long, tough fiber strings that are difficult to cut and tend to wrap around the auger or the end cap of a masticating juicer or stick on the mesh of a centrifugal one, causing clogs. 
+For a vegetable, celery has a high water content, but manylong, tough fiber strings. These are difficult to cut, tend to wrap around the auger or the end cap of a masticating juicer, or stick to the mesh of a centrifugal juicer resulting in clogging. 
 
 For the test, we use 18 ounces of celery for each machine. That equals 500 grams, of which the stalks make up 420 grams and the leaves, 80 grams.
 
@@ -55,9 +55,9 @@ For the test, we use 18 ounces of celery for each machine. That equals 500 grams
 
 Kale are kept as stalks with the leaves on
 
-One of the most famous nutrition powerhouse, this leafy green is also one of the hardest to juice due to its thin shape, tough, fibrous texture, and low water content. Most machines have difficulty breaking down the kale leaves and extracting the juice from this vegetable. The tough cell walls of kale can clog or strain the juicing machine, leading to reduced juice yield and potentially damaging the juicer.
+One of the most famous nutrition powerhouse, this leafy green, is one of the hardest vegetables to juice due to its thin shape, tough, fibrous texture, and low water content. Most machines have difficulty breaking down the kale leaves and extracting the juice. The tough cell walls of kale can clog or strain the juicing mechanism, leading to reduced juice yield and potentially damaging the juicer.
 
-For the test, we use 20 ounces of kale leaves with the stalk on. 
+For the test, we use 20 ounces of kale leaves with the stalk on.
 
 How We Test and Score
 ---------------------
@@ -66,15 +66,15 @@ How We Test and Score
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/person-juicing-different-ingredients-with-omega-masticator-clvc29p9a000uyx887ujpfg4y.jpg" alt="Person juicing different ingredients with the Omega masticator" width="640" height="427">
 
-Before _officially_ testing the machines, we ran trial tests with the first batch of juicers and recorded all data to make sure our tests help to bring out the features and pros and cons of each machine. In addition, these trial tests were an opportunity for us to get more familiar with the machines and learn the best tips and tricks to work with them. 
+Before _officially_ testing the machines, we ran trial tests and recorded all data to make sure the actual tests bring out the features, strengths, and weaknesses of each machine. In addition, these trial tests were an opportunity for our team to familiarize themselves with each machine and learn the best tips and tricks to share with you. 
 
-Once the tests have been finalized, we conducted and video-recorded them, logging in important figures for rating. Here’s a breakdown of the criteria when scoring each ingredient and their respective score weights.
+Once the tests have been finalized, we conducted and video-recorded them, logging in important figures for rating. Here’s a breakdown of the criteria we use when scoring each ingredient and their respective score weights.
 
 ### Carrots, Apples, and Celery
 
 #### Juicing Time - 50%
 
-We run the ingredients through the juicer, noting down the amount of time it takes to process each type of ingredients. 
+We run the ingredients through the juicer, recording the amount of time it takes to process each type of ingredient. 
 
 The juicing time is then rated as follows.
 
@@ -94,11 +94,11 @@ The juicing time is then rated as follows.
 
 #### Juice Yield - 50%
 
-We collect the juice produced by each juicer and run it through a strainer to remove any coarse pulp before weighing it on a scale. The juice:produce ratio, or juice yield percentage, is then calculated using the following formula:
+We collect the juice from each juicer and run it through a strainer to remove any coarse pulp before weighing it on a scale. The juice:produce ratio, or juice yield percentage, is then calculated using the following formula:
 
-Juice yield = Amount of juice in grams / 500 (amount of ingredient in grams) X 100%
+Juice yield = Amount of juice in grams / 500 (amount of ingredient in grams) x 100%
 
-Since the juice yield is different for each type of fruits or vegetables, we score them differently. The details are as follows.
+Since the juice yield is different for each type of fruit or vegetable, we score them differently. The details are as follows:
 
 **Celery**
 
@@ -150,13 +150,13 @@ Since the juice yield is different for each type of fruits or vegetables, we sco
 
 ### Kale
 
-Due to its leafy, thin, and lightweight nature, kale requires specific machine features to juice, causing remarkable discrepancies in the speeds, juice yield, and juice quality among different juicer types and models. 
+Due to its leafy, thin, and lightweight nature, kale requires specific machine features to juice. This can result in large discrepancies in the speeds, juice yield, and juice quality among different juicer types and models. 
 
-As such, the criteria for assessing the juicers are a little different when it comes to kale compared to other ingredients.
+As such, the criteria for assessing a juicer vary for kale compared to other ingredients.
 
 #### Juicing Time - 40%
 
-Kale takes a longer time to juice than denser ingredients such as carrots or celery. As such, any juicer that takes 5 minutes or less to process 500 grams (18 ounces) of kale gets a score of 10.
+Kale takes a longer time to juice than dense ingredients such as carrots or celery. As such, any juicer that takes 5 minutes or less to process 500 grams (18 ounces) of kale gets a score of 10.
 
 | Juicing time | Score |
 | --- | --- |
@@ -174,7 +174,7 @@ Kale takes a longer time to juice than denser ingredients such as carrots or cel
 
 #### Juice Yield - 40%
 
-With a masticating juicer, you can typically extract a decent amount of juice out of a fussy vegetable like kale. A unit that can make 25% or less juice by weight out of 500 grams of kale will fail the test, but every 5% more gains it 1 point.
+With a masticating juicer, you can typically extract a decent amount of juice from a fussy vegetable like kale. A unit that makes only 25% or less juice by weight from 500 grams of kale will fail the test, but every additional 5% earns the juicer 1 point.
 
 | Yield | Score |
 | --- | --- |
@@ -196,9 +196,9 @@ With a masticating juicer, you can typically extract a decent amount of juice ou
 
 Some machines make particularly foamy kale juice
 
-While the foam level was negligible with other ingredients, we found that it was not the case when juicing kale. Some of the juicer made extremely foamy kale juice—the volume of foam was oftentimes higher than the juice itself. This not only affects aesthetics, but potentially the juice quality. A high foam level also causes inconveniences as the juice cup overflows. That’s the reason foam level was part of the criteria when evaluating the efficiency of a masticator when juicing this leafy vegetable.
+While the foam level was negligible with other ingredients, we found it not to be the case when juicing kale. Some of the machines made extremely foamy kale juice—the volume of foam was oftentimes more than the juice itself. This not only affects aesthetics, but potentially the juice quality. Excessive foam is also a hassle because it can cause the juice cup to overflow. This is why ‘foam level’ is a criteria for evaluating the efficiency of a masticator when juicing this leafy vegetable.
 
-The foam level is determined by comparing the volume of foam with that of the juice made, both in milliliters, using the following formula: 
+The foam level is determined by comparing its volume to that of the extracted juice. Both are measured in fluid ounces, using the following formula: 
 
 Foam level = Foam volume/Juice yield X 100%
 
@@ -218,7 +218,7 @@ The scoring table for foam level is as follows.
 | 90% | 1 |
 | 100% | 0 |
 
-Apart from juice yield, juicing time, and foam level, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating factor among those aspects.
+During testing, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating among these factors. 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/four-glasses-carrot-juice-with-labels-them-clvc29owh000syx88fyoh93nn.jpg" alt="Four glasses of carrot juice with labels on them" width="640" height="427">
 
