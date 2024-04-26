@@ -10,30 +10,34 @@ We tested our juicers with ingredients of different textures and density
 Why It’s Important
 ------------------
 
-Some juicers are faster and more efficient than others at extracting juice from the fruits and vegetables you put into it, which saves you time and electricity, reduces waste, making them higher value buys in the long run. The quality of the juice produced is also an important factor: we need testing to see if a machine can make thick, smooth juice that is not overly coarse or foamy. 
+Some juicers work faster and more efficiently than others. This saves on time, running costs, and reduces waste, which translates as a higher value buy in the long run. To know juice quality, we test if a machine can make thick, smooth juice that is not overly coarse or foamy. 
 
-Performance makes up **35**% of the total test score. 
+Performance makes up **40**% of the total test score. 
 
-The Ingredients
----------------
+The Ingredients 
+----------------
 
-To evaluate a juicer’s performance on various types of produce, we picked four common juicing ingredients of different texture and water content. Here’s the score weight for each type of ingredients and how we prep them.
+To evaluate a juicer’s performance on various types of produce, we picked four common juicing ingredients for their different textures and water content. Here’s the score weight for each type of ingredient and how we prep them.
 
 ### Carrots (25%)
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/carrots-are-trimmed-cut-into-sticks-clvc29o02000qyx8848mbclb8.jpg" alt="Carrot sticks being weighed on a food scale" width="640" height="427">
 
-Carrots are a popular ingredient for juicing thanks to their sweet, earthy taste and impressive nutrition profile.The root is known for its hard and dense texture, which can be a challenge for machines with a weak motor. 
+Carrots are trimmed and cut into sticks
 
-For the test, we use 18 ounces of fresh carrots. We remove the two ends and cut the carrots into sticks 2- 3 inches long, 0.5 - 0.7 inch across.
+Carrots are a popular ingredient for juicing thanks to their sweet, earthy taste and impressive nutrition profile. However, the root is known for its hard and dense texture, which can be a challenge for machines with a weak motor. 
+
+For this test, we use 18 ounces of carrots sticks, which are 2- 3 inches long and 0.5 - 0.7 inch across.
 
 ### Apples (25%)
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/apples-are-cut-into-equal-pieces-clvc29p8x000tyx88ghk61zzv.jpg" alt="Person cutting an apple using an apple corer slicer" width="640" height="427">
 
-Featuring a sweet-sour taste and sweet fragrance, apples can make a delicious juice alone or an addition to other fruits or vegetables. The fruit is softer than carrots but still thick enough to juice. The challenge lies in the thin but tough and slippery skin, which requires sharp blades to cut. It’s not uncommon to see the skin of the apple slices stay untouched, clogging the drum or mesh of a juicer, or flying and breaking the plastic cover of a fast juicer.
+The apples are cut into equal pieces
 
-We use 18 ounces of apples, cores removed but not peeled, cut into slices of 0.7-0.8 inch across.
+Apples are softer than carrots but the challenge lies in the thin but tough and slippery skin, which requires sharp blades to cut. It’s not uncommon to see the untouched skin of an apple slice clogging the drum or mesh of a juicer, or flying and breaking the plastic cover of a fast juicer.
+
+We use 18 ounces of apples, cored but not peeled, and cut into slices of 0.7-0.8 inch across.
 
 ### Celery (25%)
 
