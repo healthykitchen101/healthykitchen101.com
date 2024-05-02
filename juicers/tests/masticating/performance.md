@@ -1,6 +1,3 @@
-What It Is
-----------
-
 We test a juicer’s performance using four common ingredients: carrots, apples, celery, and kale. Additionally, we evaluate juicing performance using these three criteria: **juicing time**, **juice yield**, and **foam level**.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-test-masticating-juicers-performance-clvdjsedy0002sm88fwur1lnv.jpg" alt="Carrots, kale, apples, and celery on the table with different masticating juicer models" width="768" height="512">
