@@ -12,7 +12,7 @@ Why It’s Important
 
 Some juicers work faster and more efficiently than others. This saves on time, running costs, and reduces waste, which translates as a higher value buy in the long run. To know juice quality, we test if a machine can make thick, smooth juice that is not overly coarse or foamy. 
 
-Performance makes up **40**% of the total test score. 
+Performance makes up **40**% of the total test score.
 
 The Ingredients 
 ----------------
