@@ -218,7 +218,7 @@ The scoring table for foam level is as follows.
 | 90% | 1 |
 | 100% | 0 |
 
-During testing, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating among these factors. 
+During testing, we also observed and collected data on the noise level, juice taste, texture, and time till separation, among other factors. However, we did not find differences that were significant enough to warrant a rating among these factors.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/four-glasses-carrot-juice-with-labels-them-clvc29owh000syx88fyoh93nn.jpg" alt="Four glasses of carrot juice with labels on them" width="640" height="427">
 
