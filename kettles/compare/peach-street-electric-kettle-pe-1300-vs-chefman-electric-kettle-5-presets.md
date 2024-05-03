@@ -1,0 +1,5 @@
+Score-wise, the Peach Street Electric Kettle PE-1300—our best glass pick—clearly triumphs over the Chefman Electric Kettle 5 Presets RJ11-17-CTI-RL. However, the latter does bring some noteworthy qualities to the table.
+
+The Chefman has 5 temperature settings, all at a one-touch control just like the single-setting Peach Street. Both have an LED ring but the Chefman’s changes color depending on the chosen preset which is a fun and practical touch. Moreover, the Chefman has a detachable tea infuser and it only costs slightly more than the Peach Street.
+
+Unfortunately, the Chefman, with its lower energy draw, boiled water much slower than the Peach Street. It also consumed slightly more energy, was noisier, and didn’t retain heat as well as the Peach Street. Also, while both have a removable limescale filter, the Chefman’s lid opening is a bit smaller making it a bit more tricky to clean.
