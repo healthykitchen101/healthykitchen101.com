@@ -98,11 +98,11 @@ The dimensions and footprint of a juicer impact portability, storage, as well as
 
 | Feature | Score |
 | --- | --- |
-| Substantial juice cup and pulp container in proportion to machine size | +2 |
-| Parts fit inside a standard drawer | +3 |
-| Assembled unit has a small footprint, allowing juicing on a countertop | +2 |
+| Juice cup and container well-sized | +2 |
+| Parts fit in a standard drawer | +3 |
+| Small footprint for juicing on a countertop | +2 |
 | Wide feed chute, allowing wiggle room for plunger | +2 |
-| Wide food tray on feeding chute | +1 |
+| Wide feeding chute tray | +1 |
 
 #### Blade/Auger - 10%
 
@@ -111,4 +111,4 @@ A juicer’s auger is scored for its construction or build quality and the way i
 | Feature | Score |
 | --- | --- |
 | Robust build | +5 |
-| Designed in a way that allows fast cutting and efficient crushing | +5 |
+| Fast cutting and efficient crushing | +5 |
