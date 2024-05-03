@@ -37,9 +37,9 @@ We evaluate how easily a juicer can be put together and taken apart, focusing on
 
 | Feature | Score |
 | --- | --- |
-| Intuitive design, simple to put together and take apart | +3 |
-| Provides a safe and secure fit | +4 |
-| Components are compact and easily movable | +3 |
+| Intuitive design, easy to assemble and take apart | +3 |
+| Safe and secure fit | +4 |
+| Compact and easy to move | +3 |
 
 #### Juicing - 25%
 
@@ -47,9 +47,9 @@ We examine whether the juicer operates smoothly without additional work such as 
 
 | Feature | Score |
 | --- | --- |
-| Does not require frequent pressing with the plunger | +4 |
-| Does not easily jam or clog | +4 |
-| Works with larger produce sizes | +2 |
+| Infrequent plunger use | +4 |
+| Does not jam or clog easily | +4 |
+| Accepts chunky sizes | +2 |
 
 #### Conveniences - 10%
 
@@ -58,7 +58,7 @@ This assessment covers aspects such as the inclusion of a reverse unclogging fun
 | Feature | Score |
 | --- | --- |
 | Reverse feature | +3 |
-| Speed/pressure options | +3 |
+| Speed/pressure settings | +3 |
 | Overheating indicator | +2 |
 | Anti-froth feature | +1 |
 | Miscellaneous | +1 |
@@ -70,7 +70,7 @@ We examine how fast and straightforward it is to clean a juicer after each juici
 | Feature | Score |
 | --- | --- |
 | Easy to clean | +4 |
-| Package includes tools for cleaning | +2 |
+| Cleaning tools included | +2 |
 | Dishwasher safe parts | +4 |
 
 ### Design - 25%
@@ -87,9 +87,9 @@ Over months of use, we assess whether a juicer can withstand everyday use withou
 
 | Feature | Score |
 | --- | --- |
-| Quality, durable materials | +3 |
-| Secure fitting, no rattling noise during operation | +4 |
-| Polished, seamless, residue-free finish | +2 |
+| Durable materials | +3 |
+| Secure and tight fit | +4 |
+| Polished finish | +2 |
 | Stylish design | +1 |
 
 #### Size & Footprint - 40%
