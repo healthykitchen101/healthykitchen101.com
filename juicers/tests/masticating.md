@@ -1,13 +1,13 @@
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-test-masticating-juicers-clvc14uax000lyx88djz33ya1.jpg" alt="Piles of carrots, kale, apples, and celery on the table with different masticating juicer models" width="768" height="512">
 
-Do you need a $400 masticating juicer, or would a $75 unit suffice? Scrolling through Amazon reviews, you’ll find both rave reviews and harsh critiques for both price points. To cut through the market clutter and identify the truly best juicer, we put all our juicers through the same set of tests, using identical ingredients. Beyond juicing time, juice yield, and quality, we scrutinize build quality and design, focusing on how these aspects enhance ease of use and assembly.
+Do you need a $400 masticating juicer, or would a $75 one suffice? Scrolling through online reviews, you’ll find rave reviews and harsh critiques for both price points. To cut through the market clutter for the truly best juicer, we put all our juicers through the same set of tests, using identical ingredients. Beyond juicing time, juice yield, and quality, we scrutinize build quality and design for ease of use, assembly, and disassembly.
 
-The purpose of our testing is to guide you through the nuances of choosing a masticating juicer that is not only effective but also a pleasure to use in your daily routine.
+Our testing program below will guide you through the nuances of choosing a masticating juicer that is effective and a pleasure to use on a daily basis.
 
 How We Rate Masticating Juicers
 -------------------------------
 
-The overall score is a rating on a scale of 1 to 10. Each of the three scoring categories is weighted to a different percentage:
+Our overall score and ranking is a rating on a scale of 1 to 10. Each of three scoring categories is weighted to a different percentage:
 
 *   Performance - **40%**
 *   Usability - **35%**
@@ -17,7 +17,7 @@ The overall score is a rating on a scale of 1 to 10. Each of the three scoring c
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-performance-clvc16v4h000pyx88d5fhdod4.jpg" alt="Piles of carrots, kale, apples, and celery with different masticating juicers" width="640" height="427">
 
-We test the performance of each masticating juicer using four different ingredients: root (carrots), fruit (apples), fibrous vegetables (celery), and leafy greens (kale). Each of these take up **25%** of the total performance score.
+We test the performance of each masticating juicer using four key ingredients: root (carrots), fruit (apples), fibrous vegetables (celery), and leafy greens (kale). Each of these are **25%** of the total performance score.
 
 Scoring components for each ingredient include juice yield, juicing time, and for kale, foam level was also taken into account.
 
@@ -25,15 +25,15 @@ Scoring components for each ingredient include juice yield, juicing time, and fo
 
 ### Usability - 35%
 
-Ease of use is an important criterion when buying any household appliances, but especially so with juicers. Because juicing is usually not a “must” the way cooking is to most people, convenience arguably plays a more important role than juice yield or quality. A juicer can be very good at extracting juice, but if it’s too much trouble to use, chances are it will eventually find itself taking residence in a cupboard as soon as the “honeymoon phase” is over. 
+Ease of use is an important criterion when buying any household appliances, but especially so for juicers. Juicing, unlike cooking, is not a “must” for most people; therefore, convenience may play a more important role than juice yield or quality. A juicer that’s good at extracting juice but too much trouble to use, will likely land up in a cupboard gathering dust after its ‘honeymoon period’. 
 
-The usability of a juicer is tied to its ease of assembly, juicing, and cleaning, and the convenient features that come with it. We examine these during our multiple trials and performance tests, and score each machine using an elaborate list of criteria.
+Therefore, we score the usability of a juicer for its ease of assembly (30%), ease of juicing (25%) and cleaning (35%), and convenient features (10%). We examine these over multiple trials and performance tests and score each machine against a list of set criteria.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/how-we-rate-masticating-juicers-usability-clvc16v4e000oyx888jzjf1l4.jpg" alt="Person using a pair of tongs to feed masticating juicer" width="640" height="427">
 
 #### Assembling - 30%
 
-We evaluate how easily a juicer can be put together and taken apart, focusing on the design's simplicity and intuitiveness. A high score in this category means the juicer is straightforward to assemble and disassemble. We also check if the juicer is stable and safe when put together to reduce accident risks. Furthermore, we look at how compact the juicer is and if its parts can be easily moved, as this helps with storage and handling.
+We evaluate how easily a juicer can be put together and taken apart, focusing on the design's intuitiveness and simplicity. A high score in this category means the juicer is straightforward to assemble and disassemble. We also check if the juicer is sturdy, safe, and risk-free during this process. Furthermore, we examine the relative compactness of a juicer and how parts can be separately handled, especially for storage..
 
 | Feature | Score |
 | --- | --- |
@@ -43,7 +43,7 @@ We evaluate how easily a juicer can be put together and taken apart, focusing on
 
 #### Juicing - 25%
 
-We examine whether the juicer operates efficiently without needing frequent assistance from the user, such as pressing down with a plunger or using the reverse button. Another factor of consideration is the juicer’s ability to accommodate larger pieces of produce, which reduces the need for extensive pre-cutting.
+We examine whether the juicer operates smoothly without additional work such as using the plunger or the reverse button. Another factor is the juicer’s ability to accept chunky pieces of produce, which reduces the need for extensive pre-cutting.
 
 | Feature | Score |
 | --- | --- |
@@ -53,7 +53,7 @@ We examine whether the juicer operates efficiently without needing frequent assi
 
 #### Conveniences - 10%
 
-We delve into the extra touches that elevate the user experience beyond just juicing basics. This assessment covers aspects such as the availability of a reverse function to prevent clogging, the variety of speed or pressure settings tailored to different produce types, the inclusion of an anti-froth feature to ensure cleaner juice, and a host of other convenient additions that ensure maximum efficiency.
+This assessment covers aspects such as the inclusion of a reverse unclogging function, speed or pressure settings tailored to different produce types, and an anti-froth feature for cleaner juice. We also take note of miscellaneous or extra features.
 
 | Feature | Score |
 | --- | --- |
@@ -65,7 +65,7 @@ We delve into the extra touches that elevate the user experience beyond just jui
 
 #### Cleaning - 35%
 
-We examine how fast and straightforward it is to clean the juicer after each juicing session. The inclusion of specialized brushes and tools designed to aid in the cleaning process can gain the juicer points, as does the dishwashability of its removable parts.
+We examine how fast and straightforward it is to clean a juicer after each juicing session. Removable parts that can go in a dishwasher and the inclusion of specialized cleaning tools will earn the juicer extra points.
 
 | Feature | Score |
 | --- | --- |
@@ -77,13 +77,13 @@ We examine how fast and straightforward it is to clean the juicer after each jui
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/components-omega-nc900-masticating-juicer-clvc16v0a000nyx885uz59599.jpg" alt="Components of the Omega NC900 masticating juicer" width="640" height="427">
 
-A well-thought-out design is key to making a juicer both long-lasting and dependable. When we look at a juicer's design, we focus on three main things. First up is how well it's made and how nicely its parts fit together, with close attention to the materials and the craftsmanship. Then, we take a look at the juicer’s size and how much space it takes up, keeping an eye out for designs that are smart with space without compromising on functionality. Lastly, we dive into how the blade or auger works, making sure it's great at getting all the juice out and can handle all sorts of fruits and veggies.
+We look at a juicer's design focusing on three key points. First is how well parts fit together, paying close attention to material quality and the craftsmanship. Then, we examine relative compactness that does not compromise on functionality. Lastly, we assess how the blade or auger works for efficient juicing, minimizing waste, and the variety of produce you can juice.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/we-check-how-well-parts-fit-together-clvc16uzz000myx885hc41ks2.jpg" alt="We check how well the parts fit together" width="640" height="427">
 
 #### Build Quality & Fit - 50%
 
-We check if the juicer can withstand normal use without premature wear or damage. A juicer also gains points with a stylish design and polished finish, which add aesthetic appeal to the juicer, making it a desirable addition to any home.
+Over months of use, we assess whether a juicer can withstand everyday use without premature wear or damage. We note during testing whether parts fit well and that no rattling noise is heard. A juicer earns points for a polished or seamless, residue-free finish, and for a stylish design with aesthetic appeal.
 
 | Feature | Score |
 | --- | --- |
@@ -94,7 +94,7 @@ We check if the juicer can withstand normal use without premature wear or damage
 
 #### Size & Footprint - 40%
 
-The dimensions and footprint of a juicer impact not just its portability and storage but also its functionality. We analyze the proportions of its components relative to each other and how this influences usability. Additionally, we assess the footprint of the assembled unit.
+The dimensions and footprint of a juicer impact portability, storage, as well as functionality. We analyze the relative size of components and their impact on usability. The juice and pulp cups should be complementary in size, the feed chute suitably wide, and all removable parts should easily fit in a standard draw. Additionally, we assess the footprint of the assembled unit.
 
 | Feature | Score |
 | --- | --- |
@@ -106,7 +106,7 @@ The dimensions and footprint of a juicer impact not just its portability and sto
 
 #### Blade/Auger - 10%
 
-A juicer’s auger is scored for its construction quality and the way it is engineered to facilitate quick cutting and efficient crushing.
+A juicer’s auger is scored for its construction or build quality and the way it’s engineered to facilitate quick cutting and efficient crushing.
 
 | Feature | Score |
 | --- | --- |
