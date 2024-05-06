@@ -105,7 +105,7 @@ Brita's entry-level products, like the Brita Standard and Brita Stream, are more
 
 #### Water Filtering Pitchers
 
-Brita Ultramax Water Filter Dispenser (27 Cup)
+1\. Best Brita Filter Dispenser: Brita Ultramax Water Filter Dispenser (27 Cup)
 
 *   Fast flow rate
 *   Large capacity, less refilling
@@ -117,7 +117,7 @@ Brita Ultramax Water Filter Dispenser (27 Cup)
 
 #### Faucet-Mounted Filters
 
-Brita Metro Pitcher (6 Cup)
+2\. Best Brita Pitcher: Brita Metro Pitcher (6 Cup)
 
 *   Compact
 *   Fits a refrigerator door bin
@@ -127,7 +127,7 @@ Brita Metro Pitcher (6 Cup)
 *   Leaky filter 
 *   Difficult to disassemble
 
-Brita Basic Faucet-mount Water Filter
+3\. Best Brita Faucet Filter: Brita Basic Faucet-mount Water Filter
 
 *   Relatively affordable.
 *   Excellent chlorine filtration ability (nearly 100%).
@@ -191,7 +191,7 @@ Even though maintenance can cost you a bit more, the better filtration capabilit
 
 Much like Brita, PUR has introduced numerous water-filtering pitcher models over the years. So far, we’ve only had the opportunity to test one model, which is the PUR Plus 30-cup dispenser.
 
-PUR Plus 30-cup dispenser
+4\. Best PUR Dispenser: PUR Plus 30-cup dispenser
 
 *   Strong build, durable material
 *   Effective against chlorine
@@ -207,7 +207,7 @@ This model excels at removing chemicals like chlorine from your water, but its b
 
 Two PUR faucet-mounts were tested by us, the PUR PLUS PFM350V and the PUR FM2500V. While both have their respective pros and cons (and fortunately, none of them failed any part of our quality checks), the PUR FM2500V stood out best for making it to our top listing.
 
-PUR FM2500V Faucet Water Filter
+5\. Best PUR Faucet Filter: PUR FM2500V Faucet Water Filter
 
 *   Excellent chlorine filtering ability
 *   Easy installation and servicing with "one-click" system
