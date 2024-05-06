@@ -224,8 +224,6 @@ Similar to Brita, PUR has released many water-filtering pitcher models through t
 
 Affordable and has decent capacity to boot, this pitcher is the most popular among PUR’s offerings.
 
-If the 7-cup capacity is a bit too low, the company also has an 11-cup version. Aside from enlarged volume, this pitcher also has a **digital LED filter indicator**. When the filter’s service life has run its course, the light will start blinking. Of course, all of this comes with some extra costs.
-
 #### Faucet-Mounted Filters
 
 PUR’s offerings in the faucet-mount filter department are noticeably more innovative than Brita. While Brita has two models with only very minor differences between one another, PUR has a richer selection of models as well as clear price/feature tiers.
