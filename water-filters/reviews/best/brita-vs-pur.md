@@ -115,6 +115,10 @@ Brita's entry-level products, like the Brita Standard and Brita Stream, are more
 *   No side handles
 *   Opaque reservoir
 
+The Brita UltraMax 27 cup water filter dispenser is a top choice for small families or households of up to 5 people. Its standout feature is the powerful Elite filter that outperforms many competitors when it comes to filter life and ability to remove high chlorine levels while still maintaining an impressive flow rate. A major advantage is that the filter does not shed material into the water, a common issue with pitchers and dispensers in this category. While the design could use some refinement, the UltraMax is generally user-friendly and convenient to operate.
+
+Its compact size allows it to fit nicely in most refrigerators, providing chilled, filtered water on demand. This eliminates the need for constant refilling of smaller pitchers. If you want a reliable, easy-to-use dispenser that delivers great-tasting water without a lot of hassle, the Brita UltraMax 27 cup is an excellent value.
+
 #### Faucet-Mounted Filters
 
 2\. Best Brita Pitcher: Brita Metro Pitcher (6 Cup)
