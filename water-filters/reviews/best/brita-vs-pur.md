@@ -191,7 +191,7 @@ Even though maintenance can cost you a bit more, the better filtration capabilit
 
 Much like Brita, PUR has introduced numerous water-filtering pitcher models over the years. So far, we’ve only had the opportunity to test one model, which is the PUR Plus 30-cup dispenser.
 
-4\. Best PUR Dispenser: PUR Plus 30-cup dispenser
+1\. Best PUR Dispenser: PUR Plus 30-cup dispenser
 
 *   Strong build, durable material
 *   Effective against chlorine
@@ -207,7 +207,7 @@ This model excels at removing chemicals like chlorine from your water, but its b
 
 Two PUR faucet-mounts were tested by us, the PUR PLUS PFM350V and the PUR FM2500V. While both have their respective pros and cons (and fortunately, none of them failed any part of our quality checks), the PUR FM2500V stood out best for making it to our top listing.
 
-5\. Best PUR Faucet Filter: PUR FM2500V Faucet Water Filter
+2\. Best PUR Faucet Filter: PUR FM2500V Faucet Water Filter
 
 *   Excellent chlorine filtering ability
 *   Easy installation and servicing with "one-click" system
