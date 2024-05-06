@@ -138,7 +138,7 @@ Brita's entry-level products, like the Brita Standard and Brita Stream, are more
 *   The filter could be tugged out of the housing without depressing the filter release button.
 *   Leaks during filtration, necessitating the use of plumbing tape.
 
-Brita has offered many faucet-mount filters over the years, but as the most popular one by far, we’ve put the [Brita Basic](https://healthykitchen101.com/water-filters/reviews/brita/brita-basic-faucet-mount/) to the test in our lab. The filter lived up to its claim of being able to take out chlorine in the water.
+Brita has offered many faucet-mount filters over the years, but as the most popular one by far, we’ve put the Brita Basic to the test in our lab. The filter lived up to its claim of being able to take out chlorine in the water.
 
 While it wasn’t as well-built as we had hoped, the filter still passed all our tests by a good enough margin that we can still recommend it if you’re looking for something PUR-branded.
 
