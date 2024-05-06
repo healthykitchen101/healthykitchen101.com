@@ -263,5 +263,3 @@ Conclusion
 ----------
 
 We hope this **Brita vs. PUR** comparison has answered some of your burning questions regarding these brands. Both are reputable manufacturers that craft some of the best filtering systems on the market. But they each have special characteristics that will likely make one brand better for you than the other.
-
-Keep these quirks in mind and you can make an informed decision on what system and what filter to choose for your household.
