@@ -141,3 +141,63 @@ Here’s a short table of all the notable chemicals that each PUR filter model c
 | 1, 2, 4 - Trichlorobenzene |  |  |  |
 | Trichloroethylene (TCE) | x | x | x |
 | Atrazine | x | x | x |
+
+PUR excels over Brita in filtration capabilities, with even the most affordable PUR Basic filter removing most major chemicals except lead. If you’re concerned about lead in your water supply, the PUR Lead Reducing or MineralClear filters will be great options.
+
+All in all, choosing a PUR filter is a fairly straightforward affair. You’ll mostly only have to think about whether lead reduction is a critical need.
+
+### How Long Do PUR Filters Last?
+
+PUR filters offer superior filtration but have a shorter lifespan compared to Brita filters.
+
+The PUR Basic and Lead Reducing Filters last about 40 gallons or 2 months, similar to Brita’s entry-level filters. Meanwhile, the more premium PUR MineralClear filter lasts up to 100 gallons or about 3 months. The replacement costs for PUR filters are about equal to Brita's, too, with PUR Basic filters priced around $11-$12 each, Lead Reducing Filters at about $25 for a three-pack, and a two-pack of MineralClear Filters costing around $20.
+
+Even though maintenance can cost you a bit more, the better filtration capability of PUR filters makes them a great investment if filtration quality is your top priority.
+
+### PUR Water Filter Systems
+
+#### Water Filtering Pitchers
+
+Much like Brita, PUR has introduced numerous water-filtering pitcher models over the years. So far, we’ve only had the opportunity to test one model, which is the PUR Plus 30-cup dispenser.
+
+##### PUR Plus 30-cup dispenser
+
+This model excels at removing chemicals like chlorine from your water, but its basic, blocky design and sluggish flow rate may not appeal to everyone. With more visually appealing and efficient models available on the market, the PUR Plus 30-cup dispenser could face stiff competition, making it a tougher sell for some consumers.
+
+#### Faucet-Mounted Filters
+
+Two PUR faucet-mounts were tested by us, the PUR PLUS PFM350V and the PUR FM2500V. While both have their respective pros and cons (and fortunately, none of them failed any part of our quality checks), the PUR FM2500V stood out best for making it to our top listing.
+
+##### PUR FM2500V Faucet Water Filter
+
+The PUR FM2500V was a stand-out in our test — so much so that it got into our list of the best faucet-mount water filters. Performance-wise, the filter expectedly shone in chlorine removal. Its Mineral Core cartridge managed to reduce chlorine from high levels of over 10 mg/l to nearly 0 mg/l. Disappointingly, its flow rate was rather slow at just 0.44 gallons per minute.
+
+Despite the slow flow rate and durability concerns, the FM2500V's effective chlorine removal and mineral replenishment isn’t a bad option for those seeking a capable faucet-mount water filter.
+
+Round-Up: Which One Should You Choose?
+--------------------------------------
+
+### Why Choose Brita?
+
+Brita has affordability and longevity on its side. All of its water filtering systems (pitchers and faucets) are cheaper than their PUR counterparts. Replacement filters are also cheaper than PUR’s spare filters.
+
+Another advantage that Brita has is that, compared to PUR, their products are more widespread. You can find them in any brick-and-mortar hardware outlet and it takes just a few keystrokes online to find their products, too.
+
+So although it may not have as great filtering performance as PUR. If you’re shopping on a budget and want a purchase that lasts for a long time, Brita would be the better of the two to go with.
+
+### Why Choose PUR?
+
+PUR’s specialty is filtering performance. Even its basic filter (the aptly-named PUR Basic) can filter out far more contaminants and particulates than Brita’s top-of-the-line filters. For this reason, if you need a serious water-filtering system, PUR should be considered the better one.
+
+Higher performance comes at a literal cost, though. PUR filtering systems are costlier and replacement filters are also more expensive. It doesn’t help that, as previously mentioned, PUR filters don’t last nearly as long as Brita filters.
+
+You should also keep in mind that PUR replacement filters and systems are notoriously difficult to find. You may need to do some online digging to get the exact model or replacement parts that you need.
+
+The long and short of it, though, is if performance is more important to you than anything else and you are willing to spend the time and money to get it, choose PUR.
+
+Conclusion
+----------
+
+We hope this **Brita vs. PUR** comparison has answered some of your burning questions regarding these brands. Both are reputable manufacturers that craft some of the best filtering systems on the market. But they each have special characteristics that will likely make one brand better for you than the other. 
+
+Keep these quirks in mind and you can make an informed decision on what system and what filter to choose for your household.
