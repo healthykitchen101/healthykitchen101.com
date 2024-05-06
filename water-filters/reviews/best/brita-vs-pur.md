@@ -105,11 +105,15 @@ Brita's entry-level products, like the Brita Standard and Brita Stream, are more
 
 #### Water Filtering Pitchers
 
-##### Brita Basic Faucet-mount Water Filter
+1\. Brita Basic Faucet-mount Water Filter
 
 Brita has offered many faucet-mount filters over the years, but as the most popular one by far, we’ve put the [Brita Basic](https://healthykitchen101.com/water-filters/reviews/brita/brita-basic-faucet-mount/) to the test in our lab. The filter lived up to its claim of being able to take out chlorine in the water.
 
 While it wasn’t as well-built as we had hoped, the filter still passed all our tests by a good enough margin that we can still recommend it if you’re looking for something PUR-branded.
+
+2\. Brita Ultramax Water Filter Dispenser (27 Cup)
+
+3\. Brita Metro Pitcher (6 Cup)
 
 All You Need to Know About PUR Filters
 --------------------------------------
