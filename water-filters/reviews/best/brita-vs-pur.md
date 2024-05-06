@@ -121,11 +121,6 @@ When it comes to eliminating contaminants, it’s clear that neither the Brita S
 
 ### How Long Do Brita Filters Last?
 
-Brita vs. PUR
--------------
-
-When it comes to longevity, Brita scores far better than PUR and any other company on the market.
-
 When it comes to longevity, Brita scores far better than PUR and any other company on the market.
 
 The **Brita Longlast**, for example, can last approximately **six months** (or, more specifically, about **120 gallons**). A single replacement filter costs about $17, which isn’t so bad when it can last you half a year.
@@ -156,8 +151,6 @@ Although Brita only has a single series of faucet-mounted filters called Brita B
 
 The ordinary Brita Basic serves as a no-frills water filtration unit. It offers two spray settings: a **regular stream** _**filtered**_ **water setting** for drinking and a **regular stream** _**unfiltered**_ **water** setting for other tasks. There is a filter-change indicator on the unit that will tell you exactly when you need to replace the filter.
 
-1\. Brita Basic Faucet Water Filtration System
-
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-basic-faucet-filter-clknr63yv000h4a88guyzckds.jpg" alt="Brita Basic Faucet filter" width="640" height="427">
 
 Brita Basic Faucet filter
@@ -171,8 +164,6 @@ The Complete model also has a filter-change indicator, but unlike the ordinary B
 Besides these minor design differences, **both models are the same in terms of filtering performance**. They use the same type of filter. Choosing one over the other boils down to personal preference and your willingness to spend.
 
 Nonetheless, according to many of the reviews left by past buyers, the extra improvements that the Complete model brings to the table are far too minor to be worth the extra markup. So in most cases, the ordinary Basic variant will be satisfactory.
-
-2\. Brita Ultramax Water Filter Dispenser (27 Cup)
 
 All You Need to Know About PUR Filters
 --------------------------------------
@@ -241,15 +232,11 @@ PUR’s offerings in the faucet-mount filter department are noticeably more inno
 
 Among the most popular PUR faucet filters at the moment is the [**PUR PFM400H Faucet Filter**](https://www.amazon.com/dp/B0009CEKY6?&linkCode=ll1&tag=lunagbvsp-20&linkId=2fd6f516ce86111ba5e628ab83bf7035&language=en_US&ref_=as_li_ss_tl). Though it can't really be considered as affordable as some others, its excellent filtering performance has convinced a lot of people to take the plunge. The mostly positive reviews that it has accumulated are also good indications that this faucet filter can measure up to expectations.
 
-3\. PUR Faucet Water Filter (FM2500V)
-
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-basic-faucet-clknrm0an000p4a888xmifug8.jpg" alt="PUR basic faucet" width="640" height="427">
 
 Though it doesn’t have the technological edge, the basic PFM400H faucet filter is great for those who wants simplicity above all.
 
 One characteristic that sets PUR apart from Brita is that they’re willing to experiment with new tech, as seen in the [**PUR PFM800HX Bluetooth Ultimate Filtration System**](https://www.amazon.com/dp/B01M0I5RII?&linkCode=ll1&tag=lunagbvsp-20&linkId=92813f2916a219ac02218cf87ff2efd0&language=en_US&ref_=as_li_ss_tl). The filtering unit contains integrated **smart sensors** and a **Bluetooth module** that allow it to connect to your smartphone. You can track the unit’s water consumption and the status of the filter via an app.
-
-4\. PUR Plus 30-cup dispenser
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/pur-bluetooth-faucet-clknrnv4g000q4a88ejnxe4wt.jpg" alt="PUR bluetooth faucet" width="640" height="427">
 
