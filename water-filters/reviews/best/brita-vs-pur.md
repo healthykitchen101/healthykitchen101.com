@@ -85,6 +85,8 @@ All You Need to Know About Brita Filters 
 
 Brita’s portfolio currently has **two** **universal filters**: the **Brita Standard** and **Brita Longlast**. Any Brita-branded pitchers and dispensers can accept either of these filters.
 
+By design, the Standard and the Longlast are similarly constructed: both use **Granular Activated Carbon (GAC)** tech and **ion-exchange resin** **beads**. Nonetheless, their respective performance and longevity are different.
+
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-standard-filters-clknqv6kk000e4a887bw15etn.jpg" alt="Brita Standard filters" width="360" height="240">
 
 Brita Standard filters
@@ -92,8 +94,6 @@ Brita Standard filters
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-filters/brita-longlast-filters-clknqx2tv000f4a88h1rb0kov.jpg" alt="Brita Longlast filters" width="360" height="240">
 
 Brita Longlast filters
-
-By design, the Standard and the Longlast are similarly constructed: both use **Granular Activated Carbon (GAC)** tech and **ion-exchange resin** **beads**. Nonetheless, their respective performance and longevity are different.
 
 A third filter model is the **Brita Stream**, which is only compatible with products in the Stream line-up. It consists of a **single-stage activated carbon filter** that’s usually found in faucet filters. As such, you will need high pressure to get any fresh water through this filter.
 
@@ -263,3 +263,5 @@ Conclusion
 ----------
 
 We hope this **Brita vs. PUR** comparison has answered some of your burning questions regarding these brands. Both are reputable manufacturers that craft some of the best filtering systems on the market. But they each have special characteristics that will likely make one brand better for you than the other.
+
+Keep these quirks in mind and you can make an informed decision on what system and what filter to choose for your household.
