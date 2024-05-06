@@ -131,6 +131,14 @@ Its compact size allows it to fit nicely in most refrigerators, providing chille
 *   Leaky filter 
 *   Difficult to disassemble
 
+If you don’t need the extra-large capacity of the UltraMax, then the Metro will do. Performance-wise, it also does a good job at removing chlorine and providing crisp, refreshing tasting water quickly. Notably, the pitcher is large enough to hold about 6 cups of fresh water, making it a great personal pitcher for single users.
+
+The simple design and convenient features allow for easy everyday use. However, disassembling the pitcher for filter changes and cleaning can be somewhat challenging.
+
+A major drawback is that the Metro has an unfortunate tendency to allow small bits of charcoal to leak into the filtered water. While this doesn't impact the safety of the water, having to ignore these floating specks is an annoyance many users may not want to deal with.
+
+On the other hand, PUR faucet-mount filters, such as the PUR FM2500V, while having better filtering performance (thanks in part to the wide selection of filters that they come with), don’t score quite as high due to their low flow rate. Additionally, their price tags also mean they’re less accessible compared to the Brita.
+
 3\. Best Brita Faucet Filter: Brita Basic Faucet-mount Water Filter
 
 *   Relatively affordable.
