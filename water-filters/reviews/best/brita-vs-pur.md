@@ -4,6 +4,12 @@ Both companies are veterans in the business with decades of experience. In all o
 
 In this **Brita vs. PUR** water filtering guide, we want to lay that debate to rest once and for all.
 
+Brita and PUR are the two names that immediately come to mind wherever home water filtering is concerned. 
+
+Both companies are veterans in the business with decades of experience. In all of that time, they have both built reputations as dependable, quality suppliers of household filtering systems. But considering their apparent parity, it can be hard to choose a company to stick with.
+
+In this **Brita vs. PUR** water filtering guide, we want to lay that debate to rest once and for all.
+
 Why You Should Get a Home Water Filtration System
 -------------------------------------------------
 
@@ -263,3 +269,5 @@ Conclusion
 ----------
 
 We hope this **Brita vs. PUR** comparison has answered some of your burning questions regarding these brands. Both are reputable manufacturers that craft some of the best filtering systems on the market. But they each have special characteristics that will likely make one brand better for you than the other.
+
+Keep these quirks in mind and you can make an informed decision on what system and what filter to choose for your household.
