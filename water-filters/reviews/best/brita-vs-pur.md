@@ -1,3 +1,8 @@
+Why You Should Get a Home Water Filtration System
+-------------------------------------------------
+
+Tap water is never perfectly clean no matter how good the local water treatment plant is. This is because the water still has to travel through miles of pipeline in order to reach your home. These pipes aren’t always the most sanitary.
+
 Brita and PUR are the two names that immediately come to mind wherever home water filtering is concerned. 
 
 Both companies are veterans in the business with decades of experience. In all of that time, they have both built reputations as dependable, quality suppliers of household filtering systems. But considering their apparent parity, it can be hard to choose a company to stick with.
