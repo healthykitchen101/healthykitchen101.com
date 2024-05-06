@@ -191,6 +191,14 @@ Much like Brita, PUR has introduced numerous water-filtering pitcher models over
 
 PUR Plus 30-cup dispenser
 
+*   Strong build, durable material
+*   Effective against chlorine
+*   Straightforward filter life indicator
+*   Handy spigot
+
+*   Slow flow rate
+*   Basic, unattractive design
+
 This model excels at removing chemicals like chlorine from your water, but its basic, blocky design and sluggish flow rate may not appeal to everyone. With more visually appealing and efficient models available on the market, the PUR Plus 30-cup dispenser could face stiff competition, making it a tougher sell for some consumers.
 
 #### Faucet-Mounted Filters
@@ -198,6 +206,16 @@ This model excels at removing chemicals like chlorine from your water, but its b
 Two PUR faucet-mounts were tested by us, the PUR PLUS PFM350V and the PUR FM2500V. While both have their respective pros and cons (and fortunately, none of them failed any part of our quality checks), the PUR FM2500V stood out best for making it to our top listing.
 
 PUR FM2500V Faucet Water Filter
+
+*   Excellent chlorine filtering ability
+*   Easy installation and servicing with "one-click" system
+*   Lightweight and compact design
+*   A filter change indicator
+
+*   Low flow rate in filtering mode
+*   Weak grip on faucet due to the one-click system
+*   Flimsy routing valve’s handle
+*   The plastic construction can be problematic for long-term durability
 
 The PUR FM2500V was a stand-out in our test — so much so that it got into our list of the best faucet-mount water filters. Performance-wise, the filter expectedly shone in chlorine removal. Its Mineral Core cartridge managed to reduce chlorine from high levels of over 10 mg/l to nearly 0 mg/l. Disappointingly, its flow rate was rather slow at just 0.44 gallons per minute. Despite the slow flow rate and durability concerns, the FM2500V's effective chlorine removal and mineral replenishment isn’t a bad option for those seeking a capable faucet-mount water filter.
 
