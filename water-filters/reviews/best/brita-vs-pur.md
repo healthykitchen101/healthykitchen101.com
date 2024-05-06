@@ -126,6 +126,8 @@ Brita vs. PUR
 
 When it comes to longevity, Brita scores far better than PUR and any other company on the market.
 
+When it comes to longevity, Brita scores far better than PUR and any other company on the market.
+
 The **Brita Longlast**, for example, can last approximately **six months** (or, more specifically, about **120 gallons**). A single replacement filter costs about $17, which isn’t so bad when it can last you half a year.
 
 Brita’s other “premium” product— the Brita Faucet Mount filter— **lasts roughly four months on average** and costs $19 to replace. It wears out quicker and is more expensive, certainly, but some people find the added convenience and better filtering ability to be worth the money.
