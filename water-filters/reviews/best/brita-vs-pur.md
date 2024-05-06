@@ -91,3 +91,53 @@ You can use the table below to see what type of contaminants each filter is capa
 | 1, 2, 4 - Trichlorobenzene |  |  |  | x |
 | Trichloroethylene (TCE) |  |  |  | x |
 | Atrazine |  |  |  | x |
+
+How Long Do Brita Filters Last?
+-------------------------------
+
+In terms of longevity, Brita outperforms PUR and other competitors. The Brita Longlast filter lasts approximately six months or 120 gallons, with a replacement cost of around $17.
+
+The Brita Faucet Mount filter, another premium option, lasts about four months and costs $19 to replace. Despite being pricier and having a shorter lifespan, some users value its convenience and superior filtering capabilities.
+
+Brita's entry-level products, like the Brita Standard and Brita Stream, are more affordable at $7 each. However, they only last two to three months or about 40 gallons before needing replacement.
+
+### Brita Water Filter Systems
+
+#### Water Filtering Pitchers
+
+##### Brita Basic Faucet-mount Water Filter
+
+Brita has offered many faucet-mount filters over the years, but as the most popular one by far, we’ve put the [Brita Basic](https://healthykitchen101.com/water-filters/reviews/brita/brita-basic-faucet-mount/) to the test in our lab. The filter lived up to its claim of being able to take out chlorine in the water.
+
+While it wasn’t as well-built as we had hoped, the filter still passed all our tests by a good enough margin that we can still recommend it if you’re looking for something PUR-branded.
+
+All You Need to Know About PUR Filters
+--------------------------------------
+
+PUR offers three main types of filters:
+
+*   PUR Basic Filter: Available for both pitcher and faucet-mounted systems.
+*   PUR Lead Reducing Filter: Designed specifically for pitchers and optimized to tackle lead contamination more efficiently.
+*   PUR MineralClear Filter: Exclusive for faucets and is equipped to handle water with a high concentration of dissolved minerals, also known as hard water.
+
+All PUR filters utilize the company's patented Maxion Filter Technology, which combines granular activated carbon (GAC) and ion-exchange resin beads. This innovative combination is designed to enhance the removal of various contaminants. In fact, all PUR filters are certified by the Water Quality Association (WQA) to effectively reduce common chemicals like chlorine, mercury, and pesticides.
+
+### What Does PUR Filter Out?
+
+Here’s a short table of all the notable chemicals that each PUR filter model can handle.
+
+| Chemicals | PUR Basic | PUR Lead Reducing | PUR MineralClear |
+| --- | --- | --- | --- |
+| Chlorine | x | x | x |
+| Lead |  | x | x |
+| Mercury | x | x | x |
+| Cadmium | x | x | x |
+| Benzene |  | x | x |
+| Asbestos |  |  |  |
+| Class I Particulates | x | x | x |
+| Class IV Particulates | x | x | x |
+| Copper | x | x | x |
+| Zinc | x | x | x |
+| 1, 2, 4 - Trichlorobenzene |  |  |  |
+| Trichloroethylene (TCE) | x | x | x |
+| Atrazine | x | x | x |
