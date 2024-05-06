@@ -22,6 +22,11 @@ Tap water contains **chlorine**, **dissolved** **minerals**, and **assorted 
 Water Faucet Filters & Pitcher Filters
 --------------------------------------
 
+Brita and PUR both sell two distinct types of water filters: water faucet filters and pitcher filters.
+
+Water Faucet Filters & Pitcher Filters
+--------------------------------------
+
 Brita and PUR both sell two distinct types of water filters: **water faucet filters** and **pitcher filters**.
 
 ### Water Faucet Filters
