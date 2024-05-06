@@ -115,6 +115,8 @@ Brita Ultramax Water Filter Dispenser (27 Cup)
 *   No side handles
 *   Opaque reservoir
 
+#### Faucet-Mounted Filters
+
 Brita Metro Pitcher (6 Cup)
 
 *   Compact
