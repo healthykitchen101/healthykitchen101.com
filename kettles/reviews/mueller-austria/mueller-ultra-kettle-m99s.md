@@ -10,7 +10,7 @@ Overall Score: **NaN**
 *   Usability (35%) - **7.5**/undefined
     
 
-We really liked The Mueller Ultra Electric Kettle (M99S) for its excellent performance  at an affordable price. Moreover, it has all the design features you’d want on an electric kettle with a quality to match.
+We really liked the Mueller Ultra Electric Kettle (M99S) for its excellent performance  at an affordable price. Moreover, it has all the design features you’d want on an electric kettle with a [quality to match](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/).
 
 Overall, it was really easy to use except for the somewhat uniquely shaped handle. The handle could have been a bit slimmer or curved at a more favorable angle to make more space for large hands.
 
@@ -74,7 +74,7 @@ Power: 1230 W
 
 Energy Consumption: 148 Wh
 
-Our power meter recorded 148 Wh as the Mueller brought 1.5 liters of room-temperature water to a rolling boil. The result was slightly less than most counterparts and earned an 8.4/10 according to our rating system.
+Our power meter recorded 148 Wh as the Mueller brought 1.5 liters of room-temperature water to a rolling boil. The result was slightly less than most counterparts, e.g. the [Comfee CEKG003](https://healthykitchen101.com/kettles/reviews/comfee/comfee-electric-kettle-cekg003/), and earned an 8.4/10 according to our rating system.
 
 ### Noise Level
 
