@@ -101,7 +101,7 @@ Brita vs. PUR Faucet-mounted Water Filters
 
 While the company has several faucet-mount water filters on offer, we’ve only had the opportunity to test one: the Brita Basic.
 
-Best Brita Faucet Filter:
+Best Brita Faucet Filter: Brita Basic Faucet-mount Water Filter
 
 *   Relatively affordable.
 *   Excellent chlorine filtration ability (nearly 100%).
