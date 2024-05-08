@@ -34,6 +34,11 @@ You should also keep in mind that PUR replacement filters and systems are notori
 
 The long and short of it, though, is if performance is more important to you than anything else and you are willing to spend the time and money to get it, choose PUR.
 
+Brita vs. PUR: Water Faucet Filters & Pitcher Filters
+-----------------------------------------------------
+
+Brita and PUR both sell two distinct types of water filters: water faucet filters and pitcher filters.
+
 Brita vs. PUR Water Filtering Pitchers
 --------------------------------------
 
