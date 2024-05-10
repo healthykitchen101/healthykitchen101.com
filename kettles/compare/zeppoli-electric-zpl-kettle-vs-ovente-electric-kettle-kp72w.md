@@ -1,0 +1,5 @@
+In the comparison between the glass Zeppoli Electric Kettle ZPL-KETTLE and the plastic Ovente Electric Kettle KP72W, the Ovente initially displays some notable advantages, but ultimately falls short due to its drawbacks.
+
+While the Ovente consumes slightly less energy and operates at a similar noise level to the Zeppoli, it suffers from a significantly slower boiling time. Moreover, being made of plastic, the Ovente lacks the heat retention properties and durability of the glass Zeppoli, although it compensates with a lighter weight and lower price point.
+
+In terms of design, the Zeppoli boasts water-level markings and a blue LED ring, whereas the Ovente features a water-level window illuminated by a white LED. Both kettles include removable limescale filters, but the Ovente's smaller lid opening makes cleaning a bit more challenging compared to the Zeppoli.
