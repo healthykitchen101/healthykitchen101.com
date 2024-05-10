@@ -1,0 +1,5 @@
+The stainless steel double-wall Secura Electric Kettle SWK-1701DA scored slightly lower than the glass Zeppoli Electric Kettle ZPL-KETTLE but it does have some noteworthy strengths that made it our best stainless steel pick.
+
+The Secura kettle outperforms the Zeppoli in terms of heat retention due to its double-wall construction, which additionally ensures safety by remaining cool to the touch during boiling. However, its slower boiling speed, increased energy usage, and elevated noise levels contribute to a lower overall performance rating.
+
+Additionally, the Secura kettle lacks a visible water-level indicator on its exterior, although it does feature markings on the interior for measuring. Its holed filter is also less effective at managing limescale buildup compared to the mesh filter found in the Zeppoli kettle.
