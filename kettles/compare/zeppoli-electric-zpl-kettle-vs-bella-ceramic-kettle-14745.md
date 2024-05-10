@@ -1,0 +1,5 @@
+While the Bella Ceramic Kettle 14745 boasts an attractive design, it lags significantly behind the Zeppoli Glass Electric Kettle ZPL-KETTLE in overall performance. With a lower power output, the Bella exhibits slower and noisier boiling, coupled with higher energy consumption and inferior heat retention compared to the Zeppoli.
+
+In terms of design features, the Bella offers a gooseneck for precise pouring and a silicone band on its lid for a tighter seal. However, it lacks water-level markings and relies solely on a maximum volume indicator inside.
+
+Additionally, its holed filter proves less effective against limescale buildup compared to the Zeppoli's mesh filter. Despite its higher price, the Bella fails to offer the same level of value as the Zeppoli, especially considering its flimsy base.
