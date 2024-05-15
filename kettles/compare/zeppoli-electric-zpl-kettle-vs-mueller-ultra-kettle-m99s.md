@@ -1,0 +1,5 @@
+The Mueller Ultra Kettle (M99S) and the Zeppoli Electric Kettle ZPL-KETTLE are two great products that came neck and neck in our collected data. Their main differences boiled down to our performance evaluation.
+
+With similar glass designs, the kettles share similar heat retention. However, the Zeppoli was slightly faster at boiling water—the main aspect we care about— and was more quiet doing so. On the bright side, the Mueller has a lower energy consumption.
+
+Both kettles offer premium design features, including a removable limescale filter, water-level markings, an LED ring, a lid button, and a power switch. However, we noticed that the handle of the Mueller kettle is somewhat awkwardly shaped. As a result, the Zeppoli kettle emerged as the preferred choice, particularly given its lower price point.
