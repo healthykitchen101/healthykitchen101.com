@@ -1,0 +1,3 @@
+The Amazon Basics Electric Kettle F-625C is a solid choice with only a few weaker aspects than the Zeppoli Electric Kettle ZPL-KETTLE. At the same power draw, the Amazon Basics was slightly inferior in terms of boiling speed, energy consumption, noise level, and heat retention.
+
+Design-wise, both kettles boast high-quality elements, such as a removable mesh filter, water-level markings, and an LED ring. While the Amazon Basics kettle includes a silicone band around its underlid to ensure a tighter seal, its score is heavily brought down due to its wobble base-to-kettle assembly. What's more, the Zeppoli is priced lower than the Amazon Basics.
