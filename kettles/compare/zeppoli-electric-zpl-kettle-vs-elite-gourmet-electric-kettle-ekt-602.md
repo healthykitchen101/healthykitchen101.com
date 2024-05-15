@@ -1,0 +1,5 @@
+As our lowest rated product, the Elite Gourmet Electric Kettle (EKT-602) is miles apart from the Zeppoli Electric Kettle ZPL-KETTLE. Nonetheless, it’s good for showcasing the differences between a weak and a strong performing kettle.
+
+Even considering its lower power draw, the Elite Gourmet was still much slower and consumed much more energy than the Zeppoli. On the brightside, its similar glass carafe had equally good heat retention. It was very quiet when boiling as well, just not as much as the Zeppoli.
+
+Both kettles boast high-quality design elements such as water-level markings, a removable mesh filter, and an LED ring on their carafes. However, we found that the Elite Gourmet kettle's two buttons are awkwardly positioned close to each other. Additionally, the Zeppoli kettle is available at a lower price point.
