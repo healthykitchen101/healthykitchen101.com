@@ -187,7 +187,7 @@ Although the detachable lid of the BonsenKitchen is great for cleaning, it doesn
 
 ### 10 - Safety & Noise
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-clr7h3hy0002fqw88agqj8mjr.jpg" alt="BonsenKitchen VS2100 Noise BonsenKitchen 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-safety-1-clr7h3hyo002jqw88dgb4hfxq.jpg" alt="Inside of the sealer is another sticker that details all of the steps you need to know to run the sealer correctly and safely." width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-noise-bonsenkitchen-1-clr7h3hy0002fqw88agqj8mjr.jpg" alt="The BonsenKitchen VS2100 during a dry food test. Our noise level meter to the side recorded a peak loudness of 76.1 dBA. You can also see the safety sticker plastered on the front of the unit." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/vacuum-sealers/bonsenkitchen-vs2100-safety-1-clr7h3hyo002jqw88dgb4hfxq.jpg" alt="Inside of the sealer is another sticker that details all of the steps you need to know to run the sealer correctly and safely." width="300px" height="200px">
 
 Maximum Noise Level: 76.1 dBA
 
