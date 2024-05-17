@@ -1,0 +1,3 @@
+The Braun MultiQuick has the overall performance edge, but with some interesting comparisons. The Cuisinart Evolution Cordless doesn’t do well at all with operations like purees and smoothies. Things turned out a bit chunky for soups, almond milk,  and green smoothies. It did prove, however,  a slightly better blender for mayonnaise, and both were equally good at whipping egg whites. 
+
+Design-wise, both blenders are solid and well-built, but the Braun has a more polished finish. The silicone handle grip is a pleasure, but the buttons are a little harder to press than for the Cuisinart. For a portable or cordless blender, the Cuisinart proved surprisingly efficient and steady,  while the Braun maintained its cool even under stress and strain.
