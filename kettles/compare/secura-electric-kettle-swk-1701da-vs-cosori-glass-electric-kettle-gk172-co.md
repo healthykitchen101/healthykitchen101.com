@@ -1,0 +1,5 @@
+Our best stainless steel pick—the double-wall Secura Electric Kettle SWK-1701DA scored higher than the glass Cosori Glass Electric Kettle GK172-CO thanks to certain unique strengths. And, it could have been better if not for some minor drawbacks.
+
+The Secura kettle outperforms the Cosori in terms of heat retention due to its double-wall construction, which additionally ensures safety by remaining cool to the touch during boiling. At the same power draw, the Secura was slightly slower but consumed a lot less electricity when boiling water. It wasn’t as quiet as the Cosori but that wasn’t a big problem.
+
+Both kettles allow for no plastic-to-water contact thanks to their stainless steel inner lid. However, the Secura’s holed filter is less effective at handling limescale buildup compared to the Cosori's mesh filter. Also, the kettle does not have a visible water-level indicator on the outside, but it does have measurement markings on the inside.
