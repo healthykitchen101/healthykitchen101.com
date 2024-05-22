@@ -1,0 +1,5 @@
+The Chefman Electric Kettle 5 Presets offers several unique and valuable features that the Mueller Ultra Kettle M99S lacks. However, its overall performance score lowers its comparison to the Mueller.
+
+The Chefman includes 5 temperature settings, accessible via a one-touch control interface, while the Mueller is single-setting. Both kettles have a removable limescale filter and an LED ring, but the Chefman’s LED ring changes color based on the selected preset, adding both a fun and practical element to its design. Additionally, the Chefman features a detachable tea infuser, enhancing its versatility, while being priced the same as the Mueller.
+
+Despite these features, the Chefman underperforms in boiling speed, energy consumption, and heat retention, though it matches the Mueller in noise level.
