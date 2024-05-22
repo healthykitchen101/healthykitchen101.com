@@ -1,0 +1,5 @@
+The Comfee Electric Kettle CEKG003 is a solid glass pick but it’s not as good as the double-walled Secura Electric Kettle SWK-1701DA—our best stainless steel choice.
+
+Having the same power output, the Comfee boiled water a bit slower but was quieter than the Secura while doing so. However, it consumed significantly more electricity than the Secura for the job. Meanwhile, the Secura kettle excels in heat retention thanks to its double-wall construction, which also ensures safety by remaining cool to the touch during boiling. 
+
+Unfortunately, the Secura's holed filter is less effective at managing limescale buildup compared to the Comfee's mesh filter. Additionally, the Secura lacks a visible water-level indicator on the exterior, though it does have measurement markings inside. On the other hand, the Comfee’s cord storage is not as efficient as that of the Secura.
