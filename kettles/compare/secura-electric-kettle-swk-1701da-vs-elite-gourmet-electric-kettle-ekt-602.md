@@ -1,0 +1,5 @@
+Our top stainless steel choice—the double-wall Secura Electric Kettle SWK-1701DA is, without a doubt, better than our lowest rated product—the Elite Gourmet Electric Kettle (EKT-602).
+
+The Secura kettle excelled in heat retention thanks to its double-wall construction, which also ensured safety by remaining cool to the touch during boiling. Even considering its lower power draw, the Elite Gourmet was still much slower and consumed much more electricity. On the brightside, it was quieter than the Secura when boiling.
+
+The Secura's holed filter is less effective at managing limescale buildup compared to the Elite Gourmet's removable mesh filter. Additionally, the Secura lacks a visible water-level indicator on the exterior, though it does have measurement markings inside. However, we found that the Elite Gourmet kettle's two buttons are awkwardly positioned close to each other.
