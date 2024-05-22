@@ -1,0 +1,5 @@
+The comparison between the Secura Electric Kettle SWK-1701DA and the Hamilton Beach Electric Kettle (40880) shows why the former is the better and also our best stainless steel choice.
+
+Thanks to its double-walled construction, the Secura attained better heat retention and prevented users from getting scalded. Also, at the same power draw, the two kettles showed similar boiling speed. The Secura was quieter when boiling compared to the Hamilton Beach but did consume slightly more energy though.
+
+In terms of design, the Secura lacks the water-level window and removable mesh filter that the Hamilton Beach has. However, its larger lid opening made it easier to clean the interior. Moreover, the Hamilton Beach has some unnecessary extra bottom stands that make the carafe slightly wobbly when boiling.
