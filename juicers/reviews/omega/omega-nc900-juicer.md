@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (40%) - **8.0**/undefined
     
-*   Design (25%) - **9.3**/undefined
+*   Design (25%) - **8.0**/undefined
     
 *   Usability (35%) - **8.6**/undefined
     
@@ -107,7 +107,7 @@ Design
 
 design Scores: **NaN**
 
-*   Dimensions & Footprint (40%) - **9.4**/undefined
+*   Dimensions & Footprint (40%) - **6.1**/undefined
     
 *   Build Quality (50%) - **9.4**/undefined
     
@@ -133,7 +133,7 @@ The Omega NC900 comes with more parts than most, including a blank cone and four
 
 The user guide, which is in English, details the parts and how to assemble them for different purposes.
 
-### 9.4 - Dimensions & Footprint
+### 6.1 - Dimensions & Footprint
 
 Depth:
 
