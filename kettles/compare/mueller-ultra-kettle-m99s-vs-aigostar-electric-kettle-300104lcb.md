@@ -1,0 +1,5 @@
+The Mueller Ultra Kettle M99S costs a bit more than the Aigostar Electric Kettle 300104LCB but it makes up more than enough with its significantly better performance, design, and usability.
+
+The biggest problem for the Aigostar was its slow boiling speed which is a major weakness for an electric kettle, even considering its lower power draw. Moreover, the Aigostart didn’t retain heat as well as the Mueller despite both being made of glass. On the bright side, it’s even more quiet than the Mueller and only consumes a tiny bit more energy.
+
+Both kettles have high quality design features like water-level markings and an LED ring on their carafes. However, the Aigostar’s limescale filter isn’t removable like the Mueller. On the other hand, we noticed that the handle of the Mueller kettle is somewhat awkwardly shaped.
