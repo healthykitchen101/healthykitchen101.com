@@ -5,7 +5,7 @@ Overall Score: **NaN**
 
 *   Performance (40%) - **8.0**/undefined
     
-*   Design (25%) - **7.7**/undefined
+*   Design (25%) - **9.3**/undefined
     
 *   Usability (35%) - **8.6**/undefined
     
@@ -109,7 +109,7 @@ design Scores: **NaN**
 
 *   Dimensions & Footprint (40%) - **9.4**/undefined
     
-*   Build Quality (50%) - **6.1**/undefined
+*   Build Quality (50%) - **9.4**/undefined
     
 *   Auger (10%) - **8.7**/undefined
     
@@ -153,7 +153,7 @@ The Omega NC900 features generously sized components that enhance its usability.
 
 The downside is this unit requires a lot of countertop space. Due to its heavy weight, you wouldn’t want to move it in and out of storage on a daily basis. Even when disassembled, you will need a large and deep drawer to store all the parts.
 
-### 6.1 - Build Quality
+### 9.4 - Build Quality
 
 The Omega NC900 has a sturdy construction, with parts fitting very securely—it was the only one among the batch we tested that did not rattle during operation. Despite some users' complaints about the fragility of the juice screen, our unit remained intact and functioned flawlessly throughout the testing process, attesting to the product's good material quality. The juicer's polished and seamless appearance gives it a stylish look and suggests a higher price point than its actual cost.
 
