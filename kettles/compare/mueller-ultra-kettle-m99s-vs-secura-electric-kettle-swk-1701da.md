@@ -1,0 +1,5 @@
+The stainless steel double-wall Secura Electric Kettle SWK-1701DA scored slightly lower than the glass Mueller Ultra Kettle M99S but it does have some noteworthy strengths that made it our best stainless steel pick.
+
+At the same power draw, the two kettles took the same amount of time to finish boiling. The Secura kettle outperforms the Zeppoli in terms of heat retention due to its double-wall construction, which additionally ensures safety by remaining cool to the touch during boiling. Unfortunately, its higher energy consumption and elevated noise levels contributed to a lower overall performance rating.
+
+The Secura kettle does not have a visible water-level indicator on the outside, but it does have measurement markings on the inside. Also, its holed filter is less effective at handling limescale buildup compared to the Mueller's mesh filter. However, we found the handle of the Mueller kettle to be somewhat awkwardly shaped.
