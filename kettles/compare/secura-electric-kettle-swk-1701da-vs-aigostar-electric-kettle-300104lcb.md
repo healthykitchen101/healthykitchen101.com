@@ -1,0 +1,5 @@
+Our top stainless steel choice, the double-wall Secura Electric Kettle SWK-1701DA, scored higher than the glass Aigostar Electric Kettle 300104LCB. Despite certain unique strengths, it has some minor drawbacks.
+
+The Secura kettle excels in heat retention thanks to its double-wall construction, which also ensures safety by remaining cool to the touch during boiling. In contrast, the Aigostar's slow boiling speed is a major weakness for an electric kettle, despite its lower power draw. However, the Aigostar consumes noticeably less electricity and is quieter than the Secura during boiling.
+
+Unfortunately, the Secura's holed filter is less effective at managing limescale buildup compared to the Aigostar's mesh filter. Additionally, the Secura lacks a visible water-level indicator on the exterior, though it does have measurement markings inside.
