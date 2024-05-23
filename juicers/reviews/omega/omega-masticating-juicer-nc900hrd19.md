@@ -74,7 +74,7 @@ Yield: 13.6 oz (386 g)
 
 Yield Percentage: 77%
 
-The Omega NC900 did well in the apple test, but not any better than other models we tested, such as the Jocuu or AMZChef. It actually took slightly longer than those two to complete the test, which was a surprise given the spacious feed chute. The apple wedges tend to get stuck between the chute wall and the auger, due to the auger’s inability to break the apple peel. 
+The Omega NC900 did well in the apple test, but not any better than other models we tested, such as the Jocuu or AMZChef. It actually took slightly longer than those two to complete the test, which was a surprise given the spacious feed chute. The apple wedges tend to get stuck between the chute wall and the auger, due to the auger’s inability to break the apple peel.
 
 ### Celery
 
