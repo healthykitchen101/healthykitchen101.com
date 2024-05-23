@@ -159,7 +159,7 @@ The Omega NC900 has a sturdy construction, with parts fitting very securely—it
 
 ### 8.7 - Auger
 
-The NC900 has a substantial auger with strong “teeth” that makes an easy  job of cutting and crushing the toughest fruits and vegetables. It’s also very easy to clean. The only downside is seen when you try to re-juice the pulp: The pulp would simply get stuck in the wide space between its teeth, so you get no more juice out of it.
+The NC900 has a substantial auger with strong “teeth” that makes an easy job of cutting and crushing the toughest fruits and vegetables. It’s also very easy to clean. The only downside is seen when you try to re-juice the pulp: The pulp would simply get stuck in the wide space between its teeth, so you get no more juice out of it.
 
 Usability
 ---------
