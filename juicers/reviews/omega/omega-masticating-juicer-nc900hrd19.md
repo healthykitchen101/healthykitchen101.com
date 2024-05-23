@@ -147,11 +147,9 @@ Juice Cup Capacity: 34 fl. oz
 
 Pulp Cup Capacity:
 
-The Omega NC900 comes with large parts. We like its big food tray, which helped prevent the food from dropping when being transferred to the feed chute. The plunger has a much smaller diameter than the feed chute, which lowers the chance of food getting stuck in between them, clogging the machine. In addition to an appropriate size juice cup, its pulp collector has ample space too. This allows you to make more juice without having to stop halfway through to empty the pulp. 
+The Omega NC900 comes with large parts that enhance its usability. We like its big food tray, which helps prevent the food from dropping when being transferred to the feed chute. The plunger has a much smaller diameter than the feed chute, which lowers the chance of food getting stuck in between them, clogging the machine. In addition to an appropriate size juice cup, its pulp collector has ample space too. This allows you to make more juice without having to stop halfway through to empty the pulp. 
 
-The Omega NC900 features generously sized components that enhance its usability. The spacious food tray is a standout feature, as it effectively prevents ingredients from spilling during the transfer process to the feed chute. Moreover, the plunger's diameter is considerably smaller than that of the feed chute, significantly reducing the risk of food particles becoming lodged between the two and causing blockages in the juicer.
-
-The downside is this unit requires a lot of countertop space. Due to its heavy weight, you wouldn’t want to move it in and out of storage on a daily basis. Even when disassembled, you will need a large and deep drawer to store all the parts.
+The downside is this unit requires a lot of countertop space. Due to its heavy weight, you wouldn’t want to move it in and out of storage on a daily basis — though if you do, it sports a handle that allows for easy one-handed transport. Even when disassembled, you will need a large and deep drawer to store all the parts.
 
 ### 9.4 - Build Quality
 
@@ -159,7 +157,7 @@ The Omega NC900 has a sturdy construction, with parts fitting very securely—it
 
 ### 8.7 - Auger
 
-The NC900 has a substantial auger with strong “teeth” that makes an easy job of cutting and crushing the toughest fruits and vegetables. It’s also very easy to clean. The only downside is seen when you try to re-juice the pulp: The pulp would simply get stuck in the wide space between its teeth, so you get no more juice out of it.
+The NC900 has a substantial auger with strong “teeth” that makes an easy  job of cutting and crushing the toughest fruits and vegetables. It’s also very easy to clean. The only downside is seen when you try to re-juice the pulp: The pulp would simply get stuck in the wide space between its teeth, so you get no more juice out of it.
 
 Usability
 ---------
