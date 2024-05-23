@@ -116,7 +116,7 @@ design Scores: **NaN**
 
 *   Dimensions & Footprint (40%) - **7.4**/undefined
     
-*   Build Quality & Fit (50%) - **8.2**/undefined
+*   Build Quality & Fit (50%) - **8.1**/undefined
     
 *   Auger (10%) - **8.7**/undefined
     
@@ -158,7 +158,7 @@ The Jocuu masticator is average-sized, equipped with a motor and containers suit
 
 We liked that the plunger covers the length of the feed chute but not the diameter, leaving ample wiggle room for the plunger. This proved a great design when juicing leafy greens—as a tighter space between the plunger and the feed chute wall can lead to leaves becoming snugly wedged, resulting in more severe clogging.
 
-### 8.2 - Build Quality & Fit
+### 8.1 - Build Quality & Fit
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-build-quality-clvbwmlek000hyx88dpmh0o6f.jpg" alt="Jocuu juicer’s drum part" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/jocuu-slow-masticating-juicer-build-quality-1-clvbwmld90005yx88hrsx20ei.jpg" alt="hand holding the Jocuu juicer’s juice mesh" width="300px" height="200px">
 
