@@ -52,7 +52,7 @@ The only thing we wish for is if it would be better at re-juicing the pulp; howe
 
 ### Carrots
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-clwoeue4r002r7a8823gg4r6v.jpg" alt="Omega NC900 Masticating Juicer Carrots" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-1-clwoeue48002j7a88abqq6ibh.jpg" alt="Omega NC900 Masticating Juicer Carrots 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-2-clwomfcsu002v7a882ph27j32.jpg" alt="Omega NC900 Masticating Juicer Carrots 2" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-clwoeue4r002r7a8823gg4r6v.jpg" alt="Omega NC900 juicing carrots" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-1-clwoeue48002j7a88abqq6ibh.jpg" alt="Weighing Carrot juice made with the Omega masticating juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-2-clwomfcsu002v7a882ph27j32.jpg" alt="carrot pulp from the NC900" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
@@ -68,7 +68,7 @@ Though we used the same size for carrot sticks with other masticators in this te
 
 ### Apples
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-apples-clwoeue4u002t7a880g4mc1rd.jpg" alt="Omega NC900 Masticating Juicer Apples" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-apples-clwoeue4u002t7a880g4mc1rd.jpg" alt="Omega NC900 masticator juicing apples" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
@@ -82,7 +82,7 @@ The Omega NC900 did well in the apple test, but not any better than other models
 
 ### Celery
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-1-clwomjrnf002x7a88g568ea38.jpg" alt="Omega NC900 Masticating Juicer Celery 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-clwoeue4k002o7a880sjc63w4.jpg" alt="Omega NC900 Masticating Juicer Celery" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-1-clwomjrnf002x7a88g568ea38.jpg" alt="Omega NC900 juicing Celery" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-clwoeue4k002o7a880sjc63w4.jpg" alt="Weighing celery juice made with the Omega masticating juicer" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
@@ -96,7 +96,7 @@ While its auger couldn’t cut the tough fiber strings, which caused the occasio
 
 ### Kale
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-clwomkvah002y7a88hztw0301.jpg" alt="Omega NC900 Masticating Juicer Kale" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-1-clwomlfob002z7a8876fw0x51.jpg" alt="Omega NC900 Masticating Juicer Kale 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-clwomkvah002y7a88hztw0301.jpg" alt="Juicing kale with the Omega NC900HRD" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-1-clwomlfob002z7a8876fw0x51.jpg" alt="Measuring the foam in a kale juice cup" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
@@ -128,7 +128,7 @@ However, due to its substantial size, this masticating juicer will occupy a cons
 
 ### In the Box
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-box-clwoeue4h002n7a88ahz11w1t.jpg" alt="Omega NC900 Masticating Juicer In the Box" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-box-clwoeue4h002n7a88ahz11w1t.jpg" alt="the Omega NC900 masticating juicer and parts" width="300px" height="200px">
 
 *   1 x Omega NC900HRD juicer body
 *   Parts: hopper and drum, plunger, auger, juice mesh, drum cap, adjustable cap
@@ -145,7 +145,7 @@ The user guide, which is in English, details the parts and how to assemble them 
 
 ### 6.1 - Dimensions & Footprint
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-dimensions-clwoeue4o002q7a887iqtdr6i.jpg" alt="Omega NC900 Masticating Juicer Dimensions" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-clrsw0x770005ss885jht6fhe.jpg" alt="The red Omega NC900 masticating juicer, fully assembled, with carrot pulp in the pulp collector" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-dimensions-clwoeue4o002q7a887iqtdr6i.jpg" alt="the Omega NC900 and its dimensions" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-clrsw0x770005ss885jht6fhe.jpg" alt="The Omega NC900 juicer, fully assembled" width="300px" height="200px">
 
 Depth: 19.0" (48.3 cm)
 
@@ -165,13 +165,13 @@ The downside is this unit requires a lot of countertop space. Due to its heavy w
 
 ### 9.4 - Build Quality
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-clwoeue42002h7a8836a3g8x3.jpg" alt="Omega NC900 Masticating Juicer Build Quality" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-2-clwompw3500317a88832dbxnd.jpg" alt="Omega NC900 Masticating Juicer Build Quality 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-1-clwoeue44002i7a88029icce9.jpg" alt="Omega NC900 Masticating Juicer Build Quality 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-clwoeue42002h7a8836a3g8x3.jpg" alt="the plug of the NC900" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-2-clwompw3500317a88832dbxnd.jpg" alt="the drum part of the Omega juicer" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-1-clwoeue44002i7a88029icce9.jpg" alt="The Omega NC900 masticator’s juicing cone" width="300px" height="200px">
 
 The Omega NC900 has a sturdy construction, with parts fitting very securely—it was the only one among the batch we tested that did not rattle during operation. Despite some users' complaints about the fragility of the juice screen, our unit remained intact and functioned flawlessly throughout the testing process, attesting to the product's good material quality. The juicer's polished and seamless appearance gives it a stylish look and suggests a higher price point than its actual cost.
 
 ### 8.7 - Auger
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-auger-clwoeue4f002m7a88elzzfewn.jpg" alt="Omega NC900 Masticating Juicer Auger" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-auger-clwoeue4f002m7a88elzzfewn.jpg" alt="the NC900 sports a large, solid auger" width="300px" height="200px">
 
 The NC900 has a substantial auger with strong “teeth” that makes an easy  job of cutting and crushing the toughest fruits and vegetables. It’s also very easy to clean. The only downside is seen when you try to re-juice the pulp: The pulp would simply get stuck in the wide space between its teeth, so you get no more juice out of it.
 
@@ -195,7 +195,7 @@ The only thing we’d change is the reverse function, which is incorporated into
 
 ### 9.0 - Assembling
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-1-clwoeue4t002s7a8826fz37ht.jpg" alt="Omega NC900 Masticating Juicer Assembling 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-clwomo0lu00307a882m2z52ov.jpg" alt="Omega NC900 Masticating Juicer Assembling" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-1-clwoeue4t002s7a8826fz37ht.jpg" alt="Removable parts of the NC900" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-clwomo0lu00307a882m2z52ov.jpg" alt="The locking mechanism that secure the drum and body of the Omega NC900" width="300px" height="200px">
 
 It’s normal to feel a bit overwhelmed when you first see all the components of a masticating juicer. However, assembling this one is remarkably straightforward. We didn't even need to consult the manuals. For newcomers to masticators, the initial assembly typically takes no more than 15 minutes, and after that, it becomes a task of mere seconds.
 
@@ -205,7 +205,7 @@ Disassembly is equally hassle-free. Once you've got the hang of it, it takes no 
 
 ### 9.2 - Juicing
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/celery-using-omega-nc900-juicer-clrsw1soq0006ss885u59aflw.jpg" alt="Person juicing apples, carrots, and celery using the Omega NC900 juicer" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/celery-using-omega-nc900-juicer-clrsw1soq0006ss885u59aflw.jpg" alt="The large food tray helps prevent dropping food" width="300px" height="200px">
 
 Having larger parts than a typical home juicer, juicing with the Omega was a breeze. It accepts larger pieces of vegetables without the need for the plunger. The process was smooth, with minimal clogging or jamming.
 
@@ -213,7 +213,7 @@ That being said, the large size does have a disadvantage: You can’t really re-
 
 ### 5.0 - Conveniences
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-conveniences-clwoeue4d002l7a88ags9hfe4.jpg" alt="Omega NC900 Masticating Juicer Conveniences" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-conveniences-1-clwoeue3u002g7a88g6fs2h81.jpg" alt="Omega NC900 Masticating Juicer Conveniences 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-conveniences-clwoeue4d002l7a88ags9hfe4.jpg" alt="The reverse feature on the power switch" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-conveniences-1-clwoeue3u002g7a88g6fs2h81.jpg" alt="The cap for adjusting juicing pressure" width="300px" height="200px">
 
 Reverse Feature: Yes
 
@@ -225,7 +225,7 @@ While the motor only operates at a single speed, you can adjust the pressure at 
 
 ### 8.8 - Cleaning
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-cleaning-clwoeue4m002p7a88fbpfcctt.jpg" alt="Omega NC900 Masticating Juicer Cleaning" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-cleaning-clwoeue4m002p7a88fbpfcctt.jpg" alt="brush for cleaning the juicer" width="300px" height="200px">
 
 Dishwasher Safe: Yes
 
