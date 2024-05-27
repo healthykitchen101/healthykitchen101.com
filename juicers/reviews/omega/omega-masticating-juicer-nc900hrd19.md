@@ -96,6 +96,8 @@ While its auger couldn’t cut the tough fiber strings, which caused the occasio
 
 ### Kale
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-clwomkvah002y7a88hztw0301.jpg" alt="Omega NC900 Masticating Juicer Kale" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-kale-1-clwomlfob002z7a8876fw0x51.jpg" alt="Omega NC900 Masticating Juicer Kale 1" width="300px" height="200px">
+
 Ingredient Weight: 18 oz (500 g)
 
 Juicing Time: 7 min 22 s
