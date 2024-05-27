@@ -165,7 +165,7 @@ The downside is this unit requires a lot of countertop space. Due to its heavy w
 
 ### 9.4 - Build Quality
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-clwoeue42002h7a8836a3g8x3.jpg" alt="Omega NC900 Masticating Juicer Build Quality" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-1-clwoeue44002i7a88029icce9.jpg" alt="Omega NC900 Masticating Juicer Build Quality 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-clwoeue42002h7a8836a3g8x3.jpg" alt="Omega NC900 Masticating Juicer Build Quality" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-2-clwompw3500317a88832dbxnd.jpg" alt="Omega NC900 Masticating Juicer Build Quality 2" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-build-quality-1-clwoeue44002i7a88029icce9.jpg" alt="Omega NC900 Masticating Juicer Build Quality 1" width="300px" height="200px">
 
 The Omega NC900 has a sturdy construction, with parts fitting very securely—it was the only one among the batch we tested that did not rattle during operation. Despite some users' complaints about the fragility of the juice screen, our unit remained intact and functioned flawlessly throughout the testing process, attesting to the product's good material quality. The juicer's polished and seamless appearance gives it a stylish look and suggests a higher price point than its actual cost.
 
