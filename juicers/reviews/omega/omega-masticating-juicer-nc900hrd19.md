@@ -52,7 +52,7 @@ The only thing we wish for is if it would be better at re-juicing the pulp; howe
 
 ### Carrots
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-clwoeue4r002r7a8823gg4r6v.jpg" alt="Omega NC900 Masticating Juicer Carrots" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-1-clwoeue48002j7a88abqq6ibh.jpg" alt="Omega NC900 Masticating Juicer Carrots 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-clwoeue4r002r7a8823gg4r6v.jpg" alt="Omega NC900 Masticating Juicer Carrots" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-1-clwoeue48002j7a88abqq6ibh.jpg" alt="Omega NC900 Masticating Juicer Carrots 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-carrots-2-clwomfcsu002v7a882ph27j32.jpg" alt="Omega NC900 Masticating Juicer Carrots 2" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
