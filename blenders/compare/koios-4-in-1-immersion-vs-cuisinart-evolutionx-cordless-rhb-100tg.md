@@ -1,0 +1,3 @@
+Out of these two blenders, the KOIOS is the best for standard blending requirements such as puree soups and frozen fruit smoothies. Despite both having a whisk attachment, the Cuisinart leads the chart with mayonnaise, whipped egg whites, and also almond milk.
+
+Despite its blade having a higher quality appearance, the Cuisinart couldn’t muster enough power to tackle frozen fruits confidently from the start. The issue could be the blade design, but being a cordless blender, the Cuisnart has its advantages and it is also super-lightweight. Additionally, we experienced no suction issue with either of these blenders and both were easy to use and maneuver.
