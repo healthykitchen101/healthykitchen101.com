@@ -135,6 +135,8 @@ The user guide, which is in English, details the parts and how to assemble them 
 
 ### 6.1 - Dimensions & Footprint
 
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-clrsw0x770005ss885jht6fhe.jpg" alt="The red Omega NC900 masticating juicer, fully assembled, with carrot pulp in the pulp collector" width="300px" height="200px">
+
 Depth: 19.0" (48.3 cm)
 
 Width: 7.3" (18.5 cm)
@@ -186,6 +188,8 @@ A clever locking mechanism ensures a secure connection between the drum and juic
 Disassembly is equally hassle-free. Once you've got the hang of it, it takes no more than 30 seconds to dismantle the parts.
 
 ### 9.2 - Juicing
+
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/celery-using-omega-nc900-juicer-clrsw1soq0006ss885u59aflw.jpg" alt="Person juicing apples, carrots, and celery using the Omega NC900 juicer" width="300px" height="200px">
 
 Having larger parts than a typical home juicer, juicing with the Omega was a breeze. It accepts larger pieces of vegetables without the need for the plunger. The process was smooth, with minimal clogging or jamming.
 
