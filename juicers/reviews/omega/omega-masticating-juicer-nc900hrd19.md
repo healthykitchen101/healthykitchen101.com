@@ -195,7 +195,7 @@ The only thing we’d change is the reverse function, which is incorporated into
 
 ### 9.0 - Assembling
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-1-clwoeue4t002s7a8826fz37ht.jpg" alt="Omega NC900 Masticating Juicer Assembling 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-clwoeue4a002k7a88aa60bzp7.jpg" alt="Omega NC900 Masticating Juicer Assembling" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-1-clwoeue4t002s7a8826fz37ht.jpg" alt="Omega NC900 Masticating Juicer Assembling 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-assembling-clwomo0lu00307a882m2z52ov.jpg" alt="Omega NC900 Masticating Juicer Assembling" width="300px" height="200px">
 
 It’s normal to feel a bit overwhelmed when you first see all the components of a masticating juicer. However, assembling this one is remarkably straightforward. We didn't even need to consult the manuals. For newcomers to masticators, the initial assembly typically takes no more than 15 minutes, and after that, it becomes a task of mere seconds.
 
