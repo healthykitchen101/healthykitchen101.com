@@ -82,7 +82,7 @@ The Omega NC900 did well in the apple test, but not any better than other models
 
 ### Celery
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-clwoeue4k002o7a880sjc63w4.jpg" alt="Omega NC900 Masticating Juicer Celery" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-1-clwomjrnf002x7a88g568ea38.jpg" alt="Omega NC900 Masticating Juicer Celery 1" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-1-clwomjrnf002x7a88g568ea38.jpg" alt="Omega NC900 Masticating Juicer Celery 1" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/juicers/omega-nc900-masticating-juicer-celery-clwoeue4k002o7a880sjc63w4.jpg" alt="Omega NC900 Masticating Juicer Celery" width="300px" height="200px">
 
 Ingredient Weight: 18 oz (500 g)
 
