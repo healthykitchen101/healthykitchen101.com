@@ -1,0 +1,3 @@
+The LINKChef is not really a blender that we recommend. The best it can do is whip up egg white and make mayonnaise to perfection. It failed our frozen smoothie test and was rather average with hot soup purees and not much better with almond milk. The KitchenAid is the better choice and a good all rounder, except that it doesn’t come with a whisk.
+
+The build quality of the LINKChef is average for its price point, and the usability is not that great. The top-mounted controls are difficult to use while blended and strong vibration and suction requires more effort to control and maneuver the blending shaft. The KitchenAid also produces a fair bit of suction, but it is easier to manage.
