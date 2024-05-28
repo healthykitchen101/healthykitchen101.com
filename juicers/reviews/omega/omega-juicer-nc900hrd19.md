@@ -157,7 +157,7 @@ Weight: 13.0 lbs (5.9 kg)
 
 Juice Cup Capacity: 34 fl. oz
 
-Pulp Cup Capacity:
+Pulp Cup Capacity: 50 fl. oz
 
 The Omega NC900 comes with large parts that enhance its usability. We like its big food tray, which helps prevent the food from dropping when being transferred to the feed chute. The plunger has a much smaller diameter than the feed chute, which lowers the chance of food getting stuck in between them, clogging the machine. In addition to an appropriate size juice cup, its pulp collector has ample space too. This allows you to make more juice without having to stop halfway through to empty the pulp. 
 
