@@ -172,9 +172,9 @@ The only thing about the design we actually liked was the color scheme of light 
 
 Power Status: None
 
-Hot Water: Middle
+Hot Water Test: Middle
 
-Cold Water: Left
+Cold Water Test: Left
 
 Bottle Or Filter: Right
 
@@ -238,9 +238,9 @@ The drip tray is relatively small and doesn’t fit large cups so well, so somet
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/brio-bottom-load-water-dispenser-rear-switches-clf21wqgj002tip88aoy6gmvb.jpg" alt="Close up of two switches at the rear of a water cooler dispenser - green for the cold water tank and red for the hot." width="300px" height="200px">
 
-Hot Water: Rear top right
+Hot Water Test: Rear top right
 
-Cold Water: Rear top left
+Cold Water Test: Rear top left
 
 Others: None
 
@@ -252,7 +252,7 @@ There are only two switches which are to the rear right of the machine—left fo
 
 Has Door: Yes
 
-InternalWDH: 10.5 x 11.5 x 18.5 in
+Internal WxDxH: 10.5 x 11.5 x 18.5 in
 
 Material: Silver plastic, white inside
 
