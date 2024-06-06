@@ -163,9 +163,9 @@ Weight: 30.9 lbs (14.0 kg)
 
 Power Status: Far left
 
-Hot Water: Middle
+Hot Water Test: Middle
 
-Cold Water: Far right
+Cold Water Test: Far right
 
 Bottle Or Filter: None
 
@@ -225,9 +225,9 @@ The drip tray fits very snugly. You remove it by lifting it up and then pulling 
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a1-top-loading-water-cooler-dispenser-rear-switches-cld2sl46b002e3p88hbvld8lk.jpg" alt="A rear view of a water cooler dispenser showing two switches, one red the other green, in the ‘off’ position." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a1-top-loading-water-cooler-dispenser-rear-switches-1-cld2sls3b002h3p889qed4yw0.jpg" alt="A close-up water cooler dispenser switches in the ‘off’ position. The red switch on the right is for the hot water tank, and the green on the left for the cold water tank." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: None
 
@@ -237,7 +237,7 @@ There are two color coded switches at the rear on the top right. The red switch 
 
 Has Door: No
 
-InternalWDH: N/A
+Internal WxDxH: N/A
 
 Material: N/A
 
