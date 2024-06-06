@@ -184,9 +184,9 @@ The only drawback to the overall build quality is the performance. Working parts
 
 Power Status: Far left
 
-Hot Water: Second left
+Hot Water Test: Second left
 
-Cold Water: Far right
+Cold Water Test: Far right
 
 Bottle Or Filter: Dual function
 
@@ -254,9 +254,9 @@ You have to lift the drip tray up to remove it. The top is easy to remove to rev
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/euhomy-bottom-loading-wc-c-rear-switches-clf0wb3lw001oip88fubacgfu.jpg" alt="Three switches on the rear of a water cooler dispenser. Tank switches are to the top right and the night switch below." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: Night Light
 
@@ -268,7 +268,7 @@ The switches are color coded with clear contrasting white text. The Night Light 
 
 Has Door: Yes
 
-InternalWDH: 10x 12x 22 in
+Internal WxDxH: 10x 12x 22 in
 
 Material: Plastic
 
