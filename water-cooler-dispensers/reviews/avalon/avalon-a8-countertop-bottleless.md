@@ -179,9 +179,9 @@ The front panel, dispensing booth, and drip tray are all Bioguard™ bacteria-re
 
 Power Status: Far left
 
-Hot Water: Middle
+Hot Water Test: Middle
 
-Cold Water: Far right
+Cold Water Test: Far right
 
 Bottle Or Filter: Dual function feature
 
@@ -247,9 +247,9 @@ To remove the tray, you press it slightly back and up and then just lift it out.
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a8-countertop-bottleless-water-cooler-rear-switches-cles9puu2000dbk885jtggs7a.jpg" alt="Rear switches on a water cooler dispenser. Far left : ozone. Right side:  Night light, hot and cold water switches." width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/avalon-a8-countertop-bottleless-water-cooler-rear-switches-1-cles9rd6b000ebk88fofq0n20.jpg" alt="Night light, hot and cold water switches on the rear right side of a water cooler dispenser." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: Night light, Ozone
 
@@ -261,7 +261,7 @@ However, to switch on the night light, it’s best to reach over the top of the 
 
 Has Door: No
 
-InternalWDH: N/A
+Internal WxDxH: N/A
 
 Material: N/A
 
