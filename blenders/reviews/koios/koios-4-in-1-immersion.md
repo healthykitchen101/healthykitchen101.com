@@ -74,7 +74,7 @@ In less than a minute and a half, it churned out a frozen smoothie that was flav
 
 ### Mayonnaise
 
-<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl2sgd8vq0006xj882w5u2bfi.jpg" alt="A little bit of mayonnaise sticking in the whisk attachment of the KOIOS 4-in-1 hand blender when it is removed from the full batch emulsified in a plastic beaker standing between the motor body and a smartphone displaying the total emulsion time (1 minute and 10 seconds). " width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl2vftgjn000vwm8849ukfv9q.jpg" alt="KOIOS 4-In-1 Immersion Mayonnaise" width="300px" height="200px">
+<img src="https://cdn.healthykitchen101.com/reviews/images/blenders/clte3e5vn000gwz88350p06uu.jpg" alt="Mayonnaise on blender blade" width="300px" height="200px"><img src="https://cdn.healthykitchen101.com/reviews/images/blenders/cl2vftgjn000vwm8849ukfv9q.jpg" alt="KOIOS 4-In-1 Immersion Mayonnaise" width="300px" height="200px">
 
 Emulsifying Time: 1 min 10 secs
 
