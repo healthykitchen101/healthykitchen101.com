@@ -170,9 +170,9 @@ Overall, the build quality of the body is not too bad for the price. It’s more
 
 Power Status: None
 
-Hot Water: Top left
+Hot Water Test: Top left
 
-Cold Water: Top right
+Cold Water Test: Top right
 
 Bottle Or Filter: No
 
@@ -234,9 +234,9 @@ The openness and white color of the cover make the water easy to see, but at the
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/igloo-countertop-water-dispenser-rear-switches-clf25p1wq003xip8841a1gs7l.jpg" alt="Two tank switches found on the rear of a water cooler dispenser. The right is red and the left green, both with on/off labels." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: None
 
@@ -246,7 +246,7 @@ The switches are good quality and color-coded red and green. They are not the us
 
 Has Door: No
 
-InternalWDH: N/A
+Internal WxDxH: N/A
 
 Material: N/A
 
