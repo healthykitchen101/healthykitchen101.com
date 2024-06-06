@@ -12,7 +12,7 @@ Overall Score: **NaN**
 
 The Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) is only average in terms of performance, but strikingly **inexpensive** for the features it has. Standing out from similarly-priced kettles, the Chefman has a mesh filter, a tea infuser, and most remarkably, 5 presets. These are for green tea, white tea, Oolong tea, French Press coffee, and Herbal tea or black tea.
 
-It is one of the quietest boiling kettles we have tested, and for some people this may be a key factor. However, the kettle failed to deliver in the one test that mattered the most—the boiling time test. Additionally, we felt the design cut corners with handle and the cord storage.
+It is one of the [quietest boiling kettles](https://healthykitchen101.com/kettles/reviews/best/electric-kettles/) we have tested, and for some people this may be a key factor. However, the kettle failed to deliver in the one test that mattered the most—the boiling time test. Additionally, we felt the design cut corners with handle and the cord storage.
 
 **Things We Like**
 
@@ -28,7 +28,7 @@ It is one of the quietest boiling kettles we have tested, and for some people th
 *   Small opening
 *   Awkward handle
 
- We bought the Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) t on Amazon for $34.34 (at the time of writing). We had high expectations for this kettle due to its 5 presets and removable tea infuser!
+We bought the [CETL](https://www.cosn.org/careers-certification/cetl-certification/)\-certified Chefman Electric Kettle with 5 Presets (RJ11-17-CTI-RL) t on Amazon for $34.34 (at the time of writing). We had high expectations for this kettle due to its 5 presets and removable tea infuser!
 
 However, off the bat the controls were not that great and, considering its 1100 W of power, the boiling time was a little slow.
 
@@ -90,7 +90,7 @@ During boiling, the Chefman’s noise level peaked at 69 dB while reaching a rol
 
 After 5 Minutes: 202°F / 95°C
 
-The glass carafe of the Chefman doesn’t have the best material for heat retention. In addition, even though the kettle has temperature control via presets, it doesn’t have the Keep Warm or reheat feature like many others do. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
+The glass carafe of the Chefman doesn’t have the best material for heat retention. In addition, even though the kettle has temperature control via presets, it doesn’t have the Keep Warm or reheat feature like the [Cuisinart CPK-17P1](https://healthykitchen101.com/kettles/reviews/cuisinart/cuisinart-electric-kettle-cpk-17p1/) among others. As a result, after 5 minutes, the temperature dropped from 212°F / 100°C to 202°F / 95°C. This equates to a 7/10 according to our data.
 
 Design
 ------
