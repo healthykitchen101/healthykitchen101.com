@@ -175,9 +175,9 @@ One is the drip tray, another the rear drainage plug, and the water baffle. The 
 
 Power Status: Middle
 
-Hot Water: Top left
+Hot Water Test: Top left
 
-Cold Water: Top right
+Cold Water Test: Top right
 
 Bottle Or Filter: No
 
@@ -235,9 +235,9 @@ The drip tray is a light flimsy plastic. Additionally, it fits poorly and can ve
 
 <img src="https://cdn.healthykitchen101.com/reviews/images/water-cooler-dispensers/costway-5-gallon-water-bottle-dispenser-rear-switches-cleze54i9000jip88bs01fuvz.jpg" alt="Two color coded tank switches seen on the rear of a water cooler dispenser. The left one is green and the right is red." width="300px" height="200px">
 
-Hot Water: Yes
+Hot Water Test: Yes
 
-Cold Water: Yes
+Cold Water Test: Yes
 
 Others: None
 
@@ -249,7 +249,7 @@ The two switches are color-coded green for the cold tank and red for the hot. Th
 
 Has Door: Yes
 
-InternalWDH: 5.6 x 5.4 x 6 in
+Internal WxDxH: 5.6 x 5.4 x 6 in
 
 Material: Plastic
 
