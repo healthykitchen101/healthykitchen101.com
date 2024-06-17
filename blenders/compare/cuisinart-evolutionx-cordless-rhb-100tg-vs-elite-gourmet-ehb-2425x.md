@@ -1,0 +1,5 @@
+The Elite Gourmet is essentially an immersion blender good for only hot soup purees and making mayonnaise. The blade design makes it semi-descent for almond milk and there is no whisk attachment. The Cuisinart Evolutionx Cordless, although nowhere near as good as the Elite Gourmet for purees, is a much better bet for frozen fruit smoothies and nut milks. 
+
+That said, the differences between the two go further than performance test results. The shaft of the Elite Gourmet is a full 1.2 inches shorter, so it is really a small personal blender for smaller pots and limited tasks. The build quality is also low, especially the plastic guard around the blades, which for most blenders is at least stainless steel. 
+
+You can trust the Cuisinart for its quality materials and well-thought-out design. It blends smoothly with little vortex or suction issues. The controls are responsive and easy to use. The Elite Gourmet has an extremely low power draw for a corded blender (only 150W), which results in having to stop the blender to shake out stuck clumps between the blades.
