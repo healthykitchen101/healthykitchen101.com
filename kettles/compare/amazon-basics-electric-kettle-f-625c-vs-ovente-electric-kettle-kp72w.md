@@ -1,0 +1,5 @@
+In comparing the glass Amazon Basics Electric Kettle F-625C with the plastic Ovente Electric Kettle KP72W, the Ovente initially shows some notable advantages but ultimately falls short due to its drawbacks.
+
+The Ovente consumes less energy and operates more quietly than the Amazon Basics. However, it has a significantly slower boiling time. Being made of plastic, the Ovente lacks the heat retention properties and durability of the glass Amazon Basics, although it is lighter and more affordable.
+
+Design-wise, the Amazon Basics features water-level markings and a blue LED ring, while the Ovente has a water-level window illuminated by a white LED. Both kettles have removable limescale filters, but the Ovente's smaller lid opening makes cleaning more challenging compared to the Amazon Basics. On the other hand, the Amazon Basics’ kettle doesn’t fit its base coupler perfectly, causing it to wobble while boiling.
