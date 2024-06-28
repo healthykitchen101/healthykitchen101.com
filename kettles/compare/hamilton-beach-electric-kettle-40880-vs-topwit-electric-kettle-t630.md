@@ -1,0 +1,5 @@
+The glass Topwit Electric Kettle T630 offers some distinctive features, but not all are advantageous, causing it to be outperformed by the stainless steel Hamilton Beach Electric Kettle 40880.
+
+In terms of design, the more affordable Topwit boasts an uncommon 2-liter capacity, unlike the Comfee's typical 1.7 liters. The Hamilton Beach has a water-level window with a white LED, while the Topwit has water-level markings and a blue LED ring. However, the Topwit is missing a dedicated limescale filter, cord storage, and a convenient lid button that come with the Comfee.
+
+With a higher power output, the Hamilton Beach boiled water faster but consumed a tad bit more electricity. On the other hand, the Topwit scores much higher with its top tier quietness when boiling. Interestingly, the two kettles shared the same heat retention despite their material differences.
