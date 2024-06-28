@@ -1,0 +1,5 @@
+The Aigostar Electric Kettle 300104LCB didn’t score much higher than our lowest-rated product—the Elite Gourmet Electric Kettle EKT-602— for a couple of reasons.
+
+Both kettles feature high-quality design elements such as water-level markings, a removable mesh filter, and an LED ring on their carafes. However, they also share an awkward placement of the lid and power buttons being close to one another. The Elite Gourmet’s design is actually a bit better with its removable limescale mesh filter as opposed to the Aigostar’s fixed one.
+
+An average performance was what saved the Aigostar from being placed last. Although both kettles shared the same power draw, the Aigostar boiled water faster while consuming less energy. With the same glass material, it was quieter while boiling but had worse heat retention.
