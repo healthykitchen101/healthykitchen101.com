@@ -226,7 +226,7 @@ A toaster oven is an all-in-one kitchen appliance serving [multiple purposes](ht
 
 **When should you buy a toaster oven?**
 
-If you want a [smaller alternative](https://healthykitchen101.com/toaster-ovens/tips/when-should-you-buy-toaster-oven/) to a regular oven or a wall oven that fits nicely on your countertop, then a toaster oven is for you. Although smaller, toaster ovens still come in various sizes, consume less energy, and heat up faster as well.
+If you want a [smaller alternative](https://healthykitchen101.com/toaster-ovens/reviews/best/small-toaster-ovens/) to a regular oven or a wall oven that fits nicely on your countertop, then a toaster oven is for you. Although smaller, toaster ovens still come in various sizes, consume less energy, and heat up faster as well.
 
 **How to clean a toaster oven?**
 
