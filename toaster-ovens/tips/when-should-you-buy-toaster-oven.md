@@ -1,12 +1,14 @@
 If these reasons check out on your list of priorities, then you should consider purchasing a toaster oven.
 
-### 1\. Rapid Cooking Time
+1\. Rapid Cooking Time
+----------------------
 
 Because they are generally smaller than full-sized ovens or wall ovens, most toaster ovens require much less time—**up to half** the amount—to preheat.
 
 An average full-size oven take approximately 15 minutes to reach 350°F, ≅ 20 minutes to 400°F, and ≅ 25 minutes to 450°F. Meanwhile, the average toaster ovens take around 7-8 minutes to reach 350°F, 10-11 minutes to 400°F, and ≅ 15 minutes to 450°F.
 
-### 2\. Efficient Energy Consumption
+2\. Efficient Energy Consumption
+--------------------------------
 
 Opting to use a toaster oven over a traditional oven can also have an impact on your energy consumption. Most toaster ovens can produce similar results to a full-size oven using just [**about half the energy**](https://www.energystar.gov/sites/default/files/asset/document/ENERGY_STAR_Scoping_Report_Toaster_Ovens.pdf); a great way to reduce your electricity bill and environmental footprint.
 
@@ -14,7 +16,8 @@ These machine can have a variety of power ratings ranging from 800 W to 2200 W d
 
 The power output is equally divided between the working heating elements. For example, in a 1000 W oven with one upper and one lower heating element, each will use 500 W when baking whereas the upper heating element will use 1000 W when broiling.
 
-### 3\. Various Sizes
+3\. Various Sizes
+-----------------
 
 *   Small toaster ovens (LxWxH): around 14"x11"x8"
 *   Medium toaster ovens (LxWxH): around 19"x16"x11"
