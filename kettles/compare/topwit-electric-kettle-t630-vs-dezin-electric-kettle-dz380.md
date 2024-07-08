@@ -1,0 +1,5 @@
+The Dezin Electric Kettle DZ380 and the Topwit Electric Kettle T630 are two very similar products, not just in their looks but also our evaluation of them in terms of performance, design, and usability. Unfortunately, that doesn’t mean they are desirable kettles.
+
+Design-wise, the two kettles include water-level markings and an LED ring. Unfortunately, both lack a proper limescale filter, cord storage, and a lid button—features commonly seen in their peers. The only difference between them is that the Topwit has a rare 2 L capacity, whereas the Dezin has a standard 1.7 L.
+
+As they share the same power draw as well, their boiling speed and energy consumption were exactly the same. On the other hand, despite sharing the same design and glass material, the Dezin wasn’t as quiet while boiling but showed better heat retention afterward.
